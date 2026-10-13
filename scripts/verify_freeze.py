@@ -32,6 +32,16 @@ def file_sha256(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def _holdout2(rec: dict) -> list[tuple[str, str, str]]:
+    h = rec.get("holdout2")
+    if not h:
+        return []
+    return [
+        ("source that made the holdout-2 predictions (data/m1/frozen_snapshot_holdout2)", h["src_sha256"], tree_sha256(M1 / "frozen_snapshot_holdout2")),
+        ("holdout-2 predictions (data/m1/independent/holdout2/predictions.jsonl)", h["predictions_sha256"], file_sha256(M1 / "independent" / "holdout2" / "predictions.jsonl")),
+    ]
+
+
 def checks(rec: dict) -> list[tuple[str, str, str]]:
     """(label, recorded, actual) for each verifiable claim."""
     fresh = rec["fresh_holdout"]
@@ -42,7 +52,7 @@ def checks(rec: dict) -> list[tuple[str, str, str]]:
         ("fresh corpus manifest (data/m1/fresh_manifest.jsonl)", fresh["manifest_sha256"], file_sha256(M1 / "fresh_manifest.jsonl")),
         ("source that made the held-out fresh predictions (data/m1/frozen_snapshot_fresh)", fresh["src_sha256"], tree_sha256(M1 / "frozen_snapshot_fresh")),
         ("held-out fresh predictions (data/m1/independent/predictions_prefix.jsonl)", fresh["predictions_sha256"], file_sha256(M1 / "independent" / "predictions_prefix.jsonl")),
-    ]
+    ] + _holdout2(rec)
 
 
 def pinned_checks(rec: dict) -> list[tuple[str, str, str]]:

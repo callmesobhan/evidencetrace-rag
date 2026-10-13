@@ -20,7 +20,7 @@ import verify_freeze as vf  # noqa: E402
 
 M1, ROOT = vf.M1, vf.ROOT
 PINNED_GLOBS = ("gold/*.jsonl", "gold/*.json", "queries/*", "annotation/*.json", "annotation/*.jsonl", "annotation/v1/*.jsonl",
-                "independent/pack/**/*", "design.jsonl")
+                "independent/pack/**/*", "independent/holdout2/*.json", "independent/holdout2/*.txt", "design.jsonl")
 
 
 def _files(root: Path) -> set[str]:
@@ -42,6 +42,8 @@ def main() -> int:
         shutil.copy(ROOT / "configs" / "default.toml", cur / "configs" / "default.toml")
         rec["post_hoc"]["files_changed_between_test_freeze_and_fresh_holdout_freeze"] = _changed(M1 / "frozen_snapshot", M1 / "frozen_snapshot_fresh")
         rec["post_review"]["files_changed_since_fresh_holdout_freeze"] = _changed(M1 / "frozen_snapshot_fresh", cur)
+        if "holdout2" in rec:
+            rec["holdout2"]["files_changed_since_holdout2_freeze"] = _changed(M1 / "frozen_snapshot_holdout2", cur)
     pinned = {f.relative_to(M1).as_posix(): vf.file_sha256(f) for pat in PINNED_GLOBS for f in sorted(M1.glob(pat)) if f.is_file()}
     rec["pinned_files"] = {"algorithm": "file hash (sha256 of bytes); paths relative to data/m1/", "files": pinned}
     (M1 / "FROZEN.json").write_text(json.dumps(rec, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")

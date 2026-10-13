@@ -10,6 +10,7 @@ Requires the `llama` extra. Pass ``embed_model`` to inject any LlamaIndex embedd
 
 from __future__ import annotations
 
+import hashlib
 from collections.abc import Mapping
 from pathlib import Path
 from typing import Any
@@ -17,6 +18,14 @@ from typing import Any
 from evidencetrace.ingest.chunking import chunk_document
 from evidencetrace.ingest.document import Document
 from evidencetrace.retrieval.hybrid import ChunkHit
+
+
+def _fingerprint(docs: Mapping[str, Document], chunk_chars: int, embed_id: str) -> str:
+    """What the persisted index was built from. If any of it changes the index is stale and must be rebuilt."""
+    h = hashlib.sha256(f"{chunk_chars}|{embed_id}".encode())
+    for doc_id in sorted(docs):
+        h.update(f"|{doc_id}:{docs[doc_id].sha256}".encode())
+    return h.hexdigest()
 
 
 class LlamaIndexChunkIndex:
@@ -38,7 +47,13 @@ class LlamaIndexChunkIndex:
             embed_model = HuggingFaceEmbedding(model_name=model_name)
 
         persist = Path(persist_dir) if persist_dir else None
-        if persist and (persist / "docstore.json").exists():
+        embed_id = model_name if embed_model is None or type(embed_model).__name__ == "HuggingFaceEmbedding" else (
+            f"{type(embed_model).__name__}:{getattr(embed_model, 'embed_dim', '')}")
+        fingerprint = _fingerprint(docs, chunk_chars, embed_id)
+        stamp = persist / "fingerprint.txt" if persist else None
+        # Reuse a persisted index only if it was built from exactly these documents, chunk size and embedding model.
+        # Before, re-ingesting a changed paper silently kept serving the old index (stale chunks and offsets).
+        if persist and stamp and (persist / "docstore.json").exists() and stamp.exists() and stamp.read_text() == fingerprint:
             storage = StorageContext.from_defaults(persist_dir=str(persist))
             self._index = load_index_from_storage(storage, embed_model=embed_model)
             return
@@ -63,6 +78,7 @@ class LlamaIndexChunkIndex:
         if persist:
             persist.mkdir(parents=True, exist_ok=True)
             self._index.storage_context.persist(persist_dir=str(persist))
+            stamp.write_text(fingerprint)
 
     def retrieve_chunks(self, query: str, k: int) -> list[ChunkHit]:
         retriever = self._index.as_retriever(similarity_top_k=k)

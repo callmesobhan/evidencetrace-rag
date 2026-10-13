@@ -42,10 +42,10 @@ _METRIC_PATTERNS: list[tuple[Metric, str]] = [
     (Metric.MD, r"mean\s+(?:[A-Za-z-]+\s+){0,4}?differences?"
                 r"|(?:estimated\s+)?(?:treatment(?:\s+group)?|between[- ](?:group|time|arm)s?)\s+differences?"
                 r"|difference\s+in\s+means?|(?-i:A?MDs?|WMDs?|LSMDs?)"),
-    (Metric.HR, r"hazard\s+ratios?|(?-i:[aA]?HRs?|SHRs?)"),
+    (Metric.HR, r"hazard\s+ratios?|(?-i:(?:[aA]?HRs?|SHRs?)(?:adj(?:usted)?|unadj(?:usted)?|crude)?)"),
     (Metric.IRR, r"incidence\s+rate\s+ratios?|rate\s+ratios?|(?-i:a?IRRs?)"),
-    (Metric.OR, r"odds\s+ratios?|(?-i:[aAuU]?ORs?)"),
-    (Metric.RR, r"relative\s+risks?|risk\s+ratios?|(?-i:a?RRs?)"),
+    (Metric.OR, r"odds\s+ratios?|(?-i:(?:[aAuU]?ORs?)(?:adj(?:usted)?|unadj(?:usted)?|crude)?)"),
+    (Metric.RR, r"relative\s+risks?|risk\s+ratios?|(?-i:(?:a?RRs?)(?:adj(?:usted)?|unadj(?:usted)?|crude)?)"),
     (Metric.RD, r"risk\s+differences?|absolute\s+risk\s+(?:reduction|difference)s?|absolute\s+difference\s+in\s+risk|(?-i:a?RDs?)"),
 ]
 _METRIC_ALT = "|".join(f"(?P<m_{m.name}>{pat})" for m, pat in _METRIC_PATTERNS)
@@ -88,7 +88,7 @@ HEAD_RE = re.compile(
     re.IGNORECASE | re.VERBOSE,
 )
 
-_LABEL = r"(?:CIs?|CrIs?|confidence\s+intervals?|credible\s+intervals?)(?:\s*[\[(](?:CI|CrI)[\])])?"
+_LABEL = r"(?:CIs?|CrIs?|HDIs?|confidence\s+intervals?|credible\s+intervals?|posterior\s+intervals?|highest\s+density\s+intervals?)(?:\s*[\[(](?:CI|CrI|HDI)[\])])?"
 TAIL_LABELLED = re.compile(
     rf"""
     (?:\s+(?:compared\s+(?:with|to)|vs\.?|versus|for|in|between|favou?ring)\s+[^()\[\];=]{{1,60}}?)?
@@ -134,7 +134,13 @@ P_RE = re.compile(
 _P_NOT_EFFECT_AFTER = re.compile(r"\s*(?:for\s+)?(?:interaction|trend|heterogeneity)\b", re.I)
 _P_NOT_EFFECT_BEFORE = re.compile(r"(?:I2|I²|Chi2|χ2|Q\s*=|heterogeneity|interaction)[^;)\]]{0,30}$", re.I)
 DOI_AFTER = re.compile(r"[-\u2212]\s?10\.\d{4,}/")  # "RR2-10.1186/s13063-..." is a citation id
-WITHIN_ARM_RE = re.compile(r"within[- ](?:the\s+)?(?:\w+\s+){0,2}(?:group|arm)s?\b|within[- ]group", re.I)
+WITHIN_ARM_RE = re.compile(
+    r"within[- ](?:the\s+)?(?:\w+\s+){0,2}(?:group|arm)s?\b|within[- ]group"
+    r"|compared\s+(?:with|to)\s+(?:their|its|his|her)\s+(?:own\s+)?baseline",
+    re.I,
+)
+# "mean difference (SD) ... was -0.23 (9.1)": the parenthesis is a standard deviation, not an interval
+SD_LABEL_AFTER = re.compile(r"\s*\((?:SD|SE|SEM|IQR|standard\s+deviation)\)", re.I)
 # An SMD quoted to show that two cohorts are alike at baseline is a balance diagnostic, not an effect:
 # "prevalence of X (93.6% vs. 83.8%, P < 0.001, SMD = 0.312)". Applied only to an "SMD"/"standardized difference"
 # written WITHOUT an interval (every effect SMD in the gold carries one) and never to Cohen's d / Hedges' g.
@@ -247,6 +253,8 @@ def find_effect_candidates(sentence: str, offset: int = 0) -> list[EffectCandida
         metric = next(Metric[k[2:]] for k, v in m.groupdict().items() if k.startswith("m_") and v)
         value = parse_number(m["value"])
         name = m.group(f"m_{metric.name}")
+        if SD_LABEL_AFTER.match(sentence, m.end(f"m_{metric.name}")):
+            continue  # "mean difference (SD) of X was -0.23 (9.1)": a mean change with its SD, not an estimate with an interval
         if metric is Metric.RR and RR_INTERVAL_AFTER.match(sentence, m.end(f"m_{metric.name}")):
             continue  # "RR interval 850 ms"
         if (metric in (Metric.HR, Metric.RR) and len(name) <= 5 and value >= 20

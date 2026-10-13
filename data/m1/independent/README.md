@@ -98,6 +98,12 @@ that no annotator or developer had looked at**, with the predictions frozen firs
 
 Attribution: 1 of 159 "own" labels was another study's result (0.6%); kappa 0.81 on matched findings.
 
+**After four small notation fixes made *after reading these papers*** (`95% posterior interval`, `HRadjusted = 0.95`, and guards against
+`Compared to their baseline ... (MD ...)` and `mean difference (SD)`), the current code scores F1 **0.839** [0.773, 0.895]
+(precision 0.982, recall 0.733) on the same 25 papers (`holdout2/scores_current_code_TUNED`). **Tuned on these papers, not held-out**: 0.823 above
+remains the out-of-sample figure. Across all 166 papers the fixes remove 4 false positives, add 2 estimates, and change nothing in the
+frozen M1 gold.
+
 **What this adds to round 1.**
 - **The post-round-1 fixes changed nothing on unseen papers.** The pre-fix system (`predictions_prefix.jsonl`) and the post-review
   system give *identical* predictions on these 25 papers (168 each; all 27 predictions added after round 1 fall in round-1 papers).

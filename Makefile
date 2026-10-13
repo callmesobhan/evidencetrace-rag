@@ -78,7 +78,7 @@ holdout2:
 	    --config data/m1/frozen_snapshot_holdout2/configs/default.toml --out reports/holdout2_predictions.jsonl
 	cmp reports/holdout2_predictions.jsonl data/m1/independent/holdout2/predictions.jsonl && echo "holdout-2 predictions: byte-identical"
 	if [ -d data/m1/independent/holdout2/out ]; then \
-	  for v in "scores:predictions.jsonl:--lenient-metrics" "scores_strict:predictions.jsonl:" "scores_prefix_system:../predictions_prefix.jsonl:--lenient-metrics"; do \
+	  for v in "scores:predictions.jsonl:--lenient-metrics" "scores_strict:predictions.jsonl:" "scores_prefix_system:../predictions_prefix.jsonl:--lenient-metrics" "scores_current_code_TUNED:../predictions_postreview.jsonl:--lenient-metrics"; do \
 	    n=$${v%%:*}; r=$${v#*:}; pr=$${r%%:*}; fl=$${r#*:}; \
 	    $(PYTHON) -I scripts/score_blind.py --pack data/m1/independent/holdout2 --map data/m1/independent/pack/blind_map.json \
 	        --chosen data/m1/independent/holdout2/pids.json --preds data/m1/independent/holdout2/$$pr \

@@ -199,3 +199,37 @@ def test_persisted_dense_index_is_invalidated_when_a_document_changes(tmp_path):
     assert {h.doc_id for h in third.retrieve_chunks("Zeta", 20)} == {"a"}
     texts = [n.node.get_content() for n in third._index.as_retriever(similarity_top_k=20).retrieve("Zeta")]
     assert texts and all("did not change" in t for t in texts)
+
+
+# ------------------------------------------------------------------ notation fixes verified on real misses / false positives
+def _est(sentence):
+    return [(c.metric.value, c.value, (c.ci_low, c.ci_high) if c.ci_low is not None else None) for c in find_effect_candidates(sentence)]
+
+
+def test_posterior_interval_is_an_interval():
+    s = "HbA1c was associated with the hazard for DR (hazard ratio 1.4; 95% posterior interval, 1.02-1.88, adjusted for group)."
+    assert _est(s) == [("HR", 1.4, (1.02, 1.88))]
+
+
+@pytest.mark.parametrize(
+    ("sentence", "expected"),
+    [
+        ("did not alter the results (HRadjusted = 0.95; 95% CI = 0.72, 1.24).", [("HR", 0.95, (0.72, 1.24))]),
+        ("the ORunadjusted was 2.0 (95% CI 1.1-3.6)", [("OR", 2.0, (1.1, 3.6))]),
+        ("adjusted HR 0.80 (95% CI 0.66-0.97)", [("HR", 0.8, (0.66, 0.97))]),  # the ordinary word order still works
+    ],
+)
+def test_qualifier_glued_to_the_abbreviation(sentence, expected):
+    assert _est(sentence) == expected
+
+
+def test_change_from_their_own_baseline_is_not_a_between_group_estimate():
+    assert _est("Compared to their baseline, males in the MBSR group improved in stress (MD, 3.08; 95% CI, 0.30 to 5.86).") == []
+    # ... but a pooled pre/post change that the gold accepts ("the baseline moment") and a real between-group difference are kept
+    assert _est("decreased compared to the baseline moment (mean difference = -9.52; 95% CI -12.89 to -6.14; p<0.001)") != []
+    assert _est("a between-group difference in changes from baseline of -0.59 points (95% CI, -0.96 to -0.21; P = .002)") != []
+
+
+def test_mean_difference_with_an_sd_label_is_not_an_estimate():
+    assert _est("The mean difference (SD) of waist circumference was -0.23 (9.1) cm in the usual care group.") == []
+    assert _est("The mean difference was -0.23 (95% CI -0.9 to 0.4) cm.") != []

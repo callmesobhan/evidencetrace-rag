@@ -94,7 +94,8 @@
    "conflicts: 'p<0.05' counts as significant; differing units / MD vs SMD are not compared (red-team review)",
    "extraction: covariate-balance SMDs (no interval + a balance cue) are not effects - 8 test false positives, all from one paper (written after seeing them: post-hoc)",
    "retrieval: findings carry the clause that holds the estimate; fields are tagged from it; reference-arm text and generic control words are tracked; the most distinctive intervention word must be a subject (developed against data/m1/queries/*_hardneg_queries.jsonl: tuned on them, not held-out)",
-   "data: data/m1/design.jsonl (study design per paper), hard-negative queries, results_by_design/, results_hardneg/, data/samples_hardneg (synthetic regression set)"
+   "data: data/m1/design.jsonl (study design per paper), hard-negative queries, results_by_design/, results_hardneg/, data/samples_hardneg (synthetic regression set)",
+   "extraction (after holdout-2 was scored; tuned on it): 'posterior interval' label; HRadjusted-style qualifiers; guards for 'Compared to their baseline' and 'mean difference (SD)'; PDF parser (hyphen joins, header removal, column order, continuation joins) - none of it affects the XML-based holdout-2 predictions, which come from frozen_snapshot_holdout2"
   ],
   "results": "data/m1/results_postreview/ (dev + test, current code + configs/posthoc.toml) and data/m1/independent/scores_postreview_lenient/"
  },
@@ -163,6 +164,7 @@
   "assignment": "data/m1/independent/holdout2/assignment_{1,2,3}.txt (seeded shuffle, seed 20261013)",
   "files_changed_since_holdout2_freeze": {
    "changed": [
+    "src/evidencetrace/extraction/candidates.py",
     "src/evidencetrace/ingest/parsers.py"
    ],
    "added": [

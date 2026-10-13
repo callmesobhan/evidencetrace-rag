@@ -1,0 +1,25 @@
+name: reproduce
+# Re-derives every committed number from the SHA-256-pinned papers on three Python versions and diffs the result
+# against the committed files. Manual and weekly (it downloads ~22 MB from NCBI), not on every push.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ matrix.python }}
+      - run: pip install -e ".[dev]"
+      - run: make reproduce

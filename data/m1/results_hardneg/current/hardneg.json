@@ -1,0 +1,275 @@
+{
+ "dev": {
+  "n": 17,
+  "false_answers": 0,
+  "rate": 0.0,
+  "exact_95_ci": [
+   0.0,
+   0.1951
+  ],
+  "queries": [
+   {
+    "qid": "dev-hn001",
+    "query": "What is the effect of placebo on C-reactive protein?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn002",
+    "query": "What is the effect of placebo on left ventricular mass?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn003",
+    "query": "What is the effect of placebo on global longitudinal strain?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn004",
+    "query": "What is the effect of placebo on loop diuretic dose reduction?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn005",
+    "query": "What is the effect of placebo on loop diuretic dose increase?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn006",
+    "query": "What is the effect of placebo on new starts of loop diuretics?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn007",
+    "query": "What is the effect of usual care on preeclampsia?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn008",
+    "query": "What is the effect of usual care on hospitalization with infection as the main cause?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn009",
+    "query": "What is the effect of placebo on anemia correction?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn010",
+    "query": "What is the effect of placebo on incident anemia?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn011",
+    "query": "What is the effect of placebo on primary cardiorenal composite outcome?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn012",
+    "query": "What is the effect of placebo on recurrent hospitalization for heart failure?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn013",
+    "query": "What is the effect of placebo on 6-minute walk distance?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn014",
+    "query": "What is the effect of placebo on mean pulmonary artery pressure?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn015",
+    "query": "What is the effect of placebo on electrolyte-free water clearance?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn016",
+    "query": "What is the effect of placebo on 24-hour urinary volume?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn017",
+    "query": "What is the effect of placebo on body weight?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   }
+  ]
+ },
+ "test": {
+  "n": 18,
+  "false_answers": 2,
+  "rate": 0.1111,
+  "exact_95_ci": [
+   0.0138,
+   0.3471
+  ],
+  "queries": [
+   {
+    "qid": "test-hn001",
+    "query": "What is the effect of placebo on worsening heart failure or cardiovascular death?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn002",
+    "query": "What is the effect of placebo on new-onset atrial fibrillation?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn003",
+    "query": "What is the effect of placebo on first heart failure hospitalization?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn004",
+    "query": "What is the effect of placebo on total heart failure hospitalizations?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn005",
+    "query": "What is the effect of placebo on first heart failure hospitalization or death attributable to heart failure?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn006",
+    "query": "What is the effect of placebo on first adverse event of heart failure or all-cause mortality?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn007",
+    "query": "What is the effect of placebo on key secondary kidney composite outcome?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn008",
+    "query": "What is the effect of placebo on any adverse events?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn009",
+    "query": "What is the effect of placebo on drug-related adverse events?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn010",
+    "query": "What is the effect of placebo on discontinuation due to drug-related adverse events?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn011",
+    "query": "What is the effect of the control group on stroke recurrence?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn012",
+    "query": "What is the effect of the control group on excellent functional outcome?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn013",
+    "query": "What is the effect of placebo on deterioration in KCCQ-TSS?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn014",
+    "query": "What is the effect of placebo on serum creatinine?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn015",
+    "query": "What is the effect of placebo on kidney failure?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn016",
+    "query": "What is the effect of placebo on doubling of serum creatinine?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn017",
+    "query": "What is the effect of the control group on systolic blood pressure?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC12323939: SMD -0.24 (95% CI -2.48 to 2.97)",
+     "PMC12323939: SMD -0.11 (95% CI -5.48 to 5.26)"
+    ]
+   },
+   {
+    "qid": "test-hn018",
+    "query": "What is the effect of the control group on diastolic blood pressure?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC12323939: SMD -0.24 (95% CI -2.48 to 2.97)",
+     "PMC12323939: SMD -0.11 (95% CI -5.48 to 5.26)"
+    ]
+   }
+  ]
+ }
+}

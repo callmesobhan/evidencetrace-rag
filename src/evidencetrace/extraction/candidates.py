@@ -135,6 +135,15 @@ _P_NOT_EFFECT_AFTER = re.compile(r"\s*(?:for\s+)?(?:interaction|trend|heterogene
 _P_NOT_EFFECT_BEFORE = re.compile(r"(?:I2|I²|Chi2|χ2|Q\s*=|heterogeneity|interaction)[^;)\]]{0,30}$", re.I)
 DOI_AFTER = re.compile(r"[-\u2212]\s?10\.\d{4,}/")  # "RR2-10.1186/s13063-..." is a citation id
 WITHIN_ARM_RE = re.compile(r"within[- ](?:the\s+)?(?:\w+\s+){0,2}(?:group|arm)s?\b|within[- ]group", re.I)
+# An SMD quoted to show that two cohorts are alike at baseline is a balance diagnostic, not an effect:
+# "prevalence of X (93.6% vs. 83.8%, P < 0.001, SMD = 0.312)". Applied only to an "SMD"/"standardized difference"
+# written WITHOUT an interval (every effect SMD in the gold carries one) and never to Cohen's d / Hedges' g.
+BALANCE_CONTEXT = re.compile(
+    r"\d+(?:\.\d+)?\s*%?\s*(?:vs\.?|versus)\s*\d+(?:\.\d+)?\s*%"  # a proportion contrast just before it
+    r"|\b(?:prevalence|baseline|covariates?|propensity|inverse[- ]probability|IPTW|weighting|weighted|matched|"
+    r"matching|balance[d]?|imbalance|standardi[sz]ed\s+differences?)\b",
+    re.I,
+)
 # "HR 72 beats/min (95% CI 70-74)" and "mean RR interval was 850 ms" are heart rates / ECG intervals, not ratios
 HEART_CONTEXT = re.compile(r"heart[- ]rate|pulse|\bbeats?\b|\bbpm\b|\bR-R\b|\bRR[- ]interval", re.I)
 RR_INTERVAL_AFTER = re.compile(r"\s+intervals?\b", re.I)
@@ -254,6 +263,9 @@ def find_effect_candidates(sentence: str, offset: int = 0) -> list[EffectCandida
                 tail, unit, unit_ws = t2, gm["u"], None
         if (m.group("fn") or m.group("fn2")) and tail is None:
             continue  # a bare number after a long filler ("... were observed from 6 months") is too weak
+        if (metric is Metric.SMD and tail is None and re.search(r"SMD|standardi", name, re.I)
+                and BALANCE_CONTEXT.search(sentence[max(0, m.start() - 120) : m.end("value") + 20])):
+            continue  # covariate-balance diagnostic, not an effect
         lo, hi, level = _interval(tail)
         end = tail.end() if tail else m.end()
         raw.append(dict(metric=metric, value=value, lo=lo, hi=hi, level=level, unit=unit,

@@ -96,14 +96,25 @@ class Finding(BaseModel):
     context: str | None = None
     # Search-only synonyms from the paper's own abbreviation definitions (GLS <-> global longitudinal strain).
     aliases: list[str] = Field(default_factory=list)
+    # The part of the sentence that holds this estimate (None = the whole sentence). Retrieval indexes this, not the
+    # sentence, so a word in a different clause ("whereas placebo increased MI") is not evidence about this estimate.
+    clause: str | None = None
     span: SourceSpan
     extractor: str
     confidence: float = Field(ge=0.0, le=1.0)
 
     @property
     def search_text(self) -> str:
-        parts = [self.intervention, self.comparator, self.outcome, self.population, self.span.text, *self.aliases]
+        parts = [self.intervention, self.comparator, self.outcome, self.population, self.clause or self.span.text, *self.aliases]
         return " ".join(p for p in parts if p)
+
+    def role_texts(self) -> tuple[str, str]:
+        """(text where terms act as subject/outcome, text where they are only the reference arm)."""
+        from evidencetrace.extraction.clauses import split_roles  # local: schemas must stay import-light
+
+        main, cmp_ = split_roles(self.clause or self.span.text)
+        main_parts = [self.intervention, self.outcome, self.population, main, *self.aliases]
+        return " ".join(p for p in main_parts if p), " ".join(p for p in (self.comparator, cmp_) if p)
 
     def brief(self) -> str:
         """One-line human rendering of the statistic itself."""

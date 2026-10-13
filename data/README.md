@@ -1,7 +1,7 @@
 # Data
 
 `samples/` is **entirely synthetic**: fictional drugs ("Zeta", "Omega"), fictional trials, fictional numbers. Each
-paper carries a banner line saying so. Do not cite these as evidence of anything. `m1/` (below) is the only real data.
+paper carries a banner line saying so. Do not cite these as evidence of anything. `samples_hardneg/` is a second synthetic corpus built to contain role-binding traps (two drugs in one sentence, a placebo arm with its own estimate); it is a regression test for the retrieval fix, not evidence. `m1/` (below) is the only real data.
 
 The five papers are built to contain specific traps:
 

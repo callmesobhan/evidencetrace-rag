@@ -77,7 +77,7 @@
    "comparator": 0.030303030303,
    "outcome": 0.035714285714,
    "population": 0.333333333333,
-   "fields_extracted_rate": 0.115384615385
+   "fields_extracted_rate": 0.113247863248
   },
   "by_metric": {
    "HR": 224,
@@ -186,7 +186,7 @@
     0.411764705882,
     0.882352941176
    ],
-   "mean_findings_returned": 2.035714285714
+   "mean_findings_returned": 1.964285714286
   },
   "unanswerable": {
    "n": 41,
@@ -328,7 +328,7 @@
     "hit": true,
     "correct": true,
     "n_findings": 3,
-    "confidence": 0.6136,
+    "confidence": 0.6138,
     "reasons": [],
     "conflicts": 0,
     "caveats": 0
@@ -380,7 +380,7 @@
     "answered": true,
     "hit": true,
     "correct": true,
-    "n_findings": 2,
+    "n_findings": 1,
     "confidence": 0.7,
     "reasons": [],
     "conflicts": 0,
@@ -755,7 +755,7 @@
     "answered": true,
     "hit": true,
     "correct": true,
-    "n_findings": 5,
+    "n_findings": 4,
     "confidence": 0.7,
     "reasons": [],
     "conflicts": 0,

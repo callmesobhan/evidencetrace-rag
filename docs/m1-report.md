@@ -1,8 +1,7 @@
 # M1 report: the first real-data baseline
 
 **One paragraph.** We fetched 111 CC BY open-access papers from PubMed Central (cardiometabolic, 2019-2026; the
-query asked for randomized trials, but a title screen finds that roughly a quarter are meta-analyses, cohort or
-cross-sectional studies, or protocols), fixed a dev/test split by PMCID hash *before* looking at anything, audited
+query asked for randomized trials, but PubMed labels only **67 of the 111 as trials** (42 of 63 dev, 25 of 48 test): 16 are evidence syntheses, 8 observational, 3 protocols, 1 an economic evaluation, and 16 are plain journal articles with no trial label), fixed a dev/test split by PMCID hash *before* looking at anything, audited
 the system's output on dev (355 predictions → ~20 distinct bug classes), froze the code, then audited the held-out
 test split and scored it once. On the held-out split the extractor reaches **F1 0.957** (P 0.963, R 0.950) against
 a single LLM annotator's gold, **labelled 3 of 310 "own" results with another study's number** (1.0%), and
@@ -32,6 +31,8 @@ overclaimed; those are corrected below and in [known-issues.md](known-issues.md)
 | Freeze record + the two exact frozen sources | `data/m1/FROZEN.json`, `frozen_snapshot/`, `frozen_snapshot_fresh/` | all hashes recomputed by `scripts/verify_freeze.py` |
 | Scored results | `data/m1/results/` (frozen source), `data/m1/results_postreview/` (current code) | |
 | Independent blind annotation + scores | `data/m1/independent/` | 36 papers, 5 annotators |
+| Study design of every paper (PubMed publication types + title phrases) | `data/m1/design.jsonl`, `results_by_design/` | 166 papers |
+| Hard-negative queries and their scores | `data/m1/queries/*_hardneg_queries.jsonl`, `results_hardneg/` | dev 17, test 18 |
 
 **Protocol.** (1) Split by `sha1(PMCID)` before any code ran. (2) Run the extractor; audit dev predictions
 (precision) and dev near-misses (recall); fix bugs; repeat. (3) Freeze (`FROZEN.json` records a hash of
@@ -53,9 +54,9 @@ present code with `configs/posthoc.toml` and are **not held-out** (several fixes
 
 | | dev, first extractor | dev, final (frozen) | **test, frozen (held-out)** | test, current code |
 |---|---|---|---|---|
-| value+CI precision | 0.777 [0.685, 0.857] | 1.000 ¶ | **0.963** [0.904, 0.997] | 0.963 |
+| value+CI precision | 0.777 [0.685, 0.857] | 1.000 ¶ | **0.963** [0.904, 0.997] | 0.986 [0.966, 0.997] ‖ |
 | value+CI recall | 0.573 [0.469, 0.669] | 0.963 [0.937, 0.984] | **0.950** [0.899, 0.993] | 0.950 |
-| value+CI F1 | 0.659 [0.562, 0.746] | 0.981 [0.967, 0.992] | **0.957** [0.916, 0.988] | 0.957 |
+| value+CI F1 | 0.659 [0.562, 0.746] | 0.981 [0.967, 0.992] | **0.957** [0.916, 0.988] | 0.967 [0.937, 0.991] ‖ |
 | "own" label that is really cited (leak) | n/a | 0 / 437 | **3 / 310 = 1.0%** [0.0, 2.3]; exact upper bound 2.8% | same |
 | labelled "cited" but really the paper's own | n/a | 6 / 27 | 10 / 45 (22%) | same |
 | findings with *any* field tagged by rules | n/a | 11% | 10% | same |
@@ -71,11 +72,33 @@ Consistency checks, **not accuracy** (they cannot fail the way an extractor fail
 | span attribution 0.997 | the gold quote is a short substring (median 28 characters) of the predicted sentence. | |
 | population token-F1 0.97 (frozen `.md` only) | `token_f1(None, None) = 1.0`: two empty fields counted as agreement. Excluded in current code (population is 0.50 on test). | |
 
+‖ The covariate-balance filter (post-hoc): the 8 balance-diagnostic SMDs (`SMD = 0.312` for comorbidity prevalence) are all from one
+paper (PMC13278687) and no true estimate in any of the 166 papers is lost. It was written after seeing them in the test review, so the
+improvement is **not held-out**; the held-out figure stays 0.963 / 0.957. On dev, the current extractor also finds 6 estimates the frozen
+dev gold lacks (3 between-group Cohen's d, 3 spaced-minus mean differences); on reading they are correct, so the current dev
+precision of 0.987 *understates* it. The pinned dev gold is deliberately not edited.
+
 ¶ Dev precision of 1.000 is **entirely by construction**: `dev_gold_meta.json` records 0 rejected predictions, because
 every false positive found on dev was removed by changing the code, not by marking it wrong.
 
 The dev→test drop (F1 0.981 → 0.957) is a rough measure of how much of the dev score was fitting. §2.4 shows that the
 test score itself overstates generalisation outside this corpus.
+
+#### 2.1.1 By study design
+
+Because only 67 of the 111 papers are confirmed trials, extraction was scored separately (`scripts/stratify_m1.py`, current code, brackets = 95%
+bootstrap over papers; the strata are small, so read the intervals):
+
+| split | group | papers | gold | precision | recall | F1 | "own" that are cited |
+|---|---|---|---|---|---|---|---|
+| dev | confirmed trials | 42 | 329 | 0.981 | 0.951 | **0.966** [0.944, 0.985] | 0 / 301 |
+| dev | not confirmed as trials | 21 | 153 | 1.000 | 0.974 | **0.987** [0.961, 1.000] | 0 / 140 |
+| test | confirmed trials | 25 | 184 | 0.977 | 0.935 | **0.956** [0.909, 0.989] | 1 / 167 |
+| test | not confirmed as trials | 23 | 176 | 0.994 | 0.966 | **0.980** [0.934, 1.000] | 2 / 135 |
+
+Extraction accuracy does **not** depend on whether the paper is a trial: the non-trials (mostly meta-analyses, which report in a regular
+style) score slightly higher and the intervals overlap broadly. The design problem therefore changes how the corpus must be *described*, not
+the extraction numbers. Design labels come from PubMed's publication types and explicit title phrases; 3 papers (2 test, 1 fresh; one of the test papers is genuinely ambiguous) are flagged where the two disagree for a human to read (`design.jsonl`, field `disagree`).
 
 ### 2.2 Abstention (queries built from the field-annotated findings)
 
@@ -98,14 +121,35 @@ How to read the false-answer row:
 - **The "absent" queries cannot fail.** Their outcome word is by construction in no paper, so it has document
   frequency 0, which the rare-term gate treats as rare and unmatched, so they always abstain. Only the cross queries
   test anything; the honest test figure is **3 / 29 = 10.3%**, with a wide interval.
-- **The cross queries exclude the hard negatives.** They are kept only if no sentence contains both halves
-  (`_in_one_sentence`), which removes exactly the case where drug and outcome co-occur in a sentence about another
-  arm or outcome. The system answers those wrongly (`tests/test_known_limits.py`, §5).
+- **The cross queries exclude the hard negatives**, so §2.2.1 adds them.
 - **The 3 false answers are one drug from one paper**: an esaxerenone meta-analysis contributes 37 of the 310 own test
   findings. They are not three independent failures.
 - **One of the three is a label error** (the paper writes the drug "ESAX" and does report SBP; the system was right).
   Corrected, frozen test is 2 / 42 = 4.8% (exact upper bound 16.2%). The current-code column excludes it.
 - A `[0, 0]` bootstrap interval on zero events is an artefact of the bootstrap; the exact 95% upper bound for 0 / 42 is 8.4%.
+
+#### 2.2.1 Hard negatives: asking about the reference arm
+
+`cross` and `absent` queries use words that never co-occur, so they cannot test whether the system understands *which arm* a number belongs to.
+Hard negatives can: for every field-annotated finding that compares a specific intervention with a reference arm ("Drug X vs placebo on SBP"),
+ask "What is the effect of **placebo** on SBP?". Every word of the query is in the paper's sentence, but the sentence reports the drug's effect
+*relative to* placebo, not an effect of placebo, so the right answer is to abstain. (A labelling judgement; a reader could argue the contrast
+also answers it. A query is dropped if the gold itself reports the control as an intervention on that outcome.) Real annotations contain no
+sentence with two different interventions, so within-sentence role swaps cannot be mined; they are covered by a small synthetic set below.
+
+| system | dev (n = 17) | test (n = 18) |
+|---|---|---|
+| frozen source | **15 / 17 answered** (88%) | **17 / 18 answered** (94%) |
+| current code (clause-scoped, role-aware retrieval) | **0 / 17** (exact 95% CI 0-19.5%) | **2 / 18** (exact 95% CI 1.4-34.7%) |
+
+The frozen system presented a drug-versus-placebo contrast as "the effect of placebo". The fix (a clause splitter, reference-arm tracking, and
+requiring the most distinctive intervention word to appear as a *subject*) was developed against these same queries, so the "current" row is
+**tuned on them, not held-out**; it is evidence that the mechanism works, not an estimate for new data. It cost nothing on answerable
+queries (over-abstention and hit rate identical on both splits; false answers still 0 on the ordinary unanswerable queries). The two test
+queries still answered ask about "the control group" in a meta-analysis where "control" has several senses. On a labelled synthetic corpus
+(`data/samples_hardneg`, 7 role-swap / placebo-as-intervention queries, written knowing the fix: a regression test, not evidence) the frozen
+source's false-answer rate is 1.000 and the current code's 0.000, with no over-abstention. With the old default configuration the current code
+also gives 2 of 43 test false answers (frozen: 3 of 43).
 
 **AURC.** The frozen figures (dev 0.436 → 0.328, test 0.314) were computed with a definition that scores every
 *correct abstention as an error* and ranks abstentions in the curve, so they mostly track the abstention rate and
@@ -169,6 +213,7 @@ post-review ones).
   estimate from the span and requires metric, value, interval and p-value to agree, because "the number occurs
   somewhere in the sentence" let a swapped interval, a flipped p-operator, or the CI's lower bound read as the
   estimate all verify; the document hash is recomputed from the text rather than compared as two stored strings.
+- **Retrieval (post-review follow-up).** Findings now carry the *clause* that holds the estimate (split at `whereas`, `, while`, `in contrast`, and at `;` only between two estimates), the field tagger runs on that clause rather than the whole sentence (before, `Zeta did not change stroke, whereas placebo increased MI (HR 1.40)` gave the placebo finding the intervention "Drug Zeta" and the outcome "stroke"), text after `vs / compared with / than` and generic control words (`placebo`, `usual care`, `control group`) count as reference-arm text, and the most distinctive word of the asked-about intervention must appear as a subject. A `;` that merely separates statistics was tried as a boundary and cost two answerable dev queries before it was made conditional.
 - **Retrieval.** A **rare-term gate** (a finding lacking a query term that is rare in the corpus is not relevant,
   however good its weighted coverage) cut dev false answers from 22% to 0. Within-paper **abbreviation expansion**
   (`GLS ↔ global longitudinal strain`, Schwartz–Hearst) and hyphen-compound tokens (`semaglutide-treated`) cut
@@ -183,7 +228,7 @@ post-review ones).
 
 ## 4. Failure gallery (held-out test)
 
-**13 false positives / 355 predictions**
+**13 false positives / 355 predictions** (frozen). The current extractor filters the 8 balance-diagnostic SMDs, leaving 5 / 355 (post-hoc, §2.1).
 - 8 × `SMD` that are propensity-score *covariate-balance diagnostics* (`SMD = 0.312` for comorbidity prevalence), not effects
 - 2 × "mean difference –1.8% vs –0.8%": per-arm changes, not a contrast
 - 1 × a prespecified noninferiority margin ("odds ratio was 1.2")
@@ -229,11 +274,11 @@ paper-level intervention inheritance via a working field tagger.
 4. **Recall is an upper bound** and was shown to be optimistic: 0.950 on the M1 test split, 0.653 on fresh papers.
 5. **Dev is fitted; test is only partly clean.** The post-hoc columns used test failures to motivate fixes: do not
    quote them as held-out.
-6. **The corpus is not "111 randomized trials".** The query asked for them, but `article_type` is `research-article`
-   for all 111 and design was never screened: by a title-keyword screen about 28 papers (15 dev, 13 test) are
-   meta-analyses, cohort / cross-sectional / registry studies, protocols or a cost-effectiveness analysis; they supply
-   208 of the 842 gold findings. One esaxerenone meta-analysis alone is 37 of 310 own test findings and the source of
-   all three test false answers. Metrics split by study design have not been computed.
+6. **The corpus is not "111 randomized trials".** The query asked for them, but `article_type` is `research-article` for all 111
+   and design was never screened. PubMed's publication types and title phrases (`data/m1/design.jsonl`) show 67 confirmed trials
+   (42 dev, 25 test) and 44 others: 16 evidence syntheses, 8 observational, 3 protocols, 1 economic evaluation, 16 untyped journal
+   articles. One esaxerenone meta-analysis alone is 37 of 310 own test findings and the source of all three frozen test false
+   answers. Extraction accuracy is the same for both groups (§2.1.1); the abstention queries have not been split by design.
 7. **The same trials sit on both sides of the split** (EMPACT-MI in dev PMC11955319 and test PMC11115458; DAPA-HF in dev
    PMC8247863 and test PMC10234442, PMC7664959, PMC9508991): splitting by paper id is not splitting by trial.
 8. **Scope.** Roughly 5% (dev) to 15% (test) of CI-bearing estimate sentences use no metric name at all; plus regression
@@ -242,11 +287,11 @@ paper-level intervention inheritance via a working field tagger.
    the reporting style the regexes expect, and §2.4 measures the cost (0.365 recall on other domains).
 10. **Small queries.** ~43 answerable and ~43 unanswerable per split; intervals are wide; queries are synthetic and the
     paraphrases were written by the same author. See §2.2 for what the false-answer rate does and does not test.
-11. **Retrieval cannot bind roles.** Coverage and the rare-term gate are token presence. "Drug Zeta did not change stroke
-    risk, whereas placebo increased myocardial infarction (HR 1.40)" answers a question about Drug Zeta and MI with
-    the *placebo* arm's HR, and the rule tagger (~10% fill) is no second line of defence. The M1 query construction
-    excludes this class, so the report's "wrong-drug protection works" holds only for drugs the corpus never pairs with
-    the asked outcome in one sentence.
+11. **Retrieval binds roles only lexically.** The frozen system answered "the effect of placebo on X" with a drug-vs-placebo contrast in
+    88-94% of hard-negative queries (§2.2.1). Clause scoping and reference-arm tracking fix the cases below, but they are
+    string heuristics: they do not parse grammar, "but"/"although" are not split points (elliptical subjects), a control word used
+    in another sense ("active control", "blood pressure control") still leaks, and a sentence comparing subgroups within the placebo arm
+    is ambiguous. The fix is tuned on the hard negatives it was measured on.
 12. **Not measured at all:** conflict detection on real papers, the BERT tagger, NLI verification, dense retrieval, PDF
     parsing, tables.
 
@@ -254,17 +299,17 @@ paper-level intervention inheritance via a working field tagger.
 
 1. **M2 is justified, with a sharper goal.** Fields are the bottleneck for conflicts (0 detected), for
    intervention-less sentences (4/29 refused), and for field-level F1 (<= 0.17). Add "inherit the paper's primary
-   intervention from the title/abstract when the sentence has none".
-2. **Make paper-level rarity the default** once re-validated on fresh papers; keep the rare-term gate. Add hard
-   negatives (drug and outcome in one sentence about different things) to the query construction, and report cross
-   queries separately with exact intervals.
+   intervention from the title/abstract when the sentence has none". Fields are now tagged from the estimate's own clause.
+2. **Make paper-level rarity the default** once re-validated on fresh papers; keep the rare-term gate. Hard negatives and
+   exact intervals are now reported (§2.2.1); what is still missing is a hard-negative set that was *not* used to develop the fix: annotate the
+   25 never-annotated fresh papers and build one.
 3. **M3 targets the 65-86% paraphrase refusal**: concept normalisation (MeSH/UMLS) and a cross-encoder relevance score
    *behind* the rare-term gate, so recall can rise without reopening the wrong-drug hole.
 4. **Get a human second annotator.** The LLM-agent check in §2.4 is done; a human on ~20 papers (no predictions shown),
    with kappa on effect/not-effect and own/cited, is still the most valuable missing piece.
 5. **Registry gaps** worth the effort: unnamed "difference of X (95% CI)", `RMD`, "treatment ratio", `COR/p`-style
    notation, a filter for covariate-balance SMDs, and non-cardiometabolic phrasing (0.365 recall).
-6. **Screen study design** (a design column in the manifest) and report metrics for trials only.
+6. **A human adjudication** of the 89 disagreements between the system and the blind annotators, and of the 3 design disagreements.
 
 ## 7. Reproduce
 
@@ -275,6 +320,8 @@ make verify-freeze                      # every hash in data/m1/FROZEN.json reco
 make m1-frozen                          # held-out numbers, from the frozen source; diffs against data/m1/results
 make m1                                 # current code + configs/posthoc.toml; diffs against data/m1/results_postreview
 make independent                        # held-out + post-review predictions (byte-compared) and the independent scores
+make design by-design hardneg           # study design (one NCBI request), extraction by design, hard-negative scores
+make eval-hardneg                       # the synthetic role-swap set
 ```
 
 `make reproduce` runs all of it. Nothing overwrites a tracked file: outputs go to `reports/` (git-ignored) and are

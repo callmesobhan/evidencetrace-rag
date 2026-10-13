@@ -99,6 +99,51 @@ def build_queries(
     return out
 
 
+# Phrases that mark a comparator as a *reference arm* rather than a tested intervention, and the wording a query uses for it.
+CONTROL_PHRASES = {
+    "placebo": "placebo", "usual care": "usual care", "standard care": "standard care",
+    "control": "the control group", "sham": "sham", "no treatment": "no treatment", "vehicle": "vehicle",
+}  # fmt: skip
+
+
+def build_hard_negatives(gold: list[GoldFinding], *, split: str) -> list[dict[str, Any]]:
+    """Unanswerable queries whose vocabulary DOES appear together in the paper (the case `cross` excludes).
+
+    ``control_as_intervention``: take a field-annotated finding that compares a specific intervention with a
+    reference arm ("Drug X vs placebo on SBP") and ask what the *reference arm* did to the same outcome: "What is
+    the effect of placebo on SBP?". Every word of the query occurs in the paper's sentence, but the sentence reports
+    the drug's effect relative to placebo, not an effect of placebo, so the right answer is to abstain.
+
+    This is a labelling judgement (a reader could argue the contrast also answers it); the judgement is stated
+    here and in docs/known-issues.md. A query is dropped if any gold finding reports that control as an
+    intervention on that outcome, so the label is never contradicted by the gold itself.
+    """
+    reported = [
+        (set(tokenize(g.intervention or "")), set(tokenize(g.outcome or "")))
+        for g in gold if g.fields_annotated and g.intervention and g.outcome
+    ]
+    out: list[dict[str, Any]] = []
+    seen: set[tuple[str, str]] = set()
+    for g in sorted(gold, key=lambda x: x.gold_id):
+        if not (_specific(g) and g.comparator):
+            continue
+        key_word = next((w for w in CONTROL_PHRASES if w in g.comparator.lower()), None)
+        if key_word is None:
+            continue
+        phrase = CONTROL_PHRASES[key_word]
+        key = (phrase, (g.outcome or "").lower())
+        if key in seen:
+            continue
+        ct, ot = set(tokenize(phrase)), set(tokenize(g.outcome or ""))
+        if any(ct <= i and ot <= o for i, o in reported):
+            continue  # the gold itself reports this control as an intervention on this outcome
+        seen.add(key)
+        out.append({"qid": f"{split}-hn{len(out) + 1:03d}", "split": split, "kind": "control_as_intervention",
+                    "query": f"What is the effect of {phrase} on {g.outcome}?", "expected": "unanswerable",
+                    "target": None, "source_gold": g.gold_id})
+    return out
+
+
 def _mean_ci(values: list[float], reps: int) -> tuple[float | None, float | None, float | None]:
     clusters = [{"v": v} for v in values]
     return cluster_bootstrap(clusters, lambda cs: fmean(c["v"] for c in cs) if cs else None, reps=reps)

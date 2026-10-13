@@ -1,0 +1,14 @@
+Phi for Glycaemic Control
+[SYNTHETIC TEST DOCUMENT - fictional drugs and fictional data; built to contain role-binding traps]
+
+Abstract
+
+Filler paper with unrelated fictional vocabulary.
+
+Methods
+
+We randomized adults to the study drugs or placebo and followed them for 12 months.
+
+Results
+
+Drug Phi reduced glycated haemoglobin compared with placebo (mean difference -0.7 %, 95% CI -0.9 to -0.5; p<0.001). Drug Phi increased bone density (mean difference 1.2 %, 95% CI 0.6 to 1.8; p<0.001).

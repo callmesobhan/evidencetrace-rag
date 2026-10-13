@@ -200,6 +200,7 @@ seen**, with the code and predictions committed and hashed *before* the annotato
 | system as frozen, unseen papers | papers | precision | recall | F1 |
 |---|---|---|---|---|
 | round 2 (clean holdout) | 25 | 0.952 | 0.724 | **0.823** [0.753, 0.876] |
+| round 2, current code *(4 notation fixes made after reading these papers: TUNED)* | 25 | 0.982 | 0.733 | 0.839 [0.773, 0.895] |
 | round 1, pre-fix system (held-out) | 30 | 0.859 | 0.653 | 0.742 [0.609, 0.865] |
 | **both rounds pooled, pre-fix system** | **55** | 0.909 | 0.691 | **0.785** [0.707, 0.849] |
 
@@ -213,7 +214,7 @@ seen**, with the code and predictions committed and hashed *before* the annotato
 
 ## 3. What the audit changed in the system
 
-Each item was found by reading real predictions, then covered by a regression test (82 → 233 tests including the
+Each item was found by reading real predictions, then covered by a regression test (82 → 285 tests including the
 post-review ones).
 
 - **Parser.** Regex section detection put 302 of 1,177 findings in "Introduction" and labelled 666 of them `cited`

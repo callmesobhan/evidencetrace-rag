@@ -100,7 +100,7 @@ Requires **Python 3.11 or newer** (CI runs 3.11, 3.12 and 3.13).
 ```bash
 python3 -m venv .venv && source .venv/bin/activate && pip install -U pip
 pip install -e ".[dev]"          # core + tests
-make test                        # 262 tests: 2 are strict xfails recording known limits, 1 needs the .[llama] extra
+make test                        # 285 tests: 2 are strict xfails recording known limits; 1 needs the .[llama] and 4 the .[pdf] extra
 make demo                        # ingest the synthetic corpus, ask two questions
 make eval                        # per-stage evaluation on the synthetic corpus -> reports/eval.{md,json}
 ```
@@ -148,7 +148,7 @@ data/samples/           synthetic papers + gold            data/m1/   real-paper
 docs/                   architecture · evaluation · m1-report · known-issues · annotation-guidelines · roadmap
 scripts/                fetch_pmc · make_candidates · build_gold · make_queries · run_m1 · verify_freeze · make_attribution
                         make_blind_inputs · validate_annotations · predict_papers · score_blind · train_field_tagger
-tests/                  262 tests
+tests/                  285 tests
 ```
 
 ## Evaluation

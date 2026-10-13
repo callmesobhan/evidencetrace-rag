@@ -209,6 +209,11 @@ The M1 gold standard is a single annotator who is also the developer; it is pool
 both sides of the split, and several headline metrics (provenance pass rate, value+CI vs value-only, span attribution)
 are consistency checks that cannot fail the way an extractor fails. The independent annotators are also LLM agents.
 
+**Help wanted: a human check.** Every annotation here is LLM-made. [The review page](https://callmesobhan.github.io/evidencetrace-rag/adjudication.html)
+shows the 158 places where the system and the blind annotators disagree, each in context; answering "is this a genuine effect
+estimate?" for them (y / n / unsure, about an hour or two) turns "agrees with an LLM" into a measured accuracy.
+`scripts/apply_adjudication.py` computes the corrected figures from the exported file.
+
 ### What is verified, and what is not
 
 **Verified by the test suite** (`make test`): numeric extraction across dozens of reporting formats seen in real papers (including covariate-balance SMDs, which are not effects),

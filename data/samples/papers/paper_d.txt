@@ -1,0 +1,18 @@
+Zeta-Community: Drug Zeta in a Community Hypertension Programme
+[SYNTHETIC TEST DOCUMENT - fictional drug and fictional data]
+
+Abstract
+
+Drug Zeta reduced systolic blood pressure compared with placebo in a community programme.
+
+Methods
+
+We enrolled 230 adults from 14 community clinics and randomized them to Drug Zeta or placebo for 12 weeks.
+
+Results
+
+Drug Zeta reduced systolic blood pressure compared with placebo (mean difference −6.0 mmHg, 95% CI −9.0 to −3.0; p<0.001; n = 230).
+
+Discussion
+
+Results were consistent across clinics.

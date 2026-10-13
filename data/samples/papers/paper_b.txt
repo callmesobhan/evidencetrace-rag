@@ -1,0 +1,22 @@
+Zeta-HF: Drug Zeta and Hospitalization in Heart Failure
+[SYNTHETIC TEST DOCUMENT - fictional drug and fictional data]
+
+Abstract
+
+Drug Zeta increased hospitalization compared with placebo in patients with heart failure (hazard ratio 1.12, 95% CI 1.01 to 1.24; p=0.03).
+
+Introduction
+
+A previous trial by Hartmann et al. [3] reported that Drug Zeta reduced hospitalization compared with placebo (hazard ratio 0.55, 95% CI 0.40 to 0.76). Whether this holds in heart failure is unknown.
+
+Methods
+
+In this double-blind trial, 3,870 patients with heart failure were randomized to Drug Zeta or placebo and followed for a median of 2.1 years.
+
+Results
+
+Drug Zeta increased hospitalization compared with placebo in patients with heart failure (hazard ratio 1.12, 95% CI 1.01 to 1.24; p=0.03). Serious adverse events were balanced between groups.
+
+Discussion
+
+The excess in hospitalizations was driven by worsening heart failure events.

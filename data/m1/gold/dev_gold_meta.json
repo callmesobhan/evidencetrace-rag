@@ -1,0 +1,11 @@
+{
+  "split": "dev",
+  "papers": 57,
+  "gold_findings": 482,
+  "from_candidates": 464,
+  "rejected": 0,
+  "added_missed": 18,
+  "corrections": 6,
+  "field_annotated": 35,
+  "reviewer": "single annotator: Claude (LLM), no second annotator, no human verification"
+}

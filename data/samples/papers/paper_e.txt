@@ -1,0 +1,18 @@
+Omega-Lipids: Drug Omega for LDL Cholesterol and Cardiovascular Events
+[SYNTHETIC TEST DOCUMENT - fictional drug and fictional data]
+
+Abstract
+
+Drug Omega lowered LDL cholesterol and reduced myocardial infarction compared with placebo.
+
+Methods
+
+We randomized 5,120 adults with elevated cardiovascular risk to Drug Omega or placebo for 3 years.
+
+Results
+
+Drug Omega lowered LDL cholesterol compared with placebo (mean difference −32.5 mg/dL, 95% CI −38.0 to −27.0; p<0.001). Drug Omega reduced myocardial infarction compared with placebo (odds ratio 0.71, 95% CI 0.58 to 0.87; p=0.001).
+
+Discussion
+
+Lipid lowering was sustained throughout follow-up.

@@ -1,0 +1,625 @@
+{
+ "papers_assigned": 36,
+ "papers_with_annotations": 35,
+ "papers_without_any_annotation": [
+  "PMC7902189"
+ ],
+ "in_scope_records": 286,
+ "out_of_scope_records": {
+  "regression_coefficient": 20,
+  "other": 13,
+  "within_arm_change": 26,
+  "rrr": 4,
+  "unnamed_difference": 9,
+  "rate_or_proportion": 3
+ },
+ "uncertain_flagged": 22,
+ "stale_records_dropped_not_assigned": {
+  "P13": 5,
+  "P04": 9,
+  "P08": 6
+ },
+ "agreement_with_developer_gold": {
+  "papers": 6,
+  "developer_gold": 52,
+  "independent": 90,
+  "independent_vs_developer": {
+   "precision": [
+    0.5666666666666667,
+    0.13095238095238096,
+    0.96875
+   ],
+   "recall": [
+    0.9807692307692307,
+    0.9574468085106383,
+    1.0
+   ],
+   "f1": [
+    0.7183098591549296,
+    0.23157894736842105,
+    0.9784172661870504
+   ],
+   "counts": {
+    "tp": 51,
+    "fp": 39,
+    "fn": 1
+   }
+  },
+  "attribution_agreement_on_matched": 1.0,
+  "attribution_kappa": 1.0,
+  "only_independent": [
+   "PMC10844441 OR 1.2 (1.02, 1.44)",
+   "PMC10844441 OR 1.8 (1.15, 2.68)",
+   "PMC11115458 RR 0.67 (0.51, 0.89)",
+   "PMC9318947 RR 0.83 (0.7, 0.98)",
+   "PMC12810801 OR 6.3 None",
+   "PMC12810801 OR 4.66 None",
+   "PMC12810801 OR 4.96 None",
+   "PMC12810801 OR 3.46 None",
+   "PMC12810801 OR 30.75 None",
+   "PMC12810801 OR 1.71 None",
+   "PMC12810801 OR 1.82 None",
+   "PMC12810801 OR 6.72 None",
+   "PMC12810801 OR 2.53 None",
+   "PMC12810801 OR 4.05 None",
+   "PMC12810801 OR 4.11 None",
+   "PMC12810801 OR 20.81 None",
+   "PMC12810801 OR 4.87 None",
+   "PMC12810801 OR 2.06 None",
+   "PMC12810801 OR 4.29 None",
+   "PMC12810801 OR 2.12 None",
+   "PMC12810801 OR 3.48 None",
+   "PMC12810801 OR 15.67 None",
+   "PMC12810801 OR 2.35 None",
+   "PMC12810801 OR 3.33 None",
+   "PMC12810801 OR 2.97 None",
+   "PMC12810801 OR 2.92 None",
+   "PMC12810801 OR 2.34 None",
+   "PMC12810801 OR 2.63 None",
+   "PMC12810801 OR 3.14 None",
+   "PMC12810801 OR 2.62 None",
+   "PMC12810801 OR 2.87 None",
+   "PMC12810801 OR 2.22 None",
+   "PMC12810801 OR 3.45 None",
+   "PMC12810801 OR 16.89 None",
+   "PMC12810801 OR 2.85 None",
+   "PMC12810801 OR 2.49 None",
+   "PMC12810801 OR 2.16 None",
+   "PMC12810801 OR 3.23 None",
+   "PMC12810801 OR 2.29 None"
+  ],
+  "only_developer": [
+   "PMC11115458 IRR 0.67 (0.51, 0.89)"
+  ]
+ },
+ "system_vs_independent": {
+  "all_fresh": {
+   "per_paper": [
+    {
+     "pmcid": "PMC10134666",
+     "gold": 1,
+     "pred": 1,
+     "tp": 1
+    },
+    {
+     "pmcid": "PMC10301309",
+     "gold": 6,
+     "pred": 4,
+     "tp": 3
+    },
+    {
+     "pmcid": "PMC10620475",
+     "gold": 3,
+     "pred": 3,
+     "tp": 3
+    },
+    {
+     "pmcid": "PMC10994293",
+     "gold": 9,
+     "pred": 9,
+     "tp": 7
+    },
+    {
+     "pmcid": "PMC11046789",
+     "gold": 6,
+     "pred": 6,
+     "tp": 6
+    },
+    {
+     "pmcid": "PMC11096866",
+     "gold": 10,
+     "pred": 9,
+     "tp": 9
+    },
+    {
+     "pmcid": "PMC11107897",
+     "gold": 11,
+     "pred": 6,
+     "tp": 6
+    },
+    {
+     "pmcid": "PMC11170842",
+     "gold": 12,
+     "pred": 11,
+     "tp": 10
+    },
+    {
+     "pmcid": "PMC11348093",
+     "gold": 3,
+     "pred": 3,
+     "tp": 3
+    },
+    {
+     "pmcid": "PMC11360285",
+     "gold": 5,
+     "pred": 3,
+     "tp": 3
+    },
+    {
+     "pmcid": "PMC11571715",
+     "gold": 5,
+     "pred": 5,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC11615712",
+     "gold": 7,
+     "pred": 7,
+     "tp": 7
+    },
+    {
+     "pmcid": "PMC11621983",
+     "gold": 1,
+     "pred": 1,
+     "tp": 1
+    },
+    {
+     "pmcid": "PMC11920666",
+     "gold": 2,
+     "pred": 2,
+     "tp": 2
+    },
+    {
+     "pmcid": "PMC11921422",
+     "gold": 6,
+     "pred": 5,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC11922750",
+     "gold": 2,
+     "pred": 2,
+     "tp": 2
+    },
+    {
+     "pmcid": "PMC11979726",
+     "gold": 11,
+     "pred": 6,
+     "tp": 6
+    },
+    {
+     "pmcid": "PMC12603858",
+     "gold": 1,
+     "pred": 1,
+     "tp": 1
+    },
+    {
+     "pmcid": "PMC12696593",
+     "gold": 9,
+     "pred": 8,
+     "tp": 7
+    },
+    {
+     "pmcid": "PMC12829467",
+     "gold": 16,
+     "pred": 5,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC13064759",
+     "gold": 10,
+     "pred": 6,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC8169808",
+     "gold": 7,
+     "pred": 7,
+     "tp": 7
+    },
+    {
+     "pmcid": "PMC8398996",
+     "gold": 6,
+     "pred": 5,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC8678693",
+     "gold": 8,
+     "pred": 7,
+     "tp": 7
+    },
+    {
+     "pmcid": "PMC8894447",
+     "gold": 8,
+     "pred": 8,
+     "tp": 8
+    },
+    {
+     "pmcid": "PMC8908069",
+     "gold": 3,
+     "pred": 2,
+     "tp": 2
+    },
+    {
+     "pmcid": "PMC9329394",
+     "gold": 5,
+     "pred": 5,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC9346972",
+     "gold": 10,
+     "pred": 10,
+     "tp": 10
+    },
+    {
+     "pmcid": "PMC9402888",
+     "gold": 4,
+     "pred": 4,
+     "tp": 4
+    },
+    {
+     "pmcid": "PMC9999507",
+     "gold": 9,
+     "pred": 9,
+     "tp": 9
+    }
+   ],
+   "papers": 30,
+   "independent_gold": 196,
+   "system_predictions": 160,
+   "value_and_ci": {
+    "precision": [
+     0.9625,
+     0.930635838150289,
+     0.9880952380952381
+    ],
+    "recall": [
+     0.7857142857142857,
+     0.684931506849315,
+     0.888235294117647
+    ],
+    "f1": [
+     0.8651685393258427,
+     0.7989276139410187,
+     0.9295039164490861
+    ],
+    "counts": {
+     "tp": 154,
+     "fp": 6,
+     "fn": 42
+    }
+   },
+   "value_only": {
+    "precision": [
+     0.98125,
+     0.9574468085106383,
+     1.0
+    ],
+    "recall": [
+     0.8010204081632653,
+     0.6962616822429907,
+     0.9044943820224719
+    ],
+    "f1": [
+     0.8820224719101124,
+     0.8119891008174387,
+     0.9467787114845938
+    ],
+    "counts": {
+     "tp": 157,
+     "fp": 3,
+     "fn": 39
+    }
+   },
+   "own_labels": 150,
+   "own_that_independent_calls_cited": 1,
+   "cited_labels": 10,
+   "cited_that_independent_calls_own": 1,
+   "attribution_kappa_on_matched": 0.8930555555555555
+  },
+  "cardiometabolic": {
+   "per_paper": [
+    {
+     "pmcid": "PMC10301309",
+     "gold": 6,
+     "pred": 4,
+     "tp": 3
+    },
+    {
+     "pmcid": "PMC10994293",
+     "gold": 9,
+     "pred": 9,
+     "tp": 7
+    },
+    {
+     "pmcid": "PMC11046789",
+     "gold": 6,
+     "pred": 6,
+     "tp": 6
+    },
+    {
+     "pmcid": "PMC11096866",
+     "gold": 10,
+     "pred": 9,
+     "tp": 9
+    },
+    {
+     "pmcid": "PMC11170842",
+     "gold": 12,
+     "pred": 11,
+     "tp": 10
+    },
+    {
+     "pmcid": "PMC11360285",
+     "gold": 5,
+     "pred": 3,
+     "tp": 3
+    },
+    {
+     "pmcid": "PMC11571715",
+     "gold": 5,
+     "pred": 5,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC11921422",
+     "gold": 6,
+     "pred": 5,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC8169808",
+     "gold": 7,
+     "pred": 7,
+     "tp": 7
+    },
+    {
+     "pmcid": "PMC8398996",
+     "gold": 6,
+     "pred": 5,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC8678693",
+     "gold": 8,
+     "pred": 7,
+     "tp": 7
+    },
+    {
+     "pmcid": "PMC8894447",
+     "gold": 8,
+     "pred": 8,
+     "tp": 8
+    },
+    {
+     "pmcid": "PMC9346972",
+     "gold": 10,
+     "pred": 10,
+     "tp": 10
+    },
+    {
+     "pmcid": "PMC9402888",
+     "gold": 4,
+     "pred": 4,
+     "tp": 4
+    },
+    {
+     "pmcid": "PMC9999507",
+     "gold": 9,
+     "pred": 9,
+     "tp": 9
+    }
+   ],
+   "papers": 15,
+   "independent_gold": 111,
+   "system_predictions": 102,
+   "value_and_ci": {
+    "precision": [
+     0.9607843137254902,
+     0.9157894736842105,
+     1.0
+    ],
+    "recall": [
+     0.8828828828828829,
+     0.8130841121495327,
+     0.9433962264150944
+    ],
+    "f1": [
+     0.92018779342723,
+     0.8666666666666667,
+     0.966183574879227
+    ],
+    "counts": {
+     "tp": 98,
+     "fp": 4,
+     "fn": 13
+    }
+   },
+   "value_only": {
+    "precision": [
+     0.9901960784313726,
+     0.9651162790697675,
+     1.0
+    ],
+    "recall": [
+     0.9099099099099099,
+     0.8363636363636363,
+     0.9649122807017544
+    ],
+    "f1": [
+     0.9483568075117371,
+     0.897196261682243,
+     0.9818181818181818
+    ],
+    "counts": {
+     "tp": 101,
+     "fp": 1,
+     "fn": 10
+    }
+   },
+   "own_labels": 93,
+   "own_that_independent_calls_cited": 1,
+   "cited_labels": 9,
+   "cited_that_independent_calls_own": 0,
+   "attribution_kappa_on_matched": 0.9417360285374553
+  },
+  "other_domains": {
+   "per_paper": [
+    {
+     "pmcid": "PMC10134666",
+     "gold": 1,
+     "pred": 1,
+     "tp": 1
+    },
+    {
+     "pmcid": "PMC10620475",
+     "gold": 3,
+     "pred": 3,
+     "tp": 3
+    },
+    {
+     "pmcid": "PMC11107897",
+     "gold": 11,
+     "pred": 6,
+     "tp": 6
+    },
+    {
+     "pmcid": "PMC11348093",
+     "gold": 3,
+     "pred": 3,
+     "tp": 3
+    },
+    {
+     "pmcid": "PMC11615712",
+     "gold": 7,
+     "pred": 7,
+     "tp": 7
+    },
+    {
+     "pmcid": "PMC11621983",
+     "gold": 1,
+     "pred": 1,
+     "tp": 1
+    },
+    {
+     "pmcid": "PMC11920666",
+     "gold": 2,
+     "pred": 2,
+     "tp": 2
+    },
+    {
+     "pmcid": "PMC11922750",
+     "gold": 2,
+     "pred": 2,
+     "tp": 2
+    },
+    {
+     "pmcid": "PMC11979726",
+     "gold": 11,
+     "pred": 6,
+     "tp": 6
+    },
+    {
+     "pmcid": "PMC12603858",
+     "gold": 1,
+     "pred": 1,
+     "tp": 1
+    },
+    {
+     "pmcid": "PMC12696593",
+     "gold": 9,
+     "pred": 8,
+     "tp": 7
+    },
+    {
+     "pmcid": "PMC12829467",
+     "gold": 16,
+     "pred": 5,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC13064759",
+     "gold": 10,
+     "pred": 6,
+     "tp": 5
+    },
+    {
+     "pmcid": "PMC8908069",
+     "gold": 3,
+     "pred": 2,
+     "tp": 2
+    },
+    {
+     "pmcid": "PMC9329394",
+     "gold": 5,
+     "pred": 5,
+     "tp": 5
+    }
+   ],
+   "papers": 15,
+   "independent_gold": 85,
+   "system_predictions": 58,
+   "value_and_ci": {
+    "precision": [
+     0.9655172413793104,
+     0.9230769230769231,
+     1.0
+    ],
+    "recall": [
+     0.6588235294117647,
+     0.5172413793103449,
+     0.8620689655172413
+    ],
+    "f1": [
+     0.7832167832167832,
+     0.6736842105263158,
+     0.9158878504672897
+    ],
+    "counts": {
+     "tp": 56,
+     "fp": 2,
+     "fn": 29
+    }
+   },
+   "value_only": {
+    "precision": [
+     0.9655172413793104,
+     0.9230769230769231,
+     1.0
+    ],
+    "recall": [
+     0.6588235294117647,
+     0.5172413793103449,
+     0.8620689655172413
+    ],
+    "f1": [
+     0.7832167832167832,
+     0.6736842105263158,
+     0.9158878504672897
+    ],
+    "counts": {
+     "tp": 56,
+     "fp": 2,
+     "fn": 29
+    }
+   },
+   "own_labels": 57,
+   "own_that_independent_calls_cited": 0,
+   "cited_labels": 1,
+   "cited_that_independent_calls_own": 1,
+   "attribution_kappa_on_matched": 0.0
+  }
+ }
+}

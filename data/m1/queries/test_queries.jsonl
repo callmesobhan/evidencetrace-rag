@@ -1,0 +1,86 @@
+{"qid": "test-q001", "split": "test", "kind": "annotated", "query": "What is the effect of dapagliflozin on worsening heart failure or cardiovascular death?", "expected": "answerable", "target": "test-g0001"}
+{"qid": "test-q002", "split": "test", "kind": "annotated", "query": "What is the effect of dapagliflozin on worsening heart failure or cardiovascular death?", "expected": "answerable", "target": "test-g0002"}
+{"qid": "test-q003", "split": "test", "kind": "annotated", "query": "What is the effect of dapagliflozin on new-onset atrial fibrillation?", "expected": "answerable", "target": "test-g0009"}
+{"qid": "test-q004", "split": "test", "kind": "paraphrase", "query": "Does dapagliflozin lower the chance of developing atrial fibrillation?", "expected": "answerable", "target": "test-g0009"}
+{"qid": "test-q005", "split": "test", "kind": "annotated", "query": "What is the effect of semaglutide on HbA1c?", "expected": "answerable", "target": "test-g0023"}
+{"qid": "test-q006", "split": "test", "kind": "paraphrase", "query": "Which lowers glycated hemoglobin more, semaglutide or dapagliflozin?", "expected": "answerable", "target": "test-g0023"}
+{"qid": "test-q007", "split": "test", "kind": "annotated", "query": "What is the effect of empagliflozin on first heart failure hospitalization?", "expected": "answerable", "target": "test-g0029"}
+{"qid": "test-q008", "split": "test", "kind": "annotated", "query": "What is the effect of empagliflozin on total heart failure hospitalizations?", "expected": "answerable", "target": "test-g0030"}
+{"qid": "test-q009", "split": "test", "kind": "paraphrase", "query": "Does empagliflozin reduce repeat heart failure admissions?", "expected": "answerable", "target": "test-g0030"}
+{"qid": "test-q010", "split": "test", "kind": "annotated", "query": "What is the effect of empagliflozin on first heart failure hospitalization or death attributable to heart failure?", "expected": "answerable", "target": "test-g0031"}
+{"qid": "test-q011", "split": "test", "kind": "annotated", "query": "What is the effect of empagliflozin on first adverse event of heart failure or all-cause mortality?", "expected": "answerable", "target": "test-g0039"}
+{"qid": "test-q012", "split": "test", "kind": "annotated", "query": "What is the effect of finerenone on key secondary kidney composite outcome?", "expected": "answerable", "target": "test-g0075"}
+{"qid": "test-q013", "split": "test", "kind": "paraphrase", "query": "Does finerenone protect kidney function?", "expected": "answerable", "target": "test-g0075"}
+{"qid": "test-q014", "split": "test", "kind": "annotated", "query": "What is the effect of esaxerenone on any adverse events?", "expected": "answerable", "target": "test-g0087"}
+{"qid": "test-q015", "split": "test", "kind": "paraphrase", "query": "Is esaxerenone safe compared with placebo in terms of side effects?", "expected": "answerable", "target": "test-g0087"}
+{"qid": "test-q016", "split": "test", "kind": "annotated", "query": "What is the effect of esaxerenone on drug-related adverse events?", "expected": "answerable", "target": "test-g0090"}
+{"qid": "test-q017", "split": "test", "kind": "annotated", "query": "What is the effect of esaxerenone on discontinuation due to drug-related adverse events?", "expected": "answerable", "target": "test-g0091"}
+{"qid": "test-q018", "split": "test", "kind": "annotated", "query": "What is the effect of CBTI on sleep regularity?", "expected": "answerable", "target": "test-g0140"}
+{"qid": "test-q019", "split": "test", "kind": "paraphrase", "query": "Does cognitive behavioral therapy for insomnia improve sleep regularity?", "expected": "answerable", "target": "test-g0140"}
+{"qid": "test-q020", "split": "test", "kind": "annotated", "query": "What is the effect of CBTI on anxiety scores?", "expected": "answerable", "target": "test-g0142"}
+{"qid": "test-q021", "split": "test", "kind": "annotated", "query": "What is the effect of liraglutide on stroke recurrence?", "expected": "answerable", "target": "test-g0146"}
+{"qid": "test-q022", "split": "test", "kind": "paraphrase", "query": "Does liraglutide prevent a second stroke?", "expected": "answerable", "target": "test-g0146"}
+{"qid": "test-q023", "split": "test", "kind": "annotated", "query": "What is the effect of liraglutide on excellent functional outcome?", "expected": "answerable", "target": "test-g0148"}
+{"qid": "test-q024", "split": "test", "kind": "annotated", "query": "What is the effect of conduction system pacing on hierarchical primary end point?", "expected": "answerable", "target": "test-g0158"}
+{"qid": "test-q025", "split": "test", "kind": "paraphrase", "query": "How does conduction system pacing compare with biventricular pacing on the primary composite end point?", "expected": "answerable", "target": "test-g0158"}
+{"qid": "test-q026", "split": "test", "kind": "annotated", "query": "What is the effect of conduction system pacing on LVEF increase?", "expected": "answerable", "target": "test-g0161"}
+{"qid": "test-q027", "split": "test", "kind": "annotated", "query": "What is the effect of dapagliflozin on deterioration in KCCQ-TSS?", "expected": "answerable", "target": "test-g0176"}
+{"qid": "test-q028", "split": "test", "kind": "paraphrase", "query": "Does dapagliflozin improve patient-reported symptoms on the KCCQ?", "expected": "answerable", "target": "test-g0176"}
+{"qid": "test-q029", "split": "test", "kind": "annotated", "query": "What is the effect of RAASi on serum creatinine?", "expected": "answerable", "target": "test-g0251"}
+{"qid": "test-q030", "split": "test", "kind": "annotated", "query": "What is the effect of RAASi on kidney failure?", "expected": "answerable", "target": "test-g0256"}
+{"qid": "test-q031", "split": "test", "kind": "paraphrase", "query": "Do RAAS inhibitors reduce the risk of kidney failure?", "expected": "answerable", "target": "test-g0256"}
+{"qid": "test-q032", "split": "test", "kind": "annotated", "query": "What is the effect of RAASi on doubling of serum creatinine?", "expected": "answerable", "target": "test-g0257"}
+{"qid": "test-q033", "split": "test", "kind": "annotated", "query": "What is the effect of salt reduction interventions on systolic blood pressure?", "expected": "answerable", "target": "test-g0305"}
+{"qid": "test-q034", "split": "test", "kind": "paraphrase", "query": "Does cutting salt intake lower systolic blood pressure?", "expected": "answerable", "target": "test-g0305"}
+{"qid": "test-q035", "split": "test", "kind": "annotated", "query": "What is the effect of salt reduction interventions on diastolic blood pressure?", "expected": "answerable", "target": "test-g0306"}
+{"qid": "test-q036", "split": "test", "kind": "annotated", "query": "What is the effect of health education interventions on systolic blood pressure?", "expected": "answerable", "target": "test-g0307"}
+{"qid": "test-q037", "split": "test", "kind": "annotated", "query": "What is the effect of salt substitute interventions on systolic blood pressure?", "expected": "answerable", "target": "test-g0319"}
+{"qid": "test-q038", "split": "test", "kind": "paraphrase", "query": "Do salt substitutes reduce systolic pressure?", "expected": "answerable", "target": "test-g0319"}
+{"qid": "test-q039", "split": "test", "kind": "annotated", "query": "What is the effect of salt substitutes on diastolic blood pressure?", "expected": "answerable", "target": "test-g0320"}
+{"qid": "test-q040", "split": "test", "kind": "annotated", "query": "What is the effect of strength training on systolic blood pressure?", "expected": "answerable", "target": "test-g0323"}
+{"qid": "test-q041", "split": "test", "kind": "paraphrase", "query": "Does resistance exercise lower systolic blood pressure?", "expected": "answerable", "target": "test-g0323"}
+{"qid": "test-q042", "split": "test", "kind": "annotated", "query": "What is the effect of strength training on diastolic blood pressure?", "expected": "answerable", "target": "test-g0324"}
+{"qid": "test-q043", "split": "test", "kind": "paraphrase", "query": "Does resistance training reduce diastolic pressure?", "expected": "answerable", "target": "test-g0324"}
+{"qid": "test-q044", "split": "test", "kind": "cross", "query": "What is the effect of dapagliflozin on excellent functional outcome?", "expected": "unanswerable", "target": null}
+{"qid": "test-q045", "split": "test", "kind": "cross", "query": "What is the effect of dapagliflozin on diastolic blood pressure?", "expected": "unanswerable", "target": null}
+{"qid": "test-q046", "split": "test", "kind": "cross", "query": "What is the effect of dapagliflozin on excellent functional outcome?", "expected": "unanswerable", "target": null}
+{"qid": "test-q047", "split": "test", "kind": "cross", "query": "What is the effect of semaglutide on diastolic blood pressure?", "expected": "unanswerable", "target": null}
+{"qid": "test-q048", "split": "test", "kind": "cross", "query": "What is the effect of empagliflozin on discontinuation due to drug-related adverse events?", "expected": "unanswerable", "target": null}
+{"qid": "test-q049", "split": "test", "kind": "cross", "query": "What is the effect of empagliflozin on drug-related adverse events?", "expected": "unanswerable", "target": null}
+{"qid": "test-q050", "split": "test", "kind": "cross", "query": "What is the effect of empagliflozin on serum creatinine?", "expected": "unanswerable", "target": null}
+{"qid": "test-q051", "split": "test", "kind": "cross", "query": "What is the effect of empagliflozin on serum creatinine?", "expected": "unanswerable", "target": null}
+{"qid": "test-q052", "split": "test", "kind": "cross", "query": "What is the effect of finerenone on serum creatinine?", "expected": "unanswerable", "target": null}
+{"qid": "test-q053", "split": "test", "kind": "cross", "query": "What is the effect of esaxerenone on first heart failure hospitalization or death attributable to heart failure?", "expected": "unanswerable", "target": null}
+{"qid": "test-q054", "split": "test", "kind": "cross", "query": "What is the effect of esaxerenone on first adverse event of heart failure or all-cause mortality?", "expected": "unanswerable", "target": null}
+{"qid": "test-q055", "split": "test", "kind": "cross", "query": "What is the effect of esaxerenone on systolic blood pressure?", "expected": "unanswerable", "target": null}
+{"qid": "test-q056", "split": "test", "kind": "cross", "query": "What is the effect of CBTI on systolic blood pressure?", "expected": "unanswerable", "target": null}
+{"qid": "test-q057", "split": "test", "kind": "cross", "query": "What is the effect of CBTI on hierarchical primary end point?", "expected": "unanswerable", "target": null}
+{"qid": "test-q058", "split": "test", "kind": "cross", "query": "What is the effect of liraglutide on first heart failure hospitalization?", "expected": "unanswerable", "target": null}
+{"qid": "test-q059", "split": "test", "kind": "cross", "query": "What is the effect of liraglutide on systolic blood pressure?", "expected": "unanswerable", "target": null}
+{"qid": "test-q060", "split": "test", "kind": "cross", "query": "What is the effect of conduction system pacing on first heart failure hospitalization?", "expected": "unanswerable", "target": null}
+{"qid": "test-q061", "split": "test", "kind": "cross", "query": "What is the effect of conduction system pacing on first adverse event of heart failure or all-cause mortality?", "expected": "unanswerable", "target": null}
+{"qid": "test-q062", "split": "test", "kind": "cross", "query": "What is the effect of dapagliflozin on doubling of serum creatinine?", "expected": "unanswerable", "target": null}
+{"qid": "test-q063", "split": "test", "kind": "cross", "query": "What is the effect of RAASi on systolic blood pressure?", "expected": "unanswerable", "target": null}
+{"qid": "test-q064", "split": "test", "kind": "cross", "query": "What is the effect of RAASi on diastolic blood pressure?", "expected": "unanswerable", "target": null}
+{"qid": "test-q065", "split": "test", "kind": "cross", "query": "What is the effect of RAASi on worsening heart failure or cardiovascular death?", "expected": "unanswerable", "target": null}
+{"qid": "test-q066", "split": "test", "kind": "cross", "query": "What is the effect of salt reduction interventions on stroke recurrence?", "expected": "unanswerable", "target": null}
+{"qid": "test-q067", "split": "test", "kind": "cross", "query": "What is the effect of salt reduction interventions on new-onset atrial fibrillation?", "expected": "unanswerable", "target": null}
+{"qid": "test-q068", "split": "test", "kind": "cross", "query": "What is the effect of health education interventions on new-onset atrial fibrillation?", "expected": "unanswerable", "target": null}
+{"qid": "test-q069", "split": "test", "kind": "cross", "query": "What is the effect of salt substitute interventions on first heart failure hospitalization or death attributable to heart failure?", "expected": "unanswerable", "target": null}
+{"qid": "test-q070", "split": "test", "kind": "cross", "query": "What is the effect of salt substitutes on first adverse event of heart failure or all-cause mortality?", "expected": "unanswerable", "target": null}
+{"qid": "test-q071", "split": "test", "kind": "cross", "query": "What is the effect of strength training on first heart failure hospitalization?", "expected": "unanswerable", "target": null}
+{"qid": "test-q072", "split": "test", "kind": "cross", "query": "What is the effect of strength training on drug-related adverse events?", "expected": "unanswerable", "target": null}
+{"qid": "test-q073", "split": "test", "kind": "absent", "query": "What is the effect of empagliflozin on hip fracture?", "expected": "unanswerable", "target": null}
+{"qid": "test-q074", "split": "test", "kind": "absent", "query": "What is the effect of salt substitutes on venous thromboembolism?", "expected": "unanswerable", "target": null}
+{"qid": "test-q075", "split": "test", "kind": "absent", "query": "What is the effect of dapagliflozin on erectile dysfunction?", "expected": "unanswerable", "target": null}
+{"qid": "test-q076", "split": "test", "kind": "absent", "query": "What is the effect of empagliflozin on hair loss?", "expected": "unanswerable", "target": null}
+{"qid": "test-q077", "split": "test", "kind": "absent", "query": "What is the effect of liraglutide on peripheral neuropathy?", "expected": "unanswerable", "target": null}
+{"qid": "test-q078", "split": "test", "kind": "absent", "query": "What is the effect of salt reduction interventions on hip fracture?", "expected": "unanswerable", "target": null}
+{"qid": "test-q079", "split": "test", "kind": "absent", "query": "What is the effect of salt substitute interventions on hair loss?", "expected": "unanswerable", "target": null}
+{"qid": "test-q080", "split": "test", "kind": "absent", "query": "What is the effect of conduction system pacing on bone mineral density?", "expected": "unanswerable", "target": null}
+{"qid": "test-q081", "split": "test", "kind": "absent", "query": "What is the effect of esaxerenone on cataract surgery?", "expected": "unanswerable", "target": null}
+{"qid": "test-q082", "split": "test", "kind": "absent", "query": "What is the effect of health education interventions on hip fracture?", "expected": "unanswerable", "target": null}
+{"qid": "test-q083", "split": "test", "kind": "absent", "query": "What is the effect of salt substitutes on bone mineral density?", "expected": "unanswerable", "target": null}
+{"qid": "test-q084", "split": "test", "kind": "absent", "query": "What is the effect of empagliflozin on migraine frequency?", "expected": "unanswerable", "target": null}
+{"qid": "test-q085", "split": "test", "kind": "absent", "query": "What is the effect of conduction system pacing on hip fracture?", "expected": "unanswerable", "target": null}
+{"qid": "test-q086", "split": "test", "kind": "absent", "query": "What is the effect of esaxerenone on venous thromboembolism?", "expected": "unanswerable", "target": null}

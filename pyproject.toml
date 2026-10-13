@@ -1,0 +1,68 @@
+[build-system]
+requires = ["hatchling>=1.21"]
+build-backend = "hatchling.build"
+
+[project]
+name = "evidencetrace-rag"
+version = "0.1.0"
+description = "Verifiable scientific evidence extraction: quantitative findings traced to source spans, checked for conflicts, with abstention."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Sobhan Shahbazi" }]
+requires-python = ">=3.11"
+keywords = ["evidence extraction", "RAG", "scientific literature", "provenance", "abstention", "NLP"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+dependencies = [
+    "pydantic>=2.5",
+]
+
+[project.urls]
+Homepage = "https://github.com/callmesobhan/evidencetrace-rag"
+Issues = "https://github.com/callmesobhan/evidencetrace-rag/issues"
+Documentation = "https://github.com/callmesobhan/evidencetrace-rag/blob/main/docs/known-issues.md"
+
+[project.optional-dependencies]
+# Dense retrieval + chunk index (LlamaIndex)
+llama = [
+    "llama-index-core>=0.11",
+    "llama-index-embeddings-huggingface>=0.3",
+]
+# BERT-family field tagger / NLI verifier / fine-tuning
+bert = [
+    "transformers>=4.41",
+    "torch>=2.2",
+    "datasets>=2.18",
+    "accelerate>=0.27",
+]
+# PDF ingestion
+pdf = ["pymupdf>=1.24"]
+dev = ["pytest>=8", "ruff>=0.5"]
+all = ["evidencetrace-rag[llama,bert,pdf,dev]"]
+
+[project.scripts]
+evidencetrace = "evidencetrace.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/evidencetrace"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 110
+src = ["src", "tests", "scripts"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]  # long regex / table lines; line-length still governs `ruff format`

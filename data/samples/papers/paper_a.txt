@@ -1,0 +1,22 @@
+Zeta-BP: A Randomized Trial of Drug Zeta in Adults With Hypertension
+[SYNTHETIC TEST DOCUMENT - fictional drug and fictional data]
+
+Abstract
+
+Drug Zeta reduced systolic blood pressure compared with placebo (mean difference −8.2 mmHg, 95% CI −10.1 to −6.3; p<0.001; n = 412).
+
+Introduction
+
+Hypertension is a leading risk factor for cardiovascular disease. Earlier small studies suggested that Drug Zeta might lower blood pressure, but results were inconsistent [1,2].
+
+Methods
+
+We randomized 412 adults with hypertension to Drug Zeta or placebo for 12 weeks. The primary outcome was change in systolic blood pressure.
+
+Results
+
+Drug Zeta reduced systolic blood pressure compared with placebo (mean difference −8.2 mmHg, 95% CI −10.1 to −6.3; p<0.001; n = 412). Drug Zeta reduced hospitalization compared with placebo (hazard ratio 0.78, 95% CI 0.65 to 0.93; p=0.006). Dizziness was more frequent in the Drug Zeta group, but the difference was small. Effects on stroke are shown in Figure 3.
+
+Discussion
+
+These results support a clinically meaningful blood pressure reduction with Drug Zeta in adults with hypertension.

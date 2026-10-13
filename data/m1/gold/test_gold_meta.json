@@ -1,0 +1,11 @@
+{
+  "split": "test",
+  "papers": 44,
+  "gold_findings": 360,
+  "from_candidates": 342,
+  "rejected": 13,
+  "added_missed": 18,
+  "corrections": 15,
+  "field_annotated": 29,
+  "reviewer": "single annotator: Claude (LLM), no second annotator, no human verification. Same annotator who developed the extractor (see docs/m1-report.md)."
+}

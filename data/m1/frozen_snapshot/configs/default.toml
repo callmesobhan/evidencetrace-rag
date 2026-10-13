@@ -1,0 +1,30 @@
+# Every key is optional; omitted keys fall back to the defaults in src/evidencetrace/config.py.
+# Unknown keys are rejected so typos fail loudly.
+
+[extraction]
+tagger = "rules"                          # "rules" | "bert"
+bert_model = "allenai/scibert_scivocab_uncased"   # swap for your fine-tuned checkpoint
+
+[retrieval]
+backend = "lexical"                       # "lexical" | "hybrid" (needs the `llama` extra)
+top_k = 8
+include_cited = false                     # findings the paper merely cites are excluded by default
+dense_model = "BAAI/bge-small-en-v1.5"
+chunk_chars = 1200
+rare_df_fraction = 0.10                    # query terms in <= this share of findings MUST be matched
+
+[verification]
+require_fields_in_span = true             # intervention/outcome/comparator strings must occur in the source sentence
+nli_model = ""                            # e.g. a cross-encoder NLI checkpoint; empty = disabled
+
+[conflicts]
+min_name_overlap = 0.6                    # token-Jaccard needed to call two findings "the same question"
+alpha = 0.05                              # significance level when only a p-value is available
+require_intervention_and_outcome = true
+
+[abstention]
+min_coverage = 0.7                        # share of (rarity-weighted) query terms a finding must cover
+min_confidence = 0.6                      # extractor confidence floor
+min_verified = 1                          # verified findings required to answer
+max_missing_rare = 0                      # rare query terms a finding may lack (0 = none; stops wrong-drug answers)
+conflict_mode = "report"                  # "report" (answer + flag) | "abstain"

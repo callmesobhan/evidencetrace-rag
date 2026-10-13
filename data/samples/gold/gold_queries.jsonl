@@ -1,0 +1,9 @@
+{"qid":"q1_sbp_conflicting","query":"What is the effect of Drug Zeta on systolic blood pressure compared with placebo?","expected_status":"conflicting","gold_findings":["g_a_sbp","g_c_sbp","g_d_sbp"],"gold_conflicts":[["g_a_sbp","g_c_sbp","magnitude"],["g_c_sbp","g_d_sbp","significance"]]}
+{"qid":"q2_hosp_direction","query":"Does Drug Zeta reduce hospitalization?","expected_status":"conflicting","gold_findings":["g_a_hosp","g_b_hosp"],"gold_conflicts":[["g_a_hosp","g_b_hosp","direction"]]}
+{"qid":"q3_mi_synonym","query":"Does Drug Omega reduce MI?","expected_status":"answered","gold_findings":["g_e_mi"]}
+{"qid":"q4_ldl","query":"What is the effect of Drug Omega on LDL cholesterol?","expected_status":"answered","gold_findings":["g_e_ldl"]}
+{"qid":"q5_stroke_figure_only","query":"What is the effect of Drug Zeta on stroke?","expected_status":"abstained"}
+{"qid":"q6_wrong_drug","query":"Does Drug Omega lower blood pressure?","expected_status":"abstained"}
+{"qid":"q7_unsupported_population","query":"What is the effect of Drug Zeta on systolic blood pressure in children?","expected_status":"abstained"}
+{"qid":"q8_no_outcome","query":"What is the effect of Drug Zeta on mortality?","expected_status":"abstained"}
+{"qid":"q9_qualitative_only","query":"What is the effect of Drug Zeta on dizziness?","expected_status":"abstained"}

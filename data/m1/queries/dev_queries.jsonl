@@ -1,0 +1,85 @@
+{"qid": "dev-q001", "split": "dev", "kind": "annotated", "query": "What is the effect of dapagliflozin on C-reactive protein?", "expected": "answerable", "target": "dev-g0033"}
+{"qid": "dev-q002", "split": "dev", "kind": "paraphrase", "query": "Does dapagliflozin reduce inflammation markers compared with placebo?", "expected": "answerable", "target": "dev-g0033"}
+{"qid": "dev-q003", "split": "dev", "kind": "annotated", "query": "What is the effect of dapagliflozin on left ventricular mass?", "expected": "answerable", "target": "dev-g0034"}
+{"qid": "dev-q004", "split": "dev", "kind": "paraphrase", "query": "How much does dapagliflozin change LV mass versus placebo?", "expected": "answerable", "target": "dev-g0034"}
+{"qid": "dev-q005", "split": "dev", "kind": "annotated", "query": "What is the effect of dapagliflozin on global longitudinal strain?", "expected": "answerable", "target": "dev-g0035"}
+{"qid": "dev-q006", "split": "dev", "kind": "paraphrase", "query": "Effect of dapagliflozin on GLS", "expected": "answerable", "target": "dev-g0035"}
+{"qid": "dev-q007", "split": "dev", "kind": "annotated", "query": "What is the effect of semaglutide on loop diuretic dose reduction?", "expected": "answerable", "target": "dev-g0056"}
+{"qid": "dev-q008", "split": "dev", "kind": "paraphrase", "query": "Is semaglutide associated with reduced loop diuretic dosing?", "expected": "answerable", "target": "dev-g0056"}
+{"qid": "dev-q009", "split": "dev", "kind": "annotated", "query": "What is the effect of semaglutide on loop diuretic dose increase?", "expected": "answerable", "target": "dev-g0057"}
+{"qid": "dev-q010", "split": "dev", "kind": "annotated", "query": "What is the effect of semaglutide on new starts of loop diuretics?", "expected": "answerable", "target": "dev-g0058"}
+{"qid": "dev-q011", "split": "dev", "kind": "annotated", "query": "What is the effect of planned early term birth on preeclampsia?", "expected": "answerable", "target": "dev-g0065"}
+{"qid": "dev-q012", "split": "dev", "kind": "annotated", "query": "What is the effect of chlorthalidone on doubling of serum creatinine, eGFR less than 15, or dialysis?", "expected": "answerable", "target": "dev-g0067"}
+{"qid": "dev-q013", "split": "dev", "kind": "paraphrase", "query": "Does chlorthalidone protect the kidneys better than hydrochlorothiazide?", "expected": "answerable", "target": "dev-g0067"}
+{"qid": "dev-q014", "split": "dev", "kind": "annotated", "query": "What is the effect of chlorthalidone on eGFR decrease by 40%, eGFR less than 15, or dialysis?", "expected": "answerable", "target": "dev-g0068"}
+{"qid": "dev-q015", "split": "dev", "kind": "annotated", "query": "What is the effect of FDI on hospitalization with infection as the main cause?", "expected": "answerable", "target": "dev-g0076"}
+{"qid": "dev-q016", "split": "dev", "kind": "paraphrase", "query": "Does ferric derisomaltose reduce infection-related hospital admissions?", "expected": "answerable", "target": "dev-g0076"}
+{"qid": "dev-q017", "split": "dev", "kind": "annotated", "query": "What is the effect of canagliflozin on anemia correction?", "expected": "answerable", "target": "dev-g0105"}
+{"qid": "dev-q018", "split": "dev", "kind": "paraphrase", "query": "Does canagliflozin help correct anemia?", "expected": "answerable", "target": "dev-g0105"}
+{"qid": "dev-q019", "split": "dev", "kind": "annotated", "query": "What is the effect of canagliflozin on incident anemia?", "expected": "answerable", "target": "dev-g0106"}
+{"qid": "dev-q020", "split": "dev", "kind": "paraphrase", "query": "Canagliflozin and the risk of developing anaemia", "expected": "answerable", "target": "dev-g0106"}
+{"qid": "dev-q021", "split": "dev", "kind": "annotated", "query": "What is the effect of canagliflozin on primary cardiorenal composite outcome?", "expected": "answerable", "target": "dev-g0107"}
+{"qid": "dev-q022", "split": "dev", "kind": "annotated", "query": "What is the effect of statin plus fenofibrate on hospitalization for heart failure?", "expected": "answerable", "target": "dev-g0169"}
+{"qid": "dev-q023", "split": "dev", "kind": "paraphrase", "query": "Does adding fenofibrate to a statin lower heart failure admissions?", "expected": "answerable", "target": "dev-g0169"}
+{"qid": "dev-q024", "split": "dev", "kind": "annotated", "query": "What is the effect of statin plus fenofibrate on composite of hospitalization for heart failure or cardiovascular death?", "expected": "answerable", "target": "dev-g0170"}
+{"qid": "dev-q025", "split": "dev", "kind": "annotated", "query": "What is the effect of statin plus fenofibrate on all-cause mortality?", "expected": "answerable", "target": "dev-g0172"}
+{"qid": "dev-q026", "split": "dev", "kind": "paraphrase", "query": "Does adding fenofibrate to statin therapy affect death from any cause?", "expected": "answerable", "target": "dev-g0172"}
+{"qid": "dev-q027", "split": "dev", "kind": "annotated", "query": "What is the effect of empagliflozin on recurrent hospitalization for heart failure?", "expected": "answerable", "target": "dev-g0206"}
+{"qid": "dev-q028", "split": "dev", "kind": "annotated", "query": "What is the effect of low-dose digoxin on LVEF?", "expected": "answerable", "target": "dev-g0209"}
+{"qid": "dev-q029", "split": "dev", "kind": "paraphrase", "query": "Effect of low-dose digoxin versus beta-blockers on left ventricular ejection fraction", "expected": "answerable", "target": "dev-g0209"}
+{"qid": "dev-q030", "split": "dev", "kind": "annotated", "query": "What is the effect of low-dose digoxin on TDI-derived s′?", "expected": "answerable", "target": "dev-g0213"}
+{"qid": "dev-q031", "split": "dev", "kind": "annotated", "query": "What is the effect of apixaban on ischemic stroke or systemic embolism?", "expected": "answerable", "target": "dev-g0245"}
+{"qid": "dev-q032", "split": "dev", "kind": "paraphrase", "query": "Does apixaban beat aspirin for preventing recurrent stroke?", "expected": "answerable", "target": "dev-g0245"}
+{"qid": "dev-q033", "split": "dev", "kind": "annotated", "query": "What is the effect of riociguat on 6-minute walk distance?", "expected": "answerable", "target": "dev-g0265"}
+{"qid": "dev-q034", "split": "dev", "kind": "paraphrase", "query": "How far can patients walk in six minutes after riociguat?", "expected": "answerable", "target": "dev-g0265"}
+{"qid": "dev-q035", "split": "dev", "kind": "annotated", "query": "What is the effect of riociguat on mean pulmonary artery pressure?", "expected": "answerable", "target": "dev-g0266"}
+{"qid": "dev-q036", "split": "dev", "kind": "paraphrase", "query": "Does riociguat reduce mPAP?", "expected": "answerable", "target": "dev-g0266"}
+{"qid": "dev-q037", "split": "dev", "kind": "annotated", "query": "What is the effect of aliskiren on NT-proBNP level?", "expected": "answerable", "target": "dev-g0308"}
+{"qid": "dev-q038", "split": "dev", "kind": "annotated", "query": "What is the effect of aliskiren on plasma renin activity?", "expected": "answerable", "target": "dev-g0309"}
+{"qid": "dev-q039", "split": "dev", "kind": "annotated", "query": "What is the effect of empagliflozin on electrolyte-free water clearance?", "expected": "answerable", "target": "dev-g0322"}
+{"qid": "dev-q040", "split": "dev", "kind": "paraphrase", "query": "Effect of empagliflozin on free water clearance", "expected": "answerable", "target": "dev-g0322"}
+{"qid": "dev-q041", "split": "dev", "kind": "annotated", "query": "What is the effect of empagliflozin on 24-hour urinary volume?", "expected": "answerable", "target": "dev-g0323"}
+{"qid": "dev-q042", "split": "dev", "kind": "paraphrase", "query": "Does empagliflozin increase urine output over 24 hours?", "expected": "answerable", "target": "dev-g0323"}
+{"qid": "dev-q043", "split": "dev", "kind": "annotated", "query": "What is the effect of empagliflozin on body weight?", "expected": "answerable", "target": "dev-g0335"}
+{"qid": "dev-q044", "split": "dev", "kind": "paraphrase", "query": "Does empagliflozin cause weight loss?", "expected": "answerable", "target": "dev-g0335"}
+{"qid": "dev-q045", "split": "dev", "kind": "cross", "query": "What is the effect of dapagliflozin on 6-minute walk distance?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q046", "split": "dev", "kind": "cross", "query": "What is the effect of dapagliflozin on plasma renin activity?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q047", "split": "dev", "kind": "cross", "query": "What is the effect of dapagliflozin on 24-hour urinary volume?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q048", "split": "dev", "kind": "cross", "query": "What is the effect of semaglutide on 6-minute walk distance?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q049", "split": "dev", "kind": "cross", "query": "What is the effect of semaglutide on preeclampsia?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q050", "split": "dev", "kind": "cross", "query": "What is the effect of semaglutide on composite of hospitalization for heart failure or cardiovascular death?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q051", "split": "dev", "kind": "cross", "query": "What is the effect of planned early term birth on anemia correction?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q052", "split": "dev", "kind": "cross", "query": "What is the effect of chlorthalidone on loop diuretic dose reduction?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q053", "split": "dev", "kind": "cross", "query": "What is the effect of chlorthalidone on mean pulmonary artery pressure?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q054", "split": "dev", "kind": "cross", "query": "What is the effect of FDI on 24-hour urinary volume?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q055", "split": "dev", "kind": "cross", "query": "What is the effect of canagliflozin on 24-hour urinary volume?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q056", "split": "dev", "kind": "cross", "query": "What is the effect of canagliflozin on all-cause mortality?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q057", "split": "dev", "kind": "cross", "query": "What is the effect of canagliflozin on body weight?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q058", "split": "dev", "kind": "cross", "query": "What is the effect of statin plus fenofibrate on NT-proBNP level?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q059", "split": "dev", "kind": "cross", "query": "What is the effect of statin plus fenofibrate on 24-hour urinary volume?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q060", "split": "dev", "kind": "cross", "query": "What is the effect of statin plus fenofibrate on LVEF?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q061", "split": "dev", "kind": "cross", "query": "What is the effect of empagliflozin on eGFR decrease by 40%, eGFR less than 15, or dialysis?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q062", "split": "dev", "kind": "cross", "query": "What is the effect of low-dose digoxin on body weight?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q063", "split": "dev", "kind": "cross", "query": "What is the effect of low-dose digoxin on incident anemia?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q064", "split": "dev", "kind": "cross", "query": "What is the effect of apixaban on composite of hospitalization for heart failure or cardiovascular death?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q065", "split": "dev", "kind": "cross", "query": "What is the effect of riociguat on C-reactive protein?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q066", "split": "dev", "kind": "cross", "query": "What is the effect of riociguat on body weight?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q067", "split": "dev", "kind": "cross", "query": "What is the effect of aliskiren on ischemic stroke or systemic embolism?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q068", "split": "dev", "kind": "cross", "query": "What is the effect of aliskiren on left ventricular mass?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q069", "split": "dev", "kind": "cross", "query": "What is the effect of empagliflozin on composite of hospitalization for heart failure or cardiovascular death?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q070", "split": "dev", "kind": "cross", "query": "What is the effect of empagliflozin on global longitudinal strain?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q071", "split": "dev", "kind": "cross", "query": "What is the effect of empagliflozin on global longitudinal strain?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q072", "split": "dev", "kind": "absent", "query": "What is the effect of low-dose digoxin on hair loss?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q073", "split": "dev", "kind": "absent", "query": "What is the effect of semaglutide on venous thromboembolism?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q074", "split": "dev", "kind": "absent", "query": "What is the effect of aliskiren on erectile dysfunction?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q075", "split": "dev", "kind": "absent", "query": "What is the effect of planned early term birth on peripheral neuropathy?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q076", "split": "dev", "kind": "absent", "query": "What is the effect of planned early term birth on hip fracture?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q077", "split": "dev", "kind": "absent", "query": "What is the effect of FDI on peripheral neuropathy?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q078", "split": "dev", "kind": "absent", "query": "What is the effect of low-dose digoxin on asthma exacerbations?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q079", "split": "dev", "kind": "absent", "query": "What is the effect of apixaban on cataract surgery?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q080", "split": "dev", "kind": "absent", "query": "What is the effect of statin plus fenofibrate on migraine frequency?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q081", "split": "dev", "kind": "absent", "query": "What is the effect of FDI on bone mineral density?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q082", "split": "dev", "kind": "absent", "query": "What is the effect of statin plus fenofibrate on erectile dysfunction?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q083", "split": "dev", "kind": "absent", "query": "What is the effect of canagliflozin on venous thromboembolism?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q084", "split": "dev", "kind": "absent", "query": "What is the effect of low-dose digoxin on hip fracture?", "expected": "unanswerable", "target": null}
+{"qid": "dev-q085", "split": "dev", "kind": "absent", "query": "What is the effect of empagliflozin on hip fracture?", "expected": "unanswerable", "target": null}

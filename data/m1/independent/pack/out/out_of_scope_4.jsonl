@@ -1,0 +1,8 @@
+{"doc_id": "P06", "quote": "MD = −2.75 mmHg, 95% CI = −7.73, 2.22, p = 0.005", "category": "within_arm_change"}
+{"doc_id": "P06", "quote": "MD = −0.83 mmHg, 95% CI = −5.81, 4.14, p = 0.02", "category": "within_arm_change"}
+{"doc_id": "P17", "quote": "effect estimate = −0.58; 95% CI, from −0.88 to −0.27; p = 0.0002", "category": "regression_coefficient"}
+{"doc_id": "P17", "quote": "effect estimate = −0.49; 95% CI, from −0.76 to −0.23; p = 0.0003", "category": "regression_coefficient"}
+{"doc_id": "P17", "quote": "effect estimate = −0.33; 95% CI, from −0.50 to −0.17; p = 4.91 × 10−5", "category": "regression_coefficient"}
+{"doc_id": "P17", "quote": "effect estimate = −0.20; 95% CI, from −0.33 to −0.07; p = 0.0003", "category": "regression_coefficient"}
+{"doc_id": "P32", "quote": "mean decrease, −24.00; 95% CI, −26.87 to −21.13", "category": "within_arm_change"}
+{"doc_id": "P32", "quote": "−12.83 (95% CI, −18.29 to −7.38)", "category": "within_arm_change"}

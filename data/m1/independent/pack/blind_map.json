@@ -1,0 +1,246 @@
+{
+ "P01": {
+  "pmcid": "PMC12829467",
+  "kind": "fresh"
+ },
+ "P02": {
+  "pmcid": "PMC8509872",
+  "kind": "fresh"
+ },
+ "P03": {
+  "pmcid": "PMC10134666",
+  "kind": "fresh"
+ },
+ "P04": {
+  "pmcid": "PMC10994293",
+  "kind": "fresh"
+ },
+ "P05": {
+  "pmcid": "PMC8169808",
+  "kind": "fresh"
+ },
+ "P06": {
+  "pmcid": "PMC10301309",
+  "kind": "fresh"
+ },
+ "P07": {
+  "pmcid": "PMC11615712",
+  "kind": "fresh"
+ },
+ "P08": {
+  "pmcid": "PMC8398996",
+  "kind": "fresh"
+ },
+ "P09": {
+  "pmcid": "PMC9101819",
+  "kind": "fresh"
+ },
+ "P10": {
+  "pmcid": "PMC8894447",
+  "kind": "fresh"
+ },
+ "P11": {
+  "pmcid": "PMC11564098",
+  "kind": "fresh"
+ },
+ "P12": {
+  "pmcid": "PMC11979726",
+  "kind": "fresh"
+ },
+ "P13": {
+  "pmcid": "PMC12549143",
+  "kind": "fresh"
+ },
+ "P14": {
+  "pmcid": "PMC9758656",
+  "kind": "fresh"
+ },
+ "P15": {
+  "pmcid": "PMC9728935",
+  "kind": "agreement"
+ },
+ "P16": {
+  "pmcid": "PMC10617730",
+  "kind": "fresh"
+ },
+ "P17": {
+  "pmcid": "PMC9318947",
+  "kind": "agreement"
+ },
+ "P18": {
+  "pmcid": "PMC7395780",
+  "kind": "fresh"
+ },
+ "P19": {
+  "pmcid": "PMC11031685",
+  "kind": "fresh"
+ },
+ "P20": {
+  "pmcid": "PMC11920666",
+  "kind": "fresh"
+ },
+ "P21": {
+  "pmcid": "PMC11360285",
+  "kind": "fresh"
+ },
+ "P22": {
+  "pmcid": "PMC9999507",
+  "kind": "fresh"
+ },
+ "P23": {
+  "pmcid": "PMC11046789",
+  "kind": "fresh"
+ },
+ "P24": {
+  "pmcid": "PMC10236696",
+  "kind": "fresh"
+ },
+ "P25": {
+  "pmcid": "PMC9556548",
+  "kind": "fresh"
+ },
+ "P26": {
+  "pmcid": "PMC12696593",
+  "kind": "fresh"
+ },
+ "P27": {
+  "pmcid": "PMC11834719",
+  "kind": "fresh"
+ },
+ "P28": {
+  "pmcid": "PMC11107897",
+  "kind": "fresh"
+ },
+ "P29": {
+  "pmcid": "PMC12703296",
+  "kind": "fresh"
+ },
+ "P30": {
+  "pmcid": "PMC11096866",
+  "kind": "fresh"
+ },
+ "P31": {
+  "pmcid": "PMC12492051",
+  "kind": "fresh"
+ },
+ "P32": {
+  "pmcid": "PMC11621983",
+  "kind": "fresh"
+ },
+ "P33": {
+  "pmcid": "PMC11348093",
+  "kind": "fresh"
+ },
+ "P34": {
+  "pmcid": "PMC11921422",
+  "kind": "fresh"
+ },
+ "P35": {
+  "pmcid": "PMC11170842",
+  "kind": "fresh"
+ },
+ "P36": {
+  "pmcid": "PMC11571715",
+  "kind": "fresh"
+ },
+ "P37": {
+  "pmcid": "PMC9329394",
+  "kind": "fresh"
+ },
+ "P38": {
+  "pmcid": "PMC8678693",
+  "kind": "fresh"
+ },
+ "P39": {
+  "pmcid": "PMC9856259",
+  "kind": "fresh"
+ },
+ "P40": {
+  "pmcid": "PMC10690462",
+  "kind": "fresh"
+ },
+ "P41": {
+  "pmcid": "PMC11519988",
+  "kind": "fresh"
+ },
+ "P42": {
+  "pmcid": "PMC10925021",
+  "kind": "fresh"
+ },
+ "P43": {
+  "pmcid": "PMC10620475",
+  "kind": "fresh"
+ },
+ "P44": {
+  "pmcid": "PMC10844441",
+  "kind": "agreement"
+ },
+ "P45": {
+  "pmcid": "PMC10116385",
+  "kind": "fresh"
+ },
+ "P46": {
+  "pmcid": "PMC11264293",
+  "kind": "fresh"
+ },
+ "P47": {
+  "pmcid": "PMC12117457",
+  "kind": "fresh"
+ },
+ "P48": {
+  "pmcid": "PMC13161807",
+  "kind": "fresh"
+ },
+ "P49": {
+  "pmcid": "PMC12603858",
+  "kind": "fresh"
+ },
+ "P50": {
+  "pmcid": "PMC9346972",
+  "kind": "fresh"
+ },
+ "P51": {
+  "pmcid": "PMC8908069",
+  "kind": "fresh"
+ },
+ "P52": {
+  "pmcid": "PMC11115458",
+  "kind": "agreement"
+ },
+ "P53": {
+  "pmcid": "PMC13064759",
+  "kind": "fresh"
+ },
+ "P54": {
+  "pmcid": "PMC9402888",
+  "kind": "fresh"
+ },
+ "P55": {
+  "pmcid": "PMC11922750",
+  "kind": "fresh"
+ },
+ "P56": {
+  "pmcid": "PMC13038427",
+  "kind": "fresh"
+ },
+ "P57": {
+  "pmcid": "PMC13452788",
+  "kind": "fresh"
+ },
+ "P58": {
+  "pmcid": "PMC13278951",
+  "kind": "fresh"
+ },
+ "P59": {
+  "pmcid": "PMC7902189",
+  "kind": "agreement"
+ },
+ "P60": {
+  "pmcid": "PMC11227112",
+  "kind": "fresh"
+ },
+ "P61": {
+  "pmcid": "PMC12810801",
+  "kind": "agreement"
+ }
+}

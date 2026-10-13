@@ -76,3 +76,52 @@ have affected.
   notation would overfit).
 - Thirty papers, five annotators, one rater per paper: the intervals above are wide, and there is no inter-rater
   statistic across annotators except on the 6 overlap papers.
+
+## Round 2: a clean holdout (25 papers, `holdout2/`)
+
+Round 1's post-fix figures are tuned on the papers they were measured on. Round 2 repeats the exercise on the **25 fresh papers
+that no annotator or developer had looked at**, with the predictions frozen first:
+
+1. The code (`../frozen_snapshot_holdout2`), the 168 predictions (`holdout2/predictions.jsonl`) and the annotator assignment
+   (`holdout2/assignment_{1,2,3}.txt`, seeded shuffle) were committed and pushed **before** any annotator started
+   (commit `d8abb62`, 2026-10-13 17:03 UTC); their hashes are in `../FROZEN.json` and checked by `scripts/verify_freeze.py`.
+2. Three new LLM annotators (fresh contexts) annotated 9 + 8 + 8 papers under guidelines v1 plus the v1.1 addendum, with the
+   prompt recorded in `docs/blind-annotator-prompt.md`. Output: `holdout2/out/`. 221 in-scope estimates, 62 out-of-scope
+   records, 16 flagged uncertain; every validator run ended with 0 problems.
+3. Scored with `scripts/score_blind.py` (`holdout2/scores`, lenient IRR~RR as in round 1; `scores_strict` too).
+
+| system as frozen before the annotation, 25 unseen papers | precision | recall | F1 |
+|---|---|---|---|
+| all (221 estimates, 168 predicted) | 0.952 [0.891, 0.994] | 0.724 [0.631, 0.808] | **0.823** [0.753, 0.876] |
+| 15 cardiometabolic | 0.966 | 0.702 | 0.813 [0.724, 0.879] |
+| 10 other domains | 0.922 | 0.783 | 0.847 [0.748, 0.956] |
+
+Attribution: 1 of 159 "own" labels was another study's result (0.6%); kappa 0.81 on matched findings.
+
+**What this adds to round 1.**
+- **The post-round-1 fixes changed nothing on unseen papers.** The pre-fix system (`predictions_prefix.jsonl`) and the post-review
+  system give *identical* predictions on these 25 papers (168 each; all 27 predictions added after round 1 fall in round-1 papers).
+  So the round-1 jump from 0.742 to 0.865 is the effect of tuning on those papers, and the fixes (credible intervals, LSMD, ...) target
+  notations that did not occur here. The honest out-of-sample estimate is the same for both systems.
+- **Pooling both rounds**, the frozen pre-fix system on **55 unseen papers** scores **F1 0.785 [0.707, 0.849]** (precision 0.909,
+  recall 0.691; two independent annotator groups).
+- **The "other domains" gap did not reproduce**: round 1 gave recall 0.365 on 15 non-cardiometabolic papers, round 2 gives 0.783 on 10. With
+  these sample sizes the intervals overlap widely, so "recall is much worse outside cardiometabolic" is **not established**; neither is its opposite.
+
+**Where the 61 misses come from** (the first missed sentence in each of 15 papers, run through the extractor; not exhaustive):
+- *Real format gaps:* a long filler between metric and value (`mean difference between the A and B groups in terms of ... was -1.80 kg`);
+  `OR per 0.1-μg/kg/min increase, 1.09 [95% CI ...]`; the metric named *after* the numbers (`13.0% (2.4-23.6%) absolute risk reduction`);
+  a subscripted label (`HRadjusted = 0.95; 95% CI = ...`); `95% posterior interval`; a continuation with no metric word
+  (`or 52 weeks (0.29, -0.5 to 1.2, p = 0.5)`); a list of bare ratios with no interval (`RRs were 1.40, 2.00, and 3.89`).
+- *Scope disagreements, where the extractor is arguably right:* unnamed differences (`adjusted difference -49.21 mL`,
+  `0.13 mm/mm Hg ... lower`) and a bare `d = 0.57; 95% CI ...`.
+- *Matching quirks:* the same estimate recorded with a different interval by system and annotator.
+The 8 system-only items include 4 within-arm changes phrased `Compared to their baseline, males in MBSR improved (MD ...)` and 2 `mean difference (SD)` values.
+
+**Protocol notes (as run).** Two annotators reported that a wildcard `wc -l` on `out/*.jsonl` showed them the *names and line counts*
+of other annotators' output files (not their contents); one reported that its first write of one paper's records vanished from its
+file and was re-added (the final counts match its report). The validator rejects two records with the same metric, value and
+interval in one paper, so an estimate printed identically for two outcomes was recorded once (noted in `note`); the system keeps both,
+so such a case can show as one extra false positive. Annotators flagged several papers whose abstract and Results print different
+values for what looks like the same estimate; both were recorded as printed.
+

@@ -1,0 +1,39 @@
+{"doc_id": "P18", "quote": "IVW estimate 0.14; 95% CI 0.06, 0.22; P = 0.0009", "category": "regression_coefficient"}
+{"doc_id": "P18", "quote": "IVW estimate − 0.19; 95% CI − 0.27, − 0.11; P = 3.34 × 10–06", "category": "regression_coefficient"}
+{"doc_id": "P18", "quote": "beta estimate 0.15; 95% CI 0.07, 0.23", "category": "regression_coefficient"}
+{"doc_id": "P18", "quote": "beta estimate − 0.14; 95% CI − 0.22, − 0.06", "category": "regression_coefficient"}
+{"doc_id": "P18", "quote": "beta estimate 0.14; 95% CI 0.06, 0.22", "category": "regression_coefficient"}
+{"doc_id": "P18", "quote": "triglycerides beta estimate − 0.19; 95% CI − 0.27, − 0.11", "category": "regression_coefficient"}
+{"doc_id": "P18", "quote": "31% of the total effect (95% CI 19–43%)", "category": "rate_or_proportion"}
+{"doc_id": "P18", "quote": "42% of the total effect (95% CI 25–58%)", "category": "rate_or_proportion"}
+{"doc_id": "P18", "quote": "27% of the total effect (95% CI 16–37%)", "category": "rate_or_proportion"}
+{"doc_id": "P18", "quote": "10% of the total effect (95% CI 6–14%)", "category": "rate_or_proportion"}
+{"doc_id": "P18", "quote": "13% of the total effect (95% CI 8–19%)", "category": "rate_or_proportion"}
+{"doc_id": "P25", "quote": "0.968 (0.952–0.978)", "category": "other"}
+{"doc_id": "P25", "quote": "0.971 (0.957–0.981)", "category": "other"}
+{"doc_id": "P25", "quote": "0.902 (0.853–0.934)", "category": "other"}
+{"doc_id": "P25", "quote": "0.955 (0.932–0.970)", "category": "other"}
+{"doc_id": "P31", "quote": "1.0 (95% CI, 0.2-1.7)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "1.0 (95% CI, 0.1-1.9)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "5.2 (95% CI, 2.8-9.8)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "5.5 (95% CI, 2.7-11.3)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "5.0 (95% CI, 4.3-5.7)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "4.1 (95% CI, 3.2-4.9)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "6.2 (95% CI, 4.5-7.9)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "4.3 (95% CI, 2.2-6.3)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "−3.1 points; 95% CI, −5.7 to −0.5 points", "category": "within_arm_change"}
+{"doc_id": "P31", "quote": "−3.3 points; 95% CI, −6.0 to −0.6 points", "category": "within_arm_change"}
+{"doc_id": "P31", "quote": "mean change, 1.5 points; 95% CI, −0.3 to 3.3 points", "category": "within_arm_change"}
+{"doc_id": "P31", "quote": "mean change, 1.5 points; 95% CI, −0.4 to 3.3 points", "category": "within_arm_change"}
+{"doc_id": "P31", "quote": "mean change, 2.1 rises; 95% CI, 0.1-4.0 rises", "category": "within_arm_change"}
+{"doc_id": "P31", "quote": "mean change, 2.5 rises; 95% CI, −0.6 to 4.4 rises", "category": "within_arm_change"}
+{"doc_id": "P31", "quote": "8.8 (95% CI, 8.2-9.3)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "8.7 (95% CI, 8.3-9.3)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "53.8% (95% CI, 32.4%-74.0%)", "category": "rate_or_proportion"}
+{"doc_id": "P31", "quote": "67.3% (95% CI, 44.2%-84.3%)", "category": "rate_or_proportion"}
+{"doc_id": "P41", "quote": "β = 0.09, 95% CI 0.03–0.15", "category": "regression_coefficient"}
+{"doc_id": "P41", "quote": "β = 0.07, 95% CI 0.01–0.13", "category": "regression_coefficient"}
+{"doc_id": "P56", "quote": "12.81% (SE = 5.06; 95% CI 2.88–22.73; P = 0.013)", "category": "unnamed_difference"}
+{"doc_id": "P56", "quote": "48.09% (SE = 17.16; 95% CI 14.46–81.72; P = 0.001)", "category": "unnamed_difference"}
+{"doc_id": "P56", "quote": "-2.32% (SE = 0.75; 95% CI -3.80 to -0.85; P = 0.002)", "category": "unnamed_difference"}
+{"doc_id": "P56", "quote": "-4.97% (SE = 2.06; 95% CI -9.01to -0.93; P = 0.016)", "category": "unnamed_difference"}

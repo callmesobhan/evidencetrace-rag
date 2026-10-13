@@ -1,0 +1,69 @@
+{"type": "system_only", "pmcid": "PMC8509872", "metric": "MD", "value": 2.38, "ci": null, "attribution": "own", "sentence": "The mean difference (follow-up minus baseline) of this score was 2.38 (2.4) in the intervention arm, which was significantly higher than that of the control group, 0.13 (1.8) (p<0.001) (Table 4)."}
+{"type": "system_only", "pmcid": "PMC8509872", "metric": "MD", "value": -0.23, "ci": null, "attribution": "own", "sentence": "The mean difference (SD) of waist circumference was -0.23 (9.1) cm in the usual care and -0.73 (8.2) cm in the intervention group (Table 4)."}
+{"type": "system_only", "pmcid": "PMC10617730", "metric": "MD", "value": 3.08, "ci": [0.3, 5.86], "attribution": "own", "sentence": "Compared to their baseline, males in MBSR group improved in stress (MD, 3.08; 95% CI, 0.30 to 5.86), anxiety (MD, 4.91; 95% CI, 3.32 to 6.50), and mindfulness (MD, -0.58; 95% CI, -1.01 to -0.15), while females improved in stress (MD, 2.64; 95% CI, 0.02 to 5.26)."}
+{"type": "system_only", "pmcid": "PMC10617730", "metric": "MD", "value": 4.91, "ci": [3.32, 6.5], "attribution": "own", "sentence": "Compared to their baseline, males in MBSR group improved in stress (MD, 3.08; 95% CI, 0.30 to 5.86), anxiety (MD, 4.91; 95% CI, 3.32 to 6.50), and mindfulness (MD, -0.58; 95% CI, -1.01 to -0.15), while females improved in stress (MD, 2.64; 95% CI, 0.02 to 5.26)."}
+{"type": "system_only", "pmcid": "PMC10617730", "metric": "MD", "value": -0.58, "ci": [-1.01, -0.15], "attribution": "own", "sentence": "Compared to their baseline, males in MBSR group improved in stress (MD, 3.08; 95% CI, 0.30 to 5.86), anxiety (MD, 4.91; 95% CI, 3.32 to 6.50), and mindfulness (MD, -0.58; 95% CI, -1.01 to -0.15), while females improved in stress (MD, 2.64; 95% CI, 0.02 to 5.26)."}
+{"type": "system_only", "pmcid": "PMC10617730", "metric": "MD", "value": 2.64, "ci": [0.02, 5.26], "attribution": "own", "sentence": "Compared to their baseline, males in MBSR group improved in stress (MD, 3.08; 95% CI, 0.30 to 5.86), anxiety (MD, 4.91; 95% CI, 3.32 to 6.50), and mindfulness (MD, -0.58; 95% CI, -1.01 to -0.15), while females improved in stress (MD, 2.64; 95% CI, 0.02 to 5.26)."}
+{"type": "system_only", "pmcid": "PMC11834719", "metric": "HR", "value": 1.4, "ci": null, "attribution": "own", "sentence": "HbA1c was the only risk factor significantly associated with the hazard for DR (hazard ratio 1.4; 95% posterior interval, 1.02-1.88, adjusted for group, age, and sex)."}
+{"type": "system_only", "pmcid": "PMC13278951", "metric": "RD", "value": 13.0, "ci": null, "attribution": "own", "sentence": "Absolute risk reduction was 13.0% in carriers and 1.0% in noncarriers (P interaction 0.03)."}
+{"type": "annotator_only", "pmcid": "PMC11031685", "metric": "MD", "value": -0.59, "ci": [-0.96, -0.21], "attribution": "own", "sentence": "week 4 of −0.59 points (95% CI, −0.96 to −0.21 points; d = 0.35; P = .002)"}
+{"type": "annotator_only", "pmcid": "PMC11031685", "metric": "MD", "value": -0.67, "ci": [-1.09, -0.25], "attribution": "own", "sentence": "to week 8, −0.67 points (95% CI, −1.09 to −0.25 points; d = 0.35; P = .002)"}
+{"type": "annotator_only", "pmcid": "PMC11031685", "metric": "MD", "value": 0.0042, "ci": null, "attribution": "own", "sentence": "which was 0.0042 greater than that in the KHE-only group"}
+{"type": "annotator_only", "pmcid": "PMC12703296", "metric": "MD", "value": -0.13, "ci": [-0.26, -0.04], "attribution": "own", "sentence": "0.13 mm/mm Hg (95% CI −0.26 to −0.04 mm/mm Hg, p=0.022) lower"}
+{"type": "annotator_only", "pmcid": "PMC12703296", "metric": "MD", "value": 3.1, "ci": [1.1, 5.7], "attribution": "own", "sentence": "by 3.1 WU, 95% CI 1.1 to 5.7 WU, p=0.014"}
+{"type": "annotator_only", "pmcid": "PMC12703296", "metric": "MD", "value": 2.0, "ci": [0.6, 3.5], "attribution": "own", "sentence": "by 2.0 WU, 95% CI 0.6 to 3.5 WU, p=0.012"}
+{"type": "annotator_only", "pmcid": "PMC12703296", "metric": "MD", "value": 13.0, "ci": [5.0, 23.0], "attribution": "own", "sentence": "elevated by 13 mm Hg (95% CI 5 to 23 mm Hg, p=0.004)"}
+{"type": "annotator_only", "pmcid": "PMC12703296", "metric": "MD", "value": -0.21, "ci": [-0.4, -0.03], "attribution": "own", "sentence": "reduced by 0.21 mm/mm Hg (95% CI −0.40 to −0.03 mm/mm Hg, p=0.032)"}
+{"type": "annotator_only", "pmcid": "PMC12703296", "metric": "MD", "value": -0.08, "ci": [-0.15, -0.01], "attribution": "own", "sentence": "by −0.08 mm/mm Hg (95% CI −0.15 to −0.01 mm/mm Hg, p=0.033)"}
+{"type": "annotator_only", "pmcid": "PMC12703296", "metric": "MD", "value": -529.0, "ci": [-906.0, -170.0], "attribution": "own", "sentence": "by −529 mL/min (95% CI −906 to −170 mL/min, p=0.014)"}
+{"type": "annotator_only", "pmcid": "PMC12703296", "metric": "MD", "value": -440.0, "ci": [-440.0, -433.0], "attribution": "own", "sentence": "−440 mL/min (95% CI −440 to −433 mL/min, p<0.001)"}
+{"type": "annotator_only", "pmcid": "PMC11264293", "metric": "MD", "value": -49.21, "ci": [-69.1, -29.32], "attribution": "own", "sentence": "adjusted difference −49.21 mL; 95% CI −69.10 to −29.32; P < 0.0001"}
+{"type": "annotator_only", "pmcid": "PMC11264293", "metric": "MD", "value": 10.28, "ci": [6.92, 13.65], "attribution": "own", "sentence": "adjusted difference 10.28%; 95% CI 6.92–13.65; P < 0.0001"}
+{"type": "annotator_only", "pmcid": "PMC11264293", "metric": "MD", "value": -1645.0, "ci": [-3204.0, -85.0], "attribution": "own", "sentence": "adjusted difference −1645 pg/mL; 95% CI −3204 to −85; P = 0.039"}
+{"type": "annotator_only", "pmcid": "PMC11264293", "metric": "MD", "value": 0.07, "ci": [-0.07, 0.2], "attribution": "own", "sentence": "adjusted difference 0.07; 95% CI −0.07 to 0.20; P = 0.32"}
+{"type": "annotator_only", "pmcid": "PMC11264293", "metric": "MD", "value": 22.54, "ci": [-41.84, 86.91], "attribution": "own", "sentence": "adjusted difference 22.54 m; 95% CI −41.84 to 86.91; P = 0.49"}
+{"type": "annotator_only", "pmcid": "PMC12117457", "metric": "OR", "value": 1.09, "ci": [1.05, 1.14], "attribution": "own", "sentence": "1.09 [95% CI, 1.05 to 1.14]; P < .001"}
+{"type": "annotator_only", "pmcid": "PMC12117457", "metric": "OR", "value": 0.99, "ci": [0.97, 1.0], "attribution": "own", "sentence": "0.99 [95% CI, 0.97 to 1.00]; P = .02"}
+{"type": "annotator_only", "pmcid": "PMC12117457", "metric": "MD", "value": -0.54, "ci": [-0.74, -0.34], "attribution": "own", "sentence": "−0.54 [95% CI, −0.74 to −0.34] days; P < .001"}
+{"type": "annotator_only", "pmcid": "PMC12117457", "metric": "MD", "value": 0.19, "ci": [0.09, 0.3], "attribution": "own", "sentence": "0.19 [95% CI, 0.09 to 0.30]; P < .001"}
+{"type": "annotator_only", "pmcid": "PMC12117457", "metric": "MD", "value": 0.49, "ci": [0.17, 0.82], "attribution": "own", "sentence": "0.49 [95% CI, 0.17 to 0.82] days; P = .003"}
+{"type": "annotator_only", "pmcid": "PMC12117457", "metric": "MD", "value": -2.1, "ci": [-3.16, -1.05], "attribution": "own", "sentence": "−2.10 [95% CI, −3.16 to −1.05] days; P < .001"}
+{"type": "annotator_only", "pmcid": "PMC13278951", "metric": "RD", "value": 13.0, "ci": [2.4, 23.6], "attribution": "own", "sentence": "13.0% (2.4–23.6%) absolute risk reduction (ARR)"}
+{"type": "annotator_only", "pmcid": "PMC13278951", "metric": "RD", "value": 1.0, "ci": [0.4, 1.6], "attribution": "own", "sentence": "1.0% (0.4–1.6%) ARR"}
+{"type": "annotator_only", "pmcid": "PMC13278951", "metric": "RD", "value": 12.8, "ci": [3.1, 22.4], "attribution": "own", "sentence": "ARR 12.8% (95% CI 3.1–22.4%)"}
+{"type": "annotator_only", "pmcid": "PMC13278951", "metric": "RD", "value": 0.6, "ci": [0.1, 1.1], "attribution": "own", "sentence": "0.6% (95% CI 0.1–1.1%)"}
+{"type": "annotator_only", "pmcid": "PMC11227112", "metric": "MD", "value": -1.0, "ci": [-1.2, -0.8], "attribution": "own", "sentence": "−1.0 [95% CI –1.2 to −0.8]; P < 0.001"}
+{"type": "annotator_only", "pmcid": "PMC11227112", "metric": "MD", "value": 4.9, "ci": [-0.8, 10.6], "attribution": "own", "sentence": "4.9 mmHg (95% CI −0.8 to 10.6; P = 0.089)"}
+{"type": "annotator_only", "pmcid": "PMC11227112", "metric": "MD", "value": 3.3, "ci": [-0.5, 7.2], "attribution": "own", "sentence": "3.3 mmHg (95% CI –0.5 to 7.2; P = 0.088)"}
+{"type": "annotator_only", "pmcid": "PMC11227112", "metric": "HR", "value": 1.55, "ci": [0.73, 3.31], "attribution": "own", "sentence": "1.55 (95% CI 0.73–3.31; P = 0.25)"}
+{"type": "annotator_only", "pmcid": "PMC11564098", "metric": "HR", "value": 0.95, "ci": [0.72, 1.24], "attribution": "own", "sentence": "HRadjusted = 0.95; 95% CI = 0.72, 1.24"}
+{"type": "annotator_only", "pmcid": "PMC11564098", "metric": "MD", "value": 0.85, "ci": [-1.38, 3.08], "attribution": "own", "sentence": "was 0.85 (95% CI = −1.38, 3.08)"}
+{"type": "annotator_only", "pmcid": "PMC7395780", "metric": "OR", "value": 0.97, "ci": [0.96, 0.98], "attribution": "own", "sentence": "OR 0.97; 95% CI 0.64, 1.46"}
+{"type": "annotator_only", "pmcid": "PMC7395780", "metric": "OR", "value": 0.98, "ci": [0.97, 0.99], "attribution": "own", "sentence": "father IVW estimate 0.98; 95% CI: 0.97, 0.99; P = 0.0008"}
+{"type": "annotator_only", "pmcid": "PMC7395780", "metric": "OR", "value": 0.6, "ci": [0.51, 0.72], "attribution": "own", "sentence": "IVW estimate 0.60; 95% CI 0.51, 0.72; P = 1.01 × 10–08"}
+{"type": "annotator_only", "pmcid": "PMC7395780", "metric": "OR", "value": 0.77, "ci": [0.71, 0.84], "attribution": "own", "sentence": "IVW estimate 0.77; 95% CI 0.71, 0.84; P = 1.08 × 10–08"}
+{"type": "annotator_only", "pmcid": "PMC7395780", "metric": "OR", "value": 0.94, "ci": [0.92, 0.96], "attribution": "own", "sentence": "IVW estimate 0.94; 95% CI 0.92, 0.96; P = 2.49 × 10–10"}
+{"type": "annotator_only", "pmcid": "PMC7395780", "metric": "OR", "value": 1.0, "ci": [1.0, 1.0], "attribution": "own", "sentence": "IVW estimate 1.00; 95% CI 1.00, 1.00; gestational diabetes, P = 0.1705"}
+{"type": "annotator_only", "pmcid": "PMC9556548", "metric": "MD", "value": -1.8, "ci": [-2.57, -1.03], "attribution": "own", "sentence": "− 1.80 kg (95% CI − 2.57, − 1.03)"}
+{"type": "annotator_only", "pmcid": "PMC9556548", "metric": "MD", "value": -1.39, "ci": [-2.49, -0.29], "attribution": "own", "sentence": "− 1.39 kg, 95% CI − 2.49, − 0.29"}
+{"type": "annotator_only", "pmcid": "PMC9556548", "metric": "MD", "value": -1.07, "ci": [-1.88, -0.27], "attribution": "own", "sentence": "− 1.07 kg, 95% CI − 1.88, − 0.27"}
+{"type": "annotator_only", "pmcid": "PMC9556548", "metric": "MD", "value": -0.31, "ci": [-1.51, 0.9], "attribution": "own", "sentence": "− 0.31 kg, 95% CI − 1.51, 0.90"}
+{"type": "annotator_only", "pmcid": "PMC9556548", "metric": "MD", "value": -0.05, "ci": null, "attribution": "own", "sentence": "visceral fat mass (− 0.05 kg, P = 0.696)"}
+{"type": "annotator_only", "pmcid": "PMC9556548", "metric": "MD", "value": -0.25, "ci": null, "attribution": "own", "sentence": "− 0.25 kg, P = 0.596"}
+{"type": "annotator_only", "pmcid": "PMC9556548", "metric": "MD", "value": -0.32, "ci": null, "attribution": "own", "sentence": "− 0.32 kg for protein, P = 0.039"}
+{"type": "annotator_only", "pmcid": "PMC13038427", "metric": "RR", "value": 2.0, "ci": null, "attribution": "own", "sentence": "were 1.40, 2.00, and 3.89 for the moderate-"}
+{"type": "annotator_only", "pmcid": "PMC13038427", "metric": "RR", "value": 11.05, "ci": null, "attribution": "own", "sentence": "RRs of 11.05 and 17.72"}
+{"type": "annotator_only", "pmcid": "PMC13038427", "metric": "RR", "value": 1.41, "ci": null, "attribution": "own", "sentence": "RRs of 1.41 and 1.50"}
+{"type": "annotator_only", "pmcid": "PMC13038427", "metric": "RR", "value": 1.5, "ci": null, "attribution": "own", "sentence": "RRs of 1.41 and 1.50"}
+{"type": "annotator_only", "pmcid": "PMC8509872", "metric": "OR", "value": 2.1, "ci": [1.01, 4.35], "attribution": "own", "sentence": "unadjusted odds ratio (95% CI) was 2.1 (1.03–4.29)"}
+{"type": "annotator_only", "pmcid": "PMC8509872", "metric": "OR", "value": 2.94, "ci": [1.25, 6.9], "attribution": "own", "sentence": "the odds increased to 2.94 (CI 1.25–6.9)"}
+{"type": "annotator_only", "pmcid": "PMC11834719", "metric": "HR", "value": 1.4, "ci": [1.02, 1.88], "attribution": "own", "sentence": "hazard ratio 1.4; 95% posterior interval, 1.02-1.88"}
+{"type": "annotator_only", "pmcid": "PMC9856259", "metric": "MD", "value": -10.1, "ci": [-11.7, -8.5], "attribution": "own", "sentence": "10.1 mm Hg greater in the intervention group than in the control group (95% CI, –11.7 to –8.5 mm Hg; P < .001)"}
+{"type": "annotator_only", "pmcid": "PMC9856259", "metric": "MD", "value": -1.8, "ci": [-2.8, -0.8], "attribution": "own", "sentence": "mean reduction of –1.8 mm Hg (95% CI, –2.8 to –0.8 mm Hg; P < .001)"}
+{"type": "annotator_only", "pmcid": "PMC9856259", "metric": "MD", "value": -9.7, "ci": [-11.4, -8.1], "attribution": "own", "sentence": "–9.7 mm Hg (95% CI, –11.4 to –8.1 mm Hg; P < .001)"}
+{"type": "annotator_only", "pmcid": "PMC9856259", "metric": "MD", "value": -1.7, "ci": [-2.7, -0.7], "attribution": "own", "sentence": "–1.7 mm Hg (95% CI, –2.7 to –0.7 mm Hg; P = .001)"}
+{"type": "annotator_only", "pmcid": "PMC9856259", "metric": "OR", "value": 1.18, "ci": null, "attribution": "own", "sentence": "OR, 1.18; 95% CI, 1.31-1.23; P < .001"}
+{"type": "annotator_only", "pmcid": "PMC10116385", "metric": "SMD", "value": 0.57, "ci": [0.22, 0.91], "attribution": "own", "sentence": "d = 0.57; 95% CI, 0.22-0.91"}
+{"type": "annotator_only", "pmcid": "PMC10116385", "metric": "SMD", "value": 0.4, "ci": [0.06, 0.74], "attribution": "own", "sentence": "d = 0.40; 95% CI, 0.06-0.74"}
+{"type": "annotator_only", "pmcid": "PMC10116385", "metric": "SMD", "value": 0.2, "ci": null, "attribution": "cited", "sentence": "USPSTF[12] review: d = 0.20"}
+{"type": "annotator_only", "pmcid": "PMC13161807", "metric": "MD", "value": 0.29, "ci": [-0.5, 1.2], "attribution": "own", "sentence": "(0.29, –0.5 to 1.2, p = 0.5)"}

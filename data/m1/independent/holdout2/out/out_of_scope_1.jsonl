@@ -1,0 +1,19 @@
+{"doc_id": "P16", "quote": "MD, 3.08; 95% CI, 0.30 to 5.86", "category": "within_arm_change"}
+{"doc_id": "P16", "quote": "MD, 4.91; 95% CI, 3.32 to 6.50", "category": "within_arm_change"}
+{"doc_id": "P16", "quote": "MD, -0.58; 95% CI, -1.01 to -0.15", "category": "within_arm_change"}
+{"doc_id": "P16", "quote": "MD, 2.64; 95% CI, 0.02 to 5.26", "category": "within_arm_change"}
+{"doc_id": "P29", "quote": "(95% CI −3.4 to 6.2, p=0.911)", "category": "unnamed_difference"}
+{"doc_id": "P29", "quote": "(95% CI −6% to −4%, p<0.001)", "category": "unnamed_difference"}
+{"doc_id": "P42", "quote": "Δ9.2%; 95% CI 0.29–18.1", "category": "unnamed_difference"}
+{"doc_id": "P42", "quote": "Δ11.1%; 95% CI 1.2–21.0", "category": "unnamed_difference"}
+{"doc_id": "P42", "quote": "Δ9.0%; 95% CI 0.30–17.7", "category": "unnamed_difference"}
+{"doc_id": "P42", "quote": "Δ11.0%; 95% CI 1.2–20.7", "category": "unnamed_difference"}
+{"doc_id": "P42", "quote": "Δ6.0%; 95% CI 0.08–12.1", "category": "unnamed_difference"}
+{"doc_id": "P42", "quote": "Δ3.9%; 95% CI 2.9–10.7", "category": "unnamed_difference"}
+{"doc_id": "P42", "quote": "3-year DFS rate of 93.4% (95% CI 88.6–98.1) in patients with tpCR versus 83.7% (95% CI 78.6–88.9)", "category": "rate_or_proportion"}
+{"doc_id": "P42", "quote": "the 5-year DFS rate was 92.4% (95% CI 87.3–97.5) versus 76.9% (95% CI 71.0–82.8)", "category": "rate_or_proportion"}
+{"doc_id": "P42", "quote": "the 3-year DFS rate was 92.7% (95% CI 87.1–98.3) versus 95.7% (87.3–100)", "category": "rate_or_proportion"}
+{"doc_id": "P42", "quote": "the 5-year DFS rate was 91.5% (95% CI 85.4–97.5) versus 95.7% (95% CI 87.3–100)", "category": "rate_or_proportion"}
+{"doc_id": "P42", "quote": "the 3-year DFS rate with pertuzumab versus placebo was 88.3% (95% CI 82.5–94.1) versus 76.8% (95% CI 67.4–86.2)", "category": "rate_or_proportion"}
+{"doc_id": "P42", "quote": "the 5-year DFS rate was 82.1% (95% CI 75.2–89.1) versus 68.8% (95% CI 58.5–79.2)", "category": "rate_or_proportion"}
+{"doc_id": "P60", "quote": "adjusted mean ratio 2.21 [95% CI 1.56–3.13]; P < 0.001", "category": "win_ratio_or_other_ratio"}

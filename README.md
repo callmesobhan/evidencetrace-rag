@@ -194,7 +194,9 @@ The frozen system was scored against annotations made without seeing its output
 
 So the 0.957 above describes cardiometabolic trials phrased the way the regexes were fitted to; it is **not** the
 system's general accuracy. Fixes made after seeing these papers raise their F1 to 0.865, but that number is tuned on
-them and is not held-out.
+them. A second blind round on **25 papers nobody had seen** (predictions frozen and pushed first) scores **F1 0.823**
+(precision 0.95, recall 0.72), and the fixes changed none of its predictions. Pooling both rounds, the frozen system's
+out-of-sample F1 on **55 unseen papers is 0.785 [0.707, 0.849]**.
 
 What this means: number extraction, the provenance check and (for drugs the corpus never pairs with the asked outcome
 in one sentence) wrong-drug protection work on cardiometabolic trial text; **entity/field tagging does not** (so

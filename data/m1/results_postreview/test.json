@@ -1,0 +1,1750 @@
+{
+ "extraction": {
+  "split": "test",
+  "papers": 48,
+  "predicted": 355,
+  "gold": 360,
+  "value_and_ci": {
+   "precision": [
+    0.96338028169,
+    0.90395480226,
+    0.997395833333
+   ],
+   "recall": [
+    0.95,
+    0.898701298701,
+    0.993006993007
+   ],
+   "f1": [
+    0.956643356643,
+    0.915773353752,
+    0.988115449915
+   ],
+   "counts": {
+    "tp": 342,
+    "fp": 13,
+    "fn": 18
+   }
+  },
+  "value_only": {
+   "precision": [
+    0.96338028169,
+    0.90395480226,
+    0.997395833333
+   ],
+   "recall": [
+    0.95,
+    0.898701298701,
+    0.993006993007
+   ],
+   "f1": [
+    0.956643356643,
+    0.915773353752,
+    0.988115449915
+   ],
+   "counts": {
+    "tp": 342,
+    "fp": 13,
+    "fn": 18
+   }
+  },
+  "attribution": {
+   "leak_rate_own_labelled_but_cited": [
+    0.009677419355,
+    0.0,
+    0.023411371237
+   ],
+   "own_precision": [
+    0.951612903226,
+    0.884615384615,
+    0.98944591029
+   ],
+   "counts": {
+    "predicted_own": 310,
+    "own_that_are_cited_in_gold": 3,
+    "predicted_cited": 45,
+    "cited_that_are_own_in_gold": 10
+   },
+   "accuracy_on_matched": 0.961988304094
+  },
+  "p_value_accuracy_on_matched": 1.0,
+  "n_accuracy_on_matched": 1.0,
+  "verification_pass_rate": 1.0,
+  "span_attribution_accuracy": 0.997076023392,
+  "fields": {
+   "annotated_pairs": 29,
+   "intervention": 0.172413793103,
+   "comparator": 0.068965517241,
+   "outcome": 0.062347614072,
+   "population": 0.5,
+   "fields_extracted_rate": 0.095774647887
+  },
+  "by_metric": {
+   "HR": 118,
+   "IRR": 2,
+   "MD": 83,
+   "OR": 82,
+   "RD": 3,
+   "RR": 49,
+   "SMD": 23
+  },
+  "missed_gold": [
+   "test-g0343",
+   "test-g0344",
+   "test-g0345",
+   "test-g0346",
+   "test-g0347",
+   "test-g0348",
+   "test-g0349",
+   "test-g0350",
+   "test-g0351",
+   "test-g0352",
+   "test-g0353",
+   "test-g0354",
+   "test-g0355",
+   "test-g0356",
+   "test-g0357",
+   "test-g0358",
+   "test-g0359",
+   "test-g0360"
+  ],
+  "spurious_pred": [
+   "f_3a8491717f68",
+   "f_3bf92b3c7da6",
+   "f_3e1e73754718",
+   "f_4966274e5606",
+   "f_565e5a0ab882",
+   "f_6c3d34107277",
+   "f_84480dad4a2c",
+   "f_a6b4a1ceb42e",
+   "f_bced753fe431",
+   "f_ca9d17359e07",
+   "f_cdd55f919971",
+   "f_d8c404a45c6b",
+   "f_ef7c979aedb7"
+  ],
+  "scope": {
+   "near_miss_sentences": 250,
+   "geometric_mean_ratio": 3,
+   "incidence_rate": 2,
+   "needs_manual_look_(audited)": 39,
+   "no_effect_estimate": 128,
+   "regression_coefficient": 7,
+   "relative_risk_reduction": 9,
+   "unnamed_estimate_with_ci": 62
+  }
+ },
+ "abstention": {
+  "split": "test",
+  "queries": {
+   "annotated": 29,
+   "paraphrase": 14,
+   "cross": 28,
+   "absent": 14
+  },
+  "answerable": {
+   "n": 43,
+   "over_abstention_rate": [
+    0.325581395349,
+    0.186046511628,
+    0.46511627907
+   ],
+   "hit_rate": [
+    0.674418604651,
+    0.53488372093,
+    0.813953488372
+   ],
+   "annotated_over_abstention": [
+    0.068965517241,
+    0.0,
+    0.172413793103
+   ],
+   "paraphrase_over_abstention": [
+    0.857142857143,
+    0.642857142857,
+    1.0
+   ],
+   "mean_findings_returned": 2.827586206897
+  },
+  "unanswerable": {
+   "n": 42,
+   "false_answer_rate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "cross_false_answer": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "absent_false_answer": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "aurc": 0.0,
+  "conflicts_reported": 0,
+  "answers_with_unassessed_pairs": 2,
+  "per_query": [
+   {
+    "qid": "test-q001",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of dapagliflozin on worsening heart failure or cardiovascular death?",
+    "expected": "answerable",
+    "target": "test-g0001",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q002",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of dapagliflozin on worsening heart failure or cardiovascular death?",
+    "expected": "answerable",
+    "target": "test-g0002",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q003",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of dapagliflozin on new-onset atrial fibrillation?",
+    "expected": "answerable",
+    "target": "test-g0009",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.6,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q004",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Does dapagliflozin lower the chance of developing atrial fibrillation?",
+    "expected": "answerable",
+    "target": "test-g0009",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q005",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of semaglutide on HbA1c?",
+    "expected": "answerable",
+    "target": "test-g0023",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.35,
+    "reasons": [
+     "low_confidence"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q006",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Which lowers glycated hemoglobin more, semaglutide or dapagliflozin?",
+    "expected": "answerable",
+    "target": "test-g0023",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q007",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of empagliflozin on first heart failure hospitalization?",
+    "expected": "answerable",
+    "target": "test-g0029",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 6,
+    "confidence": 0.6667,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 1
+   },
+   {
+    "qid": "test-q008",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of empagliflozin on total heart failure hospitalizations?",
+    "expected": "answerable",
+    "target": "test-g0030",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 6,
+    "confidence": 0.6667,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 1
+   },
+   {
+    "qid": "test-q009",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Does empagliflozin reduce repeat heart failure admissions?",
+    "expected": "answerable",
+    "target": "test-g0030",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q010",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of empagliflozin on first heart failure hospitalization or death attributable to heart failure?",
+    "expected": "answerable",
+    "target": "test-g0031",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q011",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of empagliflozin on first adverse event of heart failure or all-cause mortality?",
+    "expected": "answerable",
+    "target": "test-g0039",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 4,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q012",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of finerenone on key secondary kidney composite outcome?",
+    "expected": "answerable",
+    "target": "test-g0075",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.9,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q013",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Does finerenone protect kidney function?",
+    "expected": "answerable",
+    "target": "test-g0075",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q014",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of esaxerenone on any adverse events?",
+    "expected": "answerable",
+    "target": "test-g0087",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 5,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q015",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Is esaxerenone safe compared with placebo in terms of side effects?",
+    "expected": "answerable",
+    "target": "test-g0087",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q016",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of esaxerenone on drug-related adverse events?",
+    "expected": "answerable",
+    "target": "test-g0090",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 7,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q017",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of esaxerenone on discontinuation due to drug-related adverse events?",
+    "expected": "answerable",
+    "target": "test-g0091",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 7,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q018",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of CBTI on sleep regularity?",
+    "expected": "answerable",
+    "target": "test-g0140",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q019",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Does cognitive behavioral therapy for insomnia improve sleep regularity?",
+    "expected": "answerable",
+    "target": "test-g0140",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q020",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of CBTI on anxiety scores?",
+    "expected": "answerable",
+    "target": "test-g0142",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q021",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of liraglutide on stroke recurrence?",
+    "expected": "answerable",
+    "target": "test-g0146",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q022",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Does liraglutide prevent a second stroke?",
+    "expected": "answerable",
+    "target": "test-g0146",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q023",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of liraglutide on excellent functional outcome?",
+    "expected": "answerable",
+    "target": "test-g0148",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q024",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of conduction system pacing on hierarchical primary end point?",
+    "expected": "answerable",
+    "target": "test-g0158",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q025",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "How does conduction system pacing compare with biventricular pacing on the primary composite end point?",
+    "expected": "answerable",
+    "target": "test-g0158",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q026",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of conduction system pacing on LVEF increase?",
+    "expected": "answerable",
+    "target": "test-g0161",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.6,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q027",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of dapagliflozin on deterioration in KCCQ-TSS?",
+    "expected": "answerable",
+    "target": "test-g0176",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 4,
+    "confidence": 0.65,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q028",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Does dapagliflozin improve patient-reported symptoms on the KCCQ?",
+    "expected": "answerable",
+    "target": "test-g0176",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q029",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of RAASi on serum creatinine?",
+    "expected": "answerable",
+    "target": "test-g0251",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 3,
+    "confidence": 0.8,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q030",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of RAASi on kidney failure?",
+    "expected": "answerable",
+    "target": "test-g0256",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.9,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q031",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Do RAAS inhibitors reduce the risk of kidney failure?",
+    "expected": "answerable",
+    "target": "test-g0256",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q032",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of RAASi on doubling of serum creatinine?",
+    "expected": "answerable",
+    "target": "test-g0257",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.9,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q033",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of salt reduction interventions on systolic blood pressure?",
+    "expected": "answerable",
+    "target": "test-g0305",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 3,
+    "confidence": 0.6775,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q034",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Does cutting salt intake lower systolic blood pressure?",
+    "expected": "answerable",
+    "target": "test-g0305",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q035",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of salt reduction interventions on diastolic blood pressure?",
+    "expected": "answerable",
+    "target": "test-g0306",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q036",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of health education interventions on systolic blood pressure?",
+    "expected": "answerable",
+    "target": "test-g0307",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.6765,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q037",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of salt substitute interventions on systolic blood pressure?",
+    "expected": "answerable",
+    "target": "test-g0319",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q038",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Do salt substitutes reduce systolic pressure?",
+    "expected": "answerable",
+    "target": "test-g0319",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.6733,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q039",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of salt substitutes on diastolic blood pressure?",
+    "expected": "answerable",
+    "target": "test-g0320",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q040",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of strength training on systolic blood pressure?",
+    "expected": "answerable",
+    "target": "test-g0323",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 7,
+    "confidence": 0.67,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q041",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Does resistance exercise lower systolic blood pressure?",
+    "expected": "answerable",
+    "target": "test-g0323",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q042",
+    "split": "test",
+    "kind": "annotated",
+    "query": "What is the effect of strength training on diastolic blood pressure?",
+    "expected": "answerable",
+    "target": "test-g0324",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q043",
+    "split": "test",
+    "kind": "paraphrase",
+    "query": "Does resistance training reduce diastolic pressure?",
+    "expected": "answerable",
+    "target": "test-g0324",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q044",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of dapagliflozin on excellent functional outcome?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q045",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of dapagliflozin on diastolic blood pressure?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q046",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of dapagliflozin on excellent functional outcome?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q047",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of semaglutide on diastolic blood pressure?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q048",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of empagliflozin on discontinuation due to drug-related adverse events?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q049",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of empagliflozin on drug-related adverse events?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q050",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of empagliflozin on serum creatinine?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q051",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of empagliflozin on serum creatinine?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q052",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of finerenone on serum creatinine?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q053",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of esaxerenone on first heart failure hospitalization or death attributable to heart failure?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q054",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of esaxerenone on first adverse event of heart failure or all-cause mortality?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q056",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of CBTI on systolic blood pressure?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q057",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of CBTI on hierarchical primary end point?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q058",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of liraglutide on first heart failure hospitalization?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q059",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of liraglutide on systolic blood pressure?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q060",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of conduction system pacing on first heart failure hospitalization?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q061",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of conduction system pacing on first adverse event of heart failure or all-cause mortality?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q062",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of dapagliflozin on doubling of serum creatinine?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q063",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of RAASi on systolic blood pressure?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q064",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of RAASi on diastolic blood pressure?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q065",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of RAASi on worsening heart failure or cardiovascular death?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q066",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of salt reduction interventions on stroke recurrence?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q067",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of salt reduction interventions on new-onset atrial fibrillation?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q068",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of health education interventions on new-onset atrial fibrillation?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q069",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of salt substitute interventions on first heart failure hospitalization or death attributable to heart failure?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q070",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of salt substitutes on first adverse event of heart failure or all-cause mortality?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q071",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of strength training on first heart failure hospitalization?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q072",
+    "split": "test",
+    "kind": "cross",
+    "query": "What is the effect of strength training on drug-related adverse events?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q073",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of empagliflozin on hip fracture?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q074",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of salt substitutes on venous thromboembolism?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q075",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of dapagliflozin on erectile dysfunction?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q076",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of empagliflozin on hair loss?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q077",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of liraglutide on peripheral neuropathy?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q078",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of salt reduction interventions on hip fracture?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q079",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of salt substitute interventions on hair loss?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q080",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of conduction system pacing on bone mineral density?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q081",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of esaxerenone on cataract surgery?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q082",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of health education interventions on hip fracture?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q083",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of salt substitutes on bone mineral density?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q084",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of empagliflozin on migraine frequency?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q085",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of conduction system pacing on hip fracture?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "test-q086",
+    "split": "test",
+    "kind": "absent",
+    "query": "What is the effect of esaxerenone on venous thromboembolism?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   }
+  ]
+ }
+}

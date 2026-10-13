@@ -1,0 +1,130 @@
+{
+ "frozen_at_utc": "2026-10-13T08:44:44+00:00",
+ "code_and_config_sha256": "0a5844f9a3fa176d0e7f52405c319a8401fac5dab478115b429d94115f63e3de",
+ "files": 37,
+ "dev_gold_sha256": "03683870c36987a77bd1dfbff3904f279f2e6c53768a0efca7b797c100e57490",
+ "note": "Extraction, verification, retrieval and abstention code frozen BEFORE the test split's candidate sheets were generated or read. Any later change to these files invalidates the test numbers.",
+ "post_hoc": {
+  "files_changed_since_freeze": [
+   "src/evidencetrace/config.py",
+   "src/evidencetrace/evaluation/m1_queries.py",
+   "src/evidencetrace/extraction/candidates.py",
+   "src/evidencetrace/pipeline.py",
+   "src/evidencetrace/retrieval/lexical.py",
+   "src/evidencetrace/verification/provenance.py"
+  ],
+  "why": [
+   "retrieval: opt-in retrieval.rarity_unit='papers' (default 'findings' = frozen behaviour); one big meta-analysis made its drug look common and let 2 wrong-drug answers through on test",
+   "verification: '%-' is a range separator, not a minus sign (1 false provenance rejection on test)",
+   "verification+extraction: scientific-notation p-values ('1.02 x 10-6' was read as p=1.02; 2 wrong p-values on test)",
+   "evaluation: run_queries(exclude=...) to drop one audited query-label error"
+  ],
+  "test_status": "Numbers in data/m1/results/ come from the frozen snapshot (data/m1/frozen_snapshot/) and are the held-out result. Numbers in data/m1/results_posthoc/ use the changed code + configs/posthoc.toml and are NOT held-out (the changes were motivated by test failures).",
+  "threshold_chosen_on": "dev only (rare_df_fraction=0.20 for rarity_unit='papers')",
+  "files_changed_between_test_freeze_and_fresh_holdout_freeze": {
+   "changed": [
+    "src/evidencetrace/config.py",
+    "src/evidencetrace/evaluation/m1_queries.py",
+    "src/evidencetrace/extraction/candidates.py",
+    "src/evidencetrace/ingest/pmc.py",
+    "src/evidencetrace/pipeline.py",
+    "src/evidencetrace/retrieval/lexical.py",
+    "src/evidencetrace/verification/provenance.py"
+   ],
+   "added": [],
+   "removed": []
+  },
+  "intermediate_state_note": "The source exactly as it stood when the first post-hoc run was made (recorded earlier as 25f6d4df...) was not preserved and no hash of it can be re-verified; the two states that ARE preserved and hash-verified are frozen_snapshot (test freeze) and frozen_snapshot_fresh (held-out fresh predictions)."
+ },
+ "fresh_holdout": {
+  "frozen_at_utc": "2026-10-13T09:38:26+00:00",
+  "src_sha256": "38071df95d34285a4cb7c8b21b1ae1ab6d7b44eed26af2cc2bad3af7011be9c4",
+  "predictions_sha256": "98b5140af54cf0a9d528be9596905f26d75c18d354db633da2b51741e2c6868f",
+  "papers": 61,
+  "predictions": 371,
+  "note": "System predictions on the 55 fresh papers (+6 agreement papers) were generated and hashed BEFORE any independent annotation of them existed. The fresh papers were never seen during development.",
+  "manifest_sha256": "c3a34dc79e588c5e76a48933e4694f46125b9bd175f52c8bc8383a504ce7d0f7",
+  "src_snapshot": "data/m1/frozen_snapshot_fresh",
+  "predictions_file": "data/m1/independent/predictions_prefix.jsonl",
+  "regenerate": "PYTHONPATH=data/m1/frozen_snapshot_fresh/src python scripts/predict_papers.py --map data/m1/independent/pack/blind_map.json --raw-fresh data/raw/fresh --raw-main data/raw/pmc --config data/m1/frozen_snapshot_fresh/configs/default.toml --out OUT.jsonl  # byte-identical to predictions_file"
+ },
+ "fetch_manifest_sha256_at_freeze": "70aece3e8a5b39749d67342aec120dbd6755d994ecbf1c1dd79c641787c37a5f",
+ "fetch_manifest_note": "sha256 of data/raw/pmc/manifest.jsonl, the discovery fetch's own output (git-ignored, 111 rows); it is NOT the committed data/m1/corpus_manifest.jsonl, which has the same PMCIDs plus per-file sha256/bytes columns added by the pinning step, so it cannot be verified from the repo",
+ "pinned_manifest_sha256": "309219f7337ebd58d6153895ccc88206357783d8f5ab81f39997cb88cea5817b",
+ "hash_algorithms": "tree hash = sha256 over each file under the directory in ascending POSIX relative path order: the path as UTF-8, then the bytes (__pycache__ excluded); file hash = sha256 of the bytes. Recompute everything with scripts/verify_freeze.py",
+ "post_review": {
+  "what": "Changes made AFTER the independent annotation and the red-team review. NOT held-out for anything they were motivated by.",
+  "files_changed_since_fresh_holdout_freeze": {
+   "changed": [
+    "src/evidencetrace/cli.py",
+    "src/evidencetrace/config.py",
+    "src/evidencetrace/evaluation/m1.py",
+    "src/evidencetrace/evaluation/m1_queries.py",
+    "src/evidencetrace/evaluation/metrics.py",
+    "src/evidencetrace/evaluation/runner.py",
+    "src/evidencetrace/extraction/candidates.py",
+    "src/evidencetrace/extraction/extractor.py",
+    "src/evidencetrace/ingest/document.py",
+    "src/evidencetrace/ingest/parsers.py",
+    "src/evidencetrace/pipeline.py",
+    "src/evidencetrace/schemas.py",
+    "src/evidencetrace/store.py",
+    "src/evidencetrace/textnorm.py",
+    "src/evidencetrace/verification/conflicts.py",
+    "src/evidencetrace/verification/provenance.py"
+   ],
+   "added": [
+    "src/evidencetrace/errors.py"
+   ],
+   "removed": []
+  },
+  "why": [
+   "extraction: credible intervals, LSMD, Cohen d/Hedges g, 'absolute difference in risk', number-inside-filler, DOI and within-arm guards, sign loss after a filler (independent annotation)",
+   "extraction: scientific-notation p-values (3.1e-4, 1.2 x 10^-5, P<10-4), Lancet middle-dot decimals, heart-rate / RR-interval guards, 6000-character sentence cap (red-team review)",
+   "verification: positional 'estimate_reproduced' check, hash recomputed from the text, e-notation numbers (red-team review)",
+   "ids: finding_id includes the interval and is unique per document; restatements collapse across sentences only (red-team review)",
+   "evaluation: AURC over answered queries only; field F1 ignores None/None pairs (red-team review)",
+   "conflicts: 'p<0.05' counts as significant; differing units / MD vs SMD are not compared (red-team review)"
+  ],
+  "results": "data/m1/results_postreview/ (dev + test, current code + configs/posthoc.toml) and data/m1/independent/scores_postreview_lenient/"
+ },
+ "pinned_files": {
+  "algorithm": "file hash (sha256 of bytes); paths relative to data/m1/",
+  "files": {
+   "gold/dev_gold_findings.jsonl": "03683870c36987a77bd1dfbff3904f279f2e6c53768a0efca7b797c100e57490",
+   "gold/test_gold_findings.jsonl": "f6b3e49cf999948f652cfade01fc863280e9327bdd48d5a09e73faeafa754e48",
+   "gold/dev_gold_meta.json": "377687a157640d7f7eaec35953290e655929c51757bb71e65f05fc45301a07da",
+   "gold/test_gold_meta.json": "9dfffb219d75c27df2c75bb82053d489ba96d8c548a25d86edc28c4900b24dc1",
+   "queries/dev_paraphrases.json": "6a0162524b973e9cec6e4dd974f55f398356f97a3f94bbac118c274f2e7770e4",
+   "queries/dev_queries.jsonl": "35b8d9ac82e2e61581c6636b4c433209bb1b051e388ecc6213098cb5aec648b9",
+   "queries/label_corrections.json": "4963749bfdcbf43bae0665826a1e6640f56291db041b0dbd95800aa4d24878bf",
+   "queries/test_paraphrases.json": "723232325706c071793e26e61f6a705ef74a4edccb4e1207ab3b2658fcd13f9c",
+   "queries/test_queries.jsonl": "5b297fe9703666c6895775a7a04aee98de0acf2c57d7cd8e87eea65ee37fd1d9",
+   "annotation/dev_review.json": "8e2aeb76043c7361fb94ece248387bd0184198197f8077c093a6f5bdba62e85b",
+   "annotation/test_review.json": "bda1b50376d92afce318603b6d1e9b5eae3e9e3dd481d47c3a025dc8f667ec37",
+   "annotation/dev_candidates.jsonl": "deb85d2bf8d27c891b0fc3def9f8754c0a3a8b42bd26d2160c6bebaa9015565b",
+   "annotation/dev_nearmiss.jsonl": "5915a073b8e7abe0b5e90819fb02a883b2aaabb9e343f3e578ce0833078cd283",
+   "annotation/test_candidates.jsonl": "369860896bcaaa0e1e14f6f20916bbf5695246930706c3edfc56b8a2c30742b8",
+   "annotation/test_nearmiss.jsonl": "686743b76cbfd719746bf26d071d58cb470b9369e7bfb35342cafde86a58292b",
+   "annotation/v1/dev_candidates_v1.jsonl": "504eb023037760e89c5c12b7fea670d8e2097d673944ce927c86520579495fb9",
+   "independent/pack/assignment_1.txt": "54988c467a8f88c47f132a0578c14421a105eaeaf789566be56a8ecf780b344b",
+   "independent/pack/assignment_2.txt": "aa79dea9c69c5e07c4b9532fd071b411cfe4a3fc0d1adc445d836707586d1a22",
+   "independent/pack/assignment_3.txt": "81b354aeadfa6ce6bf4ea93fa7e9198950d6ddaa47b0aae6431aa6f90c8cd94c",
+   "independent/pack/assignment_4.txt": "50f73f3c3cdf90f7d81a85de97f34b4b8b458bdd790f8fa08bc97e94f2b18924",
+   "independent/pack/assignment_5.txt": "c8eb6cba8fba04b729473cbd58e5c2e94e8091f8c33da0b7043a6bc65fb23ea3",
+   "independent/pack/blind_map.json": "c8cea507cce56de87b5449cf2125bbc54e978aaf74b459f9a4507a270214c43a",
+   "independent/pack/chosen.json": "2f0871658bbdf27858a3be10ddb372109d133423b935d29ae6fc376b54557c32",
+   "independent/pack/out/annotations_1.jsonl": "25f52c586cd8950cf553da21c159624cebbecac1d7a7787e63e30ddfd709eb64",
+   "independent/pack/out/annotations_2.jsonl": "82f9b5cc9582e2a87175e9a86c6ed3451b6bbf3663b129061c09b9c6c634ecc7",
+   "independent/pack/out/annotations_3.jsonl": "81e5ea6396fa4a075efc665b0e54e83e824349e996d58b97de47449a31cc04df",
+   "independent/pack/out/annotations_4.jsonl": "701203baac5b18cd64bdc1ea9b8b019d229a7a7b8cb3af1c3782c58355b7624c",
+   "independent/pack/out/annotations_5.jsonl": "cd5c17e1a296348364494537c077c0f8ce887df64230ed3ae789992824bbbcae",
+   "independent/pack/out/out_of_scope_1.jsonl": "6bca8ec65aed7f977fd8e4ef6f3444cf30d5c9cb4fa5aa513696bed758d61486",
+   "independent/pack/out/out_of_scope_2.jsonl": "e7ea8dd5d3e27b68df61ab2e0b317c35fdbb399796f1ee1fa37cafdd5bafe7c3",
+   "independent/pack/out/out_of_scope_3.jsonl": "9cae3e120d1737e50421fac2e98db771e1100b90c0c09b86fe1d76a4167d7da1",
+   "independent/pack/out/out_of_scope_4.jsonl": "d1a67c0b7fa07f043fa40ee313977683a331181da696584a1006f54d0adabfea",
+   "independent/pack/out/out_of_scope_5.jsonl": "07ca768a074874ee3de3a7e336c458cd120f58a5c0cf07b3ae168b991d953242"
+  }
+ },
+ "limits_of_this_record": "Hashes show that a file is unchanged since this record was written. They cannot show WHEN code or gold was frozen relative to the test annotation: the timestamps here are self-reported by the author, and the whole procedure was run by one party."
+}

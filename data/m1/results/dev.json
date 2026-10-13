@@ -1,0 +1,1768 @@
+{
+ "extraction": {
+  "split": "dev",
+  "papers": 63,
+  "predicted": 464,
+  "gold": 482,
+  "value_and_ci": {
+   "precision": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "recall": [
+    0.96265560166,
+    0.936936936937,
+    0.983725135624
+   ],
+   "f1": [
+    0.980972515856,
+    0.967441860465,
+    0.991795806746
+   ],
+   "counts": {
+    "tp": 464,
+    "fp": 0,
+    "fn": 18
+   }
+  },
+  "value_only": {
+   "precision": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "recall": [
+    0.96265560166,
+    0.936936936937,
+    0.983725135624
+   ],
+   "f1": [
+    0.980972515856,
+    0.967441860465,
+    0.991795806746
+   ],
+   "counts": {
+    "tp": 464,
+    "fp": 0,
+    "fn": 18
+   }
+  },
+  "attribution": {
+   "leak_rate_own_labelled_but_cited": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "own_precision": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "counts": {
+    "predicted_own": 437,
+    "own_that_are_cited_in_gold": 0,
+    "predicted_cited": 27,
+    "cited_that_are_own_in_gold": 6
+   },
+   "accuracy_on_matched": 0.987068965517
+  },
+  "p_value_accuracy_on_matched": 0.995689655172,
+  "n_accuracy_on_matched": 1.0,
+  "verification_pass_rate": 1.0,
+  "span_attribution_accuracy": 0.997844827586,
+  "fields": {
+   "annotated_pairs": 35,
+   "intervention": 0.057142857143,
+   "comparator": 0.085714285714,
+   "outcome": 0.035714285714,
+   "population": 0.942857142857,
+   "fields_extracted_rate": 0.109913793103
+  },
+  "by_metric": {
+   "HR": 224,
+   "IRR": 5,
+   "MD": 114,
+   "OR": 72,
+   "RD": 13,
+   "RR": 45,
+   "SMD": 9
+  },
+  "missed_gold": [
+   "dev-g0297",
+   "dev-g0373",
+   "dev-g0411",
+   "dev-g0465",
+   "dev-g0466",
+   "dev-g0467",
+   "dev-g0468",
+   "dev-g0469",
+   "dev-g0470",
+   "dev-g0471",
+   "dev-g0472",
+   "dev-g0473",
+   "dev-g0474",
+   "dev-g0475",
+   "dev-g0476",
+   "dev-g0477",
+   "dev-g0478",
+   "dev-g0479",
+   "dev-g0480",
+   "dev-g0481",
+   "dev-g0482"
+  ],
+  "spurious_pred": [],
+  "scope": {
+   "near_miss_sentences": 331,
+   "auc": 2,
+   "geometric_mean_ratio": 2,
+   "incidence_rate": 14,
+   "median_difference": 2,
+   "needs_manual_look_(audited)": 41,
+   "no_effect_estimate": 198,
+   "non_english": 2,
+   "regression_coefficient": 29,
+   "relative_risk_reduction": 12,
+   "unnamed_estimate_with_ci": 28,
+   "win_ratio": 1
+  },
+  "baseline_v1": {
+   "predicted": 355,
+   "precision": [
+    0.777464788732,
+    0.685314685315,
+    0.857438016529
+   ],
+   "recall": [
+    0.572614107884,
+    0.46875,
+    0.669245647969
+   ],
+   "f1": [
+    0.659498207885,
+    0.562237762238,
+    0.745689655172
+   ],
+   "counts": {
+    "tp": 276,
+    "fp": 79,
+    "fn": 206
+   }
+  }
+ },
+ "abstention": {
+  "split": "dev",
+  "queries": {
+   "annotated": 27,
+   "paraphrase": 17,
+   "cross": 27,
+   "absent": 14
+  },
+  "answerable": {
+   "n": 44,
+   "over_abstention_rate": [
+    0.363636363636,
+    0.227272727273,
+    0.5
+   ],
+   "hit_rate": [
+    0.613636363636,
+    0.477272727273,
+    0.75
+   ],
+   "annotated_over_abstention": [
+    0.185185185185,
+    0.037037037037,
+    0.37037037037
+   ],
+   "paraphrase_over_abstention": [
+    0.647058823529,
+    0.411764705882,
+    0.882352941176
+   ],
+   "mean_findings_returned": 2.0
+  },
+  "unanswerable": {
+   "n": 41,
+   "false_answer_rate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "cross_false_answer": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "absent_false_answer": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "aurc": 0.328060483591,
+  "conflicts_reported": 0,
+  "answers_with_unassessed_pairs": 0,
+  "per_query": [
+   {
+    "qid": "dev-q001",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of dapagliflozin on C-reactive protein?",
+    "expected": "answerable",
+    "target": "dev-g0033",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.6167,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q002",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Does dapagliflozin reduce inflammation markers compared with placebo?",
+    "expected": "answerable",
+    "target": "dev-g0033",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q003",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of dapagliflozin on left ventricular mass?",
+    "expected": "answerable",
+    "target": "dev-g0034",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q004",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "How much does dapagliflozin change LV mass versus placebo?",
+    "expected": "answerable",
+    "target": "dev-g0034",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.6167,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q005",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of dapagliflozin on global longitudinal strain?",
+    "expected": "answerable",
+    "target": "dev-g0035",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 3,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q006",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Effect of dapagliflozin on GLS",
+    "expected": "answerable",
+    "target": "dev-g0035",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 3,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q007",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of semaglutide on loop diuretic dose reduction?",
+    "expected": "answerable",
+    "target": "dev-g0056",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.65,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q008",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Is semaglutide associated with reduced loop diuretic dosing?",
+    "expected": "answerable",
+    "target": "dev-g0056",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q009",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of semaglutide on loop diuretic dose increase?",
+    "expected": "answerable",
+    "target": "dev-g0057",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 3,
+    "confidence": 0.6333,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q010",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of semaglutide on new starts of loop diuretics?",
+    "expected": "answerable",
+    "target": "dev-g0058",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q011",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of planned early term birth on preeclampsia?",
+    "expected": "answerable",
+    "target": "dev-g0065",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q012",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of chlorthalidone on doubling of serum creatinine, eGFR less than 15, or dialysis?",
+    "expected": "answerable",
+    "target": "dev-g0067",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q013",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Does chlorthalidone protect the kidneys better than hydrochlorothiazide?",
+    "expected": "answerable",
+    "target": "dev-g0067",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q014",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of chlorthalidone on eGFR decrease by 40%, eGFR less than 15, or dialysis?",
+    "expected": "answerable",
+    "target": "dev-g0068",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q015",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of FDI on hospitalization with infection as the main cause?",
+    "expected": "answerable",
+    "target": "dev-g0076",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 3,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q016",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Does ferric derisomaltose reduce infection-related hospital admissions?",
+    "expected": "answerable",
+    "target": "dev-g0076",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q017",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of canagliflozin on anemia correction?",
+    "expected": "answerable",
+    "target": "dev-g0105",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q018",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Does canagliflozin help correct anemia?",
+    "expected": "answerable",
+    "target": "dev-g0105",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q019",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of canagliflozin on incident anemia?",
+    "expected": "answerable",
+    "target": "dev-g0106",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q020",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Canagliflozin and the risk of developing anaemia",
+    "expected": "answerable",
+    "target": "dev-g0106",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q021",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of canagliflozin on primary cardiorenal composite outcome?",
+    "expected": "answerable",
+    "target": "dev-g0107",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q022",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of statin plus fenofibrate on hospitalization for heart failure?",
+    "expected": "answerable",
+    "target": "dev-g0169",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q023",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Does adding fenofibrate to a statin lower heart failure admissions?",
+    "expected": "answerable",
+    "target": "dev-g0169",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q024",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of statin plus fenofibrate on composite of hospitalization for heart failure or cardiovascular death?",
+    "expected": "answerable",
+    "target": "dev-g0170",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q025",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of statin plus fenofibrate on all-cause mortality?",
+    "expected": "answerable",
+    "target": "dev-g0172",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q026",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Does adding fenofibrate to statin therapy affect death from any cause?",
+    "expected": "answerable",
+    "target": "dev-g0172",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q027",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of empagliflozin on recurrent hospitalization for heart failure?",
+    "expected": "answerable",
+    "target": "dev-g0206",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q028",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of low-dose digoxin on LVEF?",
+    "expected": "answerable",
+    "target": "dev-g0209",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q029",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Effect of low-dose digoxin versus beta-blockers on left ventricular ejection fraction",
+    "expected": "answerable",
+    "target": "dev-g0209",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q030",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of low-dose digoxin on TDI-derived s\u2032?",
+    "expected": "answerable",
+    "target": "dev-g0213",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q031",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of apixaban on ischemic stroke or systemic embolism?",
+    "expected": "answerable",
+    "target": "dev-g0245",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 5,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q032",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Does apixaban beat aspirin for preventing recurrent stroke?",
+    "expected": "answerable",
+    "target": "dev-g0245",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q033",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of riociguat on 6-minute walk distance?",
+    "expected": "answerable",
+    "target": "dev-g0265",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q034",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "How far can patients walk in six minutes after riociguat?",
+    "expected": "answerable",
+    "target": "dev-g0265",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q035",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of riociguat on mean pulmonary artery pressure?",
+    "expected": "answerable",
+    "target": "dev-g0266",
+    "status": "answered",
+    "answered": true,
+    "hit": false,
+    "correct": false,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q036",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Does riociguat reduce mPAP?",
+    "expected": "answerable",
+    "target": "dev-g0266",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 1,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q037",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of aliskiren on NT-proBNP level?",
+    "expected": "answerable",
+    "target": "dev-g0308",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 4,
+    "confidence": 0.6,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q038",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of aliskiren on plasma renin activity?",
+    "expected": "answerable",
+    "target": "dev-g0309",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 5,
+    "confidence": 0.6,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q039",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of empagliflozin on electrolyte-free water clearance?",
+    "expected": "answerable",
+    "target": "dev-g0322",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q040",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Effect of empagliflozin on free water clearance",
+    "expected": "answerable",
+    "target": "dev-g0322",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q041",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of empagliflozin on 24-hour urinary volume?",
+    "expected": "answerable",
+    "target": "dev-g0323",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q042",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Does empagliflozin increase urine output over 24 hours?",
+    "expected": "answerable",
+    "target": "dev-g0323",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q043",
+    "split": "dev",
+    "kind": "annotated",
+    "query": "What is the effect of empagliflozin on body weight?",
+    "expected": "answerable",
+    "target": "dev-g0335",
+    "status": "abstained",
+    "answered": false,
+    "hit": false,
+    "correct": false,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q044",
+    "split": "dev",
+    "kind": "paraphrase",
+    "query": "Does empagliflozin cause weight loss?",
+    "expected": "answerable",
+    "target": "dev-g0335",
+    "status": "answered",
+    "answered": true,
+    "hit": true,
+    "correct": true,
+    "n_findings": 2,
+    "confidence": 0.7,
+    "reasons": [],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q045",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of dapagliflozin on 6-minute walk distance?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q046",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of dapagliflozin on plasma renin activity?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q047",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of dapagliflozin on 24-hour urinary volume?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q048",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of semaglutide on 6-minute walk distance?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q049",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of semaglutide on preeclampsia?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q050",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of semaglutide on composite of hospitalization for heart failure or cardiovascular death?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q051",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of planned early term birth on anemia correction?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q052",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of chlorthalidone on loop diuretic dose reduction?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q053",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of chlorthalidone on mean pulmonary artery pressure?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q054",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of FDI on 24-hour urinary volume?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q055",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of canagliflozin on 24-hour urinary volume?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q056",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of canagliflozin on all-cause mortality?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q057",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of canagliflozin on body weight?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q058",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of statin plus fenofibrate on NT-proBNP level?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q059",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of statin plus fenofibrate on 24-hour urinary volume?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q060",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of statin plus fenofibrate on LVEF?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q061",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of empagliflozin on eGFR decrease by 40%, eGFR less than 15, or dialysis?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q062",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of low-dose digoxin on body weight?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q063",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of low-dose digoxin on incident anemia?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q064",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of apixaban on composite of hospitalization for heart failure or cardiovascular death?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q065",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of riociguat on C-reactive protein?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q066",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of riociguat on body weight?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q067",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of aliskiren on ischemic stroke or systemic embolism?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q068",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of aliskiren on left ventricular mass?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q069",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of empagliflozin on composite of hospitalization for heart failure or cardiovascular death?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q070",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of empagliflozin on global longitudinal strain?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q071",
+    "split": "dev",
+    "kind": "cross",
+    "query": "What is the effect of empagliflozin on global longitudinal strain?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q072",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of low-dose digoxin on hair loss?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q073",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of semaglutide on venous thromboembolism?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q074",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of aliskiren on erectile dysfunction?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q075",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of planned early term birth on peripheral neuropathy?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q076",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of planned early term birth on hip fracture?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q077",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of FDI on peripheral neuropathy?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q078",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of low-dose digoxin on asthma exacerbations?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q079",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of apixaban on cataract surgery?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q080",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of statin plus fenofibrate on migraine frequency?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q081",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of FDI on bone mineral density?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q082",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of statin plus fenofibrate on erectile dysfunction?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q083",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of canagliflozin on venous thromboembolism?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q084",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of low-dose digoxin on hip fracture?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   },
+   {
+    "qid": "dev-q085",
+    "split": "dev",
+    "kind": "absent",
+    "query": "What is the effect of empagliflozin on hip fracture?",
+    "expected": "unanswerable",
+    "target": null,
+    "status": "abstained",
+    "answered": false,
+    "hit": null,
+    "correct": true,
+    "n_findings": 0,
+    "confidence": 0.0,
+    "reasons": [
+     "low_coverage"
+    ],
+    "conflicts": 0,
+    "caveats": 0
+   }
+  ]
+ }
+}

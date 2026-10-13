@@ -1,0 +1,27 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+
+# local workspaces + generated reports
+.evidencetrace/
+reports/*
+!reports/.gitkeep
+
+# model artifacts / raw corpora (never commit)
+models/
+data/raw/
+*.pdf
+
+# editors / OS / tooling
+.DS_Store
+.env
+.coverage
+htmlcov/
+.mypy_cache/
+.vscode/
+.idea/
+uv.lock

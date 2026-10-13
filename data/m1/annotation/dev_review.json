@@ -1,0 +1,831 @@
+{
+ "split": "dev",
+ "reviewer": "single annotator: Claude (LLM), no second annotator, no human verification",
+ "rejected": [],
+ "corrections": [
+  {
+   "match": {
+    "metric": "MD",
+    "value": -407.8,
+    "ci": [
+     -793.47,
+     39.55
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 1.7,
+    "ci": [
+     1.55,
+     1.87
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.86,
+    "ci": [
+     0.74,
+     0.998
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -197.16,
+    "ci": [
+     -331.28,
+     -63.03
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 0.4,
+    "ci": [
+     0.11,
+     1.44
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.79,
+    "ci": [
+     0.49,
+     1.27
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  }
+ ],
+ "missed": [
+  {
+   "doc_id": "PMC11241903",
+   "quote": "-2.61%; 95% CI: -4.17% to -1.04%, p = 0.002",
+   "metric": "MD",
+   "value": -2.61,
+   "ci": [
+    -4.17,
+    -1.04
+   ],
+   "p_value": 0.002,
+   "p_operator": "=",
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC11241903",
+   "quote": "-0.26%; 95% CI: -2.03–1.50%, p = 0.757",
+   "metric": "MD",
+   "value": -0.26,
+   "ci": [
+    -2.03,
+    1.5
+   ],
+   "p_value": 0.757,
+   "p_operator": "=",
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC11593758",
+   "quote": "−0.07, 95% CI −0.16 to 0.02; p = 0.146",
+   "metric": "RD",
+   "value": -0.07,
+   "ci": [
+    -0.16,
+    0.02
+   ],
+   "p_value": 0.146,
+   "p_operator": "=",
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC12303511",
+   "quote": "after 7 to 12 months 1.52, 1.40 to 1.64",
+   "metric": "RR",
+   "value": 1.52,
+   "ci": [
+    1.4,
+    1.64
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC12303511",
+   "quote": "after 13 to 24 months 1.23, 1.10 to 1.37",
+   "metric": "RR",
+   "value": 1.23,
+   "ci": [
+    1.1,
+    1.37
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC12303511",
+   "quote": "after 7 to 12 months −1.80, −1.85 to −1.75",
+   "metric": "MD",
+   "value": -1.8,
+   "ci": [
+    -1.85,
+    -1.75
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC12575409",
+   "quote": "57.2% (95% CI 38.1–76.2, p < 0.001)",
+   "metric": "RD",
+   "value": 57.2,
+   "ci": [
+    38.1,
+    76.2
+   ],
+   "p_value": 0.001,
+   "p_operator": "<",
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC12575409",
+   "quote": "61.2% (95% CI 42.0–80.4, p < 0.001)",
+   "metric": "RD",
+   "value": 61.2,
+   "ci": [
+    42.0,
+    80.4
+   ],
+   "p_value": 0.001,
+   "p_operator": "<",
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC7238362",
+   "quote": "−0.007 mm (95% CI −0.043 to 0.030, p = 0.724)",
+   "metric": "MD",
+   "value": -0.007,
+   "ci": [
+    -0.043,
+    0.03
+   ],
+   "p_value": 0.724,
+   "p_operator": "=",
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC7594536",
+   "quote": "day 3, −7.44 mmol/L [95% CI, −21.75 to 6.88]; P=0.62",
+   "metric": "MD",
+   "value": -7.44,
+   "ci": [
+    -21.75,
+    6.88
+   ],
+   "p_value": 0.62,
+   "p_operator": "=",
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC7594536",
+   "quote": "day 3, 33.6 mmol/d [95% CI, −11.8 to 79.0]; P=0.22",
+   "metric": "MD",
+   "value": 33.6,
+   "ci": [
+    -11.8,
+    79.0
+   ],
+   "p_value": 0.22,
+   "p_operator": "=",
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC7594536",
+   "quote": "week 6: 17.9 mmol/d [95% CI, −27.2 to 63.0]; P>0.99",
+   "metric": "MD",
+   "value": 17.9,
+   "ci": [
+    -27.2,
+    63.0
+   ],
+   "p_value": 0.99,
+   "p_operator": ">",
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC7617792",
+   "quote": "=1.02 (95% CI 0.41,2.52); p=0.69",
+   "metric": "RR",
+   "value": 1.02,
+   "ci": [
+    0.41,
+    2.52
+   ],
+   "p_value": 0.69,
+   "p_operator": "=",
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC7617792",
+   "quote": "=0.54 (95%CI 0.24-1.23)",
+   "metric": "OR",
+   "value": 0.54,
+   "ci": [
+    0.24,
+    1.23
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC7814507",
+   "quote": "2.0, 95% confidence interval 1.5 to 2.7",
+   "metric": "RR",
+   "value": 2.0,
+   "ci": [
+    1.5,
+    2.7
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC7814507",
+   "quote": "1.5, 1.1 to 1.9",
+   "metric": "RR",
+   "value": 1.5,
+   "ci": [
+    1.1,
+    1.9
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC8880395",
+   "quote": "0.22 (CI: 0.04–1.21)",
+   "metric": "OR",
+   "value": 0.22,
+   "ci": [
+    0.04,
+    1.21
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null,
+   "note": null
+  },
+  {
+   "doc_id": "PMC8987969",
+   "quote": "5.43 (95% CI 2.41-12.25; P<.001)",
+   "metric": "OR",
+   "value": 5.43,
+   "ci": [
+    2.41,
+    12.25
+   ],
+   "p_value": 0.001,
+   "p_operator": "<",
+   "n": null,
+   "note": null
+  }
+ ],
+ "fields": [
+  {
+   "match": {
+    "metric": "MD",
+    "value": -1.96,
+    "ci": [
+     -3.68,
+     -0.24
+    ]
+   },
+   "intervention": "dapagliflozin",
+   "comparator": "placebo",
+   "outcome": "C-reactive protein",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -3.74,
+    "ci": [
+     -6.24,
+     -1.24
+    ]
+   },
+   "intervention": "dapagliflozin",
+   "comparator": "placebo",
+   "outcome": "left ventricular mass",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -1.32,
+    "ci": [
+     -2.59,
+     -0.04
+    ]
+   },
+   "intervention": "dapagliflozin",
+   "comparator": "placebo",
+   "outcome": "global longitudinal strain",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.29,
+    "ci": [
+     0.16,
+     0.52
+    ]
+   },
+   "intervention": "semaglutide",
+   "comparator": "placebo",
+   "outcome": "new starts of loop diuretics",
+   "population": "patients not on loop diuretics at baseline"
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 2.67,
+    "ci": [
+     1.7,
+     4.18
+    ]
+   },
+   "intervention": "semaglutide",
+   "comparator": "placebo",
+   "outcome": "loop diuretic dose reduction",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 0.35,
+    "ci": [
+     0.23,
+     0.53
+    ]
+   },
+   "intervention": "semaglutide",
+   "comparator": "placebo",
+   "outcome": "loop diuretic dose increase",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.51,
+    "ci": [
+     0.41,
+     0.62
+    ]
+   },
+   "intervention": "canagliflozin",
+   "comparator": "placebo",
+   "outcome": "incident anemia",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.7,
+    "ci": [
+     0.56,
+     0.87
+    ]
+   },
+   "intervention": "canagliflozin",
+   "comparator": "placebo",
+   "outcome": "primary cardiorenal composite outcome",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 2.55,
+    "ci": [
+     2.01,
+     3.24
+    ]
+   },
+   "intervention": "canagliflozin",
+   "comparator": "placebo",
+   "outcome": "anemia correction",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 4.9,
+    "ci": [
+     0.8,
+     9.0
+    ]
+   },
+   "intervention": "E2 intervention",
+   "comparator": "usual care",
+   "outcome": "systolic blood pressure at 6 months",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.94,
+    "ci": [
+     0.81,
+     1.08
+    ]
+   },
+   "intervention": "chlorthalidone",
+   "comparator": "hydrochlorothiazide",
+   "outcome": "doubling of serum creatinine, eGFR less than 15, or dialysis",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.96,
+    "ci": [
+     0.87,
+     1.06
+    ]
+   },
+   "intervention": "chlorthalidone",
+   "comparator": "hydrochlorothiazide",
+   "outcome": "eGFR decrease by 40%, eGFR less than 15, or dialysis",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.8,
+    "ci": [
+     0.65,
+     0.98
+    ]
+   },
+   "intervention": "statin plus fenofibrate",
+   "comparator": "statin only",
+   "outcome": "hospitalization for heart failure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.79,
+    "ci": [
+     0.65,
+     0.96
+    ]
+   },
+   "intervention": "statin plus fenofibrate",
+   "comparator": "statin only",
+   "outcome": "composite of hospitalization for heart failure or cardiovascular death",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.73,
+    "ci": [
+     0.62,
+     0.86
+    ]
+   },
+   "intervention": "statin plus fenofibrate",
+   "comparator": "statin only",
+   "outcome": "all-cause mortality",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 2.5,
+    "ci": [
+     1.0,
+     4.06
+    ]
+   },
+   "intervention": null,
+   "comparator": "placebo",
+   "outcome": "change in LVEF at 1 year",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 0.74,
+    "ci": [
+     0.56,
+     0.98
+    ]
+   },
+   "intervention": "planned early term birth",
+   "comparator": "usual care at term",
+   "outcome": "preeclampsia",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.76,
+    "ci": [
+     0.49,
+     0.98
+    ]
+   },
+   "intervention": "FDI",
+   "comparator": "usual care",
+   "outcome": "hospitalization with infection as the main cause",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 27.23,
+    "ci": [
+     8.28,
+     46.18
+    ]
+   },
+   "intervention": "riociguat",
+   "comparator": "placebo",
+   "outcome": "6-minute walk distance",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -2.61,
+    "ci": [
+     -4.6,
+     -0.63
+    ]
+   },
+   "intervention": "riociguat",
+   "comparator": "placebo",
+   "outcome": "mean pulmonary artery pressure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 312,
+    "ci": [
+     26,
+     598
+    ]
+   },
+   "intervention": "empagliflozin",
+   "comparator": "placebo",
+   "outcome": "electrolyte-free water clearance",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 535,
+    "ci": [
+     133,
+     936
+    ]
+   },
+   "intervention": "empagliflozin",
+   "comparator": "placebo",
+   "outcome": "24-hour urinary volume",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -1.71,
+    "ci": [
+     -2.9,
+     -0.53
+    ]
+   },
+   "intervention": "empagliflozin",
+   "comparator": "placebo",
+   "outcome": "body weight",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 1.45,
+    "ci": [
+     1.22,
+     1.73
+    ]
+   },
+   "intervention": "low-dose digoxin",
+   "comparator": "beta-blockers",
+   "outcome": "TDI-derived s′",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 2.3,
+    "ci": [
+     0.3,
+     4.2
+    ]
+   },
+   "intervention": "low-dose digoxin",
+   "comparator": "beta-blockers",
+   "outcome": "LVEF",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 0.9,
+    "ci": [
+     0.1,
+     1.6
+    ]
+   },
+   "intervention": "experimental group",
+   "comparator": "control group",
+   "outcome": "intrinsic motivation to change eating habits",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -0.6,
+    "ci": [
+     -1.2,
+     -0.1
+    ]
+   },
+   "intervention": "experimental group",
+   "comparator": "control group",
+   "outcome": "amotivation",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.72,
+    "ci": [
+     0.67,
+     0.77
+    ]
+   },
+   "intervention": "intervention",
+   "comparator": "usual care",
+   "outcome": "total cardiovascular disease",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 0.25,
+    "ci": [
+     -0.01,
+     0.51
+    ]
+   },
+   "intervention": "intervention group",
+   "comparator": "control group",
+   "outcome": "HbA1c",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -4.41,
+    "ci": [
+     -5.52,
+     -3.3
+    ]
+   },
+   "intervention": "intervention",
+   "comparator": "usual care",
+   "outcome": "systolic blood pressure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 1.87,
+    "ci": [
+     1.51,
+     2.31
+    ]
+   },
+   "intervention": "intervention",
+   "comparator": "usual care",
+   "outcome": "blood pressure control",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.43,
+    "ci": [
+     0.22,
+     0.85
+    ]
+   },
+   "intervention": "apixaban",
+   "comparator": "aspirin",
+   "outcome": "ischemic stroke or systemic embolism",
+   "population": "patients without hypertension with high-risk features"
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": -0.12,
+    "ci": [
+     -0.21,
+     -0.03
+    ]
+   },
+   "intervention": "aliskiren",
+   "comparator": null,
+   "outcome": "NT-proBNP level",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": -0.66,
+    "ci": [
+     -0.89,
+     -0.44
+    ]
+   },
+   "intervention": "aliskiren",
+   "comparator": null,
+   "outcome": "plasma renin activity",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.62,
+    "ci": [
+     0.46,
+     0.82
+    ]
+   },
+   "intervention": "empagliflozin",
+   "comparator": "placebo",
+   "outcome": "recurrent hospitalization for heart failure",
+   "population": "sinus rhythm"
+  }
+ ]
+}

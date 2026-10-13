@@ -1,0 +1,1 @@
+{"test": [{"qid": "test-q055", "reason": "Labelled unanswerable ('cross'), but the esaxerenone meta-analysis writes the drug as 'ESAX' and does report SBP effects. The 'provably absent' check ignored the paper's own abbreviation definitions. The system's answer was correct; annotation error."}]}

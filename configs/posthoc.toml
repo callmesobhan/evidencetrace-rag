@@ -1,0 +1,6 @@
+# M1 post-hoc variant: counts rarity over PAPERS instead of findings.
+# The fraction (0.20) was chosen on the DEV split only; the test split was already scored once with
+# the frozen config (configs/default.toml), so test numbers under this file are NOT held-out.
+[retrieval]
+rarity_unit = "papers"
+rare_df_fraction = 0.20

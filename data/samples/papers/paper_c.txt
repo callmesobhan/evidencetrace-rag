@@ -1,0 +1,18 @@
+Zeta-Pilot: A Small Pilot Trial of Drug Zeta for Blood Pressure
+[SYNTHETIC TEST DOCUMENT - fictional drug and fictional data]
+
+Abstract
+
+In a pilot trial of 96 adults, Drug Zeta did not significantly reduce systolic blood pressure compared with placebo.
+
+Methods
+
+Ninety-six adults with mild hypertension were randomized to Drug Zeta or placebo for 8 weeks.
+
+Results
+
+Drug Zeta did not significantly reduce systolic blood pressure compared with placebo (mean difference −2.1 mmHg, 95% CI −5.0 to 0.8; p=0.15; n = 96).
+
+Discussion
+
+The pilot was not powered to detect small effects.

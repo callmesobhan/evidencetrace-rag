@@ -1,0 +1,946 @@
+{
+ "split": "test",
+ "reviewer": "single annotator: Claude (LLM), no second annotator, no human verification. Same annotator who developed the extractor (see docs/m1-report.md).",
+ "rejected": [
+  {
+   "match": {
+    "metric": "MD",
+    "value": 24.0,
+    "contains": "estimated difference in mean 24 h"
+   },
+   "reason": "'mean 24 h' read as the estimate; real estimate (63) missed"
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 1.2,
+    "contains": "noninferiority margin for the odds ratio"
+   },
+   "reason": "prespecified margin, not a result"
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": 0.312,
+    "contains": "SMD"
+   },
+   "reason": "covariate-balance diagnostic after propensity matching, not an effect"
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": 0.248,
+    "contains": "SMD"
+   },
+   "reason": "covariate-balance diagnostic after propensity matching, not an effect"
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": 0.305,
+    "contains": "SMD"
+   },
+   "reason": "covariate-balance diagnostic after propensity matching, not an effect"
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": 0.353,
+    "contains": "SMD"
+   },
+   "reason": "covariate-balance diagnostic after propensity matching, not an effect"
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": 0.168,
+    "contains": "SMD"
+   },
+   "reason": "covariate-balance diagnostic after propensity matching, not an effect"
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": 0.031,
+    "contains": "SMD"
+   },
+   "reason": "covariate-balance diagnostic after propensity matching, not an effect"
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": 0.038,
+    "contains": "SMD"
+   },
+   "reason": "covariate-balance diagnostic after propensity matching, not an effect"
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": 0.162,
+    "contains": "SMD"
+   },
+   "reason": "covariate-balance diagnostic after propensity matching, not an effect"
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -1.8,
+    "contains": "larger decrease in body fat percentage"
+   },
+   "reason": "within-arm change called 'mean difference', not a contrast"
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -2.0,
+    "contains": "cardiorespiratory endurance"
+   },
+   "reason": "within-arm change called 'mean difference', not a contrast"
+  },
+  {
+   "match": {
+    "metric": "RD",
+    "value": 5.8,
+    "contains": "absolute risk reduction of 5.8 percentage points"
+   },
+   "reason": "restatement of the -5.8 RD (opposite sign convention)"
+  }
+ ],
+ "corrections": [
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.81,
+    "ci": [
+     0.68,
+     0.95
+    ]
+   },
+   "set": {
+    "attribution": "cited"
+   }
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 0.47,
+    "contains": "Thomopoulos"
+   },
+   "set": {
+    "attribution": "cited"
+   }
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 1.17,
+    "ci": [
+     1.0,
+     1.35
+    ]
+   },
+   "set": {
+    "attribution": "cited"
+   }
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 1.13,
+    "ci": [
+     0.6,
+     2.15
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 0.87,
+    "ci": [
+     0.7,
+     1.07
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 0.89,
+    "ci": [
+     0.53,
+     1.47
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 1.54,
+    "ci": [
+     0.52,
+     4.61
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 0.98,
+    "ci": [
+     0.6,
+     1.6
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 0.78,
+    "ci": [
+     0.54,
+     1.13
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": -0.75,
+    "ci": [
+     -1.14,
+     -0.37
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "SMD",
+    "value": -0.31,
+    "ci": [
+     -0.44,
+     -0.18
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 2.43,
+    "ci": [
+     1.57,
+     3.75
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 2.17,
+    "ci": [
+     1.4,
+     3.37
+    ]
+   },
+   "set": {
+    "attribution": "own"
+   }
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 0.46,
+    "ci": [
+     0.34,
+     0.63
+    ]
+   },
+   "set": {
+    "p_value": 1.02e-06,
+    "p_operator": "="
+   }
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 0.65,
+    "ci": [
+     0.53,
+     0.79
+    ]
+   },
+   "set": {
+    "p_value": 2.01e-05,
+    "p_operator": "="
+   }
+  }
+ ],
+ "fields": [
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.75,
+    "ci": [
+     0.62,
+     0.92
+    ]
+   },
+   "intervention": "dapagliflozin",
+   "comparator": "placebo",
+   "outcome": "worsening heart failure or cardiovascular death",
+   "population": "patients with atrial fibrillation"
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.74,
+    "ci": [
+     0.62,
+     0.88
+    ]
+   },
+   "intervention": "dapagliflozin",
+   "comparator": "placebo",
+   "outcome": "worsening heart failure or cardiovascular death",
+   "population": "patients without atrial fibrillation"
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.86,
+    "ci": [
+     0.6,
+     1.22
+    ]
+   },
+   "intervention": "dapagliflozin",
+   "comparator": "placebo",
+   "outcome": "new-onset atrial fibrillation",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 8.2
+   },
+   "intervention": "semaglutide",
+   "comparator": "dapagliflozin",
+   "outcome": "HbA1c",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.77,
+    "ci": [
+     0.6,
+     0.98
+    ]
+   },
+   "intervention": "empagliflozin",
+   "comparator": "placebo",
+   "outcome": "first heart failure hospitalization",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "IRR",
+    "value": 0.67,
+    "ci": [
+     0.51,
+     0.89
+    ]
+   },
+   "intervention": "empagliflozin",
+   "comparator": "placebo",
+   "outcome": "total heart failure hospitalizations",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.78,
+    "ci": [
+     0.62,
+     0.98
+    ]
+   },
+   "intervention": "empagliflozin",
+   "comparator": "placebo",
+   "outcome": "first heart failure hospitalization or death attributable to heart failure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.83,
+    "ci": [
+     0.71,
+     0.96
+    ]
+   },
+   "intervention": "empagliflozin",
+   "comparator": "placebo",
+   "outcome": "first adverse event of heart failure or all-cause mortality",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.48,
+    "ci": [
+     0.29,
+     0.79
+    ]
+   },
+   "intervention": "finerenone",
+   "comparator": "placebo",
+   "outcome": "key secondary kidney composite outcome",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "HR",
+    "value": 0.56,
+    "ci": [
+     0.34,
+     0.91
+    ]
+   },
+   "intervention": "liraglutide",
+   "comparator": "control",
+   "outcome": "stroke recurrence",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 1.95,
+    "ci": [
+     1.28,
+     3.0
+    ]
+   },
+   "intervention": "liraglutide",
+   "comparator": "control",
+   "outcome": "excellent functional outcome",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 2.36,
+    "ci": [
+     1.37,
+     4.06
+    ]
+   },
+   "intervention": "conduction system pacing",
+   "comparator": "biventricular pacing",
+   "outcome": "hierarchical primary end point",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": 3.8,
+    "ci": [
+     0.3,
+     7.3
+    ]
+   },
+   "intervention": "conduction system pacing",
+   "comparator": "biventricular pacing",
+   "outcome": "LVEF increase",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 0.74,
+    "ci": [
+     0.56,
+     0.97
+    ]
+   },
+   "intervention": "RAASi",
+   "comparator": "placebo",
+   "outcome": "kidney failure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 0.71,
+    "ci": [
+     0.55,
+     0.91
+    ]
+   },
+   "intervention": "RAASi",
+   "comparator": "placebo",
+   "outcome": "doubling of serum creatinine",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -13.4,
+    "ci": [
+     -16.78,
+     -10.01
+    ]
+   },
+   "intervention": "RAASi",
+   "comparator": "placebo",
+   "outcome": "serum creatinine",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -4.05,
+    "ci": [
+     -4.96,
+     -3.14
+    ]
+   },
+   "intervention": "salt reduction interventions",
+   "comparator": "control",
+   "outcome": "systolic blood pressure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -2.49,
+    "ci": [
+     -3.21,
+     -1.76
+    ]
+   },
+   "intervention": "salt reduction interventions",
+   "comparator": "control",
+   "outcome": "diastolic blood pressure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -2.75,
+    "ci": [
+     -4.3,
+     -1.19
+    ]
+   },
+   "intervention": "health education interventions",
+   "comparator": "control",
+   "outcome": "systolic blood pressure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -7.44,
+    "ci": [
+     -8.82,
+     -6.06
+    ]
+   },
+   "intervention": "salt substitute interventions",
+   "comparator": "control",
+   "outcome": "systolic blood pressure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -3.77,
+    "ci": [
+     -5.21,
+     -2.32
+    ]
+   },
+   "intervention": "salt substitutes",
+   "comparator": "control",
+   "outcome": "diastolic blood pressure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -9.52,
+    "ci": [
+     -12.89,
+     -6.14
+    ]
+   },
+   "intervention": "strength training",
+   "comparator": "baseline",
+   "outcome": "systolic blood pressure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -5.19,
+    "ci": [
+     -7.98,
+     -2.39
+    ]
+   },
+   "intervention": "strength training",
+   "comparator": "baseline",
+   "outcome": "diastolic blood pressure",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -21.84,
+    "ci": [
+     -41.64,
+     -2.05
+    ]
+   },
+   "intervention": "CBTI",
+   "comparator": "health education",
+   "outcome": "sleep regularity",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "MD",
+    "value": -2.55,
+    "ci": [
+     -4.97,
+     -0.13
+    ]
+   },
+   "intervention": "CBTI",
+   "comparator": "health education",
+   "outcome": "anxiety scores",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 0.98,
+    "ci": [
+     0.67,
+     1.42
+    ]
+   },
+   "intervention": "esaxerenone",
+   "comparator": "placebo",
+   "outcome": "any adverse events",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 1.77,
+    "ci": [
+     1.02,
+     3.05
+    ]
+   },
+   "intervention": "esaxerenone",
+   "comparator": "placebo",
+   "outcome": "drug-related adverse events",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "RR",
+    "value": 6.75,
+    "ci": [
+     1.83,
+     24.95
+    ]
+   },
+   "intervention": "esaxerenone",
+   "comparator": "placebo",
+   "outcome": "discontinuation due to drug-related adverse events",
+   "population": null
+  },
+  {
+   "match": {
+    "metric": "OR",
+    "value": 0.84,
+    "ci": [
+     0.78,
+     0.9
+    ]
+   },
+   "intervention": "dapagliflozin",
+   "comparator": "placebo",
+   "outcome": "deterioration in KCCQ-TSS",
+   "population": null
+  }
+ ],
+ "missed": [
+  {
+   "doc_id": "PMC10278789",
+   "quote": "0.63 (95% CI, 0.42 to 0.95; P value 0.026)",
+   "metric": "HR",
+   "value": 0.63,
+   "ci": [
+    0.42,
+    0.95
+   ],
+   "p_value": 0.026,
+   "p_operator": "=",
+   "n": null
+  },
+  {
+   "doc_id": "PMC10278789",
+   "quote": "0.69 (95% CI, 0.43 to 1.11)",
+   "metric": "HR",
+   "value": 0.69,
+   "ci": [
+    0.43,
+    1.11
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC10278789",
+   "quote": "0.70 (95% CI, 0.59 to 0.83)",
+   "metric": "HR",
+   "value": 0.7,
+   "ci": [
+    0.59,
+    0.83
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC10764620",
+   "quote": "1.24; 95% confidence interval [CI], 1.07–1.45",
+   "metric": "HR",
+   "value": 1.24,
+   "ci": [
+    1.07,
+    1.45
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC10764620",
+   "quote": "1.27; 1.10–1.47",
+   "metric": "HR",
+   "value": 1.27,
+   "ci": [
+    1.1,
+    1.47
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC12079288",
+   "quote": "0.98 (95% CI, 0.90-1.08) in arm 1",
+   "metric": "OR",
+   "value": 0.98,
+   "ci": [
+    0.9,
+    1.08
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC12079288",
+   "quote": "1.06 (95% CI, 0.96-1.16) in arm 2",
+   "metric": "OR",
+   "value": 1.06,
+   "ci": [
+    0.96,
+    1.16
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC12079288",
+   "quote": "1.02 (95% CI, 0.93-1.12) in arm 3",
+   "metric": "OR",
+   "value": 1.02,
+   "ci": [
+    0.93,
+    1.12
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC12079288",
+   "quote": "1.02 (95% CI, 0.93-1.12) in arm 4",
+   "metric": "OR",
+   "value": 1.02,
+   "ci": [
+    0.93,
+    1.12
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC12079288",
+   "quote": "0.99 (95% CI, 0.90-1.09) in arm 5",
+   "metric": "OR",
+   "value": 0.99,
+   "ci": [
+    0.9,
+    1.09
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC12079288",
+   "quote": "1.03 (95% CI, 0.94-1.13) in arm 6",
+   "metric": "OR",
+   "value": 1.03,
+   "ci": [
+    0.94,
+    1.13
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC9052620",
+   "quote": "RMD = -0.82 mL/min; 95%CI: -5.54, 3.91",
+   "metric": "MD",
+   "value": -0.82,
+   "ci": [
+    -5.54,
+    3.91
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC9052620",
+   "quote": "RMD = 0.55 mL/min; 95%CI: -3.81, 4.9",
+   "metric": "MD",
+   "value": 0.55,
+   "ci": [
+    -3.81,
+    4.9
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC9052620",
+   "quote": "RMD = -0.24 mL/min/year; 95%CI:-1.45, 0.98",
+   "metric": "MD",
+   "value": -0.24,
+   "ci": [
+    -1.45,
+    0.98
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC9052620",
+   "quote": "RMD = -1.21 mL/min; 95%CI: -4.52, 2.09",
+   "metric": "MD",
+   "value": -1.21,
+   "ci": [
+    -4.52,
+    2.09
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC9052620",
+   "quote": "RMD = -2.46 mL/min; 95%CI:-4.36, -0.56",
+   "metric": "MD",
+   "value": -2.46,
+   "ci": [
+    -4.36,
+    -0.56
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC9052620",
+   "quote": "RMD = 0.03 μmol/L; 95%CI: -6.4, 6.10",
+   "metric": "MD",
+   "value": 0.03,
+   "ci": [
+    -6.4,
+    6.1
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  },
+  {
+   "doc_id": "PMC10579092",
+   "quote": "63 (95% confidence interval (CI) 18–109) mmol",
+   "metric": "MD",
+   "value": 63.0,
+   "ci": [
+    18.0,
+    109.0
+   ],
+   "p_value": null,
+   "p_operator": null,
+   "n": null
+  }
+ ]
+}

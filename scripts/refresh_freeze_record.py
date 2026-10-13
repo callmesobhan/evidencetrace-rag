@@ -20,7 +20,7 @@ import verify_freeze as vf  # noqa: E402
 
 M1, ROOT = vf.M1, vf.ROOT
 PINNED_GLOBS = ("gold/*.jsonl", "gold/*.json", "queries/*", "annotation/*.json", "annotation/*.jsonl", "annotation/v1/*.jsonl",
-                "independent/pack/**/*", "independent/holdout2/*.json", "independent/holdout2/*.txt", "design.jsonl")
+                "independent/pack/**/*", "independent/holdout2/*.json", "independent/holdout2/*.txt", "independent/holdout2/out/*", "design.jsonl")
 
 
 def _files(root: Path) -> set[str]:

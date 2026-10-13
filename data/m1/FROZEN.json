@@ -78,6 +78,7 @@
    ],
    "added": [
     "src/evidencetrace/errors.py",
+    "src/evidencetrace/evaluation/adjudication.py",
     "src/evidencetrace/extraction/clauses.py",
     "src/evidencetrace/ingest/design.py",
     "src/evidencetrace/retrieval/query.py"
@@ -139,6 +140,12 @@
    "independent/holdout2/assignment_1.txt": "473c1a0606fceafe85cf4255192ba33c50407af26a76a459071ab5396d4fd8e7",
    "independent/holdout2/assignment_2.txt": "6f241243b035b126bf48e96ef74ae126ca7ad5304f17873306630da212ffdd2b",
    "independent/holdout2/assignment_3.txt": "0deb24b8f772416d336983a7c60f93034eaa84b8f762c3723def03dd9cd00a2a",
+   "independent/holdout2/out/annotations_1.jsonl": "f0f397e9b77c9466c70f896937ecbf7728d47fcc7709b9db3f2d5cea6bddf46c",
+   "independent/holdout2/out/annotations_2.jsonl": "f63ccd23292eee70bfe7f166309b8ac58211fbab88f171591d59f26943a03722",
+   "independent/holdout2/out/annotations_3.jsonl": "e8a8b7b5ea8784df93702ac9049207e204b6ef5ab32710d5aecd9d11e53ad6f2",
+   "independent/holdout2/out/out_of_scope_1.jsonl": "5dd72a85561ba103c44073cfc47f9bc09d096c8dc833b229e76f0c78f857548c",
+   "independent/holdout2/out/out_of_scope_2.jsonl": "4e466e813c79a83d0f11ee2372ff5e515f473db1dd595bc0522f6c848a79493b",
+   "independent/holdout2/out/out_of_scope_3.jsonl": "45aa01ed9a19c0d6b1694f0c218ea5d96250d4c9e6989cc8142998aa33a01077",
    "design.jsonl": "ec26b4f39bfe83b29ebdb0188cacce485c7b34849554e45060d016c8761194c8"
   }
  },
@@ -155,8 +162,12 @@
   "annotation_guidelines": "docs/annotation-guidelines.md including the v1.1 addendum",
   "assignment": "data/m1/independent/holdout2/assignment_{1,2,3}.txt (seeded shuffle, seed 20261013)",
   "files_changed_since_holdout2_freeze": {
-   "changed": [],
-   "added": [],
+   "changed": [
+    "src/evidencetrace/ingest/parsers.py"
+   ],
+   "added": [
+    "src/evidencetrace/evaluation/adjudication.py"
+   ],
    "removed": []
   }
  }

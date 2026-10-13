@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import re
 import xml.etree.ElementTree as ET
+from dataclasses import dataclass
 from pathlib import Path
 
 from evidencetrace.errors import IngestError
@@ -191,15 +192,143 @@ def parse_jats(doc_id: str, xml: str, *, source: str | None = None) -> Document:
     )
 
 
+@dataclass(frozen=True)
+class PdfBlock:
+    x0: float
+    y0: float
+    x1: float
+    y1: float
+    text: str
+
+
+@dataclass(frozen=True)
+class PdfPage:
+    width: float
+    height: float
+    blocks: list[PdfBlock]
+
+
+_PAGE_NUMBER = re.compile(r"(?:page\s+)?\d{1,4}(?:\s*(?:of|/)\s*\d{1,4})?", re.I)
+_MARGIN = 0.08  # share of the page height treated as header / footer zone
+_FULL_WIDTH = 0.62  # a block wider than this share of the page spans both columns (title, abstract, wide tables)
+
+
+def _dehyphenate(text: str) -> str:
+    """Join words broken at a line end ("compar-\ntment") and numeric ranges ("0.65-\n0.93"); drop soft hyphens.
+
+    A real compound split at a line end ("long-\nterm") is joined too ("longterm"): without the line break there is no way
+    to tell the two cases apart, and an unjoined word fragment breaks retrieval for the whole word.
+    """
+    text = text.replace("\u00ad", "")
+    text = re.sub(r"(?<=\d)-[ \t]*\n[ \t]*(?=\d)", "-", text)
+    return re.sub(r"(?<=[A-Za-z])-[ \t]*\n[ \t]*(?=[a-z])", "", text)
+
+
+def _in_margin(b: PdfBlock, page: PdfPage) -> bool:
+    return b.y1 < _MARGIN * page.height or b.y0 > (1 - _MARGIN) * page.height
+
+
+def _signature(text: str) -> str:
+    return re.sub(r"\d+", "#", " ".join(text.split())).lower()
+
+
+def _reading_order(blocks: list[PdfBlock], width: float) -> list[PdfBlock]:
+    """Top-to-bottom, and within each run of narrow blocks the left column before the right one."""
+    out: list[PdfBlock] = []
+    band: list[PdfBlock] = []
+
+    def flush() -> None:
+        left = sorted((b for b in band if (b.x0 + b.x1) / 2 < width / 2), key=lambda b: b.y0)
+        right = sorted((b for b in band if (b.x0 + b.x1) / 2 >= width / 2), key=lambda b: b.y0)
+        out.extend(left + right)
+        band.clear()
+
+    for b in sorted(blocks, key=lambda b: (b.y0, b.x0)):
+        if (b.x1 - b.x0) > _FULL_WIDTH * width:
+            flush()
+            out.append(b)
+        else:
+            band.append(b)
+    flush()
+    return out
+
+
+def layout_pdf(pages: list[PdfPage]) -> str:
+    """Reading-order text of a PDF's pages: running headers/footers and page numbers removed, columns un-interleaved."""
+    counts: dict[str, int] = {}
+    for page in pages:
+        for sig in {_signature(b.text) for b in page.blocks if _in_margin(b, page)}:
+            counts[sig] = counts.get(sig, 0) + 1
+    min_pages = max(2, (len(pages) + 1) // 2)
+    repeated = {sig for sig, n in counts.items() if len(pages) >= 3 and n >= min_pages}
+    ordered: list[tuple[int, PdfBlock]] = []  # (page number, block) in reading order
+    for n, page in enumerate(pages):
+        keep = []
+        for b in page.blocks:
+            t = b.text.strip()
+            if _in_margin(b, page) and (_PAGE_NUMBER.fullmatch(t) or _signature(t) in repeated):
+                continue
+            keep.append(PdfBlock(b.x0, b.y0, b.x1, b.y1, " ".join(_dehyphenate(b.text).split())))
+        ordered += [(n, b) for b in _reading_order(keep, page.width) if b.text]
+    return "\n\n".join(_join_continuations(ordered))
+
+
+_SENTENCE_END = re.compile(r"[.?!:;][)\]\"'\u2019\u201d]*$")
+
+
+_NUMBERED_HEADING = re.compile(r"\d+(?:\.\d+)*\.?\s+[A-Z]")
+
+
+def _continues(text: str) -> bool:
+    """Does this block continue the previous sentence rather than start a new one? A capital letter or a numbered heading
+    ("2.1 Methods") starts one; anything else (lowercase, "95% CI ...", "-5.0 to 0.8", a bracket) continues it."""
+    first = text[0]
+    return not first.isupper() and not (first.isdigit() and _NUMBERED_HEADING.match(text))
+
+
+def _join_continuations(blocks: list[tuple[int, PdfBlock]]) -> list[str]:
+    """Re-join a paragraph that a column or page break cut in the middle of a sentence.
+
+    Three things must hold: the next block continues a sentence (see ``_continues``), the previous one does not end in
+    sentence-final punctuation, and the next block starts *higher on the page* than the previous one (or on a later
+    page): a wrap from the bottom of one column or page to the top of the next. A heading and its body run downward, so
+    they never qualify. A hyphen that falls exactly on the cut ("compar-" / "tment") is removed. Without this a sentence
+    split across two columns loses its interval and p-value.
+    """
+    out: list[str] = []
+    prev: tuple[int, PdfBlock] | None = None
+    for n, b in blocks:
+        wraps = prev is not None and (n != prev[0] or b.y0 <= prev[1].y0)
+        if out and wraps and _continues(b.text) and not _SENTENCE_END.search(out[-1]):
+            if re.search(r"[A-Za-z]-$", out[-1]) and b.text[0].islower():
+                out[-1] = out[-1][:-1] + b.text
+            else:
+                out[-1] = f"{out[-1]} {b.text}"
+        else:
+            out.append(b.text)
+        prev = (n, b)
+    return out
+
+
 def _pdf_to_text(path: Path) -> str:
     try:
-        import fitz  # pymupdf
-    except ImportError as exc:  # pragma: no cover - optional dependency
-        raise RuntimeError("PDF support needs the `pdf` extra: pip install 'evidencetrace-rag[pdf]'") from exc
-    blocks: list[str] = []
-    with fitz.open(path) as pdf:
-        for page in pdf:
-            for _x0, _y0, _x1, _y1, text, _no, kind in page.get_text("blocks"):
-                if kind == 0 and text.strip():  # text block
-                    blocks.append(" ".join(text.split()))
-    return "\n\n".join(blocks)
+        import pymupdf
+    except ImportError:
+        try:
+            import fitz as pymupdf  # older PyMuPDF
+        except ImportError as exc:  # pragma: no cover - optional dependency
+            raise RuntimeError("PDF support needs the `pdf` extra: pip install 'evidencetrace-rag[pdf]'") from exc
+    try:
+        with pymupdf.open(path) as pdf:
+            pages = [
+                PdfPage(page.rect.width, page.rect.height,
+                        [PdfBlock(x0, y0, x1, y1, text) for x0, y0, x1, y1, text, _no, kind in page.get_text("blocks")
+                         if kind == 0 and text.strip()])
+                for page in pdf
+            ]
+    except Exception as exc:  # PyMuPDF raises several unrelated types for unreadable files
+        raise IngestError(f"{path}: cannot read this PDF ({exc})") from None
+    text = layout_pdf(pages)
+    if len(text.strip()) < 200:
+        raise IngestError(f"{path}: the PDF has no extractable text (a scan? OCR is not supported)")
+    return text

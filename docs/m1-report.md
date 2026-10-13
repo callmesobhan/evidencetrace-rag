@@ -180,8 +180,8 @@ source and hashed **before** the annotation existed.
 | 15 other-domain papers | 0.689 | 0.365 | **0.477** [0.284, 0.692] |
 | *after the fixes this found (tuned on these papers, NOT held-out)* | 0.963 | 0.786 | *0.865* [0.799, 0.930] |
 
-- **Recall did not generalise.** M1 test recall was 0.950; on fresh cardiometabolic papers it is 0.874 and on other
-  domains 0.365. The M1 near-miss audit could only find estimates near a statistical cue the developer already knew.
+- **Recall did not generalise.** M1 test recall was 0.950; round 1 gave 0.874 on fresh cardiometabolic papers and 0.365 on other
+  domains (round 2, §2.4.1, gives 0.702 and 0.783). The M1 near-miss audit could only find estimates near a statistical cue the developer already knew.
 - **Annotator agreement** on the 6 overlap papers (independent vs developer): F1 0.648, or 0.718 if "incidence rate
   ratio" and "rate ratio" are one metric; attribution kappa 1.0. One paper (35 odds ratios written `COR/p = 6.30/0.01`)
   dominates the difference.
@@ -190,6 +190,26 @@ source and hashed **before** the annotation existed.
 - **A sign-loss bug in the frozen extractor** (`difference of – 3.35 g/m2` → +3.35) was found this way. Diffing the
   frozen against the fixed extractor over all 111 M1 papers gives zero sign-only differences and no change at all on the
   test split, so no published M1 number is affected.
+
+#### 2.4.1 A clean holdout, and the pooled estimate
+
+Round 1's post-fix figure (0.865) is tuned on the papers it is measured on. A second blind round on the **25 fresh papers nobody had
+seen**, with the code and predictions committed and hashed *before* the annotators started
+([protocol](../data/m1/independent/README.md)), gives the out-of-sample number:
+
+| system as frozen, unseen papers | papers | precision | recall | F1 |
+|---|---|---|---|---|
+| round 2 (clean holdout) | 25 | 0.952 | 0.724 | **0.823** [0.753, 0.876] |
+| round 1, pre-fix system (held-out) | 30 | 0.859 | 0.653 | 0.742 [0.609, 0.865] |
+| **both rounds pooled, pre-fix system** | **55** | 0.909 | 0.691 | **0.785** [0.707, 0.849] |
+
+- The fixes made after round 1 **changed no prediction on the 25 holdout papers** (identical 168 predictions before and after), so the
+  pre-fix and post-review systems have the same out-of-sample score here; the 0.742 → 0.865 round-1 gain is a tuning effect.
+- The round-1 "other domains" gap (recall 0.365) is **not reproduced** (0.783 on 10 papers); with such samples it is neither confirmed
+  nor refuted.
+- Of the misses, the sampled ones are genuine notation gaps (long fillers, `OR per ... increase`, the metric named after the numbers,
+  `HRadjusted =`, `posterior interval`, continuations without a metric word) plus scope disagreements and matching quirks;
+  see the round-2 section of the independent README.
 
 ## 3. What the audit changed in the system
 

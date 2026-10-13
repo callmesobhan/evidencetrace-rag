@@ -14,8 +14,10 @@ annotator (0.742 on 30 unseen papers annotated blind: 0.902 cardiometabolic, 0.4
 the rare-term gate, abbreviation expansion, verifier fixes, and a corrected plan for M2/M3 below.
 **Still owed from M1:** a *human* annotator. An LLM-agent blind annotation of 36 papers is done
 (`data/m1/independent/`), but every annotation in the repo is still LLM-made. Done since: study-design screening and
-stratified metrics, hard-negative queries, role-aware retrieval, the covariate-balance filter. Still owed: a hard-negative
-set that was not used to develop the fix (annotate the 25 never-annotated fresh papers), and a human adjudication.
+stratified metrics, hard-negative queries, role-aware retrieval, the covariate-balance filter, a clean 25-paper holdout
+(out-of-sample F1 0.823), a review page for the disagreements, a tested PDF parser. Still owed: a human adjudication
+(`docs/adjudication.html`), a hard-negative set not used to develop the retrieval fix, and a third unseen set before any further
+extractor change.
 
 ## M2 — Learned field tagger  *(the bottleneck M1 identified)*
 - Bootstrap training data from the rule tagger's high-confidence outputs, then correct by hand

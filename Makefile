@@ -78,10 +78,13 @@ holdout2:
 	    --config data/m1/frozen_snapshot_holdout2/configs/default.toml --out reports/holdout2_predictions.jsonl
 	cmp reports/holdout2_predictions.jsonl data/m1/independent/holdout2/predictions.jsonl && echo "holdout-2 predictions: byte-identical"
 	if [ -d data/m1/independent/holdout2/out ]; then \
-	  $(PYTHON) -I scripts/score_blind.py --pack data/m1/independent/holdout2 --map data/m1/independent/pack/blind_map.json \
-	      --chosen data/m1/independent/holdout2/pids.json --preds data/m1/independent/holdout2/predictions.jsonl \
-	      --manifest data/m1/fresh_manifest.jsonl --out reports/holdout2 --lenient-metrics >/dev/null && \
-	  diff -r reports/holdout2 data/m1/independent/holdout2/scores && echo "holdout-2 scores: identical"; \
+	  for v in "scores:predictions.jsonl:--lenient-metrics" "scores_strict:predictions.jsonl:" "scores_prefix_system:../predictions_prefix.jsonl:--lenient-metrics"; do \
+	    n=$${v%%:*}; r=$${v#*:}; pr=$${r%%:*}; fl=$${r#*:}; \
+	    $(PYTHON) -I scripts/score_blind.py --pack data/m1/independent/holdout2 --map data/m1/independent/pack/blind_map.json \
+	        --chosen data/m1/independent/holdout2/pids.json --preds data/m1/independent/holdout2/$$pr \
+	        --manifest data/m1/fresh_manifest.jsonl --out reports/holdout2/$$n $$fl >/dev/null && \
+	    diff -r reports/holdout2/$$n data/m1/independent/holdout2/$$n && echo "holdout-2 $$n: identical"; \
+	  done; \
 	else echo "holdout-2: not annotated yet"; fi
 
 # study design of every paper (PubMed publication types + title phrases); one request to NCBI

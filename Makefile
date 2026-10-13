@@ -8,19 +8,19 @@ install-all:
 	pip install -e ".[all]"
 
 test:
-	pytest
+	$(PYTHON) -m pytest
 
 lint:
-	ruff check src tests scripts
+	$(PYTHON) -m ruff check src tests scripts
 
 # Smoke evaluation on the bundled synthetic corpus (offline, no models needed)
 eval:
-	evidencetrace eval --corpus data/samples/papers --gold data/samples/gold --out reports
+	$(PYTHON) -m evidencetrace.cli eval --corpus data/samples/papers --gold data/samples/gold --out reports
 
 demo:
-	evidencetrace ingest data/samples/papers --workspace .evidencetrace
-	evidencetrace ask "What is the effect of Drug Zeta on systolic blood pressure compared with placebo?" --workspace .evidencetrace
-	evidencetrace ask "What is the effect of Drug Zeta on stroke?" --workspace .evidencetrace
+	$(PYTHON) -m evidencetrace.cli ingest data/samples/papers --workspace .evidencetrace
+	$(PYTHON) -m evidencetrace.cli ask "What is the effect of Drug Zeta on systolic blood pressure compared with placebo?" --workspace .evidencetrace
+	$(PYTHON) -m evidencetrace.cli ask "What is the effect of Drug Zeta on stroke?" --workspace .evidencetrace
 
 # ------------------------------------------------------------------------------------------------
 # Real-data evaluation. Network once: ~22 MB of CC BY papers into data/raw/ (git-ignored).

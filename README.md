@@ -23,7 +23,8 @@ STATUS: CONFLICTING  (confidence 1.00)
 
 Q: What is the effect of Drug Zeta on stroke?
 STATUS: ABSTAINED  (confidence 0.00)
-Abstained: related findings exist, but none covers the specific intervention/outcome/population asked about.
+Abstained: related findings exist, but none covers the specific intervention/outcome/population asked about
+(the closest findings never mention: stroke).
 ```
 
 (The corpus in `data/samples/` is **synthetic** — a fictional drug and fictional trials built to contain

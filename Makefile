@@ -1,5 +1,5 @@
 PYTHON ?= python
-.PHONY: install install-all test lint eval demo clean fetch-pinned fetch-new verify-freeze m1-frozen m1 independent design by-design hardneg eval-hardneg reproduce
+.PHONY: holdout2 install install-all test lint eval demo clean fetch-pinned fetch-new verify-freeze m1-frozen m1 independent design by-design hardneg eval-hardneg reproduce
 
 install:
 	pip install -e ".[dev]"
@@ -70,6 +70,20 @@ independent:
 	      && echo "scores_$$n: identical"; \
 	done
 
+# the clean holdout: predictions regenerated from the frozen snapshot are byte-compared; once the round-2 annotations are
+# committed under data/m1/independent/holdout2/out, they are scored and diffed too
+holdout2:
+	PYTHONPATH=data/m1/frozen_snapshot_holdout2/src $(PYTHON) scripts/predict_papers.py --map data/m1/independent/pack/blind_map.json \
+	    --only data/m1/independent/holdout2/pids.json --raw-fresh data/raw/fresh --raw-main data/raw/pmc \
+	    --config data/m1/frozen_snapshot_holdout2/configs/default.toml --out reports/holdout2_predictions.jsonl
+	cmp reports/holdout2_predictions.jsonl data/m1/independent/holdout2/predictions.jsonl && echo "holdout-2 predictions: byte-identical"
+	if [ -d data/m1/independent/holdout2/out ]; then \
+	  $(PYTHON) -I scripts/score_blind.py --pack data/m1/independent/holdout2 --map data/m1/independent/pack/blind_map.json \
+	      --chosen data/m1/independent/holdout2/pids.json --preds data/m1/independent/holdout2/predictions.jsonl \
+	      --manifest data/m1/fresh_manifest.jsonl --out reports/holdout2 --lenient-metrics >/dev/null && \
+	  diff -r reports/holdout2 data/m1/independent/holdout2/scores && echo "holdout-2 scores: identical"; \
+	else echo "holdout-2: not annotated yet"; fi
+
 # study design of every paper (PubMed publication types + title phrases); one request to NCBI
 design:
 	$(PYTHON) scripts/fetch_design.py --out reports/design.jsonl
@@ -94,7 +108,7 @@ eval-hardneg:
 	$(PYTHON) -m evidencetrace.cli eval --corpus data/samples_hardneg/papers --gold data/samples_hardneg/gold --out reports/hardneg-synthetic
 
 # everything, in order. Fails loudly at the first number that does not reproduce.
-reproduce: verify-freeze fetch-pinned m1-frozen m1 independent design by-design hardneg
+reproduce: verify-freeze fetch-pinned m1-frozen m1 independent holdout2 design by-design hardneg
 
 clean:
 	rm -rf .evidencetrace .pytest_cache reports/*.json reports/*.md reports/m1 reports/m1-frozen reports/independent reports/*.jsonl reports/by_design reports/hardneg reports/hardneg_queries reports/hardneg-synthetic

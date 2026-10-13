@@ -176,3 +176,26 @@ def test_publication_types_are_read_from_pubmed_xml():
     assert parse_publication_types(xml) == {"1": ["Journal Article", "Randomized Controlled Trial"]}
     with pytest.raises(ValueError, match="entities"):
         parse_publication_types('<!DOCTYPE a [<!ENTITY x "y">]><a/>')
+
+
+# ------------------------------------------------------------------ dense index is rebuilt when its inputs change
+def test_persisted_dense_index_is_invalidated_when_a_document_changes(tmp_path):
+    pytest.importorskip("llama_index.core")
+    from llama_index.core.embeddings import MockEmbedding
+
+    from evidencetrace.retrieval.llama_index_store import LlamaIndexChunkIndex
+
+    a = Document.from_text("a", "Drug Zeta reduced hospitalization (hazard ratio 0.78, 95% CI 0.65 to 0.93).")
+    kw = {"embed_model": MockEmbedding(embed_dim=8), "persist_dir": tmp_path / "idx", "chunk_chars": 400}
+    first = LlamaIndexChunkIndex({"a": a}, **kw)
+    assert {h.doc_id for h in first.retrieve_chunks("Zeta", 20)} == {"a"}
+    # unchanged inputs: the persisted index is reused (the stamp matches)
+    assert (tmp_path / "idx" / "fingerprint.txt").exists()
+    b = Document.from_text("b", "Drug Omega lowered LDL cholesterol (mean difference -22 mg/dL, 95% CI -27 to -17).")
+    second = LlamaIndexChunkIndex({"a": a, "b": b}, **kw)  # a new paper: the old index must not be served
+    assert {h.doc_id for h in second.retrieve_chunks("Omega", 20)} == {"a", "b"}
+    edited = Document.from_text("a", "Drug Zeta did not change hospitalization (hazard ratio 1.01, 95% CI 0.90 to 1.13).")
+    third = LlamaIndexChunkIndex({"a": edited}, **kw)  # same id, different text
+    assert {h.doc_id for h in third.retrieve_chunks("Zeta", 20)} == {"a"}
+    texts = [n.node.get_content() for n in third._index.as_retriever(similarity_top_k=20).retrieve("Zeta")]
+    assert texts and all("did not change" in t for t in texts)

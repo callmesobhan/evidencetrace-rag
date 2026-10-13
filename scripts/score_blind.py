@@ -71,7 +71,7 @@ def main() -> None:
     ap.add_argument("--pack", type=Path, required=True)
     ap.add_argument("--map", type=Path, required=True)
     ap.add_argument("--preds", type=Path, required=True)
-    ap.add_argument("--test-gold", type=Path, required=True)
+    ap.add_argument("--test-gold", type=Path, default=None, help="needed only when the pack has agreement papers")
     ap.add_argument("--manifest", type=Path, required=True, help="fresh manifest (domain = query prefix)")
     ap.add_argument("--chosen", type=Path, help="JSON list of pack ids that were actually assigned")
     ap.add_argument("--out", type=Path, required=True)
@@ -115,23 +115,27 @@ def main() -> None:
 
     # ---------------------------------------------------------------- agreement with the developer's gold
     agree_docs = sorted(d for d in kind if kind[d] == "agreement")
-    mine = [g for g in (GoldFinding.model_validate(r) for r in _jsonl(args.test_gold)) if g.doc_id in agree_docs]
+    mine = [g for g in (GoldFinding.model_validate(r) for r in _jsonl(args.test_gold)) if g.doc_id in agree_docs] if agree_docs else []
     theirs = _gold([r for r in ann if r["doc_id"] in agree_docs], "ind")
     pred_like = [SimpleNamespace(finding_id=g.gold_id, doc_id=g.doc_id, metric=g.metric, value=g.value,
                                  ci=SimpleNamespace(low=g.ci[0], high=g.ci[1]) if g.ci else None,
                                  attribution=g.attribution) for g in theirs]
-    clusters, mapping = score_matching(pred_like, mine, agree_docs)
-    by_mine = {g.gold_id: g for g in mine}
-    by_their = {g.gold_id: g for g in theirs}
-    attr_pairs = [(by_their[t].attribution.value, by_mine[m].attribution.value) for t, m in mapping.items()]
-    report["agreement_with_developer_gold"] = {
-        "papers": len(agree_docs), "developer_gold": len(mine), "independent": len(theirs),
-        "independent_vs_developer": prf_ci(clusters, args.reps),
-        "attribution_agreement_on_matched": (sum(a == b for a, b in attr_pairs) / len(attr_pairs)) if attr_pairs else None,
-        "attribution_kappa": cohen_kappa(attr_pairs),
-        "only_independent": [f"{by_their[g.gold_id].doc_id} {g.metric.value} {g.value} {g.ci}" for g in theirs if g.gold_id not in mapping],
-        "only_developer": [f"{g.doc_id} {g.metric.value} {g.value} {g.ci}" for g in mine if g.gold_id not in set(mapping.values())],
-    }
+    if agree_docs:
+        clusters, mapping = score_matching(pred_like, mine, agree_docs)
+        by_mine = {g.gold_id: g for g in mine}
+        by_their = {g.gold_id: g for g in theirs}
+        attr_pairs = [(by_their[t].attribution.value, by_mine[m].attribution.value) for t, m in mapping.items()]
+        report["agreement_with_developer_gold"] = {
+            "papers": len(agree_docs), "developer_gold": len(mine), "independent": len(theirs),
+            "independent_vs_developer": prf_ci(clusters, args.reps),
+            "attribution_agreement_on_matched": (sum(a == b for a, b in attr_pairs) / len(attr_pairs)) if attr_pairs else None,
+            "attribution_kappa": cohen_kappa(attr_pairs),
+            "only_independent": [f"{by_their[g.gold_id].doc_id} {g.metric.value} {g.value} {g.ci}" for g in theirs if g.gold_id not in mapping],
+            "only_developer": [f"{g.doc_id} {g.metric.value} {g.value} {g.ci}" for g in mine if g.gold_id not in set(mapping.values())],
+        }
+
+    else:
+        report["agreement_with_developer_gold"] = None
 
     # ---------------------------------------------------------------- frozen system vs independent annotation
     fresh_docs = sorted(d for d in kind if kind[d] == "fresh")
@@ -184,8 +188,9 @@ def main() -> None:
     s = report["system_vs_independent"]["all_fresh"]
     print(f"annotated {report['papers_with_annotations']}/{report['papers_assigned']} papers; "
           f"{report['in_scope_records']} in-scope, {sum(report['out_of_scope_records'].values())} out-of-scope records")
-    print(f"AGREEMENT on {a['papers']} overlap papers  independent-vs-developer F1 {fmt_ci(a['independent_vs_developer']['f1'])}  "
-          f"attribution kappa {a['attribution_kappa']}")
+    if a:
+        print(f"AGREEMENT on {a['papers']} overlap papers  independent-vs-developer F1 {fmt_ci(a['independent_vs_developer']['f1'])}  "
+              f"attribution kappa {a['attribution_kappa']}")
     print(f"SYSTEM vs INDEPENDENT on {s['papers']} fresh papers  P {fmt_ci(s['value_and_ci']['precision'])}  "
           f"R {fmt_ci(s['value_and_ci']['recall'])}  F1 {fmt_ci(s['value_and_ci']['f1'])}")
     print(f"  own labels that independent calls cited: {s['own_that_independent_calls_cited']}/{s['own_labels']}; "

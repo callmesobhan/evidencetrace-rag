@@ -25,10 +25,14 @@ def main() -> None:
     ap.add_argument("--raw-main", type=Path, required=True)
     ap.add_argument("--out", type=Path, required=True)
     ap.add_argument("--config", type=Path, default=None)
+    ap.add_argument("--only", type=Path, default=None, help="JSON list of opaque ids to predict (default: all in the map)")
     args = ap.parse_args()
     cfg = Config.load(args.config)
     tagger = make_tagger(cfg.extraction)
     mp = json.loads(args.map.read_text())
+    if args.only:
+        keep = set(json.loads(args.only.read_text()))
+        mp = {k: v for k, v in mp.items() if k in keep}
     rows = []
     for pid in sorted(mp):
         pmcid, kind = mp[pid]["pmcid"], mp[pid]["kind"]

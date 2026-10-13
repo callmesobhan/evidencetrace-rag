@@ -1,14 +1,14 @@
-### `test` split - 48 papers, 360 gold findings, 355 predicted
+### `test` split - 48 papers, 360 gold findings, 347 predicted
 
 | metric | value (95% cluster-bootstrap CI over papers) |
 |---|---|
-| value+CI precision | 0.963 [0.904, 0.997] |
+| value+CI precision | 0.986 [0.966, 0.997] |
 | value+CI recall | 0.950 [0.899, 0.993] |
-| value+CI F1 | 0.957 [0.916, 0.988] |
+| value+CI F1 | 0.967 [0.937, 0.991] |
 | value-only recall (ignores CI) | 0.950 [0.899, 0.993] |
-| value-only precision (ignores CI) | 0.963 [0.904, 0.997] |
-| **own-labelled results that are really cited ('leak')** | 0.010 [0.000, 0.023] |
-| precision of 'own' labels | 0.952 [0.885, 0.989] |
+| value-only precision (ignores CI) | 0.986 [0.966, 0.997] |
+| **own-labelled results that are really cited ('leak')** | 0.010 [0.000, 0.024] |
+| precision of 'own' labels | 0.977 [0.951, 0.993] |
 | p-value accuracy (matched) | 1.000 |
 | n accuracy (matched) | 1.000 |
 | provenance verification pass rate | 1.000 |

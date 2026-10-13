@@ -1,0 +1,202 @@
+{
+ "dev": {
+  "all papers": {
+   "papers": 63,
+   "gold": 482,
+   "predicted": 468,
+   "precision": [
+    0.9871794871794872,
+    0.9653579676674365,
+    1.0
+   ],
+   "recall": [
+    0.9585062240663901,
+    0.9323144104803494,
+    0.9812108559498957
+   ],
+   "f1": [
+    0.9726315789473684,
+    0.9556886227544911,
+    0.9869346733668342
+   ],
+   "counts": {
+    "tp": 462,
+    "fp": 6,
+    "fn": 20
+   },
+   "own_labels": 441,
+   "own_that_are_cited": 0,
+   "designs": {
+    "evidence_synthesis": 7,
+    "observational": 4,
+    "other": 8,
+    "protocol": 2,
+    "trial": 42
+   }
+  },
+  "confirmed trials": {
+   "papers": 42,
+   "gold": 329,
+   "predicted": 319,
+   "precision": [
+    0.9811912225705329,
+    0.9493243243243243,
+    1.0
+   ],
+   "recall": [
+    0.9513677811550152,
+    0.9198606271777003,
+    0.9801980198019802
+   ],
+   "f1": [
+    0.9660493827160493,
+    0.9440559440559441,
+    0.9847094801223242
+   ],
+   "counts": {
+    "tp": 313,
+    "fp": 6,
+    "fn": 16
+   },
+   "own_labels": 301,
+   "own_that_are_cited": 0,
+   "designs": {
+    "trial": 42
+   }
+  },
+  "not confirmed as trials": {
+   "papers": 21,
+   "gold": 153,
+   "predicted": 149,
+   "precision": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "recall": [
+    0.9738562091503268,
+    0.9241379310344827,
+    1.0
+   ],
+   "f1": [
+    0.9867549668874173,
+    0.9605734767025089,
+    1.0
+   ],
+   "counts": {
+    "tp": 149,
+    "fp": 0,
+    "fn": 4
+   },
+   "own_labels": 140,
+   "own_that_are_cited": 0,
+   "designs": {
+    "evidence_synthesis": 7,
+    "observational": 4,
+    "other": 8,
+    "protocol": 2
+   }
+  }
+ },
+ "test": {
+  "all papers": {
+   "papers": 48,
+   "gold": 360,
+   "predicted": 347,
+   "precision": [
+    0.9855907780979827,
+    0.9657534246575342,
+    0.9974747474747475
+   ],
+   "recall": [
+    0.95,
+    0.8987012987012987,
+    0.993006993006993
+   ],
+   "f1": [
+    0.9674681753889675,
+    0.9368029739776952,
+    0.99055330634278
+   ],
+   "counts": {
+    "tp": 342,
+    "fp": 5,
+    "fn": 18
+   },
+   "own_labels": 302,
+   "own_that_are_cited": 3,
+   "designs": {
+    "economic_evaluation": 1,
+    "evidence_synthesis": 9,
+    "observational": 4,
+    "other": 8,
+    "protocol": 1,
+    "trial": 25
+   }
+  },
+  "confirmed trials": {
+   "papers": 25,
+   "gold": 184,
+   "predicted": 176,
+   "precision": [
+    0.9772727272727273,
+    0.9401197604790419,
+    1.0
+   ],
+   "recall": [
+    0.9347826086956522,
+    0.8563218390804598,
+    0.9939393939393939
+   ],
+   "f1": [
+    0.9555555555555556,
+    0.9090909090909091,
+    0.9891891891891892
+   ],
+   "counts": {
+    "tp": 172,
+    "fp": 4,
+    "fn": 12
+   },
+   "own_labels": 167,
+   "own_that_are_cited": 1,
+   "designs": {
+    "trial": 25
+   }
+  },
+  "not confirmed as trials": {
+   "papers": 23,
+   "gold": 176,
+   "predicted": 171,
+   "precision": [
+    0.9941520467836257,
+    0.978494623655914,
+    1.0
+   ],
+   "recall": [
+    0.9659090909090909,
+    0.8823529411764706,
+    1.0
+   ],
+   "f1": [
+    0.9798270893371758,
+    0.9342560553633218,
+    1.0
+   ],
+   "counts": {
+    "tp": 170,
+    "fp": 1,
+    "fn": 6
+   },
+   "own_labels": 135,
+   "own_that_are_cited": 2,
+   "designs": {
+    "economic_evaluation": 1,
+    "evidence_synthesis": 9,
+    "observational": 4,
+    "other": 8,
+    "protocol": 1
+   }
+  }
+ }
+}

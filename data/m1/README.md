@@ -2,6 +2,7 @@
 
 ```
 corpus_manifest.jsonl  the 111 development/test papers: PMCID, split, licence, SHA-256 of the downloaded XML
+design.jsonl           study design of all 166 papers: PubMed publication types, title-based design, disagreements
 fresh_manifest.jsonl   the 55 papers used only for the independent evaluation (never seen during development)
 annotation/   <split>_candidates.jsonl   every prediction, pre-filled in gold format (frozen)
               <split>_nearmiss.jsonl     statistical-looking sentences with no prediction (recall audit)
@@ -9,9 +10,12 @@ annotation/   <split>_candidates.jsonl   every prediction, pre-filled in gold fo
               v1/dev_candidates_v1.jsonl predictions of the FIRST extractor (baseline snapshot)
 gold/         <split>_gold_findings.jsonl  quote-anchored gold; quotes are validated against the parsed paper
 queries/      <split>_queries.jsonl      frozen query sets; <split>_paraphrases.json hand-written;
+              <split>_hardneg_queries.jsonl  "effect of placebo on X" queries (answer: abstain), generated from the gold;
               label_corrections.json     audited query-label errors
 results/            scores from the FROZEN code (the held-out test numbers)
 results_postreview/ scores from the CURRENT code + configs/posthoc.toml (NOT held-out; dev was fitted)
+results_by_design/  extraction metrics for confirmed trials vs everything else (current code)
+results_hardneg/    hard-negative query scores for the frozen source and the current code (current is tuned on them)
 frozen_snapshot/        exact source + config at the test-split freeze; reproduces results/
 frozen_snapshot_fresh/  exact source that produced the held-out fresh-paper predictions
 independent/            blind annotation by independent agents, the held-out predictions, scores (see its README)

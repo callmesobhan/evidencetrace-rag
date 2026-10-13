@@ -1,0 +1,359 @@
+{
+ "dev": {
+  "n": 17,
+  "false_answers": 15,
+  "rate": 0.8824,
+  "exact_95_ci": [
+   0.6356,
+   0.9854
+  ],
+  "queries": [
+   {
+    "qid": "dev-hn001",
+    "query": "What is the effect of placebo on C-reactive protein?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11241903: MD -1.96 (95% CI -3.68 to -0.24, p=0.026)",
+     "PMC11241903: MD -1.12 % (95% CI -2.83 to 0.58, p=0.188)"
+    ]
+   },
+   {
+    "qid": "dev-hn002",
+    "query": "What is the effect of placebo on left ventricular mass?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn003",
+    "query": "What is the effect of placebo on global longitudinal strain?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC10698980: OR 6.79 (95% CI 3.19 to 14.47, p<0.001)",
+     "PMC11241903: MD -3.74 g (95% CI -6.24 to -1.24, p=0.004)"
+    ]
+   },
+   {
+    "qid": "dev-hn004",
+    "query": "What is the effect of placebo on loop diuretic dose reduction?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11400859: OR 0.35 (CI 0.23 to 0.53, p<0.001)",
+     "PMC11400859: OR 2.67 (95% CI 1.7 to 4.18)"
+    ]
+   },
+   {
+    "qid": "dev-hn005",
+    "query": "What is the effect of placebo on loop diuretic dose increase?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11400859: OR 0.35 (CI 0.23 to 0.53, p<0.001)",
+     "PMC11400859: OR 2.67 (95% CI 1.7 to 4.18)"
+    ]
+   },
+   {
+    "qid": "dev-hn006",
+    "query": "What is the effect of placebo on new starts of loop diuretics?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11400859: HR 2.69 (95% CI 1.19 to 6.12, p=0.02)",
+     "PMC11400859: HR 0.29 (95% CI 0.16 to 0.52, p<0.0001)"
+    ]
+   },
+   {
+    "qid": "dev-hn007",
+    "query": "What is the effect of usual care on preeclampsia?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "dev-hn008",
+    "query": "What is the effect of usual care on hospitalization with infection as the main cause?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11798631: HR 0.76 (95% CI 0.49 to 0.98, p=0.032)",
+     "PMC11798631: HR 0.82 (95% CI 0.67 to 0.99, p=0.032)"
+    ]
+   },
+   {
+    "qid": "dev-hn009",
+    "query": "What is the effect of placebo on anemia correction?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11960735: HR 2.55 (95% CI 2.01 to 3.24, p<0.001)"
+    ]
+   },
+   {
+    "qid": "dev-hn010",
+    "query": "What is the effect of placebo on incident anemia?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11960735: HR 0.51 (95% CI 0.41 to 0.62, p<0.001)"
+    ]
+   },
+   {
+    "qid": "dev-hn011",
+    "query": "What is the effect of placebo on primary cardiorenal composite outcome?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC12986030: HR 1.95 (95% CI 0.8 to 4.73)",
+     "PMC12986030: HR 3.99 (95% CI 1.61 to 9.87)"
+    ]
+   },
+   {
+    "qid": "dev-hn012",
+    "query": "What is the effect of placebo on recurrent hospitalization for heart failure?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC12765366: HR 0.92 (95% CI 0.63 to 1.34)",
+     "PMC12765366: HR 0.62 (95% CI 0.46 to 0.82)"
+    ]
+   },
+   {
+    "qid": "dev-hn013",
+    "query": "What is the effect of placebo on 6-minute walk distance?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC13124407: MD 27.23 meters (95% CI 8.28 to 46.18, p=0.005)"
+    ]
+   },
+   {
+    "qid": "dev-hn014",
+    "query": "What is the effect of placebo on mean pulmonary artery pressure?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC13124407: MD 0.43 mmHg (95% CI -0.75 to 1.61, p=0.47)"
+    ]
+   },
+   {
+    "qid": "dev-hn015",
+    "query": "What is the effect of placebo on electrolyte-free water clearance?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC7594536: MD 272 mL (95% CI -18 to 562, p=0.08)",
+     "PMC7594536: MD 312 mL (95% CI 26 to 598, p=0.026)"
+    ]
+   },
+   {
+    "qid": "dev-hn016",
+    "query": "What is the effect of placebo on 24-hour urinary volume?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC7594536: MD 535 mL (95% CI 133 to 936, p=0.005)",
+     "PMC7594536: MD 545 mL (95% CI 136 to 954, p=0.005)"
+    ]
+   },
+   {
+    "qid": "dev-hn017",
+    "query": "What is the effect of placebo on body weight?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11400859: MD -8.8 % (95% CI -10.3 to -6.3)"
+    ]
+   }
+  ]
+ },
+ "test": {
+  "n": 18,
+  "false_answers": 17,
+  "rate": 0.9444,
+  "exact_95_ci": [
+   0.7271,
+   0.9986
+  ],
+  "queries": [
+   {
+    "qid": "test-hn001",
+    "query": "What is the effect of placebo on worsening heart failure or cardiovascular death?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC10234442: HR 5.59 (95% CI 3.97 to 7.88)",
+     "PMC10234442: HR 6.24 (95% CI 4.07 to 9.56)"
+    ]
+   },
+   {
+    "qid": "test-hn002",
+    "query": "What is the effect of placebo on new-onset atrial fibrillation?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC10234442: HR 0.86 (95% CI 0.6 to 1.22)",
+     "PMC10234442: HR 5.59 (95% CI 3.97 to 7.88)"
+    ]
+   },
+   {
+    "qid": "test-hn003",
+    "query": "What is the effect of placebo on first heart failure hospitalization?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11115458: IRR 0.67 (95% CI 0.51 to 0.89, p=0.006)",
+     "PMC11115458: HR 0.77 (95% CI 0.6 to 0.98, p=0.031)"
+    ]
+   },
+   {
+    "qid": "test-hn004",
+    "query": "What is the effect of placebo on total heart failure hospitalizations?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11115458: IRR 0.67 (95% CI 0.51 to 0.89, p=0.006)",
+     "PMC11115458: HR 0.77 (95% CI 0.6 to 0.98, p=0.031)"
+    ]
+   },
+   {
+    "qid": "test-hn005",
+    "query": "What is the effect of placebo on first heart failure hospitalization or death attributable to heart failure?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11115458: HR 0.78 (95% CI 0.62 to 0.98, p=0.031)",
+     "PMC11115458: RR 0.69 (95% CI 0.51 to 0.93, p=0.015)"
+    ]
+   },
+   {
+    "qid": "test-hn006",
+    "query": "What is the effect of placebo on first adverse event of heart failure or all-cause mortality?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC11115458: HR 0.83 (95% CI 0.71 to 0.96, p=0.013)",
+     "PMC11115458: HR 0.82 (95% CI 0.7 to 0.96, p=0.013)"
+    ]
+   },
+   {
+    "qid": "test-hn007",
+    "query": "What is the effect of placebo on key secondary kidney composite outcome?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC12074935: HR 0.48 (95% CI 0.29 to 0.79, p=0.0029)",
+     "PMC12074935: HR 0.4 (95% CI 0.19 to 0.83, p=0.0114)"
+    ]
+   },
+   {
+    "qid": "test-hn008",
+    "query": "What is the effect of placebo on any adverse events?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC12618225: OR 2.52 (95% CI 0.95 to 6.68, p=0.056)",
+     "PMC11115458: RR 0.63 (95% CI 0.5 to 0.79, p<0.0001)"
+    ]
+   },
+   {
+    "qid": "test-hn009",
+    "query": "What is the effect of placebo on drug-related adverse events?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC12323939: RR 1.77 (95% CI 1.02 to 3.05, p=0.04)",
+     "PMC12323939: RR 0.76 (95% CI 0.03 to 18.54, p=0.87)"
+    ]
+   },
+   {
+    "qid": "test-hn010",
+    "query": "What is the effect of placebo on discontinuation due to drug-related adverse events?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC12323939: RR 1.77 (95% CI 1.02 to 3.05, p=0.04)",
+     "PMC12323939: RR 0.76 (95% CI 0.03 to 18.54, p=0.87)"
+    ]
+   },
+   {
+    "qid": "test-hn011",
+    "query": "What is the effect of the control group on stroke recurrence?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC12584062: HR 0.56 (95% CI 0.34 to 0.91, p=0.02)"
+    ]
+   },
+   {
+    "qid": "test-hn012",
+    "query": "What is the effect of the control group on excellent functional outcome?",
+    "answered": false,
+    "status": "abstained",
+    "returned": []
+   },
+   {
+    "qid": "test-hn013",
+    "query": "What is the effect of placebo on deterioration in KCCQ-TSS?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC6964869: OR 0.84 (95% CI 0.78 to 0.9, p<0.0001)",
+     "PMC6964869: OR 1.14 (95% CI 1.07 to 1.22, p<0.0001)"
+    ]
+   },
+   {
+    "qid": "test-hn014",
+    "query": "What is the effect of placebo on serum creatinine?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC9052620: OR 0.71 (95% CI 0.55 to 0.91)",
+     "PMC9052620: OR 0.74 (95% CI 0.56 to 0.97)"
+    ]
+   },
+   {
+    "qid": "test-hn015",
+    "query": "What is the effect of placebo on kidney failure?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC9052620: OR 0.71 (95% CI 0.55 to 0.91)",
+     "PMC9052620: OR 0.74 (95% CI 0.56 to 0.97)"
+    ]
+   },
+   {
+    "qid": "test-hn016",
+    "query": "What is the effect of placebo on doubling of serum creatinine?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC9052620: OR 0.71 (95% CI 0.55 to 0.91)",
+     "PMC9052620: OR 0.74 (95% CI 0.56 to 0.97)"
+    ]
+   },
+   {
+    "qid": "test-hn017",
+    "query": "What is the effect of the control group on systolic blood pressure?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC8372528: MD 3.76 mmHg (CI 0.75 to 6.78)",
+     "PMC8372528: MD 0.99 mmHg (95% CI -1.44 to 3.41)"
+    ]
+   },
+   {
+    "qid": "test-hn018",
+    "query": "What is the effect of the control group on diastolic blood pressure?",
+    "answered": true,
+    "status": "answered",
+    "returned": [
+     "PMC8372528: MD 3.76 mmHg (CI 0.75 to 6.78)",
+     "PMC8372528: MD 0.99 mmHg (95% CI -1.44 to 3.41)"
+    ]
+   }
+  ]
+ }
+}

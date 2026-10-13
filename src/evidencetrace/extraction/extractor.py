@@ -7,6 +7,7 @@ import re
 from evidencetrace.abbreviations import aliases_for
 from evidencetrace.config import ExtractionConfig
 from evidencetrace.extraction.candidates import find_effect_candidates
+from evidencetrace.extraction.clauses import effect_clause
 from evidencetrace.extraction.fields import FieldTagger, RuleFieldTagger
 from evidencetrace.ingest.document import Document
 from evidencetrace.ingest.sentences import split_sentences
@@ -70,12 +71,19 @@ def extract_findings(
         candidates = find_effect_candidates(sent.text, sent.start)
         if not candidates:
             continue
-        fields = tagger.tag(sent.text)
         attribution = detect_attribution(sent.text, sent.section)
+        fields_by_clause: dict[str, object] = {}
+        est_starts = [c.start - sent.start for c in candidates]
         span = SourceSpan(
             doc_id=doc.doc_id, start=sent.start, end=sent.end, text=sent.text, section=sent.section
         )
         for c in candidates:
+            clause = effect_clause(sent.text, c.start - sent.start, c.end - sent.start, est_starts)
+            # fields come from the estimate's own clause: "Zeta did not change stroke, whereas placebo increased MI (HR 1.4)"
+            # must not hand the placebo finding Zeta as its intervention and stroke as its outcome
+            if clause not in fields_by_clause:
+                fields_by_clause[clause] = tagger.tag(clause)
+            fields = fields_by_clause[clause]
             if sent.section == "methods" and c.ci_low is None and c.p_value is None:
                 continue  # "we propose to assess a mean difference of 0.15" is a plan, not a result
             ci = (
@@ -102,7 +110,8 @@ def extract_findings(
                     population=fields.population,
                     attribution=attribution,
                     context=doc.title,
-                    aliases=aliases_for(sent.text, doc.abbreviations),
+                    aliases=aliases_for(clause, doc.abbreviations),
+                    clause=clause if clause != sent.text else None,
                     span=span,
                     extractor=f"{tagger.name}+regex-v1",
                     confidence=_confidence(ci is not None, c.p_value is not None, fields.confidence,

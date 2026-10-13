@@ -23,9 +23,9 @@ it is isolated in one function and covered by the hash check.
 | 1 | Parse | `ingest/parsers.py` | file → `Document` (canonical text, sections, sha256) | yes |
 | 2 | Sentence spans | `ingest/sentences.py` | `Document` → `Sentence(start, end, text, section)` | yes |
 | 3 | Numeric candidates | `extraction/candidates.py` | sentence → metric, value, CI, level, unit, p, n | yes |
-| 4 | Field tagging | `extraction/fields.py`, `bert_tagger.py` | sentence → intervention / comparator / outcome / population + confidence | rules: yes · BERT: model |
+| 4 | Field tagging | `extraction/fields.py`, `bert_tagger.py`, `clauses.py` | the estimate's clause → intervention / comparator / outcome / population + confidence | rules: yes · BERT: model |
 | 5 | Assemble + attribute | `extraction/extractor.py` | candidates + fields → `Finding`; own/cited; dedupe abstract↔results | yes |
-| 6 | Retrieve | `retrieval/lexical.py`, `hybrid.py` | query → `Hit(finding, score, coverage)` | lexical: yes · dense: model |
+| 6 | Retrieve | `retrieval/lexical.py`, `hybrid.py`, `query.py` | query → `Hit(finding, score, coverage)`; indexes the estimate's *clause*, tracks reference arms | lexical: yes · dense: model |
 | 7 | Verify | `verification/provenance.py` | finding + document → `VerificationResult` | yes |
 | 8 | Conflicts | `verification/conflicts.py` | verified findings → `Conflict[]`, plus unassessable pairs | yes |
 | 9 | Decide | `abstention/policy.py` | funnel counts + conflicts → status + reasons | yes |
@@ -47,7 +47,7 @@ Each stage's survivors are counted, so an abstention names the *first* stage tha
 ## 3. Data contracts (`schemas.py`)
 
 - **`SourceSpan`** — `doc_id, start, end, text, section`. Half-open `[start, end)` into canonical text.
-- **`Finding`** — `finding_id` (unique per document: includes the interval, repeats get a suffix), `metric, value, ci{low,high,level}, p_value+operator, n, unit`, the four fields,
+- **`Finding`** — `clause` (the part of the sentence that holds this estimate; retrieval indexes it instead of the whole sentence), `finding_id` (unique per document: includes the interval, repeats get a suffix), `metric, value, ci{low,high,level}, p_value+operator, n, unit`, the four fields,
   `attribution` (own | cited), `span`, `extractor`, `confidence`, `doc_sha256`.
 - **`VerificationResult`** — a dict of named boolean checks. `ok` is "all true"; failures are listed by
   name so a failed answer is debuggable.
@@ -95,7 +95,7 @@ finding lacks intervention/outcome, the pair is *unassessable*: it is counted an
 | Extractor misreads/rounds a number | `value_in_span` etc. | extractor picks the *wrong* number that is present in the sentence (eval: value/CI F1) |
 | Right number, wrong claim (subgroup, negation) | optional `NLIVerifier` | without NLI this is undetected |
 | Result is cited, not the paper's own | attribution heuristic: introduction, citation markers, and (in Discussion/Conclusion) no "our/we/this study" ⇒ cited; `include_cited=false` | 1.0% of "own" labels were another study's on the M1 test split (0.7%, 1 of 139, on unseen papers); 22% of "cited" labels were really own (the safe direction) |
-| Topic match masquerading as an answer | coverage gate + **rare-term gate** (a finding lacking a rare query term is not relevant; rarity counted over papers, not findings, in the post-hoc config) | paraphrase → over-abstention (65-86% on real papers); **token presence cannot bind roles** (a placebo-arm result in a sentence naming the drug still answers) |
+| Topic match masquerading as an answer | coverage gate + **rare-term gate** (a finding lacking a rare query term is not relevant; rarity counted over papers, not findings, in the post-hoc config) | paraphrase → over-abstention (65-86% on real papers); roles are bound only heuristically (clause scoping, reference-arm tracking, "the most distinctive intervention word must be a subject"): the frozen system answered 88-94% of "effect of placebo on X" queries, the current code 0-11% (tuned on them) |
 | Contradictory papers averaged away | conflict detection, `status=conflicting` | fields missing → unassessable pairs, reported as caveat |
 | Source changed after indexing | `document_unchanged`, `span_text_matches` | none for text; PDF re-parse differences change the hash |
 | LLM narrator invents a number (future) | planned number-guard: every numeral in the narration must exist in a verified Finding | not built yet |

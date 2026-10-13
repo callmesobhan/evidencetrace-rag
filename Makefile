@@ -1,5 +1,5 @@
 PYTHON ?= python
-.PHONY: install install-all test lint eval demo clean fetch-pinned fetch-new verify-freeze m1-frozen m1 independent reproduce
+.PHONY: install install-all test lint eval demo clean fetch-pinned fetch-new verify-freeze m1-frozen m1 independent design by-design hardneg eval-hardneg reproduce
 
 install:
 	pip install -e ".[dev]"
@@ -70,8 +70,31 @@ independent:
 	      && echo "scores_$$n: identical"; \
 	done
 
+# study design of every paper (PubMed publication types + title phrases); one request to NCBI
+design:
+	$(PYTHON) scripts/fetch_design.py --out reports/design.jsonl
+	diff reports/design.jsonl data/m1/design.jsonl && echo "design: identical to data/m1/design.jsonl"
+
+# extraction metrics for confirmed trials vs everything else
+by-design:
+	$(PYTHON) -I scripts/stratify_m1.py --raw data/raw/pmc --m1 data/m1 --out reports/by_design --config configs/posthoc.toml >/dev/null
+	diff -r reports/by_design data/m1/results_by_design && echo "by-design: identical to data/m1/results_by_design"
+
+# hard-negative queries (placebo / usual care asked about as if it were the intervention): regenerate and score on the
+# frozen source and on the current code
+hardneg:
+	for s in dev test; do $(PYTHON) -I scripts/make_hardneg_queries.py --split $$s --raw data/raw/pmc --gold data/m1/gold --out reports/hardneg_queries; done
+	cmp reports/hardneg_queries/dev_hardneg_queries.jsonl data/m1/queries/dev_hardneg_queries.jsonl && cmp reports/hardneg_queries/test_hardneg_queries.jsonl data/m1/queries/test_hardneg_queries.jsonl && echo "hardneg queries: identical"
+	PYTHONPATH=data/m1/frozen_snapshot/src $(PYTHON) scripts/eval_hardneg.py --frozen --raw data/raw/pmc --m1 data/m1 --out reports/hardneg/frozen 2>/dev/null
+	$(PYTHON) -I scripts/eval_hardneg.py --raw data/raw/pmc --m1 data/m1 --out reports/hardneg/current --config configs/posthoc.toml 2>/dev/null
+	diff -r reports/hardneg data/m1/results_hardneg && echo "hardneg: identical to data/m1/results_hardneg"
+
+# role-binding traps in a small labelled synthetic corpus (a regression test for the fix, NOT independent evidence)
+eval-hardneg:
+	$(PYTHON) -m evidencetrace.cli eval --corpus data/samples_hardneg/papers --gold data/samples_hardneg/gold --out reports/hardneg-synthetic
+
 # everything, in order. Fails loudly at the first number that does not reproduce.
-reproduce: verify-freeze fetch-pinned m1-frozen m1 independent
+reproduce: verify-freeze fetch-pinned m1-frozen m1 independent design by-design hardneg
 
 clean:
-	rm -rf .evidencetrace .pytest_cache reports/*.json reports/*.md reports/m1 reports/m1-frozen reports/independent reports/*.jsonl
+	rm -rf .evidencetrace .pytest_cache reports/*.json reports/*.md reports/m1 reports/m1-frozen reports/independent reports/*.jsonl reports/by_design reports/hardneg reports/hardneg_queries reports/hardneg-synthetic

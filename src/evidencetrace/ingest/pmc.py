@@ -161,6 +161,19 @@ def pubmed_rct_to_pmc(query: str, retmax: int, *, sleep: float = 0.4) -> list[st
     return list(dict.fromkeys(pmc_ids))  # de-duplicate, keep order
 
 
+def pubmed_publication_types(pmids: list[str], *, batch: int = 100, sleep: float = 0.4) -> dict[str, list[str]]:
+    """PubMed's publication types for each PMID (one polite request per ``batch`` ids)."""
+    from evidencetrace.ingest.design import parse_publication_types
+
+    out: dict[str, list[str]] = {}
+    for i in range(0, len(pmids), batch):
+        if i:
+            time.sleep(sleep)
+        raw = _get(f"{EUTILS}/efetch.fcgi", {"db": "pubmed", "id": ",".join(pmids[i : i + batch]), "retmode": "xml"})
+        out.update(parse_publication_types(raw))
+    return out
+
+
 def efetch(ids: list[str]) -> str:
     return _get(f"{EUTILS}/efetch.fcgi", {"db": "pmc", "id": ",".join(ids), "rettype": "xml"})
 

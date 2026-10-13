@@ -1,0 +1,14 @@
+Psi for Kidney Function
+[SYNTHETIC TEST DOCUMENT - fictional drugs and fictional data; built to contain role-binding traps]
+
+Abstract
+
+Filler paper with unrelated fictional vocabulary.
+
+Methods
+
+We randomized adults to the study drugs or placebo and followed them for 12 months.
+
+Results
+
+Drug Psi slowed the decline in kidney function compared with placebo (mean difference 1.9 mL/min, 95% CI 0.9 to 2.9; p<0.001). Drug Psi reduced albuminuria (mean difference -15 mg/g, 95% CI -22 to -8; p<0.001).

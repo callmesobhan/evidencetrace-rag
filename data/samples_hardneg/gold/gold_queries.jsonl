@@ -1,0 +1,12 @@
+{"qid": "a1", "query": "What is the effect of Drug Tau on systolic blood pressure?", "expected_status": "answered", "gold_findings": ["g_h1_sbp"], "kind": "answerable"}
+{"qid": "a2", "query": "What is the effect of Drug Upsilon on LDL cholesterol?", "expected_status": "answered", "gold_findings": ["g_h1_ldl"], "kind": "answerable"}
+{"qid": "a3", "query": "What is the effect of Drug Tau on diastolic blood pressure?", "expected_status": "answered", "gold_findings": ["g_h1_dbp"], "kind": "answerable"}
+{"qid": "a4", "query": "What is the effect of Drug Sigma on cardiovascular death?", "expected_status": "answered", "gold_findings": ["g_h2_cvd"], "kind": "answerable"}
+{"qid": "a5", "query": "What is the effect of Drug Phi on glycated haemoglobin?", "expected_status": "answered", "gold_findings": ["g_h3_hba1c"], "kind": "answerable"}
+{"qid": "u1_swap_outcome", "query": "What is the effect of Drug Tau on LDL cholesterol?", "expected_status": "abstained", "gold_findings": [], "kind": "role_swap"}
+{"qid": "u2_swap_outcome", "query": "What is the effect of Drug Upsilon on systolic blood pressure?", "expected_status": "abstained", "gold_findings": [], "kind": "role_swap"}
+{"qid": "u3_other_arm", "query": "What is the effect of Drug Sigma on myocardial infarction?", "expected_status": "abstained", "gold_findings": [], "kind": "role_swap"}
+{"qid": "u4_no_estimate", "query": "What is the effect of Drug Sigma on stroke?", "expected_status": "abstained", "gold_findings": [], "kind": "role_swap"}
+{"qid": "u5_control_as_intervention", "query": "What is the effect of placebo on diastolic blood pressure?", "expected_status": "abstained", "gold_findings": [], "kind": "control_as_intervention"}
+{"qid": "u6_control_as_intervention", "query": "What is the effect of placebo on myocardial infarction?", "expected_status": "abstained", "gold_findings": [], "kind": "control_as_intervention"}
+{"qid": "u7_control_as_intervention", "query": "What is the effect of placebo on body weight?", "expected_status": "abstained", "gold_findings": [], "kind": "control_as_intervention"}

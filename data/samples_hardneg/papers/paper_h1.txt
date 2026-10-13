@@ -1,0 +1,14 @@
+Tau and Upsilon: Two Drugs, Two Outcomes
+[SYNTHETIC TEST DOCUMENT - fictional drugs and fictional data; built to contain role-binding traps]
+
+Abstract
+
+Two fictional drugs were compared with placebo.
+
+Methods
+
+We randomized adults to the study drugs or placebo and followed them for 12 months.
+
+Results
+
+Drug Tau reduced systolic blood pressure (mean difference -6.0 mmHg, 95% CI -8.1 to -3.9; p<0.001), whereas Drug Upsilon reduced LDL cholesterol (mean difference -22 mg/dL, 95% CI -27 to -17; p<0.001). Drug Tau lowered diastolic blood pressure compared with placebo (mean difference -3.1 mmHg, 95% CI -4.5 to -1.7; p<0.001).

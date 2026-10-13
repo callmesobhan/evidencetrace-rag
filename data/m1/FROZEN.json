@@ -66,7 +66,9 @@
     "src/evidencetrace/extraction/extractor.py",
     "src/evidencetrace/ingest/document.py",
     "src/evidencetrace/ingest/parsers.py",
+    "src/evidencetrace/ingest/pmc.py",
     "src/evidencetrace/pipeline.py",
+    "src/evidencetrace/retrieval/lexical.py",
     "src/evidencetrace/schemas.py",
     "src/evidencetrace/store.py",
     "src/evidencetrace/textnorm.py",
@@ -74,7 +76,10 @@
     "src/evidencetrace/verification/provenance.py"
    ],
    "added": [
-    "src/evidencetrace/errors.py"
+    "src/evidencetrace/errors.py",
+    "src/evidencetrace/extraction/clauses.py",
+    "src/evidencetrace/ingest/design.py",
+    "src/evidencetrace/retrieval/query.py"
    ],
    "removed": []
   },
@@ -84,7 +89,10 @@
    "verification: positional 'estimate_reproduced' check, hash recomputed from the text, e-notation numbers (red-team review)",
    "ids: finding_id includes the interval and is unique per document; restatements collapse across sentences only (red-team review)",
    "evaluation: AURC over answered queries only; field F1 ignores None/None pairs (red-team review)",
-   "conflicts: 'p<0.05' counts as significant; differing units / MD vs SMD are not compared (red-team review)"
+   "conflicts: 'p<0.05' counts as significant; differing units / MD vs SMD are not compared (red-team review)",
+   "extraction: covariate-balance SMDs (no interval + a balance cue) are not effects - 8 test false positives, all from one paper (written after seeing them: post-hoc)",
+   "retrieval: findings carry the clause that holds the estimate; fields are tagged from it; reference-arm text and generic control words are tracked; the most distinctive intervention word must be a subject (developed against data/m1/queries/*_hardneg_queries.jsonl: tuned on them, not held-out)",
+   "data: data/m1/design.jsonl (study design per paper), hard-negative queries, results_by_design/, results_hardneg/, data/samples_hardneg (synthetic regression set)"
   ],
   "results": "data/m1/results_postreview/ (dev + test, current code + configs/posthoc.toml) and data/m1/independent/scores_postreview_lenient/"
  },
@@ -95,9 +103,11 @@
    "gold/test_gold_findings.jsonl": "f6b3e49cf999948f652cfade01fc863280e9327bdd48d5a09e73faeafa754e48",
    "gold/dev_gold_meta.json": "377687a157640d7f7eaec35953290e655929c51757bb71e65f05fc45301a07da",
    "gold/test_gold_meta.json": "9dfffb219d75c27df2c75bb82053d489ba96d8c548a25d86edc28c4900b24dc1",
+   "queries/dev_hardneg_queries.jsonl": "ab6b8c5b4ac9a9e42a0247bf7192f0c03bd5e811e675fc9c5f5a8cd50ba1358e",
    "queries/dev_paraphrases.json": "6a0162524b973e9cec6e4dd974f55f398356f97a3f94bbac118c274f2e7770e4",
    "queries/dev_queries.jsonl": "35b8d9ac82e2e61581c6636b4c433209bb1b051e388ecc6213098cb5aec648b9",
    "queries/label_corrections.json": "4963749bfdcbf43bae0665826a1e6640f56291db041b0dbd95800aa4d24878bf",
+   "queries/test_hardneg_queries.jsonl": "205f38aab85f0903fbc58fb87f018e9e752d2bf9856c731aadfdf1bc841d0f7b",
    "queries/test_paraphrases.json": "723232325706c071793e26e61f6a705ef74a4edccb4e1207ab3b2658fcd13f9c",
    "queries/test_queries.jsonl": "5b297fe9703666c6895775a7a04aee98de0acf2c57d7cd8e87eea65ee37fd1d9",
    "annotation/dev_review.json": "8e2aeb76043c7361fb94ece248387bd0184198197f8077c093a6f5bdba62e85b",
@@ -123,7 +133,8 @@
    "independent/pack/out/out_of_scope_2.jsonl": "e7ea8dd5d3e27b68df61ab2e0b317c35fdbb399796f1ee1fa37cafdd5bafe7c3",
    "independent/pack/out/out_of_scope_3.jsonl": "9cae3e120d1737e50421fac2e98db771e1100b90c0c09b86fe1d76a4167d7da1",
    "independent/pack/out/out_of_scope_4.jsonl": "d1a67c0b7fa07f043fa40ee313977683a331181da696584a1006f54d0adabfea",
-   "independent/pack/out/out_of_scope_5.jsonl": "07ca768a074874ee3de3a7e336c458cd120f58a5c0cf07b3ae168b991d953242"
+   "independent/pack/out/out_of_scope_5.jsonl": "07ca768a074874ee3de3a7e336c458cd120f58a5c0cf07b3ae168b991d953242",
+   "design.jsonl": "ec26b4f39bfe83b29ebdb0188cacce485c7b34849554e45060d016c8761194c8"
   }
  },
  "limits_of_this_record": "Hashes show that a file is unchanged since this record was written. They cannot show WHEN code or gold was frozen relative to the test annotation: the timestamps here are self-reported by the author, and the whole procedure was run by one party."

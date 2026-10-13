@@ -2,13 +2,13 @@
  "extraction": {
   "split": "test",
   "papers": 48,
-  "predicted": 355,
+  "predicted": 347,
   "gold": 360,
   "value_and_ci": {
    "precision": [
-    0.96338028169,
-    0.90395480226,
-    0.997395833333
+    0.985590778098,
+    0.965753424658,
+    0.997474747475
    ],
    "recall": [
     0.95,
@@ -16,21 +16,21 @@
     0.993006993007
    ],
    "f1": [
-    0.956643356643,
-    0.915773353752,
-    0.988115449915
+    0.967468175389,
+    0.936802973978,
+    0.990553306343
    ],
    "counts": {
     "tp": 342,
-    "fp": 13,
+    "fp": 5,
     "fn": 18
    }
   },
   "value_only": {
    "precision": [
-    0.96338028169,
-    0.90395480226,
-    0.997395833333
+    0.985590778098,
+    0.965753424658,
+    0.997474747475
    ],
    "recall": [
     0.95,
@@ -38,29 +38,29 @@
     0.993006993007
    ],
    "f1": [
-    0.956643356643,
-    0.915773353752,
-    0.988115449915
+    0.967468175389,
+    0.936802973978,
+    0.990553306343
    ],
    "counts": {
     "tp": 342,
-    "fp": 13,
+    "fp": 5,
     "fn": 18
    }
   },
   "attribution": {
    "leak_rate_own_labelled_but_cited": [
-    0.009677419355,
+    0.009933774834,
     0.0,
-    0.023411371237
+    0.02371541502
    ],
    "own_precision": [
-    0.951612903226,
-    0.884615384615,
-    0.98944591029
+    0.976821192053,
+    0.951388888889,
+    0.993258426966
    ],
    "counts": {
-    "predicted_own": 310,
+    "predicted_own": 302,
     "own_that_are_cited_in_gold": 3,
     "predicted_cited": 45,
     "cited_that_are_own_in_gold": 10
@@ -77,7 +77,7 @@
    "comparator": 0.068965517241,
    "outcome": 0.062347614072,
    "population": 0.5,
-   "fields_extracted_rate": 0.095774647887
+   "fields_extracted_rate": 0.097982708934
   },
   "by_metric": {
    "HR": 118,
@@ -110,18 +110,10 @@
   ],
   "spurious_pred": [
    "f_3a8491717f68",
-   "f_3bf92b3c7da6",
-   "f_3e1e73754718",
-   "f_4966274e5606",
-   "f_565e5a0ab882",
    "f_6c3d34107277",
-   "f_84480dad4a2c",
    "f_a6b4a1ceb42e",
    "f_bced753fe431",
-   "f_ca9d17359e07",
-   "f_cdd55f919971",
-   "f_d8c404a45c6b",
-   "f_ef7c979aedb7"
+   "f_d8c404a45c6b"
   ],
   "scope": {
    "near_miss_sentences": 250,
@@ -164,7 +156,7 @@
     0.642857142857,
     1.0
    ],
-   "mean_findings_returned": 2.827586206897
+   "mean_findings_returned": 2.724137931034
   },
   "unanswerable": {
    "n": 42,
@@ -659,8 +651,8 @@
     "answered": true,
     "hit": true,
     "correct": true,
-    "n_findings": 4,
-    "confidence": 0.65,
+    "n_findings": 1,
+    "confidence": 0.7,
     "reasons": [],
     "conflicts": 0,
     "caveats": 0
@@ -766,7 +758,7 @@
     "hit": true,
     "correct": true,
     "n_findings": 3,
-    "confidence": 0.6775,
+    "confidence": 0.6777,
     "reasons": [],
     "conflicts": 0,
     "caveats": 0
@@ -819,7 +811,7 @@
     "hit": true,
     "correct": true,
     "n_findings": 2,
-    "confidence": 0.6765,
+    "confidence": 0.6768,
     "reasons": [],
     "conflicts": 0,
     "caveats": 0
@@ -853,7 +845,7 @@
     "hit": true,
     "correct": true,
     "n_findings": 2,
-    "confidence": 0.6733,
+    "confidence": 0.6737,
     "reasons": [],
     "conflicts": 0,
     "caveats": 0
@@ -887,7 +879,7 @@
     "hit": true,
     "correct": true,
     "n_findings": 7,
-    "confidence": 0.67,
+    "confidence": 0.6704,
     "reasons": [],
     "conflicts": 0,
     "caveats": 0

@@ -112,6 +112,10 @@ results and caveats in [m1-report.md](m1-report.md). The parts worth reusing:
   mislabelled and the system was right (only answered unanswerable queries were audited). Caveats: *absent* queries cannot
   fail by construction, so report the *cross* queries separately; cross queries exclude drug+outcome co-occurring in one
   sentence, i.e. the hard negatives; report exact (Clopper-Pearson) intervals, not bootstrap percentiles, for rare events.
+- **Split by study design.** Do not assume the corpus is what the query asked for: classify each paper from PubMed's publication
+  types plus explicit title phrases (`ingest/design.py`), keep both signals, and report metrics for confirmed trials and for the rest.
+- **Include hard negatives.** Unanswerable queries whose words all occur together ("effect of placebo on X") test role binding; queries whose
+  words never co-occur (cross, absent) do not. Keep a set that was not used to develop the fix.
 - **Report the leak rate** (another study's number labelled "own") as its own metric; it is the error this system exists
   to prevent.
 - **Keep paraphrases and annotated wording separate**: they measure different things (recall of the relevance gate vs

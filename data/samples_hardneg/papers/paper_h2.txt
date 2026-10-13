@@ -1,0 +1,14 @@
+Sigma and the Placebo Arm
+[SYNTHETIC TEST DOCUMENT - fictional drugs and fictional data; built to contain role-binding traps]
+
+Abstract
+
+A fictional drug and its placebo arm.
+
+Methods
+
+We randomized adults to the study drugs or placebo and followed them for 12 months.
+
+Results
+
+Drug Sigma did not change stroke risk, whereas placebo increased myocardial infarction (hazard ratio 1.40, 95% CI 1.10 to 1.78; p=0.005). Drug Sigma reduced cardiovascular death (hazard ratio 0.80, 95% CI 0.66 to 0.97; p=0.02).

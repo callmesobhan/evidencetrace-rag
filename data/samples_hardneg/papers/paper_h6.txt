@@ -1,0 +1,14 @@
+Omicron for Sleep
+[SYNTHETIC TEST DOCUMENT - fictional drugs and fictional data; built to contain role-binding traps]
+
+Abstract
+
+Filler paper with unrelated fictional vocabulary.
+
+Methods
+
+We randomized adults to the study drugs or placebo and followed them for 12 months.
+
+Results
+
+Drug Omicron increased sleep duration compared with placebo (mean difference 0.6 hours, 95% CI 0.3 to 0.9; p<0.001). Drug Omicron reduced nocturnal awakenings (mean difference -0.8 episodes, 95% CI -1.1 to -0.5; p<0.001).

@@ -38,7 +38,7 @@ halved for cited findings, scaled by retrieval coverage), **not** a calibrated p
 | **Extract** | Effect sizes (HR/OR/RR/IRR/MD/SMD/RD) with CI, p-value, n, and who-vs-whom (intervention, comparator, outcome, population) | `extraction/` — regex numeric layer + swappable field tagger (rules → BERT) |
 | **Trace** | Every number in an answer is checked against the exact sentence it came from, at answer time | `verification/provenance.py` — the document hash is recomputed from the text, `text[start:end] == quote`, every value/CI/p/n occurs in the span, and re-reading the span yields the same estimate (metric, value, CI, p). It proves the number is in the quoted sentence *in the right slot*. It does **not** prove the sentence supports the claim: a number about another arm or outcome in the same sentence still passes. |
 | **Check** | Findings that answer the same question but disagree are surfaced, not averaged away | `verification/conflicts.py` — direction / magnitude / significance, ratios compared on the log scale. Tested on 5 synthetic papers only; it has **never fired on real papers** because the rule field tagger is too weak. |
-| **Abstain** | No supporting finding → no answer, with machine-readable reasons | `abstention/policy.py` + a rarity-weighted *coverage* signal from retrieval. The signal is token presence, so it cannot bind roles (drug vs placebo arm); it is conservative, refusing most paraphrases. |
+| **Abstain** | No supporting finding → no answer, with machine-readable reasons | `abstention/policy.py` + a rarity-weighted *coverage* signal from retrieval. The signal is lexical, scoped to the estimate's clause and aware of reference arms ("vs placebo"); it is not a parser, and it is conservative, refusing most paraphrases. |
 
 ## How it works
 
@@ -99,7 +99,7 @@ Requires **Python 3.11 or newer** (CI runs 3.11, 3.12 and 3.13).
 ```bash
 python3 -m venv .venv && source .venv/bin/activate && pip install -U pip
 pip install -e ".[dev]"          # core + tests
-make test                        # 233 tests: 3 are strict xfails recording known limits, 1 needs the .[llama] extra
+make test                        # 262 tests: 2 are strict xfails recording known limits, 1 needs the .[llama] extra
 make demo                        # ingest the synthetic corpus, ask two questions
 make eval                        # per-stage evaluation on the synthetic corpus -> reports/eval.{md,json}
 ```
@@ -111,6 +111,7 @@ make fetch-pinned                # exactly the 111 + 55 papers in data/m1/*_mani
 make verify-freeze               # every hash recorded in data/m1/FROZEN.json, recomputed
 make m1-frozen                   # the held-out numbers, from the frozen source; diffs against data/m1/results
 make m1 independent              # current code; independent-annotation scores; diffs against the committed files
+make design by-design hardneg    # study design, extraction by design, hard-negative scores (one NCBI request)
 ```
 
 Nothing in `make reproduce` overwrites a tracked file: outputs go to `reports/` and are diffed. `make fetch-new`
@@ -146,7 +147,7 @@ data/samples/           synthetic papers + gold            data/m1/   real-paper
 docs/                   architecture · evaluation · m1-report · known-issues · annotation-guidelines · roadmap
 scripts/                fetch_pmc · make_candidates · build_gold · make_queries · run_m1 · verify_freeze · make_attribution
                         make_blind_inputs · validate_annotations · predict_papers · score_blind · train_field_tagger
-tests/                  233 tests
+tests/                  262 tests
 ```
 
 ## Evaluation
@@ -166,14 +167,16 @@ and [docs/known-issues.md](docs/known-issues.md); read them before quoting a fig
 
 111 CC BY open-access papers from PubMed Central (cardiometabolic, 2019-2026), split by PMCID hash before any code ran;
 code frozen (hash recorded, snapshot reproduces the numbers) before the test split was audited. **The query asked for
-randomized trials, but roughly a quarter of the papers are meta-analyses, cohort or cross-sectional studies, or
-protocols** (a title screen; design was never screened).
+randomized trials, but PubMed labels only 67 of the 111 papers as trials** (the rest: 16 evidence syntheses, 8 observational,
+3 protocols, 1 economic evaluation, 16 untyped journal articles). Extraction accuracy turned out to be the same for both groups
+([report §2.1.1](docs/m1-report.md)).
 
 | held-out test split (48 papers, 360 gold findings) | |
 |---|---|
 | value + CI extraction vs one LLM annotator's gold: precision / recall / F1 | 0.963 / 0.950 / **0.957** (95% CI for F1: 0.916-0.988) |
 | results labelled "own" that are really another study's | **3 / 310 (1.0%)** |
 | unanswerable queries that got an answer | **3 / 43 (7.0%)**: exact 95% upper bound 19%; the 29 cross queries alone 3 / 29 (10%); one of the three is a label error; all three are one drug from one paper |
+| "effect of **placebo** on X" queries (the reference arm asked about as if it were the intervention) | the frozen system **answered 15 / 17 (dev) and 17 / 18 (test)**; after the role-aware retrieval fix 0 / 17 and 2 / 18, but that fix was developed on these queries |
 | answerable queries refused | **35%** (86% of hand-written paraphrases) |
 | conflicts detected on real papers | **0** (the rule tagger fills any field for ~10% of findings) |
 
@@ -194,8 +197,8 @@ them and is not held-out.
 
 What this means: number extraction, the provenance check and (for drugs the corpus never pairs with the asked outcome
 in one sentence) wrong-drug protection work on cardiometabolic trial text; **entity/field tagging does not** (so
-conflict detection is dormant), retrieval is lexical and cannot bind roles, and recall falls sharply outside the
-domain it was built on.
+conflict detection is dormant), retrieval is lexical (it now tracks clauses and reference arms, but only heuristically),
+and recall falls sharply outside the domain it was built on.
 
 **Threats to validity (the short version).** Every annotation here was made by an LLM, and no human verified anything.
 The M1 gold standard is a single annotator who is also the developer; it is pooled from the system's own output
@@ -205,13 +208,13 @@ are consistency checks that cannot fail the way an extractor fails. The independ
 
 ### What is verified, and what is not
 
-**Verified by the test suite** (`make test`): numeric extraction across dozens of reporting formats seen in real papers,
+**Verified by the test suite** (`make test`): numeric extraction across dozens of reporting formats seen in real papers (including covariate-balance SMDs, which are not effects),
 offset-exact provenance and tamper detection (including swapped intervals and flipped operators), all three conflict
 kinds (on synthetic data), the abstention ladder, own-vs-cited logic, structure-aware JATS parsing, abbreviation
 expansion, the rare-term gate, the LlamaIndex index (mock embedding), CLI error handling, hash verification of the
-freeze record, and the evaluation machinery. Three known limitations are recorded as strict `xfail` tests.
+freeze record, and the evaluation machinery. Two known limitations are recorded as strict `xfail` tests.
 
-**Reproducibility.** `make reproduce` re-derives every committed number from SHA-256-pinned downloads and diffs it
+**Reproducibility.** `make reproduce` re-derives every committed number (including study design and the hard-negative scores) from SHA-256-pinned downloads and diffs it
 against the committed files; the results are byte-identical on Python 3.11 and 3.13 (verified).
 
 **Written but never run against real model weights**: `BertFieldTagger` with a real checkpoint, `NLIVerifier`,
@@ -219,8 +222,9 @@ against the committed files; the results are byte-identical on Python 3.11 and 3
 
 **Known gaps** (full list in [docs/known-issues.md](docs/known-issues.md)): unnamed estimates ("increased X by 7.3 g/L
 (95% CI…)") and unusual notations (`COR/p = 6.30/0.01`) are out of scope or unrecognised; no table or figure extraction;
-Results sentences that don't name the intervention can't be answered lexically; covariate-balance SMDs are still
-extracted as effects; a heart rate written `HR 72 (95% CI 70-74)` with no unit is read as a hazard ratio.
+Results sentences that don't name the intervention can't be answered lexically; role handling in retrieval is heuristic (a
+control word in another sense, "active control", still leaks, and `but`/`although` are not clause boundaries); a heart rate
+written `HR 72 (95% CI 70-74)` with no unit is read as a hazard ratio.
 
 See [docs/roadmap.md](docs/roadmap.md) for the plan.
 

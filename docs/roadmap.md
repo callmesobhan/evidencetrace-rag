@@ -7,14 +7,15 @@ Deterministic core, synthetic corpus, per-stage evaluation, CI-able tests.
 **Exit:** `make test` and `make eval` green on a clean checkout.
 
 ## M1 - Real data, real baseline (done; see [m1-report.md](m1-report.md))
-111 CC BY PMC papers (about a quarter are not randomized trials), deterministic dev/test split, 482 + 360 gold findings,
+111 CC BY PMC papers (only 67 are PubMed-confirmed trials; extraction accuracy is the same for the rest), deterministic dev/test split, 482 + 360 gold findings,
 85 + 86 queries, frozen-code protocol with a byte-reproducible snapshot. **Outcome:** held-out F1 0.957 against one LLM
 annotator (0.742 on 30 unseen papers annotated blind: 0.902 cardiometabolic, 0.477 other domains), 1.0% own/cited leak,
 7.0% false answers (3 of 43; exact upper bound 19%), 35% over-abstention, 0 conflicts detected. **What it changed:** structure-aware JATS parsing, a rewritten numeric layer,
 the rare-term gate, abbreviation expansion, verifier fixes, and a corrected plan for M2/M3 below.
 **Still owed from M1:** a *human* annotator. An LLM-agent blind annotation of 36 papers is done
-(`data/m1/independent/`), but every annotation in the repo is still LLM-made. Also owed: study-design screening of the
-corpus, and hard negatives in the abstention queries (see `docs/known-issues.md`).
+(`data/m1/independent/`), but every annotation in the repo is still LLM-made. Done since: study-design screening and
+stratified metrics, hard-negative queries, role-aware retrieval, the covariate-balance filter. Still owed: a hard-negative
+set that was not used to develop the fix (annotate the 25 never-annotated fresh papers), and a human adjudication.
 
 ## M2 — Learned field tagger  *(the bottleneck M1 identified)*
 - Bootstrap training data from the rule tagger's high-confidence outputs, then correct by hand

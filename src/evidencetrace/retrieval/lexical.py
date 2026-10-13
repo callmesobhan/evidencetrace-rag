@@ -17,6 +17,7 @@ from collections import Counter
 from dataclasses import dataclass, field
 from typing import Protocol
 
+from evidencetrace.retrieval.query import parse_slots
 from evidencetrace.schemas import Finding
 from evidencetrace.textnorm import tokenize
 
@@ -51,6 +52,10 @@ class LexicalFindingRetriever:
         self._k1, self._b = k1, b
         self._tokens = [tokenize(f.search_text) for f in findings]
         self._tf = [Counter(t) for t in self._tokens]
+        # Terms that act as subject / outcome vs terms that only name the reference arm ("... vs placebo").
+        roles = [f.role_texts() for f in findings]
+        self._main = [set(tokenize(m)) for m, _ in roles]
+        self._cmp_only = [set(tokenize(c)) - mn for (_, c), mn in zip(roles, self._main, strict=True)]
         self._len = [len(t) for t in self._tokens]
         self._avg = (sum(self._len) / len(self._len)) if self._len else 0.0
         self._df: Counter[str] = Counter()
@@ -70,7 +75,7 @@ class LexicalFindingRetriever:
             return self._idf_max
         return math.log(1 + (self._n - df + 0.5) / (df + 0.5))
 
-    def score_index(self, i: int, terms: list[str]) -> Hit:
+    def score_index(self, i: int, terms: list[str], intervention_terms: list[str] | None = None) -> Hit:
         tf, dl = self._tf[i], self._len[i]
         bm25 = 0.0
         for t in set(terms):
@@ -83,6 +88,18 @@ class LexicalFindingRetriever:
         covered = sum(w for t, w in weights.items() if t in tf)
         missing = sorted(t for t in weights if t not in tf)
         rare = [t for t in missing if self._is_rare(t)]
+        if intervention_terms:
+            # The most distinctive word of the asked-about intervention must appear as a subject of this finding, not
+            # merely somewhere (or only as the reference arm: "placebo on SBP" vs "Zeta vs placebo on SBP"). Without
+            # this a common word ("placebo", a widely studied drug) costs almost nothing in coverage and the finding
+            # is returned for a question that is not about it.
+            asked = set(intervention_terms)
+            top = max(self._idf(t) for t in asked)
+            key = {t for t in asked if self._idf(t) >= top - 1e-9}
+            absent = key - self._main[i]
+            if absent:
+                missing = sorted(set(missing) | absent)
+                rare = sorted(set(rare) | absent)
         return Hit(
             finding=self.findings[i],
             score=bm25,
@@ -98,17 +115,23 @@ class LexicalFindingRetriever:
         df = self._df.get(term, 0)
         return df == 0 or df <= self._rare_fraction * self._n
 
+    @staticmethod
+    def _intervention_terms(query: str) -> list[str] | None:
+        slots = parse_slots(query)
+        return tokenize(slots[0]) if slots else None
+
     def score_finding(self, query: str, finding_id: str) -> Hit | None:
         for i, f in enumerate(self.findings):
             if f.finding_id == finding_id:
-                return self.score_index(i, tokenize(query))
+                return self.score_index(i, tokenize(query), self._intervention_terms(query))
         return None
 
     def retrieve(self, query: str, top_k: int = 8) -> list[Hit]:
         terms = tokenize(query)
         if not terms or not self.findings:
             return []
-        hits = [self.score_index(i, terms) for i in range(self._n)]
+        iterms = self._intervention_terms(query)
+        hits = [self.score_index(i, terms, iterms) for i in range(self._n)]
         hits = [h for h in hits if h.score > 0]
         hits.sort(key=lambda h: (-h.score, h.finding.finding_id))
         return hits[:top_k]

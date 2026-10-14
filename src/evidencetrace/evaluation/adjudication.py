@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+from collections import Counter
 from pathlib import Path
 from typing import Any
 
@@ -83,3 +84,31 @@ def report(per_paper: list[dict], disagreements: list[dict], decisions: dict[str
     base = [{"tp": p["tp"], "fp": p["pred"] - p["tp"], "fn": p["gold"] - p["tp"]} for p in sorted(per_paper, key=lambda p: p["pmcid"])]
     return {"as_scored": prf_ci(base, reps), "tally": tally(disagreements, decisions),
             "adjudicated": {pol: prf_ci(adjudicate(per_paper, disagreements, decisions, pol), reps) for pol in POLICIES}}
+
+
+# ---------------------------------------------------------------- agreement between two adjudicators
+def cohen_kappa(pairs: list[tuple[str, str]]) -> float | None:
+    """Cohen's kappa for two raters over any set of categories; None for no pairs, 1.0 if chance agreement is already total."""
+    if not pairs:
+        return None
+    n = len(pairs)
+    po = sum(a == b for a, b in pairs) / n
+    ca, cb = Counter(a for a, _ in pairs), Counter(b for _, b in pairs)
+    pe = sum(ca[k] * cb[k] for k in set(ca) | set(cb)) / (n * n)
+    return 1.0 if pe == 1 else (po - pe) / (1 - pe)
+
+
+def compare_adjudicators(first: dict[str, dict], second: dict[str, dict]) -> dict[str, Any]:
+    """Agreement of two decision sets on the items both decided."""
+    common = sorted(set(first) & set(second))
+    pairs = [(first[i]["decision"], second[i]["decision"]) for i in common]
+    return {
+        "items_both_decided": len(common),
+        "only_first": len(set(first) - set(second)),
+        "only_second": len(set(second) - set(first)),
+        "raw_agreement": (sum(a == b for a, b in pairs) / len(pairs)) if pairs else None,
+        "cohen_kappa": cohen_kappa(pairs),
+        "confusion": {f"{a}->{b}": n for (a, b), n in sorted(Counter(pairs).items())},
+        "disagreeing_ids": [i for i, (a, b) in zip(common, pairs, strict=True) if a != b],
+        "common_ids": common,
+    }

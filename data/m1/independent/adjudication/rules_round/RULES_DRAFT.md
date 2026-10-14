@@ -1,9 +1,8 @@
-# Draft scope rules for the two disputed papers (status: DRAFT, not adopted)
+# Scope rules for the two disputed papers (status: ADOPTED as guidelines v1.2, approved by the repository owner)
 
 **Why this exists.** The two adjudicators agree on 55 of the 69 holdout items. The 14 items on PMC12703296 and PMC12117457 are where they
 split, because they read two scope rules differently. This memo sets out the choices, what each choice changes, and what is recommended.
-Nothing here is adopted until the repository owner approves it. The re-judgement page `adjudication-rules.html` (in this folder, deliberately
-not on the published site) is built from the **recommended** choices; if other choices are picked, the page is rebuilt from the matching text.
+The owner approved the recommended choices (rule 1 A2, rule 2 B2) on 2026-10-14. The re-judgement page is published as `docs/adjudication-rules.html` (site: `/adjudication-rules.html`), built from the **adopted** choices, and the adopted text is guidelines v1.2.
 
 ## What the existing verdicts say
 

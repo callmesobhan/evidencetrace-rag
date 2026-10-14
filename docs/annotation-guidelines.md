@@ -103,3 +103,20 @@ annotation was scored, except where stated.
   --lenient-metrics` also reports a score that treats them as one metric; both variants are published.
 - **Odds ratios without an interval** (`COR/p = 6.30/0.01`, "OR 2.1, p = 0.03") are in scope with `ci: null`. A
   paper that reports dozens in one table-like paragraph makes one record per estimate.
+
+## v1.2 addendum (adopted after the holdout-2 re-judgement; approved by the repository owner)
+
+Written after the second round of blind annotation, which the annotators did under v1 and v1.1. Two scope rules had been applied
+differently by the two adjudicators on PMC12703296 and PMC12117457. These are the rules now, and they apply to any future
+judgement. The first-round verdicts on those two papers were made under v1.1, so they are re-judged on `docs/adjudication-rules.html`
+rather than changed in place. Full rationale: `data/m1/independent/adjudication/rules_round/RULES_DRAFT.md`.
+
+- **Per-unit estimates from regression models.** An estimate given per one unit of a continuous variable is in scope only if that
+  variable is the primary exposure the paper is about (for example the vasopressor dose in a study of kidney replacement therapy).
+  Per-unit estimates for covariates the model adjusts for (for example age, weight or mean arterial pressure) are out of scope, whatever
+  scale label the paper uses (MD, OR, HR). A categorised exposure compared with a reference level is in scope.
+- **Contrasts between two named conditions.** A contrast between two named conditions or exposure levels reported in the same paper
+  (for example high versus low altitude in a crossover trial) is in scope as a mean difference when the text states it as a difference
+  between those conditions, including "higher by" or "lower by" wording, even if a table labels it "mean change". A change from baseline
+  within one condition is out of scope.
+

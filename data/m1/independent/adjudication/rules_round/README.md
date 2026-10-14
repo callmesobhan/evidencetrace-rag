@@ -1,6 +1,7 @@
-# Re-judgement under draft scope rules (14 items, PMC12703296 and PMC12117457)
+# Re-judgement under the adopted scope rules (14 items, PMC12703296 and PMC12117457)
 
-- `RULES_DRAFT.md`: the choices, what each changes, and the recommendation. **Not adopted.**
-- `intro.txt`: the text the judges see on the page, built from the recommended choices.
-- `adjudication-rules.html`: the re-judgement page. It lives here, not in `docs/`, so it is **not on the public site** until the owner approves the rules.
-  Once approved, it is copied to `docs/` and linked from the repository README.
+- `RULES_DRAFT.md`: the choices, what each changes, the recommendation the owner approved on 2026-10-14, and the adopted text.
+- `intro.txt`: the text shown on the page (the adopted rules, v1.2).
+- Page (public): https://callmesobhan.github.io/evidencetrace-rag/adjudication-rules.html (source: `docs/adjudication-rules.html`).
+- Results go in `decisions_owner.jsonl` (the owner) and `decisions_second.jsonl`-style files from the second adjudicator, then
+  `scripts/rules_round_result.py` computes agreement and the holdout F1 under the adopted rules.

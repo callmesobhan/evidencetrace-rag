@@ -1,5 +1,5 @@
 PYTHON ?= python
-.PHONY: adjudication holdout2 install install-all test lint eval demo clean fetch-pinned fetch-new verify-freeze m1-frozen m1 independent design by-design hardneg eval-hardneg reproduce
+.PHONY: rules-round adjudication holdout2 install install-all test lint eval demo clean fetch-pinned fetch-new verify-freeze m1-frozen m1 independent design by-design hardneg eval-hardneg reproduce
 
 install:
 	pip install -e ".[dev]"
@@ -126,3 +126,10 @@ reproduce: verify-freeze fetch-pinned m1-frozen m1 independent holdout2 adjudica
 
 clean:
 	rm -rf reports/adjudication .evidencetrace .pytest_cache reports/*.json reports/*.md reports/m1 reports/m1-frozen reports/independent reports/*.jsonl reports/by_design reports/hardneg reports/hardneg_queries reports/hardneg-synthetic
+
+# the scope-rule re-judgement (14 items): run once both files are in data/m1/independent/adjudication/rules_round/
+rules-round:
+	$(PYTHON) -I scripts/rules_round_result.py --first data/m1/independent/adjudication/decisions.jsonl \
+	    --second data/m1/independent/adjudication/decisions_second.jsonl \
+	    --rules-owner data/m1/independent/adjudication/rules_round/decisions_owner.jsonl \
+	    --rules-second data/m1/independent/adjudication/rules_round/decisions_second.jsonl --out reports/rules_round

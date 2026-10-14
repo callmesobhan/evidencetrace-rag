@@ -192,7 +192,7 @@ def main() -> None:
         if not args.intro_file:
             raise SystemExit("--round needs --intro-file")
         extra = _paragraphs_html(args.intro_file.read_text(encoding="utf-8"))
-        page = (page.replace("__TITLE__", "Scope-rule re-judgement - EvidenceTrace-RAG").replace("__HEADING__", "Re-judge these items under the draft scope rules")
+        page = (page.replace("__TITLE__", "Scope-rule re-judgement - EvidenceTrace-RAG").replace("__HEADING__", "Re-judge these 14 items under the scope rules (guidelines v1.2)")
                 .replace("__KEY__", "adjudication-rules-v1").replace("__FILENAME__", "adjudication_decisions_rules.jsonl").replace("__EXTRA__", extra))
     elif args.second:
         page = (page.replace("__TITLE__", "Second adjudication - EvidenceTrace-RAG").replace("__HEADING__", "Second adjudicator: is each of these a genuine effect estimate?")

@@ -217,7 +217,7 @@ seen**, with the code and predictions committed and hashed *before* the annotato
 
 All 158 estimate disagreements (129 annotator-only, 29 system-only) and the 3 study-design disagreements were judged on the review page
 ([verdicts, notes and method](../data/m1/independent/adjudication/README.md)). The owner judged all 158; a **second adjudicator judged the 69 clean-holdout
-items** (§2.4.3 below). The owner states the verdicts are their own; the second adjudicator's identity, field and any AI use are not recorded in the repository.
+items** (§2.4.3 below). The owner states the verdicts are their own. The second adjudicator is a medical researcher who asked not to be named and did not use AI on any item (as reported by the owner; not verifiable from the repository).
 
 - Of the 129 items the system "missed", **107 are genuine misses and 22 (17%) are annotator over-inclusion** (12 unnamed differences or effect sizes,
   4 regression slopes, 4 other, 2 within-arm). Of the 29 "false positives", **17 are real estimates the annotators did not record** and 12 are real
@@ -244,13 +244,14 @@ A second person judged the 69 holdout disagreements independently ([instructions
 | Cohen's kappa | 0.43; paper-clustered 95% interval [-0.08, 1.00] over 16 papers (too wide to be informative at this size) |
 | where they disagree | 12 items on **two papers**; on the other 55 items the adjudicators agree every time |
 
-The 12 disagreements are two unresolved **scope rules**, not readings of the papers:
+The 12 disagreements are two **scope-rule** questions, not readings of the papers (the owner's NEE verdicts also need a consistent rule, see item 2):
 
 1. **"Mean change" between conditions** (PMC12703296, altitude crossover, 8 items). The first adjudicator counts a named "mean change" contrast as a
    mean difference; the second does not, because no mean-difference metric is named. The guideline's unnamed-difference exclusion favours the second reading.
-2. **Per-unit regression slopes labelled "MD"** (PMC12117457, 4 items: per 1-year age, 1-kg weight, 1-mm Hg MAP, 0.1 NEE). The first counts them as out of
-   scope (regression slopes). The second counts them because the paper labels them mean differences per unit. The v1 guideline lists regression
-   slopes as out of scope, so the first reading follows the text.
+2. **Per-unit regression estimates labelled "MD" or "OR"** (PMC12117457, 6 items). The first counts the age, weight and MAP slopes out (covariates) and the
+   NEE odds ratios in (the paper's exposure), but counts the NEE mean difference out as a "covariate slope". The same NEE exposure on the same unit is
+   in or out depending on the scale label: an inconsistency in the first set of verdicts. The second counts all six in because the paper labels them
+   per-unit mean differences or odds ratios. The v1 guideline lists regression slopes as out of scope, which supports the first on the covariates.
 
 Effect on the holdout F1 (both sets of verdicts on the same 69 items, the 25 papers, adjudicated):
 

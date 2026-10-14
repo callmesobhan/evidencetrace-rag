@@ -1,0 +1,7 @@
+DRAFT RULES, NOT YET ADOPTED. This page re-judges 14 items from two papers (PMC12703296 and PMC12117457) on which the first two adjudicators split because they applied scope rules differently. The rules below are proposed. Judge each item under the rules as written here, not under your own preferred rule.
+
+Rule 1, per-unit estimates. An estimate given per one unit of a continuous variable, from a regression model, is in scope only if that variable is the primary exposure the paper is about (for example the vasopressor dose NEE in a study of kidney replacement therapy). Per-unit estimates for covariates that the model adjusts for (for example age, weight or mean arterial pressure) are out of scope, whatever scale label the paper uses (MD, OR, HR). A categorised exposure compared with a reference level is in scope.
+
+Rule 2, contrasts between conditions. A contrast between two named conditions or exposure levels reported in the same paper (for example high versus low altitude in a crossover trial) is in scope as a mean difference when the text states it as a difference between those conditions, including "higher by" or "lower by" wording, even if a table labels it "mean change". A change from baseline within one condition is out of scope.
+
+For each item answer yes (a genuine in-scope effect estimate under these rules), no, or unsure. A short note is useful wherever you applied a rule. This is a fresh judgement: do not copy your earlier verdicts.

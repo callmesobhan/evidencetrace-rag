@@ -7,7 +7,7 @@ how they were handled, and the *reproduction* (can you get the same numbers). Se
 with its status.
 
 Throughout, "agent" means an LLM instance with its own context. **The only human judgements in this repository are two adjudications of the system-vs-annotator disagreements**: the repository owner's
-(all 158, by their own statement) and a second person's (69 clean-holdout items; kappa 0.43; the 12 disagreements are two unresolved scope rules).
+(all 158, by their own statement) and a second adjudicator's (a medical researcher who asked not to be named and reports no AI use; 69 clean-holdout items; kappa 0.43; the 12 disagreements are two unresolved scope rules).
 See `data/m1/independent/adjudication/`. No human has verified the M1 gold, the annotators' matched estimates, the reviews or the numbers.
 The reviewer, the annotators and the reproducer were agents.
 

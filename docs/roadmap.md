@@ -16,7 +16,8 @@ the rare-term gate, abbreviation expansion, verifier fixes, and a corrected plan
 (`data/m1/independent/`), but every annotation in the repo is still LLM-made (the owner's later adjudication of the disagreements is the only human judgement). Done since: study-design screening and
 stratified metrics, hard-negative queries, role-aware retrieval, the covariate-balance filter, a clean 25-paper holdout
 (out-of-sample F1 0.823), a review page for the disagreements, a tested PDF parser. An adjudication of the disagreements
-is in (`data/m1/independent/adjudication/`; single adjudicator, the repository owner). Still owed: a second independent adjudicator, a human check of the M1 gold, a hard-negative
+is in (`data/m1/independent/adjudication/`: the owner on all 158; a second adjudicator on the 69 holdout items, kappa 0.43). Still owed: decide the two scope rules
+and re-judge the 14 items they touch, state the second adjudicator's identity and AI use, a human check of the M1 gold, a hard-negative
 set not used to develop the retrieval fix, and a third unseen set before any further extractor change.
 
 ## M2 — Learned field tagger  *(the bottleneck M1 identified)*

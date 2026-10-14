@@ -22,16 +22,30 @@ M1 = ROOT / "data" / "m1"
 DEFAULT_SOURCES = [M1 / "independent" / "scores_prefix_strict" / "disagreements.jsonl"]
 
 
-def _context(doc, needle: str) -> tuple[str, str, str]:
-    """(section, text before, text after) around the sentence containing ``needle`` (whitespace-insensitive)."""
+def _norm(text: str) -> str:
+    return " ".join(text.split())
+
+
+def _context(doc, needle: str, value: float | None = None) -> tuple[str, str, str]:
+    """(section, text before, text after) around the sentence that holds ``needle``.
+
+    The first version matched on the first 60 characters of the quote, so two estimates with the same leading words (an OR
+    0.97 in a mediation analysis and an OR 0.97 per SD of education) could show the wrong sentence; three reviewer notes
+    caught exactly that. Now the WHOLE quote must be in the sentence, and a sentence is preferred if it also contains the value.
+    """
     sents = split_sentences(doc)
-    flat = " ".join(needle.split())
-    for i, s in enumerate(sents):
-        if flat[:60] in " ".join(s.text.split()):
-            before = " ".join(x.text for x in sents[max(0, i - 2) : i])
-            after = " ".join(x.text for x in sents[i + 1 : i + 3])
-            return s.section or "", before, after
-    return "", "", ""
+    flat = _norm(needle)
+    full = [i for i, s in enumerate(sents) if flat and flat in _norm(s.text)]
+    if value is not None and len(full) > 1:
+        shown = {f"{value:g}", f"{abs(value):g}"}
+        with_value = [i for i in full if any(v in _norm(sents[i].text) for v in shown)]
+        full = with_value or full
+    hit = full[0] if full else next((i for i, s in enumerate(sents) if flat[:60] in _norm(s.text)), None)
+    if hit is None:
+        return "", "", ""
+    before = " ".join(x.text for x in sents[max(0, hit - 2) : hit])
+    after = " ".join(x.text for x in sents[hit + 1 : hit + 3])
+    return sents[hit].section or "", before, after
 
 
 def build_items(sources: list[Path], raw_dirs: list[Path]) -> list[dict]:
@@ -46,7 +60,7 @@ def build_items(sources: list[Path], raw_dirs: list[Path]) -> list[dict]:
                 path = next((d / f"{r['pmcid']}.xml" for d in raw_dirs if (d / f"{r['pmcid']}.xml").exists()), None)
                 docs[r["pmcid"]] = parse_file(path) if path else None
             doc = docs[r["pmcid"]]
-            sec, before, after = _context(doc, r.get("sentence") or "") if doc and r.get("sentence") else ("", "", "")
+            sec, before, after = _context(doc, r.get("sentence") or "", r.get("value")) if doc and r.get("sentence") else ("", "", "")
             items.append({"id": item_id(r), "kind": "estimate", "type": r["type"], "pmcid": r["pmcid"], "metric": r["metric"],
                           "value": r["value"], "ci": r.get("ci"), "attribution": r.get("attribution"), "sentence": r.get("sentence") or "",
                           "section": sec, "before": before, "after": after, "source": src.parent.name})

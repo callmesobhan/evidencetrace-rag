@@ -75,3 +75,21 @@ def test_unknown_policy_and_decision_are_errors(tmp_path):
     with pytest.raises(ValueError):
         load_decisions(f)
     assert POLICIES == ("exclude", "favour_system", "against_system")
+
+
+def test_review_page_context_uses_the_whole_quote_not_its_first_words():
+    import importlib.util
+    from pathlib import Path
+
+    spec = importlib.util.spec_from_file_location("make_adjudication_page", Path(__file__).resolve().parents[1] / "scripts" / "make_adjudication_page.py")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    from evidencetrace.ingest.document import Document
+
+    doc = Document.from_text("d", "In the mediation model the OR was 0.97 (95% CI 0.64, 1.46) for a sibling with diabetes. "
+                                 "Per SD of education the OR was 0.97 (95% CI 0.96, 0.98) for a first-degree relative.")
+    _, before, after = mod._context(doc, "the OR was 0.97 (95% CI 0.96, 0.98)", 0.97)
+    assert "first-degree" not in before + after and before == "In the mediation model the OR was 0.97 (95% CI 0.64, 1.46) for a sibling with diabetes."
+    # whole-quote match wins even when an earlier sentence starts with the same words
+    _, before2, _ = mod._context(doc, "the OR was 0.97 (95% CI 0.64, 1.46)", 0.97)
+    assert before2 == ""

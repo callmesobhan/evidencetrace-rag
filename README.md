@@ -203,16 +203,18 @@ in one sentence) wrong-drug protection work on cardiometabolic trial text; **ent
 conflict detection is dormant), retrieval is lexical (it now tracks clauses and reference arms, but only heuristically),
 and recall falls sharply outside the domain it was built on.
 
-**Threats to validity (the short version).** Every annotation here was made by an LLM, and no human verified anything.
+**Threats to validity (the short version).** Every annotation here was made by an LLM; the disagreements were later adjudicated in a single review file whose provenance is unconfirmed (above).
 The M1 gold standard is a single annotator who is also the developer; it is pooled from the system's own output
 (precision is flattering), dev numbers are fitted, post-hoc columns are not held-out, the same clinical trials appear on
 both sides of the split, and several headline metrics (provenance pass rate, value+CI vs value-only, span attribution)
 are consistency checks that cannot fail the way an extractor fails. The independent annotators are also LLM agents.
 
-**Help wanted: a human check.** Every annotation here is LLM-made. [The review page](https://callmesobhan.github.io/evidencetrace-rag/adjudication.html)
-shows the 158 places where the system and the blind annotators disagree, each in context; answering "is this a genuine effect
-estimate?" for them (y / n / unsure, about an hour or two) turns "agrees with an LLM" into a measured accuracy.
-`scripts/apply_adjudication.py` computes the corrected figures from the exported file.
+**Adjudication.** All 158 places where the system and the blind annotators disagreed were judged on
+[the review page](https://callmesobhan.github.io/evidencetrace-rag/adjudication.html) (verdicts and notes:
+[data/m1/independent/adjudication/](data/m1/independent/adjudication/README.md)). Applying them, the frozen system's F1 on the 55 unseen papers is
+**0.837 [0.786, 0.884]** instead of 0.785: 22 of the 129 annotator-only "misses" were annotator over-inclusion, and 17 of the 29 system-only
+"false positives" were real estimates. This corrects only the disagreements (an estimate both sides missed stays invisible), it is a single
+adjudicator, and who or what made each judgement is **not recorded yet**, so the caveats below still apply.
 
 ### What is verified, and what is not
 

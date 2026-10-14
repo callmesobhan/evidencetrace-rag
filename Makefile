@@ -1,5 +1,5 @@
 PYTHON ?= python
-.PHONY: holdout2 install install-all test lint eval demo clean fetch-pinned fetch-new verify-freeze m1-frozen m1 independent design by-design hardneg eval-hardneg reproduce
+.PHONY: adjudication holdout2 install install-all test lint eval demo clean fetch-pinned fetch-new verify-freeze m1-frozen m1 independent design by-design hardneg eval-hardneg reproduce
 
 install:
 	pip install -e ".[dev]"
@@ -70,6 +70,15 @@ independent:
 	      && echo "scores_$$n: identical"; \
 	done
 
+# corrected accuracy from the adjudication verdicts (data/m1/independent/adjudication/decisions.jsonl)
+adjudication:
+	A="$(PYTHON) -I scripts/apply_adjudication.py --decisions data/m1/independent/adjudication/decisions.jsonl"; I=data/m1/independent; \
+	$$A --out reports/adjudication/pooled_prefix_55_papers >/dev/null; \
+	$$A --scores $$I/scores_prefix_strict --out reports/adjudication/round1_prefix_30_papers >/dev/null; \
+	$$A --scores $$I/holdout2/scores_prefix_system --out reports/adjudication/holdout2_prefix_25_papers >/dev/null; \
+	$$A --scores $$I/scores_postreview_lenient --scores $$I/holdout2/scores_current_code_TUNED --out reports/adjudication/pooled_current_code_TUNED >/dev/null
+	diff -r -x decisions.jsonl -x README.md reports/adjudication data/m1/independent/adjudication && echo "adjudication: identical"
+
 # the clean holdout: predictions regenerated from the frozen snapshot are byte-compared; once the round-2 annotations are
 # committed under data/m1/independent/holdout2/out, they are scored and diffed too
 holdout2:
@@ -111,7 +120,7 @@ eval-hardneg:
 	$(PYTHON) -m evidencetrace.cli eval --corpus data/samples_hardneg/papers --gold data/samples_hardneg/gold --out reports/hardneg-synthetic
 
 # everything, in order. Fails loudly at the first number that does not reproduce.
-reproduce: verify-freeze fetch-pinned m1-frozen m1 independent holdout2 design by-design hardneg
+reproduce: verify-freeze fetch-pinned m1-frozen m1 independent holdout2 adjudication design by-design hardneg
 
 clean:
-	rm -rf .evidencetrace .pytest_cache reports/*.json reports/*.md reports/m1 reports/m1-frozen reports/independent reports/*.jsonl reports/by_design reports/hardneg reports/hardneg_queries reports/hardneg-synthetic
+	rm -rf reports/adjudication .evidencetrace .pytest_cache reports/*.json reports/*.md reports/m1 reports/m1-frozen reports/independent reports/*.jsonl reports/by_design reports/hardneg reports/hardneg_queries reports/hardneg-synthetic

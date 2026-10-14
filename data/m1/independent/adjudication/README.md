@@ -36,8 +36,22 @@
 - The notes also confirm specific system faults: the sign loss (`-3.35` shown as `+3.35`), omitted credible/posterior intervals, "main effect of time"
   and "compared to baseline" read as between-group estimates, and a ratio of days lost read as a hazard ratio.
 
-## A second adjudicator
+## A second adjudicator (results)
 
-Agreement between two people is not yet measured. `docs/adjudication-second.html` is a 69-item page (the clean-holdout items) for an independent second
-adjudicator, with its own saved-progress key and file name; the instructions are in [docs/second-adjudication.md](../../../../docs/second-adjudication.md) and
-`scripts/adjudication_agreement.py` computes agreement and what each adjudicator's verdicts do to the accuracy figures.
+The second file (`decisions_second.jsonl`, 69 records, every verdict and note present, no "unsure") was checked against the page's items
+(all match, PMCIDs agree). It differs from the owner's file on 12 items, so it is not a copy.
+
+- **Raw agreement 0.826 (57 of 69); Cohen's kappa 0.43.** Paper-clustered 95% interval for kappa [-0.08, 1.00] over 16 papers: too
+  wide to say more than "moderate, and uncertain".
+- **All 12 disagreements are on two papers, and both are scope-rule questions** (details in `docs/m1-report.md` §2.4.3):
+  PMC12703296 (8 items: is a named "mean change" between altitude conditions a mean difference?) and PMC12117457 (4 items: are per-unit
+  regression slopes labelled "MD" in scope?). On the other 55 items the two adjudicators agree every time.
+- **Effect on the holdout F1 (adjudicated):** first 0.839 [0.770, 0.892], second 0.848 [0.791, 0.897], as scored 0.823 [0.753, 0.876]. The gap
+  between the first two is entirely those 12 rule items.
+- `agreement/` holds `agreement.json` (every disagreement with both notes) and `agreement.md`.
+
+**Not recorded in the repository:** who the second adjudicator is, their field, whether they may be named, and whether any AI assistance was
+used (the instructions asked for these). The repository states none of them and does not infer any.
+
+**Open decisions:** the two scope rules. Once decided, the 14 items they touch should be re-judged under one rule, and the guideline updated
+so the rule is written down (a v1.2 addendum).

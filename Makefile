@@ -76,8 +76,10 @@ adjudication:
 	$$A --out reports/adjudication/pooled_prefix_55_papers >/dev/null; \
 	$$A --scores $$I/scores_prefix_strict --out reports/adjudication/round1_prefix_30_papers >/dev/null; \
 	$$A --scores $$I/holdout2/scores_prefix_system --out reports/adjudication/holdout2_prefix_25_papers >/dev/null; \
-	$$A --scores $$I/scores_postreview_lenient --scores $$I/holdout2/scores_current_code_TUNED --out reports/adjudication/pooled_current_code_TUNED >/dev/null
-	diff -r -x decisions.jsonl -x README.md reports/adjudication data/m1/independent/adjudication && echo "adjudication: identical"
+	$$A --scores $$I/scores_postreview_lenient --scores $$I/holdout2/scores_current_code_TUNED --out reports/adjudication/pooled_current_code_TUNED >/dev/null; \
+	$(PYTHON) -I scripts/adjudication_agreement.py --first data/m1/independent/adjudication/decisions.jsonl \
+	    --second data/m1/independent/adjudication/decisions_second.jsonl --out reports/adjudication/agreement >/dev/null
+	diff -r -x decisions.jsonl -x decisions_second.jsonl -x README.md reports/adjudication data/m1/independent/adjudication && echo "adjudication: identical"
 
 # the clean holdout: predictions regenerated from the frozen snapshot are byte-compared; once the round-2 annotations are
 # committed under data/m1/independent/holdout2/out, they are scored and diffed too

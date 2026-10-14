@@ -216,8 +216,8 @@ seen**, with the code and predictions committed and hashed *before* the annotato
 #### 2.4.2 Adjudicating the disagreements
 
 All 158 estimate disagreements (129 annotator-only, 29 system-only) and the 3 study-design disagreements were judged on the review page
-([verdicts, notes and method](../data/m1/independent/adjudication/README.md)). **Single adjudicator: the repository owner, who states that
-the verdicts and notes are their own** (qualifications not recorded; no second rater, so no inter-rater statistic).
+([verdicts, notes and method](../data/m1/independent/adjudication/README.md)). The owner judged all 158; a **second adjudicator judged the 69 clean-holdout
+items** (§2.4.3 below). The owner states the verdicts are their own; the second adjudicator's identity, field and any AI use are not recorded in the repository.
 
 - Of the 129 items the system "missed", **107 are genuine misses and 22 (17%) are annotator over-inclusion** (12 unnamed differences or effect sizes,
   4 regression slopes, 4 other, 2 within-arm). Of the 29 "false positives", **17 are real estimates the annotators did not record** and 12 are real
@@ -231,6 +231,37 @@ the verdicts and notes are their own** (qualifications not recorded; no second r
 - **The two rounds agree after adjudication** (0.834 vs 0.839): most of the round-1/round-2 gap was annotator scope noise.
 - This corrects only the disagreements. Matched estimates are assumed right and an estimate both sides missed is invisible, so recall remains an
   upper bound; and the M1 test-split figures (0.957) rest on the developer's own gold, which this does not touch.
+
+#### 2.4.3 A second adjudicator (the 69 clean-holdout items)
+
+A second person judged the 69 holdout disagreements independently ([instructions](second-adjudication.md)); the two files are in
+[data/m1/independent/adjudication/](../data/m1/independent/adjudication/README.md), and `make adjudication` regenerates the agreement.
+
+| | |
+|---|---|
+| items both judged | 69 (all decided; 0 "unsure") |
+| raw agreement | 0.826 (57 of 69) |
+| Cohen's kappa | 0.43; paper-clustered 95% interval [-0.08, 1.00] over 16 papers (too wide to be informative at this size) |
+| where they disagree | 12 items on **two papers**; on the other 55 items the adjudicators agree every time |
+
+The 12 disagreements are two unresolved **scope rules**, not readings of the papers:
+
+1. **"Mean change" between conditions** (PMC12703296, altitude crossover, 8 items). The first adjudicator counts a named "mean change" contrast as a
+   mean difference; the second does not, because no mean-difference metric is named. The guideline's unnamed-difference exclusion favours the second reading.
+2. **Per-unit regression slopes labelled "MD"** (PMC12117457, 4 items: per 1-year age, 1-kg weight, 1-mm Hg MAP, 0.1 NEE). The first counts them as out of
+   scope (regression slopes). The second counts them because the paper labels them mean differences per unit. The v1 guideline lists regression
+   slopes as out of scope, so the first reading follows the text.
+
+Effect on the holdout F1 (both sets of verdicts on the same 69 items, the 25 papers, adjudicated):
+
+| verdicts used | precision | recall | F1 |
+|---|---|---|---|
+| as scored (annotator = truth) | 0.952 | 0.724 | 0.823 [0.753, 0.876] |
+| first adjudicator | 0.964 | 0.743 | 0.839 [0.770, 0.892] |
+| second adjudicator | 0.964 | 0.757 | **0.848** [0.791, 0.897] |
+
+The second adjudicator's reading is the more favourable one for the system (recall +0.014), entirely through the 12 rule items. Until the two rules are
+decided and the 14 items re-judged under one rule, the honest figure for this subset is the range 0.839 to 0.848.
 
 ## 3. What the audit changed in the system
 

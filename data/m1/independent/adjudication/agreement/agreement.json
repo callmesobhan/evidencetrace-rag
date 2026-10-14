@@ -1,0 +1,279 @@
+{
+ "agreement": {
+  "items_both_decided": 69,
+  "only_first": 92,
+  "only_second": 0,
+  "raw_agreement": 0.8260869565217391,
+  "cohen_kappa": 0.4344262295081967,
+  "confusion": {
+   "no->no": 7,
+   "no->yes": 4,
+   "yes->no": 8,
+   "yes->yes": 50
+  },
+  "disagreeing_ids": [
+   "29766b6152",
+   "30e2bfb4a6",
+   "4b57ba3bba",
+   "5e2cc6f0ac",
+   "79c82ed19d",
+   "86424bec32",
+   "8f506981e6",
+   "911bf96725",
+   "92bb0f03b7",
+   "969dd014f8",
+   "a0147952dc",
+   "e5f0149661"
+  ]
+ },
+ "figures": {
+  "first adjudicator": {
+   "precision": [
+    0.9642857142857143,
+    0.9036144578313253,
+    1.0
+   ],
+   "recall": [
+    0.7431192660550459,
+    0.6473214285714286,
+    0.8260869565217391
+   ],
+   "f1": [
+    0.8393782383419689,
+    0.7696969696969697,
+    0.8922413793103449
+   ],
+   "counts": {
+    "tp": 162,
+    "fp": 6,
+    "fn": 56
+   }
+  },
+  "second adjudicator": {
+   "precision": [
+    0.9642857142857143,
+    0.9036144578313253,
+    1.0
+   ],
+   "recall": [
+    0.7570093457943925,
+    0.6774193548387096,
+    0.8341232227488151
+   ],
+   "f1": [
+    0.8481675392670157,
+    0.7914110429447853,
+    0.8967551622418879
+   ],
+   "counts": {
+    "tp": 162,
+    "fp": 6,
+    "fn": 52
+   }
+  },
+  "as scored (annotator = truth)": {
+   "precision": [
+    0.9523809523809523,
+    0.8910256410256411,
+    0.9937106918238994
+   ],
+   "recall": [
+    0.7239819004524887,
+    0.6308411214953271,
+    0.8083832335329342
+   ],
+   "f1": [
+    0.8226221079691517,
+    0.7529411764705882,
+    0.8755760368663594
+   ],
+   "counts": {
+    "tp": 160,
+    "fp": 8,
+    "fn": 61
+   }
+  }
+ },
+ "disagreements": [
+  {
+   "id": "29766b6152",
+   "pmcid": "PMC12703296",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": 13.0,
+   "ci": [
+    5.0,
+    23.0
+   ],
+   "first": "yes",
+   "first_note": "Checked full source Tables 2/3: named mean change contrasting high versus low altitude in crossover trial, not exercise change within one altitude; eligible MD.",
+   "second": "no",
+   "second_note": "Full Results reports sPAP elevated by 13 at high versus low altitude; this number is not explicitly named as MD or a treatment difference."
+  },
+  {
+   "id": "30e2bfb4a6",
+   "pmcid": "PMC12703296",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": 3.1,
+   "ci": [
+    1.1,
+    5.7
+   ],
+   "first": "yes",
+   "first_note": "Checked full source Tables 2/3: named mean change contrasting high versus low altitude in crossover trial, not exercise change within one altitude; eligible MD.",
+   "second": "no",
+   "second_note": "Full Results confirms high versus low altitude TPR contrast at rest, expressed as higher by 3.1 without a named mean-difference metric."
+  },
+  {
+   "id": "4b57ba3bba",
+   "pmcid": "PMC12117457",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": 0.49,
+   "ci": [
+    0.17,
+    0.82
+   ],
+   "first": "no",
+   "first_note": "Continuous covariate slope per unit (age, weight, MAP or vasopressor dose), not a between-arm/group mean contrast. Source labels it MD, but regression slopes are explicitly out of scope.",
+   "second": "yes",
+   "second_note": "Explicit MD per 1-mm Hg MAP increase in full Results. Counted as a named exposure-level contrast, not an unlabeled regression slope."
+  },
+  {
+   "id": "5e2cc6f0ac",
+   "pmcid": "PMC12703296",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": -440.0,
+   "ci": [
+    -440.0,
+    -433.0
+   ],
+   "first": "yes",
+   "first_note": "Checked full source Tables 2/3: named mean change contrasting high versus low altitude in crossover trial, not exercise change within one altitude; eligible MD.",
+   "second": "no",
+   "second_note": "Full paper confirms oxygen delivery contrast in CWRET, expressed as lower by -440 without naming MD. The unusual printed CI does not itself determine scope."
+  },
+  {
+   "id": "79c82ed19d",
+   "pmcid": "PMC12117457",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": -0.54,
+   "ci": [
+    -0.74,
+    -0.34
+   ],
+   "first": "no",
+   "first_note": "Continuous covariate slope per unit (age, weight, MAP or vasopressor dose), not a between-arm/group mean contrast. Source labels it MD, but regression slopes are explicitly out of scope.",
+   "second": "yes",
+   "second_note": "Borderline regression issue: full paper explicitly names mean difference per 1-year age increase. I apply the exposure-level and named-MD rules; this is reported as MD rather than beta or a slope."
+  },
+  {
+   "id": "86424bec32",
+   "pmcid": "PMC12703296",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": -0.21,
+   "ci": [
+    -0.4,
+    -0.03
+   ],
+   "first": "yes",
+   "first_note": "Checked full source Tables 2/3: named mean change contrasting high versus low altitude in crossover trial, not exercise change within one altitude; eligible MD.",
+   "second": "no",
+   "second_note": "Full Results reports RV coupling reduced by 0.21 at high versus low altitude; unnamed contrast under the strict metric-naming rule."
+  },
+  {
+   "id": "8f506981e6",
+   "pmcid": "PMC12703296",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": -0.08,
+   "ci": [
+    -0.15,
+    -0.01
+   ],
+   "first": "yes",
+   "first_note": "Checked full source Tables 2/3: named mean change contrasting high versus low altitude in crossover trial, not exercise change within one altitude; eligible MD.",
+   "second": "no",
+   "second_note": "Full Results reports coupling lower by -0.08 after 3 minutes at high versus low altitude; no named metric for this contrast."
+  },
+  {
+   "id": "911bf96725",
+   "pmcid": "PMC12703296",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": -0.13,
+   "ci": [
+    -0.26,
+    -0.04
+   ],
+   "first": "yes",
+   "first_note": "Checked full source Tables 2/3: named mean change contrasting high versus low altitude in crossover trial, not exercise change within one altitude; eligible MD.",
+   "second": "no",
+   "second_note": "Full Results says RV coupling is on average 0.13 lower at high versus low altitude. It is a real contrast, but no mean-difference or treatment-difference metric is named; table calls it mean change."
+  },
+  {
+   "id": "92bb0f03b7",
+   "pmcid": "PMC12117457",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": -2.1,
+   "ci": [
+    -3.16,
+    -1.05
+   ],
+   "first": "no",
+   "first_note": "Continuous covariate slope per unit (age, weight, MAP or vasopressor dose), not a between-arm/group mean contrast. Source labels it MD, but regression slopes are explicitly out of scope.",
+   "second": "yes",
+   "second_note": "Explicit MD per 0.1-unit NEE increase in full Results; named exposure-level contrast, not within-arm change."
+  },
+  {
+   "id": "969dd014f8",
+   "pmcid": "PMC12703296",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": 2.0,
+   "ci": [
+    0.6,
+    3.5
+   ],
+   "first": "yes",
+   "first_note": "Checked full source Tables 2/3: named mean change contrasting high versus low altitude in crossover trial, not exercise change within one altitude; eligible MD.",
+   "second": "no",
+   "second_note": "Full Results confirms high versus low altitude TPR contrast at peak exercise, expressed as higher by 2.0 without a named mean-difference metric."
+  },
+  {
+   "id": "a0147952dc",
+   "pmcid": "PMC12703296",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": -529.0,
+   "ci": [
+    -906.0,
+    -170.0
+   ],
+   "first": "yes",
+   "first_note": "Checked full source Tables 2/3: named mean change contrasting high versus low altitude in crossover trial, not exercise change within one altitude; eligible MD.",
+   "second": "no",
+   "second_note": "Full paper confirms oxygen delivery lower by -529 at high versus low altitude in IET; a real but unnamed difference, rather than an explicitly named MD."
+  },
+  {
+   "id": "e5f0149661",
+   "pmcid": "PMC12117457",
+   "type": "annotator_only",
+   "metric": "MD",
+   "value": 0.19,
+   "ci": [
+    0.09,
+    0.3
+   ],
+   "first": "no",
+   "first_note": "Continuous covariate slope per unit (age, weight, MAP or vasopressor dose), not a between-arm/group mean contrast. Source labels it MD, but regression slopes are explicitly out of scope.",
+   "second": "yes",
+   "second_note": "Explicit MD per 1-kg weight increase in full Results. Counted as a named exposure-level mean difference despite model-based estimation."
+  }
+ ]
+}

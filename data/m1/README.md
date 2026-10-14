@@ -31,5 +31,5 @@ every hash in `FROZEN.json`.
 
 Who annotated what: the gold for the 111 papers was produced by a single LLM that is also the extractor's developer
 (`docs/m1-report.md` explains why that is a weakness). `independent/` holds a second, blind annotation by separate
-LLM agents on 36 papers (30 never seen + 6 overlap). **No human verified any annotation.** Read `docs/m1-report.md`
+LLM agents on 36 papers (30 never seen + 6 overlap). **No human verified the annotations themselves**; the repository owner later adjudicated the disagreements (`independent/adjudication/`). Read `docs/m1-report.md`
 and `docs/known-issues.md` before using any number from this directory.

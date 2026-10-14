@@ -6,7 +6,7 @@
 
 > **Who judged:** the repository owner, who states that the verdicts and notes are their own work (the repository cannot verify authorship
 > independently). Many notes record checks of the full paper that the review page does not show ("Checked source: Table 2 footnote",
-> "Checked methods"). Their domain qualifications are not recorded, and there is a single adjudicator, so there is no inter-rater statistic
+> "Checked methods"). The owner is the only first-round adjudicator; the second adjudicator's domain is given above, and there is no inter-rater statistic beyond the 69 items
 > for these verdicts. This is the only human judgement in the repository, and it covers the disagreements only: the M1 gold and the
 > estimates both sides agreed on have no human check.
 
@@ -50,8 +50,9 @@ The second file (`decisions_second.jsonl`, 69 records, every verdict and note pr
   between the first two is entirely those 12 rule items.
 - `agreement/` holds `agreement.json` (every disagreement with both notes) and `agreement.md`.
 
-**Not recorded in the repository:** who the second adjudicator is, their field, whether they may be named, and whether any AI assistance was
-used (the instructions asked for these). The repository states none of them and does not infer any.
+**The second adjudicator:** a medical researcher, who asked not to be named, and who did not use AI on any item. The repository owner reported these
+details; the repository cannot verify them, and the adjudicator's name is not recorded.
 
-**Open decisions:** the two scope rules. Once decided, the 14 items they touch should be re-judged under one rule, and the guideline updated
-so the rule is written down (a v1.2 addendum).
+**Open decisions:** the two scope rules. The draft rules and the recommendation are in [`rules_round/RULES_DRAFT.md`](rules_round/RULES_DRAFT.md);
+the 14 items are re-judged under whichever rules the owner adopts (page: `rules_round/adjudication-rules.html`, not yet published), and the
+guideline is updated so the rule is written down (a v1.2 addendum).

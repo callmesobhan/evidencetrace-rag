@@ -157,25 +157,46 @@ refresh();
 """
 
 
+def _paragraphs_html(text: str) -> str:
+    """Plain text -> intro paragraphs (blank line = new paragraph), escaped."""
+    import html
+
+    return "".join(f'<p class="intro">{html.escape(" ".join(par.split()))}</p>' for par in text.split("\n\n") if par.strip())
+
+
+SECOND_NOTICE = ('<p class="intro" style="border-left:4px solid var(--unk);padding-left:10px"><b>You are the second, independent adjudicator.</b> '
+                 'Please judge each item on your own: do not open the repository\'s <code>data/m1/independent/adjudication/</code> folder (it holds the first '
+                 'adjudicator\'s verdicts), and do not discuss items with the first adjudicator until you have sent your file. Read the '
+                 '<a href="https://github.com/callmesobhan/evidencetrace-rag/blob/main/docs/annotation-guidelines.md">annotation guidelines</a> '
+                 '(including the v1.1 addendum at the end) first.</p>')
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--source", type=Path, action="append", help="disagreements.jsonl (repeatable); default: the 30-paper held-out round")
     ap.add_argument("--out", type=Path, default=ROOT / "docs" / "adjudication.html")
     ap.add_argument("--no-design", action="store_true", help="leave out the study-design questions")
     ap.add_argument("--second", action="store_true", help="build the page for a SECOND, independent adjudicator (own storage key and file name)")
+    ap.add_argument("--pmcid", action="append", help="keep only items from these papers (repeatable)")
+    ap.add_argument("--round", action="store_true", help="a RE-JUDGEMENT page: own storage key and file name; the intro comes from --intro-file")
+    ap.add_argument("--intro-file", type=Path, help="plain-text intro for --round (blank line = new paragraph)")
     args = ap.parse_args()
     items = build_items(args.source or DEFAULT_SOURCES, [ROOT / "data/raw/fresh", ROOT / "data/raw/pmc"]) + ([] if args.no_design else design_items())
+    if args.pmcid:
+        keep = set(args.pmcid)
+        items = [i for i in items if i.get("pmcid") in keep]
     data = json.dumps(items, ensure_ascii=False).replace("</", "<\\/")
     args.out.parent.mkdir(parents=True, exist_ok=True)
     page = PAGE
-    if args.second:
-        extra = ('<p class="intro" style="border-left:4px solid var(--unk);padding-left:10px"><b>You are the second, independent adjudicator.</b> '
-                 'Please judge each item on your own: do not open the repository\'s <code>data/m1/independent/adjudication/</code> folder (it holds the first '
-                 'adjudicator\'s verdicts), and do not discuss items with the first adjudicator until you have sent your file. Read the '
-                 '<a href="https://github.com/callmesobhan/evidencetrace-rag/blob/main/docs/annotation-guidelines.md">annotation guidelines</a> '
-                 '(including the v1.1 addendum at the end) first.</p>')
+    if args.round:
+        if not args.intro_file:
+            raise SystemExit("--round needs --intro-file")
+        extra = _paragraphs_html(args.intro_file.read_text(encoding="utf-8"))
+        page = (page.replace("__TITLE__", "Scope-rule re-judgement - EvidenceTrace-RAG").replace("__HEADING__", "Re-judge these items under the draft scope rules")
+                .replace("__KEY__", "adjudication-rules-v1").replace("__FILENAME__", "adjudication_decisions_rules.jsonl").replace("__EXTRA__", extra))
+    elif args.second:
         page = (page.replace("__TITLE__", "Second adjudication - EvidenceTrace-RAG").replace("__HEADING__", "Second adjudicator: is each of these a genuine effect estimate?")
-                .replace("__KEY__", "adjudication-second-v1").replace("__FILENAME__", "adjudication_decisions_second.jsonl").replace("__EXTRA__", extra))
+                .replace("__KEY__", "adjudication-second-v1").replace("__FILENAME__", "adjudication_decisions_second.jsonl").replace("__EXTRA__", SECOND_NOTICE))
     else:
         page = (page.replace("__TITLE__", "Adjudication - EvidenceTrace-RAG").replace("__HEADING__", "Adjudication: who is right, the system or the annotator?")
                 .replace("__KEY__", "adjudication-v1").replace("__FILENAME__", "adjudication_decisions.jsonl").replace("__EXTRA__", ""))

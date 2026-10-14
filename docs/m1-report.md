@@ -212,6 +212,25 @@ seen**, with the code and predictions committed and hashed *before* the annotato
   `HRadjusted =`, `posterior interval`, continuations without a metric word) plus scope disagreements and matching quirks;
   see the round-2 section of the independent README.
 
+#### 2.4.2 Adjudicating the disagreements
+
+All 158 estimate disagreements (129 annotator-only, 29 system-only) and the 3 study-design disagreements were judged on the review page
+([verdicts, notes and method](../data/m1/independent/adjudication/README.md)). **Single adjudicator; who or what made each judgement is not
+recorded** (many notes cite checks of the full paper that the page does not show), so this is not yet a claim of human verification.
+
+- Of the 129 items the system "missed", **107 are genuine misses and 22 (17%) are annotator over-inclusion** (12 unnamed differences or effect sizes,
+  4 regression slopes, 4 other, 2 within-arm). Of the 29 "false positives", **17 are real estimates the annotators did not record** and 12 are real
+  false positives (11 within-arm changes or "main effects of time", 1 a ratio of days lost read as a hazard ratio).
+
+| frozen pre-fix system | as scored | adjudicated |
+|---|---|---|
+| 55 unseen papers pooled | F1 0.785 [0.708, 0.849] (P 0.909, R 0.691) | **F1 0.837 [0.786, 0.884]** (P 0.962, R 0.740) |
+| round 1 (30 papers) / round 2 (25 papers, clean holdout) | 0.742 / 0.823 | 0.834 / 0.839 |
+
+- **The two rounds agree after adjudication** (0.834 vs 0.839): most of the round-1/round-2 gap was annotator scope noise.
+- This corrects only the disagreements. Matched estimates are assumed right and an estimate both sides missed is invisible, so recall remains an
+  upper bound; and the M1 test-split figures (0.957) rest on the developer's own gold, which this does not touch.
+
 ## 3. What the audit changed in the system
 
 Each item was found by reading real predictions, then covered by a regression test (82 → 285 tests including the

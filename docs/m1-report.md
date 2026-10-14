@@ -16,7 +16,8 @@ found that several headline metrics cannot fail by construction and that the "Tr
 overclaimed; those are corrected below and in [known-issues.md](known-issues.md).
 
 > **Read [What the numbers do and don't mean](#5-what-the-numbers-do-and-dont-mean) before quoting any figure.**
-> Every annotation in this repository was made by an LLM. No human verified anything.
+> The M1 gold and the blind annotations were made by LLMs, and the M1 gold has no human check. The repository owner later adjudicated the
+> system-vs-annotator disagreements (§2.4.2): a single human adjudicator, covering the disagreements only.
 
 ## 1. What was built
 
@@ -215,8 +216,8 @@ seen**, with the code and predictions committed and hashed *before* the annotato
 #### 2.4.2 Adjudicating the disagreements
 
 All 158 estimate disagreements (129 annotator-only, 29 system-only) and the 3 study-design disagreements were judged on the review page
-([verdicts, notes and method](../data/m1/independent/adjudication/README.md)). **Single adjudicator; who or what made each judgement is not
-recorded** (many notes cite checks of the full paper that the page does not show), so this is not yet a claim of human verification.
+([verdicts, notes and method](../data/m1/independent/adjudication/README.md)). **Single adjudicator: the repository owner, who states that
+the verdicts and notes are their own** (qualifications not recorded; no second rater, so no inter-rater statistic).
 
 - Of the 129 items the system "missed", **107 are genuine misses and 22 (17%) are annotator over-inclusion** (12 unnamed differences or effect sizes,
   4 regression slopes, 4 other, 2 within-arm). Of the 29 "false positives", **17 are real estimates the annotators did not record** and 12 are real
@@ -303,7 +304,7 @@ paper-level intervention inheritance via a working field tagger.
 
 ## 5. What the numbers do and don't mean
 
-1. **Single annotator who is also the developer, an LLM, no human check.** Treat every M1 number as "agreement between
+1. **Single annotator who is also the developer, an LLM, no human check of the gold** (the adjudication in §2.4.2 covers only the independent-annotation disagreements). Treat every M1 number as "agreement between
    the system and one reviewer", not accuracy. The reviewer found and fixed bugs in the code it was auditing, so its
    judgments of what counts as an "effect estimate" drifted with the extractor's scope. The review sheets showed the
    system's own confidence and attribution (anchoring).

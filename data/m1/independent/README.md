@@ -3,8 +3,9 @@
 The M1 gold standard was produced by one LLM that was also the extractor's developer. This directory holds the
 first check that does not have that property: **five separate LLM agents, each with its own context, annotated 36
 papers without ever seeing the system's output or the developer's gold.** They are LLM agents, not humans.
-Nothing here has been verified by a person, and an LLM annotator can share blind spots with the LLM that wrote
-the system. What this evidence adds is *independence of context*, not human ground truth.
+The annotations were not checked by a person when made (the repository owner later adjudicated the disagreements with the system:
+see `adjudication/`), and an LLM annotator can share blind spots with the LLM that wrote the system. What the annotations
+add is *independence of context*; the adjudication adds a human judgement on the disagreements only.
 
 ## Protocol
 

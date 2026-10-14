@@ -13,10 +13,10 @@ annotator (0.742 on 30 unseen papers annotated blind: 0.902 cardiometabolic, 0.4
 7.0% false answers (3 of 43; exact upper bound 19%), 35% over-abstention, 0 conflicts detected. **What it changed:** structure-aware JATS parsing, a rewritten numeric layer,
 the rare-term gate, abbreviation expansion, verifier fixes, and a corrected plan for M2/M3 below.
 **Still owed from M1:** a *human* annotator. An LLM-agent blind annotation of 36 papers is done
-(`data/m1/independent/`), but every annotation in the repo is still LLM-made. Done since: study-design screening and
+(`data/m1/independent/`), but every annotation in the repo is still LLM-made (the owner's later adjudication of the disagreements is the only human judgement). Done since: study-design screening and
 stratified metrics, hard-negative queries, role-aware retrieval, the covariate-balance filter, a clean 25-paper holdout
 (out-of-sample F1 0.823), a review page for the disagreements, a tested PDF parser. An adjudication of the disagreements
-is in (`data/m1/independent/adjudication/`; provenance of the judgements still to be stated). Still owed: a second independent adjudicator, a hard-negative
+is in (`data/m1/independent/adjudication/`; single adjudicator, the repository owner). Still owed: a second independent adjudicator, a human check of the M1 gold, a hard-negative
 set not used to develop the retrieval fix, and a third unseen set before any further extractor change.
 
 ## M2 — Learned field tagger  *(the bottleneck M1 identified)*

@@ -4,10 +4,11 @@
 161 items (158 estimates + 3 study-design questions), every one decided, none left "unsure". Each line has the item id, a yes/no verdict
 ("is this a genuine in-scope effect estimate?"), a reason code for the "no" answers, and a free-text note.
 
-> **Provenance of the judgements is not recorded.** The file was supplied by the repository owner. Many notes cite checks that go
-> beyond what the review page shows ("Checked source: Table 2 footnote", "Checked methods"), so whether each verdict was made by a person,
-> with AI assistance, or by an AI agent is unknown to this repository, and the owner has been asked to say. Until that is stated, nothing
-> in the repo claims that a human verified these annotations.
+> **Who judged:** the repository owner, who states that the verdicts and notes are their own work (the repository cannot verify authorship
+> independently). Many notes record checks of the full paper that the review page does not show ("Checked source: Table 2 footnote",
+> "Checked methods"). Their domain qualifications are not recorded, and there is a single adjudicator, so there is no inter-rater statistic
+> for these verdicts. This is the only human judgement in the repository, and it covers the disagreements only: the M1 gold and the
+> estimates both sides agreed on have no human check.
 
 `apply_adjudication.py` turns the verdicts into corrected precision / recall / F1 (`make adjudication` regenerates and diffs these folders).
 

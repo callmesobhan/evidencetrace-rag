@@ -35,3 +35,9 @@
   missed is invisible, so recall is still an upper bound.
 - The notes also confirm specific system faults: the sign loss (`-3.35` shown as `+3.35`), omitted credible/posterior intervals, "main effect of time"
   and "compared to baseline" read as between-group estimates, and a ratio of days lost read as a hazard ratio.
+
+## A second adjudicator
+
+Agreement between two people is not yet measured. `docs/adjudication-second.html` is a 69-item page (the clean-holdout items) for an independent second
+adjudicator, with its own saved-progress key and file name; the instructions are in [docs/second-adjudication.md](../../../../docs/second-adjudication.md) and
+`scripts/adjudication_agreement.py` computes agreement and what each adjudicator's verdicts do to the accuracy figures.

@@ -93,3 +93,26 @@ def test_review_page_context_uses_the_whole_quote_not_its_first_words():
     # whole-quote match wins even when an earlier sentence starts with the same words
     _, before2, _ = mod._context(doc, "the OR was 0.97 (95% CI 0.64, 1.46)", 0.97)
     assert before2 == ""
+
+
+def test_cohen_kappa_matches_the_hand_calculation():
+    from evidencetrace.evaluation.adjudication import cohen_kappa
+
+    # A: 6 yes / 4 no. B agrees on 5 yes + 3 no, flips one yes->no and one no->yes: po = 0.8, pe = 0.6*0.6 + 0.4*0.4 = 0.52
+    pairs = [("yes", "yes")] * 5 + [("no", "no")] * 3 + [("yes", "no"), ("no", "yes")]
+    assert cohen_kappa(pairs) == pytest.approx((0.8 - 0.52) / (1 - 0.52))
+    assert cohen_kappa([("yes", "yes"), ("no", "no")]) == 1.0
+    assert cohen_kappa([("yes", "no"), ("no", "yes")]) == -1.0
+    assert cohen_kappa([]) is None
+    assert cohen_kappa([("yes", "yes")] * 3) == 1.0  # one category only: chance agreement is already total
+
+
+def test_compare_adjudicators_uses_only_items_both_decided():
+    from evidencetrace.evaluation.adjudication import compare_adjudicators
+
+    first = {"a": {"decision": "yes"}, "b": {"decision": "no"}, "c": {"decision": "yes"}, "x": {"decision": "yes"}}
+    second = {"a": {"decision": "yes"}, "b": {"decision": "yes"}, "c": {"decision": "unk"}, "y": {"decision": "no"}}
+    r = compare_adjudicators(first, second)
+    assert (r["items_both_decided"], r["only_first"], r["only_second"]) == (3, 1, 1)
+    assert r["raw_agreement"] == pytest.approx(1 / 3) and r["disagreeing_ids"] == ["b", "c"]
+    assert r["confusion"] == {"no->yes": 1, "yes->unk": 1, "yes->yes": 1}

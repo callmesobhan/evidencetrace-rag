@@ -81,7 +81,7 @@ def design_items() -> list[dict]:
 
 PAGE = """<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Adjudication - EvidenceTrace-RAG</title>
+<title>__TITLE__</title>
 <style>
 :root{--bg:#fafaf7;--fg:#1d1d1b;--mut:#6b6b66;--card:#fff;--line:#e2e1da;--acc:#2f5d50;--yes:#2e7d4f;--no:#b3422f;--unk:#8a6d1d;--mark:#fff1a8}
 @media (prefers-color-scheme:dark){:root{--bg:#161715;--fg:#ecebe5;--mut:#a09f97;--card:#1f201d;--line:#34352f;--acc:#7fc4ae;--yes:#6fcf97;--no:#ef8a76;--unk:#e0c06b;--mark:#5a4d12}}
@@ -101,13 +101,13 @@ select,input[type=text]{font:inherit;border:1px solid var(--line);background:var
 .note{margin-top:8px;width:100%}a{color:var(--acc)}.kbd{font-family:ui-monospace,monospace;border:1px solid var(--line);border-radius:4px;padding:0 5px}
 @media(max-width:560px){button{flex:1 1 30%}}
 </style></head><body>
-<header><h1>Adjudication: who is right, the system or the annotator?</h1>
+<header><h1>__HEADING__</h1>
 <div class="bar"><i id="prog"></i></div>
 <div class="row"><span id="count"></span>
 <label>show <select id="filter"><option value="todo">undecided</option><option value="all">all</option><option value="yes">in scope</option><option value="no">not in scope</option><option value="unk">unsure</option></select></label>
 <button id="dl">Download decisions (.jsonl)</button><button id="clear" title="forget all saved decisions">Reset</button></div></header>
 <main>
-<p class="intro">For each item, decide whether it is <b>a genuine effect estimate of the kind the
+__EXTRA__<p class="intro">For each item, decide whether it is <b>a genuine effect estimate of the kind the
 <a href="https://github.com/callmesobhan/evidencetrace-rag/blob/main/docs/annotation-guidelines.md">annotation guidelines</a> define</b>:
 a between-group point estimate (HR, OR, RR, IRR, MD, SMD, RD; optionally with CI and p), <i>not</i> a planned/hypothetical value,
 a baseline-balance statistic, a within-arm change, a rate or proportion, a regression coefficient, or an unnamed difference.
@@ -117,7 +117,7 @@ are done (or any time) and give it back. The text is quoted from the open-access
 <div id="list"></div></main>
 <script type="application/json" id="data">__DATA__</script>
 <script>
-const items=JSON.parse(document.getElementById('data').textContent);const KEY='adjudication-v1';
+const items=JSON.parse(document.getElementById('data').textContent);const KEY='__KEY__';
 let saved={};try{saved=JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){}
 const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(saved))}catch(e){}};
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -146,7 +146,7 @@ function refresh(){const f=document.getElementById('filter').value;let done=0;it
 document.getElementById('filter').onchange=refresh;
 document.getElementById('clear').onclick=()=>{if(confirm('Forget every saved decision in this browser?')){saved={};save();items.forEach(it=>cards[it.id]._paint());refresh()}};
 document.getElementById('dl').onclick=()=>{const lines=items.filter(it=>(saved[it.id]||{}).v).map(it=>JSON.stringify({id:it.id,kind:it.kind,pmcid:it.pmcid,decision:saved[it.id].v,reason:saved[it.id].reason||null,note:saved[it.id].note||null}));
- const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([lines.join('\\n')+'\\n'],{type:'application/jsonl'}));a.download='adjudication_decisions.jsonl';a.click()};
+ const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([lines.join('\\n')+'\\n'],{type:'application/jsonl'}));a.download='__FILENAME__';a.click()};
 let cur=null;document.addEventListener('keydown',e=>{if(e.target.tagName==='INPUT'||e.target.tagName==='SELECT')return;
  const vis=items.filter(it=>cards[it.id].style.display!=='none');if(!vis.length)return;if(!cur||!vis.includes(cur))cur=vis[0];
  const k=e.key.toLowerCase();if(k==='y'||k==='n'||k==='u'){set(cur.id,{y:'yes',n:'no',u:'unk'}[k])}
@@ -161,11 +161,25 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--source", type=Path, action="append", help="disagreements.jsonl (repeatable); default: the 30-paper held-out round")
     ap.add_argument("--out", type=Path, default=ROOT / "docs" / "adjudication.html")
+    ap.add_argument("--no-design", action="store_true", help="leave out the study-design questions")
+    ap.add_argument("--second", action="store_true", help="build the page for a SECOND, independent adjudicator (own storage key and file name)")
     args = ap.parse_args()
-    items = build_items(args.source or DEFAULT_SOURCES, [ROOT / "data/raw/fresh", ROOT / "data/raw/pmc"]) + design_items()
+    items = build_items(args.source or DEFAULT_SOURCES, [ROOT / "data/raw/fresh", ROOT / "data/raw/pmc"]) + ([] if args.no_design else design_items())
     data = json.dumps(items, ensure_ascii=False).replace("</", "<\\/")
     args.out.parent.mkdir(parents=True, exist_ok=True)
-    args.out.write_text(PAGE.replace("__DATA__", data), encoding="utf-8")
+    page = PAGE
+    if args.second:
+        extra = ('<p class="intro" style="border-left:4px solid var(--unk);padding-left:10px"><b>You are the second, independent adjudicator.</b> '
+                 'Please judge each item on your own: do not open the repository\'s <code>data/m1/independent/adjudication/</code> folder (it holds the first '
+                 'adjudicator\'s verdicts), and do not discuss items with the first adjudicator until you have sent your file. Read the '
+                 '<a href="https://github.com/callmesobhan/evidencetrace-rag/blob/main/docs/annotation-guidelines.md">annotation guidelines</a> '
+                 '(including the v1.1 addendum at the end) first.</p>')
+        page = (page.replace("__TITLE__", "Second adjudication - EvidenceTrace-RAG").replace("__HEADING__", "Second adjudicator: is each of these a genuine effect estimate?")
+                .replace("__KEY__", "adjudication-second-v1").replace("__FILENAME__", "adjudication_decisions_second.jsonl").replace("__EXTRA__", extra))
+    else:
+        page = (page.replace("__TITLE__", "Adjudication - EvidenceTrace-RAG").replace("__HEADING__", "Adjudication: who is right, the system or the annotator?")
+                .replace("__KEY__", "adjudication-v1").replace("__FILENAME__", "adjudication_decisions.jsonl").replace("__EXTRA__", ""))
+    args.out.write_text(page.replace("__DATA__", data), encoding="utf-8")
     n_est = sum(i["kind"] == "estimate" for i in items)
     print(f"{n_est} estimate items + {len(items) - n_est} design items -> {args.out} ({args.out.stat().st_size // 1000} kB)")
 

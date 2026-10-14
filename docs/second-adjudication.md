@@ -1,5 +1,23 @@
 # Second adjudicator: instructions
 
+## Round 2 (open now): re-judge 14 items under the adopted scope rules
+
+The first round is finished (69 items; kappa 0.43). The 12 disagreements came from two scope rules, which are now written down
+as **guidelines v1.2** (the end of [annotation-guidelines.md](annotation-guidelines.md)). Round 2 asks you, and the repository owner,
+to judge the 14 items on the two papers under those rules.
+
+1. Read the v1.2 addendum, which is also shown on the page.
+2. Open <https://callmesobhan.github.io/evidencetrace-rag/adjudication-rules.html>. Judge all 14 items: **y** (in scope under v1.2), **n**, or **u**.
+   Notes are useful wherever you applied a rule.
+3. Judge afresh. Do not copy your round-1 verdicts, and do not open the repository's `data/m1/independent/adjudication/` folder, which holds them.
+4. Press **Download decisions (.jsonl)**. The file is `adjudication_decisions_rules.jsonl`. Send it to the repository owner.
+
+About 20 minutes. Your progress saves in your browser, as before.
+
+---
+
+## Round 1 (finished): the 69 holdout items
+
 One person (the repository owner) has judged the 158 places where the system and the blind annotators disagreed. A **second, independent**
 person judging a subset gives an agreement figure, which says how much the verdicts depend on who is judging. This page is for that second person.
 

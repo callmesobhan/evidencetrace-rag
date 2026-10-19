@@ -169,13 +169,36 @@ def pubmed_publication_types(pmids: list[str], *, batch: int = 100, sleep: float
     for i in range(0, len(pmids), batch):
         if i:
             time.sleep(sleep)
-        raw = _get(f"{EUTILS}/efetch.fcgi", {"db": "pubmed", "id": ",".join(pmids[i : i + batch]), "retmode": "xml"})
+        raw = _get_xml(f"{EUTILS}/efetch.fcgi", {"db": "pubmed", "id": ",".join(pmids[i : i + batch]), "retmode": "xml"},
+                       roots={"PubmedArticleSet"})
         out.update(parse_publication_types(raw))
     return out
 
 
+def _get_xml(url: str, params: dict[str, str], *, roots: set[str], attempts: int = 6) -> str:
+    """GET an NCBI XML endpoint. NCBI sometimes answers with HTTP 500 or an error page (on 2026-10-19 two of three identical requests
+    failed), so a response is accepted only if it parses and its root element is one the endpoint returns (``roots``); otherwise the
+    request is retried with backoff."""
+    last = ""
+    for attempt in range(attempts):
+        try:
+            raw = _get(url, params, retries=2)
+        except (urllib.error.HTTPError, urllib.error.URLError) as exc:
+            last = str(exc)
+        else:
+            try:
+                root_tag = ET.fromstring(raw).tag.rsplit("}", 1)[-1]
+                if root_tag in roots:
+                    return raw
+                last = f"unexpected root element <{root_tag}>"
+            except ET.ParseError:
+                last = f"unparseable response starting {raw[:60]!r}"
+        time.sleep(5 * (attempt + 1))
+    raise RuntimeError(f"NCBI did not return XML after {attempts} attempts ({last})")
+
+
 def efetch(ids: list[str]) -> str:
-    return _get(f"{EUTILS}/efetch.fcgi", {"db": "pmc", "id": ",".join(ids), "rettype": "xml"})
+    return _get_xml(f"{EUTILS}/efetch.fcgi", {"db": "pmc", "id": ",".join(ids), "rettype": "xml"}, roots={"pmc-articleset", "article"})
 
 
 def fetch_corpus(
@@ -264,10 +287,35 @@ def pin_manifest(raw_dir: Path) -> list[dict]:
     return rows
 
 
+def canonical_sha256(art: ET.Element) -> str:
+    """SHA-256 of the canonical text the extractor reads from this article (see ``parsers.parse_jats``).
+
+    The raw record also carries PMC's own bookkeeping, for example the ``pmc-last-change`` event date, which PMC updates when it
+    re-processes an article without changing its content. Results depend only on the canonical text, so this hash is the pin that
+    decides whether the science has changed; the raw hash stays in the manifest as the record of the exact bytes first pinned.
+    """
+    from evidencetrace.ingest.parsers import (
+        parse_jats,  # local: keeps this module importable without the parsers' dependencies
+    )
+
+    return hashlib.sha256(parse_jats("pinned", ET.tostring(art, encoding="unicode")).text.encode("utf-8")).hexdigest()
+
+
+def check_fetched(art: ET.Element, pin: dict, canonical_pin: str | None) -> str:
+    """'ok' if the record is byte-for-byte the pinned one; 'metadata' if only PMC's bookkeeping changed (the canonical text
+    the results depend on is identical); 'drifted' if the article's content changed."""
+    if hashlib.sha256(ET.tostring(art, encoding="unicode").encode("utf-8")).hexdigest() == pin["sha256"]:
+        return "ok"
+    if canonical_pin is not None and canonical_sha256(art) == canonical_pin:
+        return "metadata"
+    return "drifted"
+
+
 def fetch_pinned(
     pinned: list[dict],
     out_dir: Path,
     *,
+    canonical_pins: dict[str, str] | None = None,
     batch_size: int = 20,
     sleep: float = 0.4,
     allow_drift: bool = False,
@@ -275,13 +323,16 @@ def fetch_pinned(
 ) -> dict[str, list[str]]:
     """Download exactly the pinned PMCIDs and verify each file against its recorded hash.
 
-    Returns {"ok": [...], "drifted": [...], "missing": [...]}. Drift means PMC now serves different XML
-    for that id (publishers correct papers); gold quotes may then no longer match, so by default a
-    drifted file is NOT written.
+    Returns {"ok": [...], "metadata": [...], "drifted": [...], "missing": [...]}.
+
+    "metadata" means PMC changed only its own bookkeeping (for example the ``pmc-last-change`` date) and the canonical text is
+    identical to the pinned one: the file is written and the results are unaffected (checked by reproducing them). "drifted" means
+    the article's content changed (publishers correct papers): gold quotes may no longer match, so by default such a file is NOT written.
     """
     out_dir.mkdir(parents=True, exist_ok=True)
     want = {r["pmcid"]: r for r in pinned}
-    result: dict[str, list[str]] = {"ok": [], "drifted": [], "missing": []}
+    canonical_pins = canonical_pins or {}
+    result: dict[str, list[str]] = {"ok": [], "metadata": [], "drifted": [], "missing": []}
     ids = [r["pmcid"] for r in pinned]
     for i in range(0, len(ids), batch_size):
         time.sleep(sleep)
@@ -293,19 +344,19 @@ def fetch_pinned(
                 result["missing"].append(pmcid)
                 continue
             text = ET.tostring(art, encoding="unicode")
-            digest = hashlib.sha256(text.encode("utf-8")).hexdigest()
-            if digest == want[pmcid]["sha256"]:
+            status = check_fetched(art, want[pmcid], canonical_pins.get(pmcid))
+            if status in ("ok", "metadata"):
                 (out_dir / f"{pmcid}.xml").write_text(text, encoding="utf-8")
-                result["ok"].append(pmcid)
+                result[status].append(pmcid)
             else:
                 result["drifted"].append(pmcid)
                 if allow_drift:
                     (out_dir / f"{pmcid}.xml").write_text(text, encoding="utf-8")
-        log(f"  {min(i + batch_size, len(ids))}/{len(ids)}  ok={len(result['ok'])} "
+        log(f"  {min(i + batch_size, len(ids))}/{len(ids)}  ok={len(result['ok'])} metadata={len(result['metadata'])} "
             f"drifted={len(result['drifted'])} missing={len(result['missing'])}")
     (out_dir / "manifest.jsonl").write_text(
         "\n".join(json.dumps({k: v for k, v in want[p].items() if k not in {"sha256", "bytes"}}, ensure_ascii=False)
-                  for p in result["ok"] + (result["drifted"] if allow_drift else [])) + "\n",
+                  for p in result["ok"] + result["metadata"] + (result["drifted"] if allow_drift else [])) + "\n",
         encoding="utf-8",
     )
     return result

@@ -1,3 +1,4 @@
+import hashlib
 import xml.etree.ElementTree as ET
 
 import pytest
@@ -69,3 +70,55 @@ def test_split_is_deterministic_and_roughly_balanced():
     assert [split_for(i) for i in ids] == [split_for(i) for i in ids]
     dev = sum(split_for(i) == "dev" for i in ids)
     assert 900 < dev < 1100
+
+
+# ------------------------------------------------------------------ pinned fetch: metadata churn is not drift, content change is
+def _article(extra_event_date: str = "2024-06-14 11:25:14.610", body: str = "The hazard ratio was 0.80 (95% CI 0.70 to 0.91)."):
+    xml = (
+        "<article><front><article-meta>"
+        "<article-id pub-id-type=\"pmcid\">PMC9999999</article-id>"
+        "<title-group><article-title>Synthetic paper</article-title></title-group>"
+        "<pub-history><event event-type=\"pmc-last-change\"><date iso-8601-date=\"" + extra_event_date + "\">"
+        "<day>14</day><month>06</month><year>2024</year></date></event></pub-history>"
+        "</article-meta></front><body><sec><title>Results</title><p>" + body + "</p></sec></body></article>"
+    )
+    return ET.fromstring(xml)
+
+
+def test_metadata_only_change_is_accepted_but_content_change_is_drift():
+    from evidencetrace.ingest.pmc import canonical_sha256, check_fetched
+
+    original = _article()
+    pin = {"pmcid": "PMC9999999", "sha256": hashlib.sha256(ET.tostring(original, encoding="unicode").encode("utf-8")).hexdigest()}
+    canon = canonical_sha256(original)
+    assert check_fetched(_article(), pin, canon) == "ok"
+    # PMC re-processes the record: only the last-change event date moves
+    assert check_fetched(_article(extra_event_date="2026-10-18 16:54:36.100"), pin, canon) == "metadata"
+    # the article's text changes: the results could change, so this is drift
+    assert check_fetched(_article(body="The hazard ratio was 0.82 (95% CI 0.70 to 0.91)."), pin, canon) == "drifted"
+    # no canonical pin for this paper: a raw change can only be reported as drift
+    assert check_fetched(_article(extra_event_date="2026-10-18 16:54:36.100"), pin, None) == "drifted"
+
+
+def test_canonical_hash_ignores_pmc_bookkeeping_but_not_text():
+    from evidencetrace.ingest.pmc import canonical_sha256
+
+    assert canonical_sha256(_article()) == canonical_sha256(_article(extra_event_date="2026-10-18 16:54:36.100"))
+    assert canonical_sha256(_article()) != canonical_sha256(_article(body="Something else."))
+
+
+def test_ncbi_error_pages_are_retried_and_a_persistent_error_is_reported(monkeypatch):
+    from evidencetrace.ingest import pmc
+
+    monkeypatch.setattr(pmc.time, "sleep", lambda _s: None)
+    html = "<!DOCTYPE html><html><title>NCBI/eutils WWW Error 500</title></html>"
+    answers = iter([html, html, "<PubmedArticleSet/>"])
+    monkeypatch.setattr(pmc, "_get", lambda url, params, retries=3: next(answers))
+    assert pmc._get_xml("u", {}, roots={"PubmedArticleSet"}) == "<PubmedArticleSet/>"
+
+    monkeypatch.setattr(pmc, "_get", lambda url, params, retries=3: html)
+    import pytest as _pytest
+
+    with _pytest.raises(RuntimeError, match="did not return XML"):
+        pmc._get_xml("u", {}, roots={"PubmedArticleSet"}, attempts=3)
+

@@ -41,7 +41,9 @@ def main() -> int:
     ap.add_argument("--split-label", help="override the dev/test hash split (e.g. 'fresh')")
     ap.add_argument("--pin", type=Path, help="write a pinned manifest (with SHA-256) for the papers in --out and exit")
     ap.add_argument("--from-manifest", type=Path, help="download exactly the PMCIDs in this pinned manifest")
-    ap.add_argument("--allow-drift", action="store_true", help="keep papers whose XML changed since pinning")
+    ap.add_argument("--allow-drift", action="store_true", help="keep papers whose article CONTENT changed since pinning")
+    ap.add_argument("--canonical-pins", type=Path, default=Path("data/m1/canonical_pins.jsonl"),
+                    help="canonical-text pins (see scripts/pin_canonical.py); a record whose text matches is accepted even if PMC's bookkeeping changed")
     args = ap.parse_args()
 
     if args.pin:
@@ -52,8 +54,13 @@ def main() -> int:
 
     if args.from_manifest:
         pinned = [json.loads(ln) for ln in args.from_manifest.read_text(encoding="utf-8").splitlines() if ln.strip()]
-        res = fetch_pinned(pinned, args.out, allow_drift=args.allow_drift)
-        print(f"ok={len(res['ok'])} drifted={len(res['drifted'])} missing={len(res['missing'])}")
+        canon = {}
+        if args.canonical_pins.exists():
+            canon = {r["pmcid"]: r["canonical_sha256"] for r in map(json.loads, args.canonical_pins.read_text().splitlines()) if r}
+        res = fetch_pinned(pinned, args.out, canonical_pins=canon, allow_drift=args.allow_drift)
+        print(f"ok={len(res['ok'])} metadata-only={len(res['metadata'])} drifted={len(res['drifted'])} missing={len(res['missing'])}")
+        if res["metadata"]:
+            print(f"  metadata-only change (article text identical; PMC bookkeeping changed): {', '.join(res['metadata'])}")
         for k in ("drifted", "missing"):
             if res[k]:
                 print(f"  {k}: {', '.join(res[k])}", file=sys.stderr)

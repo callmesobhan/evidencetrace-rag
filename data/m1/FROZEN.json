@@ -149,6 +149,7 @@
    "independent/holdout2/out/out_of_scope_3.jsonl": "45aa01ed9a19c0d6b1694f0c218ea5d96250d4c9e6989cc8142998aa33a01077",
    "independent/adjudication/decisions.jsonl": "00fa878f4221ffc7887ba8d90a8733c69a2f38c3c8d928b92cc4b2deb0ac0fc4",
    "independent/adjudication/decisions_second.jsonl": "2aeccaf423777228d5c938fef1d6a980eac7ea5c7fe000662b64983023900d82",
+   "canonical_pins.jsonl": "749b165df92692d004bbac520c6de5de53dd659601508e13dfc00b7bd6539c34",
    "design.jsonl": "ec26b4f39bfe83b29ebdb0188cacce485c7b34849554e45060d016c8761194c8"
   }
  },
@@ -167,7 +168,8 @@
   "files_changed_since_holdout2_freeze": {
    "changed": [
     "src/evidencetrace/extraction/candidates.py",
-    "src/evidencetrace/ingest/parsers.py"
+    "src/evidencetrace/ingest/parsers.py",
+    "src/evidencetrace/ingest/pmc.py"
    ],
    "added": [
     "src/evidencetrace/evaluation/adjudication.py"

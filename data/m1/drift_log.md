@@ -12,3 +12,7 @@ Pins are checked against what NCBI serves today (`scripts/fetch_pmc.py --from-ma
 
 Found by the scheduled reproduction run of 2026-10-19, which failed at `fetch-pinned` (the pin then compared the whole raw record). The
 fetch logic was changed to the two-level check; the run was then repeated in full.
+
+**Decision (2026-10-19, repository owner):** the two-level rule is adopted. A change to PMC's bookkeeping with identical canonical text is
+accepted and logged; a change to the canonical text stops the reproduction. The raw-record pin stays in the manifests as the record of the
+bytes first pinned.

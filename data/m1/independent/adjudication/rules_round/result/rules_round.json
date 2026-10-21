@@ -1,0 +1,270 @@
+{
+ "agreement": {
+  "items_both_decided": 14,
+  "only_first": 0,
+  "only_second": 0,
+  "raw_agreement": 1.0,
+  "cohen_kappa": 1.0,
+  "confusion": {
+   "no->no": 3,
+   "yes->yes": 11
+  },
+  "disagreeing_ids": []
+ },
+ "kappa": 1.0,
+ "unsure": 0,
+ "figures": {
+  "original verdicts, owner (check: 0.839)": {
+   "precision": [
+    0.9642857142857143,
+    0.9036144578313253,
+    1.0
+   ],
+   "recall": [
+    0.7431192660550459,
+    0.6473214285714286,
+    0.8260869565217391
+   ],
+   "f1": [
+    0.8393782383419689,
+    0.7696969696969697,
+    0.8922413793103449
+   ],
+   "counts": {
+    "tp": 162,
+    "fp": 6,
+    "fn": 56
+   }
+  },
+  "original verdicts, second (check: 0.848)": {
+   "precision": [
+    0.9642857142857143,
+    0.9036144578313253,
+    1.0
+   ],
+   "recall": [
+    0.7570093457943925,
+    0.6774193548387096,
+    0.8341232227488151
+   ],
+   "f1": [
+    0.8481675392670157,
+    0.7914110429447853,
+    0.8967551622418879
+   ],
+   "counts": {
+    "tp": 162,
+    "fp": 6,
+    "fn": 52
+   }
+  },
+  "adopted rules, owner": {
+   "precision": [
+    0.9642857142857143,
+    0.9036144578313253,
+    1.0
+   ],
+   "recall": [
+    0.7397260273972602,
+    0.6445497630331753,
+    0.8222222222222222
+   ],
+   "f1": [
+    0.8372093023255814,
+    0.7688442211055276,
+    0.8894230769230769
+   ],
+   "counts": {
+    "tp": 162,
+    "fp": 6,
+    "fn": 57
+   }
+  },
+  "adopted rules, second": {
+   "precision": [
+    0.9642857142857143,
+    0.9036144578313253,
+    1.0
+   ],
+   "recall": [
+    0.7397260273972602,
+    0.6445497630331753,
+    0.8222222222222222
+   ],
+   "f1": [
+    0.8372093023255814,
+    0.7688442211055276,
+    0.8894230769230769
+   ],
+   "counts": {
+    "tp": 162,
+    "fp": 6,
+    "fn": 57
+   }
+  },
+  "as scored (annotator = truth)": {
+   "precision": [
+    0.9523809523809523,
+    0.8910256410256411,
+    0.9937106918238994
+   ],
+   "recall": [
+    0.7239819004524887,
+    0.6308411214953271,
+    0.8083832335329342
+   ],
+   "f1": [
+    0.8226221079691517,
+    0.7529411764705882,
+    0.8755760368663594
+   ],
+   "counts": {
+    "tp": 160,
+    "fp": 8,
+    "fn": 61
+   }
+  }
+ },
+ "items": [
+  {
+   "id": "29766b6152",
+   "pmcid": "PMC12703296",
+   "original_owner": "yes",
+   "original_second": "no",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "Between-altitude sPAP difference at rest during CWRET; Rule 2.",
+   "second_note": null
+  },
+  {
+   "id": "30e2bfb4a6",
+   "pmcid": "PMC12703296",
+   "original_owner": "yes",
+   "original_second": "no",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "Between-altitude TPR difference at rest; Rule 2.",
+   "second_note": null
+  },
+  {
+   "id": "4b57ba3bba",
+   "pmcid": "PMC12117457",
+   "original_owner": "no",
+   "original_second": "yes",
+   "rules_owner": "no",
+   "rules_second": "no",
+   "owner_note": "Per-mm Hg MAP association is an adjusted covariate estimate, excluded under Rule 1.",
+   "second_note": null
+  },
+  {
+   "id": "4e3fae7d42",
+   "pmcid": "PMC12117457",
+   "original_owner": "yes",
+   "original_second": "yes",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "MAP:NEE ratio is an explicitly investigated exposure for KRT risk, not an adjustment covariate; Rule 1.",
+   "second_note": null
+  },
+  {
+   "id": "5e2cc6f0ac",
+   "pmcid": "PMC12703296",
+   "original_owner": "yes",
+   "original_second": "no",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "Between-altitude oxygen delivery contrast at peak constant work-rate exercise; Rule 2.",
+   "second_note": null
+  },
+  {
+   "id": "79c82ed19d",
+   "pmcid": "PMC12117457",
+   "original_owner": "no",
+   "original_second": "yes",
+   "rules_owner": "no",
+   "rules_second": "no",
+   "owner_note": "Per-year age association is an adjusted covariate estimate, not a primary exposure; Rule 1.",
+   "second_note": null
+  },
+  {
+   "id": "86424bec32",
+   "pmcid": "PMC12703296",
+   "original_owner": "yes",
+   "original_second": "no",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "Between-altitude RV arterial coupling difference at rest during CWRET; Rule 2.",
+   "second_note": null
+  },
+  {
+   "id": "8f506981e6",
+   "pmcid": "PMC12703296",
+   "original_owner": "yes",
+   "original_second": "no",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "Between-altitude RV arterial coupling difference after 3 minutes of CWRET; Rule 2.",
+   "second_note": null
+  },
+  {
+   "id": "911bf96725",
+   "pmcid": "PMC12703296",
+   "original_owner": "yes",
+   "original_second": "no",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "Between-altitude RV arterial coupling contrast at rest (2500 m versus 470 m); Rule 2.",
+   "second_note": null
+  },
+  {
+   "id": "92bb0f03b7",
+   "pmcid": "PMC12117457",
+   "original_owner": "no",
+   "original_second": "yes",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "Per-unit NEE vasopressor dose is an exposure of interest in the KRT study; Rule 1.",
+   "second_note": null
+  },
+  {
+   "id": "969dd014f8",
+   "pmcid": "PMC12703296",
+   "original_owner": "yes",
+   "original_second": "no",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "Between-altitude TPR difference at peak exercise; Rule 2.",
+   "second_note": null
+  },
+  {
+   "id": "9d339eb3b3",
+   "pmcid": "PMC12117457",
+   "original_owner": "yes",
+   "original_second": "yes",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "Per-unit NEE vasopressor dose is an exposure of interest in the KRT study; Rule 1.",
+   "second_note": null
+  },
+  {
+   "id": "a0147952dc",
+   "pmcid": "PMC12703296",
+   "original_owner": "yes",
+   "original_second": "no",
+   "rules_owner": "yes",
+   "rules_second": "yes",
+   "owner_note": "Between-altitude oxygen delivery contrast at peak incremental exercise; Rule 2.",
+   "second_note": null
+  },
+  {
+   "id": "e5f0149661",
+   "pmcid": "PMC12117457",
+   "original_owner": "no",
+   "original_second": "yes",
+   "rules_owner": "no",
+   "rules_second": "no",
+   "owner_note": "Per-kg weight association is an adjusted covariate estimate, not a primary exposure; Rule 1.",
+   "second_note": null
+  }
+ ]
+}

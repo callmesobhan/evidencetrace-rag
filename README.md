@@ -203,7 +203,7 @@ in one sentence) wrong-drug protection work on cardiometabolic trial text; **ent
 conflict detection is dormant), retrieval is lexical (it now tracks clauses and reference arms, but only heuristically),
 and recall falls sharply outside the domain it was built on.
 
-**Threats to validity (the short version).** Every annotation here was made by an LLM. The only human judgements are two adjudications of the system-vs-annotator disagreements (above): the repository owner's on all 158, and a second person's on 69 clean-holdout items, which agreed on 57 of 69 (kappa 0.43; the 12 disagreements are two unresolved scope rules). Disagreements only; the M1 gold (developer = annotator) has no human check.
+**Threats to validity (the short version).** Every annotation here was made by an LLM. The only human judgements are two adjudications of the system-vs-annotator disagreements (above): the repository owner's on all 158, and a second person's on 69 clean-holdout items, which agreed on 57 of 69 (kappa 0.43). The 12 disagreements were two scope rules, adopted as guidelines v1.2; re-judged under them, the two agreed on all 14 affected items (in-sample for the rules; see [§2.4.3](docs/m1-report.md)). Disagreements only; the M1 gold (developer = annotator) has no human check.
 The M1 gold standard is a single annotator who is also the developer; it is pooled from the system's own output
 (precision is flattering), dev numbers are fitted, post-hoc columns are not held-out, the same clinical trials appear on
 both sides of the split, and several headline metrics (provenance pass rate, value+CI vs value-only, span attribution)

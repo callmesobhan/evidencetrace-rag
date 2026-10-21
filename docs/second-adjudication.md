@@ -1,6 +1,8 @@
 # Second adjudicator: instructions
 
-## Round 2 (open now): re-judge 14 items under the adopted scope rules
+## Round 2 (done 2026-10-21): re-judge 14 items under the adopted scope rules
+
+Done: both judges re-judged the 14 items. The result is in [rules_round/result/rules_round.md](../data/m1/independent/adjudication/rules_round/result/rules_round.md) and in §2.4.3 of the report. The instructions below are kept as they were sent.
 
 The first round is finished (69 items; kappa 0.43). The 12 disagreements came from two scope rules, which are now written down
 as **guidelines v1.2** (the end of [annotation-guidelines.md](annotation-guidelines.md)). Round 2 asks you, and the repository owner,

@@ -14,6 +14,13 @@ to judge the 14 items on the two papers under those rules.
 
 About 20 minutes. Your progress saves in your browser, as before.
 
+**No web page? Use the text file instead.** `python -I scripts/adjudication_form.py make --who second --out form.txt` writes the same 14 items
+(rules, text, estimate) as a plain-text form with an `ANSWER` line under each item; the same command with `--who owner` writes the repository
+owner's form. The judge types yes, no or unsure after the colon, optionally a `REASON` and a one-line `NOTE`, saves and sends the file back.
+`python -I scripts/adjudication_form.py parse --who second --form filled.txt --out decisions_second.jsonl` checks it strictly (all 14 answered,
+readable answers, the right judge's form) and writes the file the page would have exported. The two forms are separate so neither judge sees the
+other's answers. The filled forms are kept next to the decisions in `data/m1/independent/adjudication/rules_round/`.
+
 ---
 
 ## Round 1 (finished): the 69 holdout items

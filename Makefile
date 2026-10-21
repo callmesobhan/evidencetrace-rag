@@ -132,4 +132,4 @@ rules-round:
 	$(PYTHON) -I scripts/rules_round_result.py --first data/m1/independent/adjudication/decisions.jsonl \
 	    --second data/m1/independent/adjudication/decisions_second.jsonl \
 	    --rules-owner data/m1/independent/adjudication/rules_round/decisions_owner.jsonl \
-	    --rules-second data/m1/independent/adjudication/rules_round/decisions_second.jsonl --out reports/rules_round
+	    --rules-second data/m1/independent/adjudication/rules_round/decisions_second.jsonl --out data/m1/independent/adjudication/rules_round/result

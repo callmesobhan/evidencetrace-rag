@@ -261,8 +261,14 @@ Effect on the holdout F1 (both sets of verdicts on the same 69 items, the 25 pap
 | first adjudicator | 0.964 | 0.743 | 0.839 [0.770, 0.892] |
 | second adjudicator | 0.964 | 0.757 | **0.848** [0.791, 0.897] |
 
-The second adjudicator's reading is the more favourable one for the system (recall +0.014), entirely through the 12 rule items. Until the two rules are
-decided and the 14 items re-judged under one rule, the honest figure for this subset is the range 0.839 to 0.848.
+The second adjudicator's reading was the more favourable one for the system (recall +0.014), entirely through the 12 rule items. Before the rules were decided, the honest figure for this subset was the range 0.839 to 0.848.
+
+**Round 2 (2026-10-21): the 14 items re-judged under the adopted rules.** The owner and the second adjudicator each re-judged the same 14 items under guidelines v1.2. The forms and reasons are in [rules_round](../data/m1/independent/adjudication/rules_round/README.md); the figures are in [result/rules_round.md](../data/m1/independent/adjudication/rules_round/result/rules_round.md).
+
+- **Agreement: 14 of 14** (kappa 1.0; no "unsure"). Under the rules 11 items are in scope and 3 are out. The per-year age, per-kg weight and per-mm Hg MAP mean differences are covariate slopes (Rule 1: out). The NEE odds ratios, the MAP:NEE ratio and the per-unit NEE mean difference are the paper's exposure (Rule 1: in). The eight altitude contrasts are between-condition differences (Rule 2: in).
+- **Holdout F1 under the adopted rules: 0.837 [0.769, 0.889]** on the 25 clean-holdout papers. It is the same for both judges, because their verdicts are identical. Before the rules it was 0.839 (owner) and 0.848 (second). The 0.839 in §2.4.2 is the owner's original verdicts; 0.837 is the figure under the adopted rules.
+- **The rules moved the two judges unequally.** The owner's verdict changes on one item (the NEE mean difference, now in). The second judge's changes on eleven (eight altitude contrasts, now in; three covariate slopes, now out). The owner approved the rules on 2026-10-14, and they were written from the same 12 disagreements. So the 14-of-14 agreement is measured in-sample: it shows the rules remove the split on these items, but it is not an independent agreement figure. The independent figure is still kappa 0.43 on the 69 items (round 1).
+- **Record.** The owner's form has a note on every item. The second judge's form has verdicts only, so their reasons are not on record beyond the verdicts. Both forms state no AI assistance (as stated; not verifiable from the repository).
 
 ## 3. What the audit changed in the system
 

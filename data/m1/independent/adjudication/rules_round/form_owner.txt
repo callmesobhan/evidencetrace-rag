@@ -1,0 +1,317 @@
+SCOPE-RULE RE-JUDGEMENT, 14 ITEMS  (EvidenceTrace-RAG, annotation guidelines v1.2)
+FORM-FOR: owner
+FORM-VERSION: rules-round-v1.2
+
+HOW TO FILL THIS IN
+  1. Open this file in a plain-text editor (Mac: TextEdit, then Format > Make Plain Text;
+     Windows: Notepad).
+  2. For each of the 14 items, type your answer after the colon on the ANSWER line: yes, no or
+     unsure.
+  3. If your answer is no, you may add a REASON (one word from the list below) and a NOTE (one
+     line). A short note is useful wherever you applied a rule.
+  4. Do not change the ITEM lines or the ids in brackets. Keep each answer on one line.
+  5. Save the file and send it back as it is. About 20 minutes.
+
+Fill this in on your own, before you look at anyone else's answers.
+
+THE RULES
+  Scope rules v1.2 (adopted for this re-judgement; see the annotation guidelines, v1.2
+  addendum). This form re-judges 14 items from two papers (PMC12703296 and PMC12117457). The two
+  adjudicators applied two scope rules differently on these papers, so the rules are now written
+  down. Judge each item under the rules as written here, not under your own preferred rule.
+
+  Rule 1, per-unit estimates. An estimate given per one unit of a continuous variable, from a
+  regression model, is in scope only if that variable is the primary exposure the paper is about
+  (for example the vasopressor dose NEE in a study of kidney replacement therapy). Per-unit
+  estimates for covariates that the model adjusts for (for example age, weight or mean arterial
+  pressure) are out of scope, whatever scale label the paper uses (MD, OR, HR). A categorised
+  exposure compared with a reference level is in scope.
+
+  Rule 2, contrasts between conditions. A contrast between two named conditions or exposure
+  levels reported in the same paper (for example high versus low altitude in a crossover trial)
+  is in scope as a mean difference when the text states it as a difference between those
+  conditions, including "higher by" or "lower by" wording, even if a table labels it "mean
+  change". A change from baseline within one condition is out of scope.
+
+  For each item answer yes (a genuine in-scope effect estimate under these rules), no, or
+  unsure. A short note is useful wherever you applied a rule. This is a fresh judgement: do not
+  copy your earlier verdicts.
+
+  In general, an item is in scope if it is a between-group point estimate (HR, OR, RR, IRR, MD,
+  SMD, RD; optionally with CI and p). It is not in scope if it is a planned or hypothetical
+  value, a baseline-balance statistic, a within-arm change, a rate or proportion, a regression
+  coefficient, or an unnamed difference. You are judging the estimate, not who found it.
+  The full guidelines:
+  https://github.com/callmesobhan/evidencetrace-rag/blob/main/docs/annotation-guidelines.md (the
+  v1.2 addendum is at the end).
+
+REASON CODES (for a "no")
+  balance     baseline balance / SMD diagnostic
+  within_arm  within-arm change
+  planned     planned / threshold value
+  unnamed     unnamed difference / effect size
+  rate        rate, proportion or mean
+  coef        regression coefficient / correlation
+  duplicate   duplicate of another item
+  other       other
+
+===== ITEM 1 of 14   [id 911bf96725] =====
+Paper: PMC12703296  https://pmc.ncbi.nlm.nih.gov/articles/PMC12703296/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD -0.13 (-0.26 to -0.04)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | During incremental exercise at high altitude, sPAP remained consistently, but mostly not
+  | statistically significantly higher compared with low altitude. At peak exercise, sPAP
+  | remained unchanged between the two locations; however, exercise capacity was 11% lower at
+  | 2500 m.[9] >>> [[0.13]] mm/mm Hg (95% CI −[[0.26]] to −[[0.04]] mm/mm Hg, p=0.022) lower <<<
+  | During exercise, as well as at peak exercise, there was no statistically significant
+  | difference between the two locations (figure 2C). Heart rate during exercise was generally
+  | higher at 2500 m, while stroke volume was lower compared with 470 m.
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): Between-altitude RV arterial coupling contrast at rest (2500 m versus 470 m); Rule 2.
+
+===== ITEM 2 of 14   [id 30e2bfb4a6] =====
+Paper: PMC12703296  https://pmc.ncbi.nlm.nih.gov/articles/PMC12703296/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD 3.1 (1.1 to 5.7)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | Consequently, no difference in CO or cardiac index, both of which increased linearly, was
+  | observed between the two locations (for more details, see table 2). TPR declined during
+  | exercise at both 2500 m and 470 m. >>> by [[3.1]] WU, 95% CI [[1.1]] to [[5.7]] WU, p=0.014
+  | <<< The pressure flow slope was 10.8±2.1 mm Hg/L/min at 470 m and 10.6±2.1 mm Hg/L/min at
+  | 2500 m (95% CI −3.4 to 6.2, p=0.911) (figure 2E). The peripheral oxygenation (SpO2) by pulse
+  | oximetry at rest was 95±2% in Zurich and 90±2% at Mount Santis (95% CI −6% to −4%, p<0.001).
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): Between-altitude TPR difference at rest; Rule 2.
+
+===== ITEM 3 of 14   [id 969dd014f8] =====
+Paper: PMC12703296  https://pmc.ncbi.nlm.nih.gov/articles/PMC12703296/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD 2.0 (0.6 to 3.5)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | Consequently, no difference in CO or cardiac index, both of which increased linearly, was
+  | observed between the two locations (for more details, see table 2). TPR declined during
+  | exercise at both 2500 m and 470 m. >>> by [[2.0]] WU, 95% CI [[0.6]] to [[3.5]] WU, p=0.012
+  | <<< The pressure flow slope was 10.8±2.1 mm Hg/L/min at 470 m and 10.6±2.1 mm Hg/L/min at
+  | 2500 m (95% CI −3.4 to 6.2, p=0.911) (figure 2E). The peripheral oxygenation (SpO2) by pulse
+  | oximetry at rest was 95±2% in Zurich and 90±2% at Mount Santis (95% CI −6% to −4%, p<0.001).
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): Between-altitude TPR difference at peak exercise; Rule 2.
+
+===== ITEM 4 of 14   [id 29766b6152] =====
+Paper: PMC12703296  https://pmc.ncbi.nlm.nih.gov/articles/PMC12703296/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD 13.0 (5.0 to 23.0)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | The pressure flow slope was 10.8±2.1 mm Hg/L/min at 470 m and 10.6±2.1 mm Hg/L/min at 2500 m
+  | (95% CI −3.4 to 6.2, p=0.911) (figure 2E). The peripheral oxygenation (SpO2) by pulse
+  | oximetry at rest was 95±2% in Zurich and 90±2% at Mount Santis (95% CI −6% to −4%, p<0.001).
+  | >>> elevated by [[13]] mm Hg (95% CI [[5]] to [[23]] mm Hg, p=0.004) <<< During CWRET at 75%
+  | of peak work-rate, sPAP steeply increased during the first 3 min of exercise at both
+  | locations, followed by a plateau (figure 3A). After 3 min, sPAP was 69±8 mm Hg in Zurich and
+  | 87±7 mm Hg at Mount Santis (mean difference: 18 mm Hg, 95% CI 4 to 33 mm Hg, p=0.022).
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): Between-altitude sPAP difference at rest during CWRET; Rule 2.
+
+===== ITEM 5 of 14   [id 86424bec32] =====
+Paper: PMC12703296  https://pmc.ncbi.nlm.nih.gov/articles/PMC12703296/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD -0.21 (-0.4 to -0.03)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | The pressure flow slope was 10.8±2.1 mm Hg/L/min at 470 m and 10.6±2.1 mm Hg/L/min at 2500 m
+  | (95% CI −3.4 to 6.2, p=0.911) (figure 2E). The peripheral oxygenation (SpO2) by pulse
+  | oximetry at rest was 95±2% in Zurich and 90±2% at Mount Santis (95% CI −6% to −4%, p<0.001).
+  | >>> reduced by [[0.21]] mm/mm Hg (95% CI −[[0.40]] to −[[0.03]] mm/mm Hg, p=0.032) <<<
+  | During CWRET at 75% of peak work-rate, sPAP steeply increased during the first 3 min of
+  | exercise at both locations, followed by a plateau (figure 3A). After 3 min, sPAP was 69±8 mm
+  | Hg in Zurich and 87±7 mm Hg at Mount Santis (mean difference: 18 mm Hg, 95% CI 4 to 33 mm
+  | Hg, p=0.022).
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): Between-altitude RV arterial coupling difference at rest during CWRET; Rule 2.
+
+===== ITEM 6 of 14   [id 8f506981e6] =====
+Paper: PMC12703296  https://pmc.ncbi.nlm.nih.gov/articles/PMC12703296/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD -0.08 (-0.15 to -0.01)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | After 3 min, sPAP was 69±8 mm Hg in Zurich and 87±7 mm Hg at Mount Santis (mean difference:
+  | 18 mm Hg, 95% CI 4 to 33 mm Hg, p=0.022). However, during the remainder of the exercise
+  | until peak exercise, there was no difference in sPAP between high and low altitudes. >>> by
+  | −[[0.08]] mm/mm Hg (95% CI −[[0.15]] to −[[0.01]] mm/mm Hg, p=0.033) <<< TPR was also higher
+  | during CWRET at 2500 m than at 470 m, solely at peak exercise. The effect size between both
+  | locations was not statistically significantly different anymore.
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): Between-altitude RV arterial coupling difference after 3 minutes of CWRET; Rule 2.
+
+===== ITEM 7 of 14   [id a0147952dc] =====
+Paper: PMC12703296  https://pmc.ncbi.nlm.nih.gov/articles/PMC12703296/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD -529.0 (-906.0 to -170.0)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | In seven patients who received oxygen during CWRET at high altitude due to predefined safety
+  | criteria, there was no statistically significant difference in right heart parameters
+  | compared with those without oxygen therapy. At rest, oxygen reduced sPAP so that it was no
+  | longer significantly different from sPAP at rest at low altitude (figure 3B). >>> by
+  | −[[529]] mL/min (95% CI −[[906]] to −[[170]] mL/min, p=0.014) <<< The present trial in
+  | patients with PVD shows that pulmonary haemodynamic changes during exercise were similar at
+  | 2500 m compared with 470 m, even though absolute levels of sPAP, HR and CO were higher at
+  | high altitude, whereas RV arterial coupling was lower. The patterns of exercise
+  | haemodynamics were strongly influenced by the exercise protocol, independent of altitude
+  | exposure.
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): Between-altitude oxygen delivery contrast at peak incremental exercise; Rule 2.
+
+===== ITEM 8 of 14   [id 5e2cc6f0ac] =====
+Paper: PMC12703296  https://pmc.ncbi.nlm.nih.gov/articles/PMC12703296/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD -440.0 (-440.0 to -433.0)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | In seven patients who received oxygen during CWRET at high altitude due to predefined safety
+  | criteria, there was no statistically significant difference in right heart parameters
+  | compared with those without oxygen therapy. At rest, oxygen reduced sPAP so that it was no
+  | longer significantly different from sPAP at rest at low altitude (figure 3B). >>> −[[440]]
+  | mL/min (95% CI −[[440]] to −[[433]] mL/min, p<0.001) <<< The present trial in patients with
+  | PVD shows that pulmonary haemodynamic changes during exercise were similar at 2500 m
+  | compared with 470 m, even though absolute levels of sPAP, HR and CO were higher at high
+  | altitude, whereas RV arterial coupling was lower. The patterns of exercise haemodynamics
+  | were strongly influenced by the exercise protocol, independent of altitude exposure.
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): Between-altitude oxygen delivery contrast at peak constant work-rate exercise; Rule 2.
+
+===== ITEM 9 of 14   [id 9d339eb3b3] =====
+Paper: PMC12117457  https://pmc.ncbi.nlm.nih.gov/articles/PMC12117457/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: OR 1.09 (1.05 to 1.14)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | After exclusion of patients who commenced KRT early following treatment allocation (within
+  | 1-2 days following randomization), the incidence of KRT requirement remained lower in the
+  | hydrocortisone group (1 day: OR, 0.82 [95% CI, 0.66-1.02]; P = .08; 2 days: OR, 0.78 [95%
+  | CI, 0.59-1.01]; P = .06). MAP at randomization was not associated with the development of a
+  | KRT requirement (OR, 0.99 [95% CI 0.98-1.01]; P = .33). >>> [[1.09]] [95% CI, [[1.05]] to
+  | [[1.14]]]; P < .001 <<< The MAP:NEE ratio at randomization was associated with the
+  | development of a KRT requirement (OR per 100–mm Hg/μg/kg/min increase, 0.99 [95% CI, 0.97 to
+  | 1.00]; P = .02). With respect to the postrandomization variables assessed (eTable 3 in
+  | Supplement 1), patients who required KRT had a longer time to shock resolution (mean [SD],
+  | 6.3 [6.8] days vs 3.7 [4.1] days; P < .001) and lower rates of enduring shock resolution
+  | (525 patients [75%] vs 2293 patients [94%]; P < .001).
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): Per-unit NEE vasopressor dose is an exposure of interest in the KRT study; Rule 1.
+
+===== ITEM 10 of 14   [id 4e3fae7d42] =====
+Paper: PMC12117457  https://pmc.ncbi.nlm.nih.gov/articles/PMC12117457/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: OR 0.99 (0.97 to 1.0)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | MAP at randomization was not associated with the development of a KRT requirement (OR, 0.99
+  | [95% CI 0.98-1.01]; P = .33). The NEE dose was associated with KRT requirement (OR per
+  | 0.1-μg/kg/min increase, 1.09 [95% CI, 1.05 to 1.14]; P < .001). >>> [[0.99]] [95% CI,
+  | [[0.97]] to [[1.00]]]; P = .02 <<< With respect to the postrandomization variables assessed
+  | (eTable 3 in Supplement 1), patients who required KRT had a longer time to shock resolution
+  | (mean [SD], 6.3 [6.8] days vs 3.7 [4.1] days; P < .001) and lower rates of enduring shock
+  | resolution (525 patients [75%] vs 2293 patients [94%]; P < .001). The presence of bacteremia
+  | was significantly associated with the development of a KRT requirement (OR, 1.89 [95% CI,
+  | 1.47-2.41]; P < .001) (Table 3).
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): MAP:NEE ratio is an explicitly investigated exposure for KRT risk, not an adjustment covariate; Rule 1.
+
+===== ITEM 11 of 14   [id 79c82ed19d] =====
+Paper: PMC12117457  https://pmc.ncbi.nlm.nih.gov/articles/PMC12117457/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD -0.54 (-0.74 to -0.34)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | The mean (SD) 6-month EQ-5D-5L utility score was 0.3 (0.4) among patients requiring acute
+  | KRT, compared with 0.5 (0.4) among those who did not (P < .001). Source of admission,
+  | admission type (operative vs nonoperative), identified organisms, and primary site of
+  | infection were not associated with a significant difference in the number of days alive and
+  | free of KRT among patients who developed a KRT requirement (eTable 4 in Supplement 1). >>>
+  | −[[0.54]] [95% CI, −[[0.74]] to −[[0.34]]] days; P < .001 <<< Concomitant liver dysfunction
+  | (as reflected in presenting bilirubin) was associated with reduced days alive and free of
+  | KRT (MD, −0.10 [95% CI, −0.18 to −0.04]; P = .004). Among patients who required KRT, a
+  | higher MAP at study randomization was associated with an increased number of days alive and
+  | free of KRT (MD per 1–mm Hg increase, 0.49 [95% CI, 0.17 to 0.82] days; P = .003).
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): no
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): coef
+NOTE (optional, one line): Per-year age association is an adjusted covariate estimate, not a primary exposure; Rule 1.
+
+===== ITEM 12 of 14   [id e5f0149661] =====
+Paper: PMC12117457  https://pmc.ncbi.nlm.nih.gov/articles/PMC12117457/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD 0.19 (0.09 to 0.3)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | The mean (SD) 6-month EQ-5D-5L utility score was 0.3 (0.4) among patients requiring acute
+  | KRT, compared with 0.5 (0.4) among those who did not (P < .001). Source of admission,
+  | admission type (operative vs nonoperative), identified organisms, and primary site of
+  | infection were not associated with a significant difference in the number of days alive and
+  | free of KRT among patients who developed a KRT requirement (eTable 4 in Supplement 1). >>>
+  | [[0.19]] [95% CI, [[0.09]] to [[0.30]]]; P < .001 <<< Concomitant liver dysfunction (as
+  | reflected in presenting bilirubin) was associated with reduced days alive and free of KRT
+  | (MD, −0.10 [95% CI, −0.18 to −0.04]; P = .004). Among patients who required KRT, a higher
+  | MAP at study randomization was associated with an increased number of days alive and free of
+  | KRT (MD per 1–mm Hg increase, 0.49 [95% CI, 0.17 to 0.82] days; P = .003).
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): no
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): coef
+NOTE (optional, one line): Per-kg weight association is an adjusted covariate estimate, not a primary exposure; Rule 1.
+
+===== ITEM 13 of 14   [id 4b57ba3bba] =====
+Paper: PMC12117457  https://pmc.ncbi.nlm.nih.gov/articles/PMC12117457/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD 0.49 (0.17 to 0.82)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | Older age was associated with reduced days alive and free of KRT (mean difference [MD] per
+  | 1-year increase, −0.54 [95% CI, −0.74 to −0.34] days; P < .001), while increasing weight was
+  | associated with an improved number of days alive and free of KRT (MD per 1-kg increase, 0.19
+  | [95% CI, 0.09 to 0.30]; P < .001). Concomitant liver dysfunction (as reflected in presenting
+  | bilirubin) was associated with reduced days alive and free of KRT (MD, −0.10 [95% CI, −0.18
+  | to −0.04]; P = .004). >>> [[0.49]] [95% CI, [[0.17]] to [[0.82]]] days; P = .003 <<< A
+  | higher vasopressor dose (NEE) at randomization was associated with a reduced number of days
+  | alive and free of KRT (MD per 0.1–μg/kg/min increase, −2.10 [95% CI, −3.16 to −1.05] days; P
+  | < .001). The presenting MAP:NEE ratio was not associated with the number of days alive and
+  | free of KRT.
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): no
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): coef
+NOTE (optional, one line): Per-mm Hg MAP association is an adjusted covariate estimate, excluded under Rule 1.
+
+===== ITEM 14 of 14   [id 92bb0f03b7] =====
+Paper: PMC12117457  https://pmc.ncbi.nlm.nih.gov/articles/PMC12117457/   (section: results)
+Found by: the ANNOTATOR recorded this; the system did not
+Estimate: MD -2.1 (-3.16 to -1.05)
+Text (the estimate is between >>> and <<<; its numbers are in [[double brackets]]):
+  | Concomitant liver dysfunction (as reflected in presenting bilirubin) was associated with
+  | reduced days alive and free of KRT (MD, −0.10 [95% CI, −0.18 to −0.04]; P = .004). Among
+  | patients who required KRT, a higher MAP at study randomization was associated with an
+  | increased number of days alive and free of KRT (MD per 1–mm Hg increase, 0.49 [95% CI, 0.17
+  | to 0.82] days; P = .003). >>> −[[2.10]] [95% CI, −[[3.16]] to −[[1.05]]] days; P < .001 <<<
+  | The presenting MAP:NEE ratio was not associated with the number of days alive and free of
+  | KRT. For patients who initiated KRT, randomization to receive hydrocortisone was not
+  | associated with a reduction in the number of days alive and free of KRT (MD, 1.28 [95% CI
+  | −4.31 to 6.87] days; P = .65).
+Question: is this estimate a genuine in-scope effect estimate under the rules above?
+ANSWER (yes / no / unsure): yes
+REASON (only if no; choose from balance, within_arm, planned, unnamed, rate, coef, duplicate, other): 
+NOTE (optional, one line): Per-unit NEE vasopressor dose is an exposure of interest in the KRT study; Rule 1.
+
+AT THE END
+AI ASSISTANCE (no / yes, describe): no

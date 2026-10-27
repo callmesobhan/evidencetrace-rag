@@ -112,7 +112,7 @@ make fetch-pinned                # exactly the 111 + 55 papers in data/m1/*_mani
 make verify-freeze               # every hash recorded in data/m1/FROZEN.json, recomputed
 make m1-frozen                   # the held-out numbers, from the frozen source; diffs against data/m1/results
 make m1 independent              # current code; independent-annotation scores; diffs against the committed files
-make design by-design hardneg    # study design, extraction by design, hard-negative scores (one NCBI request)
+make design by-design hardneg    # study design (offline), extraction by design, hard-negative scores; `make design-live` asks PubMed today (weekly watch)
 ```
 
 Nothing in `make reproduce` overwrites a tracked file: outputs go to `reports/` and are diffed. `make fetch-new`

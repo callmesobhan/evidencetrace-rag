@@ -399,7 +399,7 @@ make verify-freeze                      # every hash in data/m1/FROZEN.json reco
 make m1-frozen                          # held-out numbers, from the frozen source; diffs against data/m1/results
 make m1                                 # current code + configs/posthoc.toml; diffs against data/m1/results_postreview
 make independent                        # held-out + post-review predictions (byte-compared) and the independent scores
-make design by-design hardneg           # study design (one NCBI request), extraction by design, hard-negative scores
+make design by-design hardneg           # study design (offline), extraction by design, hard-negative scores; `make design-live` asks PubMed today
 make eval-hardneg                       # the synthetic role-swap set
 ```
 

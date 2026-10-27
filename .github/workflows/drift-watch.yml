@@ -1,0 +1,23 @@
+name: drift-watch
+# Asks NCBI today whether anything the study-design record rests on has moved (PubMed keeps re-indexing papers). This is a signal for a
+# person, not a reproducibility test: `reproduce` recomputes the design offline from the committed record and does not depend on it.
+# Red here means a paper's classification changed; the log says which. Publication-type changes that leave every classification as it was
+# are printed and accepted. Procedure: data/m1/drift_log.md.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "43 5 * * 2"
+
+permissions:
+  contents: read
+
+jobs:
+  design-live:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -e ".[dev]"
+      - run: make design-live

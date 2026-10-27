@@ -14,6 +14,7 @@ address is sent.
 from __future__ import annotations
 
 import hashlib
+import http.client
 import json
 import re
 import time
@@ -129,7 +130,7 @@ def _get(url: str, params: dict[str, str], *, retries: int = 3) -> str:
         except urllib.error.HTTPError as exc:
             if exc.code not in {429, 500, 502, 503} or attempt == retries - 1:
                 raise
-        except urllib.error.URLError:
+        except (OSError, http.client.HTTPException):  # unreachable, reset, timed out, or a response cut off mid-stream (IncompleteRead)
             if attempt == retries - 1:
                 raise
         time.sleep(2 * (attempt + 1))
@@ -177,14 +178,14 @@ def pubmed_publication_types(pmids: list[str], *, batch: int = 100, sleep: float
 
 def _get_xml(url: str, params: dict[str, str], *, roots: set[str], attempts: int = 6) -> str:
     """GET an NCBI XML endpoint. NCBI sometimes answers with HTTP 500 or an error page (on 2026-10-19 two of three identical requests
-    failed), so a response is accepted only if it parses and its root element is one the endpoint returns (``roots``); otherwise the
+    failed; on 2026-10-26 a response was cut off after 2.2 MB), so a response is accepted only if it parses and its root element is one the endpoint returns (``roots``); otherwise the
     request is retried with backoff."""
     last = ""
     for attempt in range(attempts):
         try:
             raw = _get(url, params, retries=2)
-        except (urllib.error.HTTPError, urllib.error.URLError) as exc:
-            last = str(exc)
+        except (OSError, http.client.HTTPException) as exc:  # includes HTTPError, resets, timeouts and truncated responses
+            last = f"{type(exc).__name__}: {exc}"
         else:
             try:
                 root_tag = ET.fromstring(raw).tag.rsplit("}", 1)[-1]

@@ -1,4 +1,5 @@
 import hashlib
+import http.client
 import xml.etree.ElementTree as ET
 
 import pytest
@@ -121,4 +122,30 @@ def test_ncbi_error_pages_are_retried_and_a_persistent_error_is_reported(monkeyp
 
     with _pytest.raises(RuntimeError, match="did not return XML"):
         pmc._get_xml("u", {}, roots={"PubmedArticleSet"}, attempts=3)
+
+
+@pytest.mark.parametrize("failure", [lambda: http.client.IncompleteRead(b"x" * 10), lambda: ConnectionResetError("reset"),
+                                     lambda: TimeoutError("timed out")])
+def test_a_truncated_or_dropped_response_is_retried(monkeypatch, failure):
+    from evidencetrace.ingest import pmc
+
+    class Resp:
+        def __init__(self, fail):
+            self.fail = fail
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *exc):
+            return False
+
+        def read(self):
+            if self.fail:
+                raise failure()
+            return b"<PubmedArticleSet/>"
+
+    monkeypatch.setattr(pmc.time, "sleep", lambda _s: None)
+    calls = iter([Resp(True), Resp(True), Resp(False)])
+    monkeypatch.setattr(pmc.urllib.request, "urlopen", lambda req, timeout=60: next(calls))
+    assert pmc._get_xml("https://example.invalid", {}, roots={"PubmedArticleSet"}) == "<PubmedArticleSet/>"
 

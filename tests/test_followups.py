@@ -233,3 +233,28 @@ def test_change_from_their_own_baseline_is_not_a_between_group_estimate():
 def test_mean_difference_with_an_sd_label_is_not_an_estimate():
     assert _est("The mean difference (SD) of waist circumference was -0.23 (9.1) cm in the usual care group.") == []
     assert _est("The mean difference was -0.23 (95% CI -0.9 to 0.4) cm.") != []
+
+
+# ------------------------------------------------------------------ design lookup: PubMed re-indexing is not a classification change
+def _design_row(pmcid="PMC1", types=("Journal Article", "Randomized Controlled Trial"), design="trial"):
+    return {"pmcid": pmcid, "pmid": "1", "split": "dev", "pubmed_types": sorted(types), "design": design, "basis": "pubmed", "disagree": False}
+
+
+def test_design_compare_accepts_a_new_publication_type_with_the_same_classification():
+    from evidencetrace.ingest.design import compare_design
+
+    now = [_design_row(types=("Journal Article", "Randomized Controlled Trial", "Research Support, Non-U.S. Gov't"))]
+    d = compare_design(now, [_design_row()])
+    assert d["classification"] == d["missing"] == d["added"] == []
+    assert d["types_only"] == [{"pmcid": "PMC1", "added": ["Research Support, Non-U.S. Gov't"], "removed": []}]
+
+
+def test_design_compare_reports_a_changed_classification_and_missing_or_added_papers():
+    from evidencetrace.ingest.design import compare_design
+
+    d = compare_design([_design_row(types=("Journal Article",), design="other")], [_design_row()])
+    assert d["classification"] == [{"pmcid": "PMC1", "fields": {"design": ["trial", "other"]}}] and d["types_only"] == []
+    d = compare_design([_design_row("PMC2")], [_design_row("PMC1")])
+    assert d["missing"] == ["PMC1"] and d["added"] == ["PMC2"]
+    assert compare_design([_design_row()], [_design_row()]) == {"missing": [], "added": [], "classification": [], "types_only": []}
+

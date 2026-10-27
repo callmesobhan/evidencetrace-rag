@@ -72,3 +72,27 @@ def parse_publication_types(pubmed_xml: str) -> dict[str, list[str]]:
         if pmid:
             out[pmid] = ["".join(pt.itertext()).strip() for pt in art.iter("PublicationType")]
     return out
+
+
+CLASSIFICATION_FIELDS = ("pmid", "split", "design", "basis", "disagree")
+
+
+def compare_design(current: list[dict], committed: list[dict]) -> dict[str, list]:
+    """Compare a fresh PubMed lookup with the committed design record.
+
+    PubMed keeps indexing records after publication (it adds types such as "Research Support, Non-U.S. Gov't"), so the
+    ``pubmed_types`` lists drift. The results read only the classification, so a changed classification, or a paper that appears
+    or disappears, is what matters; a type change that leaves the classification as it was is reported separately.
+    """
+    cur = {r["pmcid"]: r for r in current}
+    com = {r["pmcid"]: r for r in committed}
+    out: dict[str, list] = {"missing": sorted(set(com) - set(cur)), "added": sorted(set(cur) - set(com)), "classification": [], "types_only": []}
+    for pmcid in sorted(set(cur) & set(com)):
+        a, b = com[pmcid], cur[pmcid]
+        changed = [k for k in CLASSIFICATION_FIELDS if a.get(k) != b.get(k)]
+        if changed:
+            out["classification"].append({"pmcid": pmcid, "fields": {k: [a.get(k), b.get(k)] for k in changed}})
+        elif sorted(a.get("pubmed_types", [])) != sorted(b.get("pubmed_types", [])):
+            old, new = set(a.get("pubmed_types", [])), set(b.get("pubmed_types", []))
+            out["types_only"].append({"pmcid": pmcid, "added": sorted(new - old), "removed": sorted(old - new)})
+    return out

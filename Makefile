@@ -101,7 +101,7 @@ holdout2:
 # study design of every paper (PubMed publication types + title phrases); one request to NCBI
 design:
 	$(PYTHON) scripts/fetch_design.py --out reports/design.jsonl
-	diff reports/design.jsonl data/m1/design.jsonl && echo "design: identical to data/m1/design.jsonl"
+	$(PYTHON) -I scripts/check_design.py reports/design.jsonl data/m1/design.jsonl
 
 # extraction metrics for confirmed trials vs everything else
 by-design:

@@ -28,7 +28,7 @@ This is a check of the publishers' own statements. It is not legal advice.
 | PMC12829467 | `fresh/` | the same BMJ wording |
 
 The reproduction still needs them: `make fetch-pinned` downloads them from NCBI and checks them against the same pins. Whether to commit
-them is the repository owner's decision (the licence statement is clear, the copyright line is not). Their details are in `excluded.json`.
+them was the repository owner's decision. On 2026-10-27 the owner decided to keep them out. Their details are in `excluded.json`.
 
 ## Changes made to the files
 

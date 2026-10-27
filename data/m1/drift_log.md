@@ -49,5 +49,5 @@ moved out of the reproduction into `drift-watch`, so that PubMed re-indexing can
 `data/raw/pmc/` (110) and `data/raw/fresh/` (54) now hold 164 of the 166 papers, under CC BY 4.0 (`data/raw/NOTICE.md`). The file
 of PMC11170842 committed is the 2026-10-18 record: its raw `sha256` in `fresh_manifest.jsonl` is for the 2024-06-14 record, so the file
 verifies through its canonical-text pin, as in the table above. The two not committed (PMC7814507, PMC12829467) are downloaded and
-verified by `make fetch-pinned`; their details are in `data/raw/excluded.json`.
+verified by `make fetch-pinned`; their details are in `data/raw/excluded.json`. The owner decided on 2026-10-27 to keep them out.
 

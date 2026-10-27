@@ -1,5 +1,5 @@
 {
- "about": "Papers in the repository's manifests that are NOT committed to data/raw/ because their licence terms are not clear. The reproduction downloads them from NCBI (make fetch-pinned) and checks them against the same pins. Decision: repository owner.",
+ "about": "Papers in the repository's manifests that are NOT committed to data/raw/ because their licence terms are not clear. The reproduction downloads them from NCBI (make fetch-pinned) and checks them against the same pins. Decision: repository owner, 2026-10-27: keep both out of the repository.",
  "excluded": [
   {
    "pmcid": "PMC7814507",

@@ -1,0 +1,553 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="jdb13611" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Diabetes</journal-id><journal-id journal-id-type="iso-abbrev">J Diabetes</journal-id><journal-id journal-id-type="pmc-domain-id">4201</journal-id><journal-id journal-id-type="pmc-domain">jdiabetes</journal-id><journal-id journal-id-type="nlm-id">101504326</journal-id><journal-id journal-id-type="publisher-id">JDB</journal-id><journal-title-group><journal-title>Journal of Diabetes</journal-title></journal-title-group><issn pub-type="ppub">1753-0393</issn><issn pub-type="epub">1753-0407</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11391380</article-id><article-id pub-id-type="pmcid-ver">PMC11391380.1</article-id><article-id pub-id-type="pmcaid">11391380</article-id><article-id pub-id-type="pmcaiid">11391380</article-id><article-id pub-id-type="pmid">39264007</article-id><article-id pub-id-type="doi">10.1111/1753-0407.13611</article-id><article-id pub-id-type="publisher-id">JDB13611</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Effect of patient‐centered self‐management intervention on glycemic control, self‐efficacy, and self‐care behaviors in South Asian adults with type 2 diabetes mellitus: A multicenter randomized controlled trial</article-title><alt-title alt-title-type="left-running-head">Asmat et al.</alt-title></title-group><contrib-group><contrib id="jdb13611-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Asmat</surname><given-names initials="K">Kainat</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0576-2066</contrib-id><xref rid="jdb13611-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>kainat_asmat.scn@stmu.edu.pk</email></address></contrib><contrib id="jdb13611-cr-0002" contrib-type="author"><name name-style="western"><surname>Sivarajan Froelicher</surname><given-names initials="E">Erika</given-names></name><xref rid="jdb13611-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jdb13611-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb13611-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jdb13611-cr-0003" contrib-type="author"><name name-style="western"><surname>Dhamani</surname><given-names initials="KA">Khairunnisa Aziz</given-names></name><xref rid="jdb13611-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jdb13611-cr-0004" contrib-type="author"><name name-style="western"><surname>Gul</surname><given-names initials="R">Raisa</given-names></name><xref rid="jdb13611-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jdb13611-cr-0005" contrib-type="author"><name name-style="western"><surname>Khan</surname><given-names initials="N">Nazeer</given-names></name><xref rid="jdb13611-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="jdb13611-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Nursing and Midwifery</named-content>
+<institution>Shifa Tameer‐e‐Millat University</institution>
+<city>Islamabad</city>
+<country country="PK">Pakistan</country>
+</aff><aff id="jdb13611-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Physiological Nursing, School of Nursing</named-content>
+<institution>University of California</institution>
+<city>San Francisco</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="jdb13611-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Epidemiology &amp; Biostatistics, School of Medicine</named-content>
+<institution>University of California</institution>
+<city>San Francisco</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="jdb13611-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">The Office of Research, Innovation and Commercialization (ORIC)</named-content>
+<institution>Shifa Tameer‐e‐Millat University</institution>
+<city>Islamabad</city>
+<country country="PK">Pakistan</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break />
+Kainat Asmat, Faculty of Nursing and Midwifery, Shifa Tameer‐e‐Millat University, Islamabad 44000, Pakistan.<break />
+Email: <email>kainat_asmat.scn@stmu.edu.pk</email>
+<break />
+</corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>9</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2024</year></pub-date><volume>16</volume><issue seq="141">9</issue><issue-id pub-id-type="pmc-issue-id">470632</issue-id><issue-id pub-id-type="doi">10.1111/jdb.v16.9</issue-id><elocation-id>e13611</elocation-id><history><date date-type="rev-recd"><day>28</day><month>6</month><year>2024</year></date><date date-type="received"><day>18</day><month>1</month><year>2024</year></date><date date-type="accepted"><day>29</day><month>7</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>12</day><month>09</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>13</day><month>09</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-13 14:25:13.570"><day>13</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Journal of Diabetes</italic> published by Ruijin Hospital, Shanghai Jiaotong University School of Medicine and John Wiley &amp; Sons Australia, Ltd.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="JDB-16-e13611.pdf" /><self-uri content-type="pdf" ns1:href="file:JDB-16-e13611.pdf" /><abstract><title>Abstract</title><sec id="jdb13611-sec-0001"><title>Background</title><p>This study aimed to test the efficacy of patient‐centered self‐management intervention (PACE‐SMI) to improve HbA1c, self‐efficacy, and self‐care behaviors in adults with type 2 diabetes mellitus (T2DM).</p></sec><sec id="jdb13611-sec-0002"><title>Methods</title><p>In this multicenter, parallel two‐arm randomized controlled trial, 612 adults with T2DM and HbA1c ≥ 7% were enrolled and assigned to the control group (<italic toggle="no">n</italic> = 310) and the intervention group (<italic toggle="no">n</italic> = 302) using stratified permuted block randomization. The control group received usual care, whereas the intervention group received usual care plus nurse‐led, theory‐driven, culturally tailored PACE‐SMI, comprising eight weekly sessions of individualized education, counseling, behavioral training, and home visit. Outcomes were assessed at baseline, postintervention, and 3 months follow‐up.</p></sec><sec id="jdb13611-sec-0003"><title>Results</title><p>Data at 3 months were provided by 583 participants (control: <italic toggle="no">n</italic> = 295, intervention: <italic toggle="no">n</italic> = 288). Per‐protocol analysis showed that the intervention group had a lower mean HbA1c (8.49% [standard deviation (SD), 1.58]) than the control group (8.74% [SD, 1.62]), with small yet statistically significant mean difference of 0.25% (95% confidence interval [CI], −0.01 to 0.51; Cohen's <italic toggle="no">d</italic> = 0.16; <italic toggle="no">p</italic> = 0.03). Self‐efficacy and self‐care behaviors significantly improved in the intervention group (116.89 [SD, 25.50] and 70.01 [SD, 17.97]) compared to the control group (75.43 [SD, 18.99] and 51.54 [SD, 12.04]), with mean differences of 41.48 (95% CI, 37.83–45.13; Cohen's <italic toggle="no">d</italic> = 1.84; <italic toggle="no">p</italic> &lt; 0.0001) and 18.56 (95% CI, 16.08–21.04; Cohen's <italic toggle="no">d</italic> = 1.22; <italic toggle="no">p</italic> &lt; 0.0001), respectively. Linear regression analysis indicated the effect of PACE‐SMI on HbA1c was significantly mediated by improvements in self‐efficacy and self‐care behaviors (<italic toggle="no">R</italic>
+<sup>2</sup> = 0.232, <italic toggle="no">p</italic> &lt; 0.001).</p></sec><sec id="jdb13611-sec-0004"><title>Conclusion</title><p>PACE‐SMI led to modest but significant improvement in HbA1c and substantial enhancements in self‐efficacy and self‐care behaviors in adults with T2DM.</p><p>
+<boxed-text position="anchor" content-type="graphic" id="jdb13611-blkfxd-0001" orientation="portrait"><graphic position="anchor" id="jats-graphic-1" orientation="portrait" ns1:href="JDB-16-e13611-g002.jpg" /></boxed-text>
+</p></sec></abstract><abstract abstract-type="graphical"><p>
+Highlights
+</p><p>
+<list list-type="bullet" id="jdb13611-list-0001"><list-item id="jdb13611-li-0001"><p>T2DM dominates worldwide, especially in the low middle income countries (LMICs) of South Asia.</p></list-item><list-item id="jdb13611-li-0002"><p>Despite acknowledging self‐management as the corner stone in T2DM, LMICs face an implementation gap due to lacking policies and the fragmented care systems, neglecting crucial personal, behavioral, and social factors.</p></list-item><list-item id="jdb13611-li-0003"><p>In this first large‐scale multicenter randomized controlled trial conducted in Pakistan, a LMIC, the nurse‐led PACE‐SMI demonstrated significant improvement in HbA1c, self‐efficacy, and self‐care behaviors in adults with T2DM at 3 months.</p></list-item><list-item id="jdb13611-li-0004"><p>Considering the substantial health and economic impact of T2DM in LMICs, evidence presented in this study holds implications for the healthcare policies, advocating for integration of PACE‐SMI into standard practice.</p></list-item></list>
+<boxed-text position="anchor" content-type="graphic" id="jdb13611-blkfxd-0002" orientation="portrait"><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="JDB-16-e13611-g004.jpg" /></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jdb13611-kwd-0001">behavioral training</kwd><kwd id="jdb13611-kwd-0002">counseling</kwd><kwd id="jdb13611-kwd-0003">glycemic control</kwd><kwd id="jdb13611-kwd-0004">patient‐centered care</kwd><kwd id="jdb13611-kwd-0005">randomized controlled trial</kwd><kwd id="jdb13611-kwd-0006">self‐management</kwd><kwd id="jdb13611-kwd-0007">type 2 diabetes mellitus</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Shifa Tameer e Millat University</funding-source><award-id>15270</award-id></award-group></funding-group><counts><fig-count count="4" /><table-count count="3" /><page-count count="12" /><word-count count="7000" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.8 mode:remove_FC converted:12.09.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jdb13611-cit-9001">
+<string-name name-style="western">
+<surname>Asmat</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sivarajan Froelicher</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhamani</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gul</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Effect of patient‐centered self‐management intervention on glycemic control, self‐efficacy, and self‐care behaviors in South Asian adults with type 2 diabetes mellitus: A multicenter randomized controlled trial</article-title>. <source>Journal of Diabetes</source>. <year>2024</year>;<volume>16</volume>(<issue>9</issue>):<elocation-id>e13611</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/1753-0407.13611</pub-id>
+<pub-id pub-id-type="pmid">39264007</pub-id></mixed-citation>
+</p></notes></front><body id="jdb13611-body-0001"><sec id="jdb13611-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Type 2 diabetes mellitus (T2DM) accounts for over 90% of DM cases worldwide, with a majority of the affected population living in the low middle income countries (LMIC) of South Asia.<xref rid="jdb13611-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Pakistan, a LMIC with an estimated 233 million population, ranks third in the world with the highest number of adults having DM (mostly T2DM).<xref rid="jdb13611-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Currently, 33 million adults in Pakistan have T2DM, while an additional 11 million have impaired glucose tolerance and are at risk of developing T2DM.<xref rid="jdb13611-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Correspondingly, over a quarter (26.9%) adults with T2DM are undiagnosed and are at risk for serious complications, that is, kidney failure, heart attack, stroke, blindness, and lower limb amputation.<xref rid="jdb13611-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> The rising prevalence of T2DM and associated complications have led to a reduction in functional capacity of the individuals, resulting in impaired quality of life, and elevated healthcare costs with significant implications for the country's health care system and the economy.<xref rid="jdb13611-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="jdb13611-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Given the substantial health and economic impact of T2DM in LMICs such as Pakistan, there is an urgent need for effective interventions to halt the disease progression and lower the risk of associated complications. The rising burden of T2DM in Pakistan is driven by aging population, increasing urbanization with sedentary lifestyle, unhealthy dietary habits, and obesity.<xref rid="jdb13611-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> The evidence suggests that the key to slow down T2DM progression and reduce the risk of serious complications is lifestyle modification, also known as self‐management.<xref rid="jdb13611-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="jdb13611-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jdb13611-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Literature from the developed countries reveals that self‐management education and support in behavioral modification empowers individuals with T2DM to effectively manage their condition, leading to better health outcomes and reduced healthcare costs.<xref rid="jdb13611-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="jdb13611-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="jdb13611-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="jdb13611-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> However, integration of such care components in the healthcare system of a LMIC such as Pakistan, still remains a challenge. A few previous studies have been conducted in relation to self‐management education, but none focused on counseling and behavioral skills training.<xref rid="jdb13611-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="jdb13611-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="jdb13611-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Although education is undoubtedly important, it alone is insufficient to address complex condition like T2DM, influenced significantly by personal, behavioral, and social factors. Therefore, a patient‐centered behavioral or social intervention may have a lasting impact on effective self‐management of T2DM.<xref rid="jdb13611-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> A recent meta‐analysis of studies conducted in developed nations found that patient‐centered self‐management interventions (PACE‐SMIs) incorporating both educational and behavioral components can significantly lower HbA1c and improve self‐care behaviors in adults with T2DM compared with the usual care.<xref rid="jdb13611-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> To determine its effectiveness in LMICs, this trial tested the efficacy of a PACE‐SMI to improve HbA1c, self‐efficacy, and self‐care behaviors in adults with T2DM in Pakistan.</p></sec><sec sec-type="methods" id="jdb13611-sec-0006"><label>2</label><title>METHODS</title><sec id="jdb13611-sec-0007"><label>2.1</label><title>Study design and participants</title><p>A multicenter, parallel two‐arm randomized controlled trial was conducted at out‐patient departments (OPD) of four public‐sector tertiary hospitals in Faisalabad, the third largest city located in central Punjab Province of Pakistan. The participants were recruited by reviewing consecutive medical records and by inviting patients (who met eligibility from medical records) for a screening appointment. The inclusion criteria for participants were adults aged ≥18 years with a diagnosis of T2DM for ≥6 months. The exclusion criteria were T2DM patients with (1) HbA1c &lt; 7, (2) uncontrolled psychological comorbidity (psychosis, schizophrenia, or severe learning difficulties), (3) severe comorbidity (cancer, stroke with disabilities, or need for regular dialysis which may limit their participation), (4) primary physician determined life expectancy of &lt;6 months, (5) pregnancy, and (6) residence outside of the city which may impede home visit. Before implementing the trial, we conducted a pilot study to confirm the final design. This involved three phases: (1) need assessment in the context via direct observation and interviews with the key stakeholders, (2) development of PACE‐SMI based on social cognitive theory and a framework outlining justification, and the underlying assumptions, and (3) pilot testing of PACE‐SMI. The SPIRIT (Standard Protocol Items: Recommendations for Interventional Trials) compliant study protocol including PACE‐SMI description has been previously published elsewhere.<xref rid="jdb13611-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</p><p>The trial received ethical approval from Shifa Tameer‐e‐Millat University, Islamabad, Pakistan (IRB and EC no. 335–21) and Faisalabad Medical University, Faisalabad, Pakistan (ERC/FMU/2020–21/193). The written informed consent was obtained from all the participants through their signature and/or thumbprint. An independent data monitoring committee monitored collection, management, and analysis of the data. The trial has been conducted, analyzed, and reported according to the Consolidated Standards of Reporting Trials Guidelines for Social and Psychological Intervention (CONSORT‐SPI).<xref rid="jdb13611-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+</p></sec><sec id="jdb13611-sec-0008"><label>2.2</label><title>Randomization and masking</title><p>A stratified permuted block (block size 4–6) randomization with the allocation concealment by opaque sequential numbered sealed envelopes was used to randomize recruited participants into the control group (CG) and the intervention group (IG). The randomization plan was provided by an independent data analyst to avoid any influence by the Principal Investigator (PI) or the research team members. The PI executed randomization plan by opening the sealed envelope in front of the participant and securing it with the serial number for audit and record purpose.</p><p>The nature of PACE‐SMI made it impractical to mask the study participants or the intervention administrators including the PI and research assistants (RA). However, to mitigate bias, the outcomes data were collected by the data collectors (DC) who were unaware of the participants' group assignments. The baseline data were collected prior to the randomization process to avoid any influence. To avoid data entry errors, an independent data entry operator was tasked to perform double data entry.</p></sec><sec id="jdb13611-sec-0009"><label>2.3</label><title>Procedures</title><p>The participants in the CG received usual care at the study hospitals' OPD which involved blood sugar measurement, a brief history, consultation with the physician, drug prescription and general information on lifestyle modification communicated either verbally or through written pamphlets. The participants in the IG received the same usual care, as well as nurse‐led PACE‐SMI. The PACE‐SMI was grounded in Social Cognitive Theory,<xref rid="jdb13611-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> and the contents were informed by American Association of Diabetes Educators self‐care behaviors.<xref rid="jdb13611-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> The detailed contents of PACE‐SMI are described elsewhere.<xref rid="jdb13611-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> The culturally tailored PACE‐SMI was delivered in eight weekly face‐to‐face individualized education, counseling and behavioral training sessions including a booster session, and a home visit. The educational sessions comprised of teaching the fundamental concepts related to the disease, its types, risk factors, treatment options, the role of self‐management through changing self‐care behaviors, and the provision of self‐care guidebook in the national language Urdu. The counseling sessions included verbal persuasion, discussion on initiating, and maintaining self‐care behavioral change, motivational video, and real‐time stories of patients with T2DM (who successfully managed their condition) to serve as the role models. The behavioral training sessions consisted of the six‐step behavior modification process aimed at enhancing self‐efficacy in four self‐care behaviors (1) diet control, (2) physical activity, (3) foot care, and (4) medication adherence. The booster session involved reflection on learning from the previous sessions, feedback on self‐care behaviors performance, a review of behavioral goals with personalized reinforcement fostering continued performance accomplishment, and a follow‐up plan. The home visit served two purposes: (1) observing and discussing personal, sociocultural, and environmental facilitators or barriers influencing initiation and continuation of self‐care behavioral change, (2) observing family and social support as a key strategy in initiating and maintaining behavior change. Each session lasted 60 to 90 min and was conducted by the PI with support from RAs in OPD room of the study hospitals. The PI, in‐charge of administering PACE‐SMI, was a registered nurse with a master's degree in nursing and a second master's in clinical psychology. The RAs were registered nurses who had completed 2‐day intensive training provided by the PI on the intervention delivery protocol and procedures assuring protocol compliance and consistency. A comprehensive manual of operations outlining the content, structure, delivery, and safety considerations was developed and followed to ensure quality and reproducibility. The checklists were maintained to assess the compliance with the intervention delivery protocol. The participants were followed up at 3 months following the intervention. The phone calls and frequent SMS reminders were used to ensure compliance with the behavior change during follow‐up period.</p></sec><sec id="jdb13611-sec-0010"><label>2.4</label><title>Outcomes</title><p>The HbA1c was assessed by collecting venous plasma samples for testing in a single central laboratory ensuring consistency in the methodology. The laboratory used was International Organization for Standardization (ISO) certified, and the College of American Pathologists (CAP) accredited. Before assessing this outcome, the DCs (who were registered nurses) had completed a robust 2‐day training provided by the PI on uniform and consistent procedure for venipuncture, sample collection, and delivery of the sample within 1 h of collection to the laboratory for testing.</p><p>The self‐efficacy was measured on a 20‐item Diabetes Management Self‐Efficacy Scale (DMSES)<xref rid="jdb13611-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> using its Urdu translated and validated version (U‐DMSES).<xref rid="jdb13611-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Each item's response was rated on 11‐point scale, with a total possible score between 0 and 200.</p><p>The self‐care behaviors were measured on the Summary of Diabetes Self‐Care Activities (SDSCA) scale<xref rid="jdb13611-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> using its Urdu translated and validated version. The 15 items measuring diet, physical activity, foot care, and medication adherence were used. Each item's response was rated on a scale between 0 and 7, measuring the frequency of self‐care activities performed over 7 days' period with a total possible score between 0 and 105.</p><p>All outcomes were assessed at the baseline (T0), at the end of intervention (T1), and at 3 months' follow‐up (T2). The follow‐up assessments were obtained during an in‐person visit of the participant to OPD of the study hospital. A checklist was maintained for recording and reporting adverse events. The participants were encouraged to inform the PI of any adverse events. No adverse events or deaths were reported.</p></sec><sec id="jdb13611-sec-0011"><label>2.5</label><title>Statistical analysis</title><p>Based on the findings of a prior similar trial conducted in another country,<xref rid="jdb13611-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> we calculated the sample size using a priori power analysis with the G*Power 3.1 software. We set an alpha (<italic toggle="yes">α</italic>) level of 0.05, a power (1‐<italic toggle="yes">β</italic>) of 0.80 and an effect size of 0.23. This effect size was derived from the mean (Group 1 = 7; Group 2 = 7.3) and standard deviation (SD) (Group 1 = 1.2; Group 2 = 1.4) values reported in the trial.<xref rid="jdb13611-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> The G*Power calculation indicated that a sample size of 470 participants (235 in each group) would be required. To account for an estimated 30% dropout rate, we targeted a total of 612 participants (306 in each group) for this study.</p><p>The data were analyzed using Statistical Package for the Social Sciences (SPSS, version 25.0). The demographic and clinical characteristics of the participants were summarized using the mean (standard deviation [SD]) for continuous data and the count (percentage [%]) for categorical data. The differences in the baseline sociodemographic and clinical characteristics of the participants in the CG and the IG were analyzed using an independent <italic toggle="yes">t</italic>‐test (for continuous variables) and chi‐square test (for categorical variables). An independent <italic toggle="yes">t</italic>‐test was used to compare the difference in mean HbA1c, self‐efficacy, and self‐care behaviors between the CG and the IG at T0, T1, and T2 following confirmation of the normality. All tests were one‐tailed, at 95% confidence intervals (CI), considering a <italic toggle="yes">p</italic> value &lt;0.05 as statistically significant. The rationale for using one‐tailed tests was to increase the sensitivity of analysis in detecting positive change aligned with the study hypotheses, as we anticipated that the PACE‐SMI would improve these outcomes based on the initial evidence provided by similar prior studies in the other contexts.</p><p>The Cohen's <italic toggle="yes">d</italic> was calculated to estimate the effect size to assess the magnitude of effect PACE‐SMI had on the HbA1c, self‐efficacy, and self‐care behaviors. In addition, linear regression analyses were performed to assess both the direct effect of PACE‐SMI on the HbA1c and the mediating effect of self‐efficacy and self‐care behaviors in this relationship. The first model evaluated the direct effect of the IG (CG vs. IG) on HbA1c at T2. The second model included self‐efficacy and self‐care behaviors as mediating variables to investigate their impact on changes in HbA1c levels.</p><p>In this study, both intention‐to‐treat (ITT) and per‐protocol (PP) analyses were considered. The ITT analysis includes all randomized participants, regardless of completion of follow‐up, providing a conservative estimate and reflecting real‐world scenarios. However, for the primary analysis, we employed a PP approach to evaluate the true efficacy of the PACE‐SMI among those who adhered to the study protocol. This approach helps to understand the potential benefits of full participation and reduces the risk of attrition bias. To address missing or incomplete data, we used interviewer‐administered questionnaires, double data entry by an independent data entry operator, and regular data quality checks to ensure accuracy and mitigate potential biases in the study results.</p><p>The trial was registered with <ext-link ns1:href="http://clinicaltrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> (<ext-link ext-link-type="pmc:clinical-trial" ns1:href="NCT05491252">NCT05491252</ext-link>) on August 8, 2022 after initial phase of study when the participants' recruitment was completed. The datasets generated during and/or analyzed in this trial are available from the corresponding author upon reasonable request.</p></sec></sec><sec sec-type="results" id="jdb13611-sec-0012"><label>3</label><title>RESULTS</title><p>The trial profile in the Figure <xref rid="jdb13611-fig-0001" ref-type="fig">1</xref> shows that between April 21, 2022 and July 27, 2022, a total of 750 potential participants were assessed for eligibility. Overall, 138 were excluded (71 declined to participate; 67 did not meet the inclusion criteria) and 612 were randomly assigned to the CG (310), and IG (302). With a 4.74% (29/612) drop out; 583 participants were included in the PP analysis. The insignificant number of dropouts in both the groups were unlikely to affect the results of the trial; hence, further comparative analyses of variables between the participants who remained and those who dropped out were unwarranted.</p><fig position="float" fig-type="FIGURE" id="jdb13611-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Trial profile</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="JDB-16-e13611-g003.jpg" /></fig><p>The sociodemographic findings of the sample revealed that the age of the participants ranged from 31 to 78 years with mean age of 53.57 (SD, 9.45) years. There were almost equal proportion of men and women in the sample (51% and 49%, respectively). The majority had elementary to secondary school education (82%), mostly married (86%), living with their families (91%), and reporting very high family involvement in the care (90%). The clinical findings revealed that the mean duration of T2DM was 6.32 (SD, 4.69) years. The majority had a family history of DM (65%). Nearly half (47%) of the participants had one or more DM‐related complications. Most had major cardiovascular disease (CVD) risk factors including hypertension (78%), high cholesterol (48%), and smoking (43%). The sociodemographic and clinical characteristics of the participants in all four settings (A, B, C, and D) were similar. Likewise, the two groups were similar with regards to important sociodemographic and clinical characteristics at T0 (see Table <xref rid="jdb13611-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="jdb13611-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Baseline demographic and clinical characteristics of the participants (<italic toggle="no">n</italic> = 612).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="bottom" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">Control group</th><th align="left" valign="bottom" rowspan="1" colspan="1">Intervention group</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">(<italic toggle="yes">n</italic> = 310)</th><th align="left" valign="bottom" rowspan="1" colspan="1">(<italic toggle="yes">n</italic> = 302)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="3" valign="top" rowspan="1">Gender</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Male</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">169 (55)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">144 (48)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Female</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">141 (45)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">158 (52)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Education</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No formal education</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">25 (8)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19 (6)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Elementary to secondary</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">254 (82)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">248 (82)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">University education</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">31 (10)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">35 (12)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Occupation</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Nonworking</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">152 (49)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">143 (47)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Skilled workers</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">97 (31)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">104 (34)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Businessmen/women</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">61 (20)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">55 (19)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Marital status</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Single/other</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">18 (6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17 (6)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Married</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">260 (84)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">264 (87)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Widowed</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">32 (10)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">21 (7)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Living arrangements</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Living alone</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">15 (5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11 (4)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Living with family</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">281 (91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">275 (91)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Living with others</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">14 (4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">16 (5)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Family involvement in care</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">33 (11)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (9)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">277 (89)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">274 (91)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Family history of DM</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">109 (35)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">107 (35)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">201 (65)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">195 (65)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Current treatment</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Insulin</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">89 (29)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">84 (28)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Oral medications</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">175 (56)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">173 (57)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Both</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">46 (15)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">45 (15)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Complications</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">None</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">165 (53)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">157 (52)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">One</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">117 (38)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">124 (41)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">More than one</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (9)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">21 (7)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Comorbidities</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">None</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">61 (20)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">57 (19)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">One</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">182 (59)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">183 (60)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">More than one</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">67 (21)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">62 (21)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Smoking history</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">176 (57)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">174 (58)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">134 (43)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">128 (42)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">High blood pressure</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">67 (22)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">70 (23)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">241 (78)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">232 (77)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">High cholesterol</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">159 (51)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">160 (53)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">151 (49)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">142 (47)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">History of myocardial infarction</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">269 (87)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">264 (87)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">41 (13)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">38 (13)</td></tr><tr><td align="left" colspan="3" valign="top" rowspan="1">Amputation</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">304 (98)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">297 (98)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (2)</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (SD)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (SD)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">53.87 (9.24)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">53.25 (9.67)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Household income in PK rupees</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">30 277 (11 581)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">29 063 (10 821)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1" /><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 000 (Median)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 000 (Median)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1" /><td align="char" char="(" valign="top" rowspan="1" colspan="1">25 000 (Mode)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20 000 (Mode)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Duration of disease</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6.23 (4.72)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6.41 (4.68)</td></tr></tbody></table><table-wrap-foot id="jdb13611-ntgp-0001"><fn id="jdb13611-note-0001"><p>Abbreviations: DM, diabetes mellitus; PK, Pakistan; SD, standard deviation.</p></fn></table-wrap-foot></table-wrap><p>The outcomes data on the HbA1c, self‐efficacy, and self‐care behaviors at T0, T1, and T2 are presented in Table <xref rid="jdb13611-tbl-0002" ref-type="table">2</xref>. This table shows that at T0, both the CG and IG were similar with regards to the HbA1c, self‐efficacy, and self‐care behaviors, indicated by no significant mean difference. At T1, no significant difference in the HbA1c was observed between the CG and the IG. However, at T2, difference in the HbA1c between the CG and the IG was small yet statistically significant (estimated mean difference, 0.25% [95% CI, −0.01 to 0.51]; <italic toggle="yes">p</italic> = 0.03). The results on the self‐efficacy indicate that at T1, mean scores of self‐efficacy significantly improved in the IG (estimated mean difference 27.28 [95% CI, 24.71–29.85]; <italic toggle="yes">p</italic> &lt; 0.0001). Correspondingly, the difference in self‐efficacy between the CG, and the IG at T2 was also found statistically significant (estimated mean difference, 41.48 [95% CI, 37.83–45.13]; <italic toggle="yes">p</italic> value &lt;0.0001). The results on the self‐care behaviors indicate that at T1, mean scores of self‐care behaviors significantly improved in the IG (estimated mean difference, 9.74 [95% CI, 8.09–11.39]; <italic toggle="yes">p</italic> &lt; 0.0001). Likewise, the difference in self‐care behaviors between the CG and the IG at T2 was also found statistically significant (estimated mean difference, 18.56 [95% CI, 16.08–21.04]; <italic toggle="yes">p</italic> value &lt;0.0001). The changes in the HbA1c, self‐efficacy, and self‐care behaviors at T0, T1, and T2 are shown in the Figure <xref rid="jdb13611-fig-0002" ref-type="fig">2</xref>.</p><table-wrap position="float" id="jdb13611-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>HbA1c, self‐efficacy, and self‐care behaviors data at T0, T1, and T2.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1" /><th align="left" colspan="4" valign="bottom" rowspan="1">T0</th><th align="left" colspan="4" valign="bottom" rowspan="1">T1</th><th align="left" colspan="5" valign="bottom" rowspan="1">T2</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">CG (<italic toggle="yes">n</italic> = 310)</th><th align="left" valign="bottom" rowspan="1" colspan="1">IG (<italic toggle="yes">n</italic> = 302)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Estimated mean difference (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th><th align="left" valign="bottom" rowspan="1" colspan="1">CG (<italic toggle="yes">n</italic> = 298)</th><th align="left" valign="bottom" rowspan="1" colspan="1">IG (<italic toggle="yes">n</italic> = 292)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Estimated mean difference (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th><th align="left" valign="bottom" rowspan="1" colspan="1">CG (<italic toggle="yes">n</italic> = 295)</th><th align="left" valign="bottom" rowspan="1" colspan="1">IG (<italic toggle="yes">n</italic> = 288)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Estimated mean difference (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th><th align="left" valign="bottom" rowspan="1" colspan="1">Cohen's <italic toggle="yes">d</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">HbA1c</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">8.70 (1.48)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">8.81 (1.65)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.11 (−0.14 to 0.36)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.38</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">8.74 (1.56)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">8.69 (1.58)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.05 (−0.20 to 0.30)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.35</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">8.74 (1.62)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">8.49 (1.58)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.25 (−0.01 to 0.51)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.03</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.16</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self‐efficacy</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">72.45 (15.11)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">71.70 (13.64)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.75 (−1.54 to 30.4)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.26</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">76.51 (16.62)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">103.79 (150.2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">27.28 (24.71 to 29.85)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">75.43 (18.99)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">116.89 (25.50)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">41.48 (37.83 to 45.13)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.84</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Self‐care behaviors</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">47.09 (6.29)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">47.14 (5.47)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.05 (−0.89 to 0.99)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.46</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">50.47 (7.52)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">60.21 (12.33)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9.74 (8.09 to 11.39)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">51.54 (12.04)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">70.01 (17.97)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">18.56 (16.08 to 21.04)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.22</td></tr></tbody></table><table-wrap-foot id="jdb13611-ntgp-0002"><fn id="jdb13611-note-0002"><p>
+<italic toggle="yes">Note</italic>: Mean (SD) are reported for HbA1c, self‐efficacy, and self‐care behaviors, and independent <italic toggle="yes">t</italic>‐test has been applied.</p></fn><fn id="jdb13611-note-0003"><p>Abbreviations: CG, control group; IG interventional group; SD, standard deviation; T0 baseline; T1, first follow‐up at the end of intervention; T2, second follow‐up at 3 months following T1.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="jdb13611-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>(A) Change in HbA1c at T0, T1, and T2; (B) change in self‐efficacy at T0, T1, and T2; and (C) change in self‐care behaviors at T0, T1, and T2. CG, control group; IG interventional group.</p></caption><graphic position="anchor" id="jats-graphic-7" orientation="portrait" ns1:href="JDB-16-e13611-g001.jpg" /></fig><p>To investigate the direct effect of PACE‐SMI on HbA1c, a linear regression analysis was performed, ensuring that all the assumptions were met. The results shown in Table <xref rid="jdb13611-tbl-0003" ref-type="table">3</xref> indicate that the model accounted for a small proportion of variance in the HbA1c levels (<italic toggle="yes">R</italic> = 0.079, <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.006, adjusted <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.005). However, this effect was not statistically significant (<italic toggle="yes">p</italic> = 0.056). This indicates a weak positive relationship between participation in PACE‐SMI and HbA1c reduction, suggesting that the intervention may have a modest effect on the glycemic control. Furthermore, to evaluate the mediating effect of the self‐efficacy and self‐care behaviors on HbA1c, a multiple linear regression analysis was performed. HbA1c at T2 was the dependent variable, while the IG (CG vs. IG), self‐efficacy, and self‐care behaviors at T2 served as independent/mediating variables. The results, detailed in Table <xref rid="jdb13611-tbl-0003" ref-type="table">3</xref>, indicate that the model explained a significant proportion of variance in HbA1c levels (<italic toggle="yes">R</italic> = 0.482, <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.232, adjusted <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.228, <italic toggle="yes">p</italic> &lt; 0.001). This suggests that participation in the PACE‐SMI was associated with a substantial reduction in HbA1c, mediated in part by the improvements in self‐efficacy and self‐care behaviors. These findings highlight the role of self‐efficacy and self‐care behaviors as potential mechanisms through which PACE‐SMI contribute to the improved glycemic control in adults with T2DM.</p><table-wrap position="float" id="jdb13611-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Regression results for direct effect of PACE‐SMI and mediating effects of self‐efficacy and self‐care behaviors on HbA1c levels at T2.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Model</th><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">R</italic>
+</th><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">R</italic>
+<sup>
+<italic toggle="yes">2</italic>
+</sup>
+</th><th align="left" rowspan="2" valign="bottom" colspan="1">Adjusted <italic toggle="yes">R</italic>
+<sup>2</sup>
+</th><th align="left" rowspan="2" valign="bottom" colspan="1">Standard error of the estimate</th><th align="left" colspan="6" valign="bottom" rowspan="1">Change statistics</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">R</italic>
+<sup>2</sup> change</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic> change</th><th align="left" valign="bottom" rowspan="1" colspan="1">df1</th><th align="left" valign="bottom" rowspan="1" colspan="1">df2</th><th align="left" valign="bottom" rowspan="1" colspan="1">Sig. <italic toggle="yes">F</italic> change</th><th align="left" valign="bottom" rowspan="1" colspan="1">Durbin–Watson</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.079<xref rid="jdb13611-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.006</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.005</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.6007</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.006</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3.674</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">581</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.056</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.482<xref rid="jdb13611-note-0006" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.232</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.228</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.4092</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.226</td><td align="char" char="." valign="top" rowspan="1" colspan="1">85.301</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">579</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.000</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.780</td></tr></tbody></table><table-wrap-foot id="jdb13611-ntgp-0003"><fn id="jdb13611-note-0004"><p>Abbreviations: CG, control group; IG interventional group.</p></fn><fn id="jdb13611-note-0005"><label>
+<sup>a</sup>
+</label><p>Predictors: (constant), group (IG vs. CG).</p></fn><fn id="jdb13611-note-0006"><label>
+<sup>b</sup>
+</label><p>Predictors: (constant), group (IG vs. CG), self‐efficacy (SE_T2), self‐care behaviors (SCB_T2).</p></fn><fn id="jdb13611-note-0007"><label>
+<sup>c</sup>
+</label><p>Dependent variable: HbA1c_T2.</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion" id="jdb13611-sec-0013"><label>4</label><title>DISCUSSION</title><p>To our knowledge, this is the first large‐scale multicenter trial in a LMIC, testing the efficacy of PACE‐SMI, a multicomponent, theory‐based, nurse‐led intervention to improve HbA1c, self‐efficacy, and self‐care behaviors in adults with T2DM. In this trial, the sample consisted of about equal numbers of men and women, with the mean age of 53.57 (SD, 9.45) years, mostly married, living with their families and reporting very high involvement of family in the care, mostly with limited education and financial resources, and high frequency of major CVD risk factors, such as hypertension, high cholesterol, and smoking. The findings indicated that compared with the usual care, PACE‐SMI resulted in modest yet statistically significant improvement in the HbA1c, as well as significant enhancement in the self‐efficacy and self‐care behaviors at 3 months. Our findings confirm that PACE‐SMIs previously tested in the developed countries are also effective in a LMIC, despite low level of reported education among the study participants.</p><p>The HbA1c is the key clinical indicator for optimum management of T2DM. The improvement in HbA1c in the IG who received PACE‐SMI in this trial was small yet statistically significant at 3 months. While the mean difference in HbA1c between both the groups appear modest, its clinical significance warrants careful consideration. The research has demonstrated that even small reductions in the HbA1c can lead to meaningful reductions in the risk of DM‐associated complications. For instance, the UK Prospective Diabetes Study (UKPDS) showed that a 1% decrease in HbA1c is associated with a 21% reduction in the risk of any DM‐associated complication.<xref rid="jdb13611-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Although our study's mean difference of 0.25% in the HbA1c is less than the 1% threshold, it still represents a step toward reducing T2DM associated risks, especially when considered in the context of sustained long‐term management. Moreover, PACE‐SMI significantly improved self‐efficacy and self‐care behaviors, which are critical components of effective T2DM management. Our findings demonstrated that adults with T2DM who received PACE‐SMI had significantly improved self‐efficacy and self‐care behaviors compared with those in the CG. Importantly, the improvement in self‐efficacy and self‐care behaviors in our study lasted and was sustained at 3 months' follow‐up. These findings are contradictory to those reported by Manjula in her trial that initial improvement in self‐efficacy and self‐care behaviors faded overtime in the IG.<xref rid="jdb13611-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> The booster session and home visit in our trial involving personalized reinforcement fostering continued performance accomplishment and ongoing telephonic support via calls, as well as SMS reminders might have resulted in self‐efficacy and self‐care behavior change that was enduring. The literature supports that enhanced self‐efficacy has been linked to better adherence to the treatment regimens, improved glycemic control, and sustained lifestyle changes.<xref rid="jdb13611-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> The sustained improvements in self‐efficacy and self‐care behaviors suggest that the benefits of PACE‐SMI may extend beyond immediate reduction in the HbA1c, potentially leading to more substantial clinical outcomes over time. Although the reduction in HbA1c observed in our trial is small, it is statistically significant and clinically relevant, especially when considered alongside the notable improvements in self‐efficacy and self‐care behaviors. Additionally, the small but significant effect size of 0.16 indicates that PACE‐SMI had a measurable impact on the HbA1c. In the context of public health, even small effect sizes can be meaningful when applied to large populations, suggesting that PACE‐SMI could be beneficial on a broader scale, especially in the resource‐constrained settings. Especially, considering the challenges of T2DM management in LMICs such as Pakistan, where healthcare resources are often limited and disparities in care are prevalent, even modest improvements in the HbA1c are valuable. Our findings underscore the potential of the PACE‐SMI to make a positive impact on T2DM management in such settings, providing a feasible and effective strategy to improve patient outcomes.</p><p>Our study's findings on HbA1c reduction are contradictory to a prior trial conducted in Pakistan by Khan et al.,<xref rid="jdb13611-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> who found no significant reduction in HbA1c. Compared with their integrated diabetes care package involving educational component on lifestyle modification, our intensive 8‐week intervention with a patient‐centered approach grounded in Social Cognitive Theory, involving multiple components (education, counseling, and behavioral training), and covering sizable sample with negligible dropouts has a notable difference that resulted in small yet statistically significant reduction in HbA1c. These findings build on the existing evidence confirming that self‐management interventions involving behavioral components that go beyond the provision of education are more effective in T2DM management.<xref rid="jdb13611-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> The education alone equips patients with the essential knowledge about the disease and its management, but combining it with the counseling and behavioral training addresses emotional support and skill‐building, crucial for long‐term adherence, and behavior change.<xref rid="jdb13611-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="jdb13611-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Counseling helps individuals set realistic and personalized goals, addressing the psychosocial aspects of T2DM, which are often overlooked but are crucial for long‐term adherence to self‐care behaviors. Counseling can help patients overcome barriers to behavior change, cope with the emotional burden of the disease, and enhance motivation. Effective counseling has been associated with the improvements in self‐efficacy and a reduction in T2DM related distress.<xref rid="jdb13611-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Behavioral training on the other hand, focuses on skill‐building and self‐regulation strategies, empowering participants to translate their knowledge and personalized goals into actionable behaviors. Research indicates that behavioral interventions can significantly enhance self‐care behaviors and glycemic control in patients with T2DM.<xref rid="jdb13611-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="jdb13611-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> While each component—education, counseling, and behavioral training—plays a vital role in T2DM management, their combined implementation is crucial for achieving lasting behavior change and effective T2DM management. PACE‐SMI's success in significantly improving self‐efficacy and self‐care behaviors, sustained at the 3 months' follow‐up, underscores the importance of a multifaceted approach. These findings suggest that although education is fundamental, the addition of counseling and behavioral training can lead to more lasting changes in self‐efficacy and self‐care behaviors thereby leading to effective T2DM management.</p><p>The 3‐month follow‐up period in our study serves as an initial assessment of the effectiveness of PACE‐SMI, focusing primarily on short‐term outcomes. Although our findings indicate improvements in self‐efficacy and self‐care behaviors during this period, the sustainability of behavioral changes over the longer period remains a critical concern in T2DM management. Longer follow‐up durations are essential to evaluate the durability of intervention effects and to ascertain whether initial improvements in HbA1c, self‐efficacy, and self‐care behaviors persist over time. Future research should therefore prioritize extended follow‐up periods to better understand the trajectory of these outcomes. Such investigations would provide valuable insights into the lasting impact of PACE‐SMI and guide the development of strategies to maintain long‐term improvements in T2DM management.</p><p>In addition to examining the duration of follow‐up, the feasibility and scalability of implementing PACE‐SMI in Pakistan, amid significant healthcare access and resource disparities, demand pragmatic solutions to maximize its reach while minimizing the costs. The PACE‐SMI's emphasis on patient‐centered education, counseling, and behavioral training aligns with Pakistan's sociocultural fabric, where familial and community support plays a crucial role in health and disease management. Involving local healthcare providers, community leaders, and workers in PACE‐SMI's delivery can enhance its adoption across diverse socioeconomic groups, addressing healthcare disparities and building sustainable capacity within the local healthcare system. With modest training of healthcare workers and the integration of digital technologies, PACE‐SMI can be accessible and scalable, effectively bridging gaps in healthcare delivery while remaining cost effective.</p><p>Given the high prevalence of CVD risk factors among participants in our trial and the broader context of Pakistan, where hypertension, dyslipidemia, and tobacco use are significant public health concerns, there is a critical imperative to address these issues comprehensively. By integrating components focused on smoking cessation interventions, self‐management of blood pressure, and cholesterol control into PACE‐SMI, future studies can enhance its impact on reducing CVD risk among adults with T2DM in Pakistan. Emphasizing these components within PACE‐SMI could potentially mitigate the burden of CVD risk factors, offering a scalable and sustainable strategy for addressing complex health challenges in Pakistan.</p><sec id="jdb13611-sec-0014"><label>4.1</label><title>Limitations</title><p>This trial has the following limitations: first, similar to the trials testing behavioral interventions, masking was not possible at all levels. However, to overcome the potential observer bias, alternative strategies such as the following were applied: data were collected on all participants before randomization, outcomes data were assessed by DCs unaware of the participants' group assignment, and an independent data entry operator did double data entry to minimize data entry errors. Second, outcome data on self‐efficacy and self‐care behaviors in this trial were self‐reported that might have carried response bias. The instruments we used to measure specific self‐care behaviors, such as diet control, physical activity, foot care, and medication adherence, may not offer precise estimation of behaviors performed. The differences in the participants' actual practices and the self‐report data they provided require further research.</p></sec><sec id="jdb13611-sec-0015"><label>4.2</label><title>Strengths</title><p>The strengths of the trial include a robust design, sufficient sample with high response rate, intensive multicomponent nurse‐led patient‐centered intervention, and high family involvement in the participants' care.</p></sec></sec><sec sec-type="conclusions" id="jdb13611-sec-0016"><label>5</label><title>CONCLUSIONS</title><p>In this study, the PACE‐SMI demonstrated a modest yet significant improvement in the HbA1c, as well as notable enhancements in the self‐efficacy and self‐care behaviors in adults with T2DM. Given the significant health and economic impact of T2DM in Pakistan, these findings support the integration of PACE‐SMI into standard practice, providing critical guidance for the national healthcare policies.</p></sec><sec id="jdb13611-sec-0017"><title>AUTHOR CONTRIBUTIONS</title><p>KA was the principal investigator; led formative phase, study design, and conduct of the study; did statistical analyses; and drafted the report. She assumes the responsibility for completeness and integrity of the data and fidelity of the report to the study protocol and statistical analysis plan. ESF contributed to the scientific rigor of the study by contributing to all phases of this trial. She provided technical oversight of all project activities including coordination of data management and data analysis. KAD contributed to the study design, intervention development, and supervision of all project activities. RG contributed in study design, intervention development, and supervision of all project and budget activities. NK provided the randomization and statistical analyses plan and contributed to the interpretation of study findings. All authors had the opportunity to review and revise the report and approved the final submitted version of the manuscript.</p></sec><sec id="jdb13611-sec-0019"><title>FUNDING INFORMATION</title><p>This trail was partially funded by Shifa Tameer‐e‐Millat University, Islamabad, Pakistan (grant no. 15270). The funder had no role in the design, data collection, analysis, interpretation, or writing the report.</p></sec><sec sec-type="COI-statement" id="jdb13611-sec-0020"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest.</p></sec><sec id="jdb13611-sec-0023"><title>CLINICAL TRIAL REGISTRATION</title><p>The trial was registered with <ext-link ns1:href="http://clinicaltrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> (<ext-link ext-link-type="pmc:clinical-trial" ns1:href="NCT05491252">NCT05491252</ext-link>) on August 8, 2022.</p></sec></body><back><ack id="jdb13611-sec-0018"><title>ACKNOWLEDGEMENTS</title><p>The study team is grateful to Beverly Dyck Thomassian for her generous contribution in providing free access to the courses and study materials to enhance knowledge in the substantive area. The study team acknowledges the valuable contribution of Associate Professor Dr. Muhammad Owais Fazal, Dr. Usman Musharraf, Dr. Ayesha Ayub, and Dr. Yasir Yaqoob at the study hospitals in coordinating trial activities. The study team thanks Professor Dr. Abel Jacobus Pienaar, the PI of CBPAR project in South Africa, for assistance in transferring some funding for the trial through Shifa College of Nursing. The study team expresses sincere appreciation to Mr. Faisal Saeed for his instrumental role in crafting the graphical abstract and enhancing the visual representation of this research. The authors extend personal thanks to all other members of the research team for their assistance in intervention administration, data collection, data entry, and management.</p></ack><sec sec-type="data-availability" id="jdb13611-sec-0022"><title>DATA AVAILABILITY STATEMENT</title><p>The datasets generated during and/or analyzed in this trial are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="jdb13611-bibl-0001"><title>REFERENCES</title><ref id="jdb13611-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jdb13611-cit-0001">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saeedi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karuranga</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>IDF diabetes atlas: global, regional and country‐level diabetes prevalence estimates for 2021 and projections for 2045</article-title>. <source>Diabetes Res Clin Pract</source>. <year>2022</year>;<volume>1</volume>(<issue>183</issue>):<elocation-id>109119</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diabres.2021.109119</pub-id><pub-id pub-id-type="pmcid">PMC11057359</pub-id><pub-id pub-id-type="pmid">34879977</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jdb13611-cit-0002">
+<string-name name-style="western">
+<surname>Azeem</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liaquat</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The increasing rate of diabetes in Pakistan: a silent killer</article-title>. <source>Ann Med Surg</source>. <year>2022</year>;<volume>79</volume>:<elocation-id>103901</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amsu.2022.103901</pub-id><pub-id pub-id-type="pmcid">PMC9289249</pub-id><pub-id pub-id-type="pmid">35860160</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jdb13611-cit-0003">
+<string-name name-style="western">
+<surname>Bhutta</surname>
+<given-names>ZA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haq</surname>
+<given-names>ZU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basit</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Diabetes in Pakistan: addressing the crisis</article-title>. <source>Lancet Diabetes Endocrinol</source>. <year>2022</year>;<volume>10</volume>(<issue>5</issue>):<fpage>309</fpage>‐<lpage>310</lpage>.<pub-id pub-id-type="pmid">35358429</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-8587(22)00102-4</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jdb13611-cit-0004">
+<string-name name-style="western">
+<surname>Ogurtsova</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guariguata</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barengo</surname>
+<given-names>NC</given-names>
+</string-name>, et al. <article-title>IDF diabetes atlas: global estimates of undiagnosed diabetes in adults for 2021</article-title>. <source>Diabetes Res Clin Pract</source>. <year>2022</year>;<volume>1</volume>(<issue>183</issue>):<elocation-id>109118</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diabres.2021.109118</pub-id><pub-id pub-id-type="pmid">34883189</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jdb13611-cit-0005">
+<string-name name-style="western">
+<surname>Uddin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ali</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Junaid</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Prevalence of diabetic complications in newly diagnosed type 2 diabetes patients in Pakistan: findings from national registry</article-title>. <source>J Ayub Med Coll Abbottabad</source>. <year>2019</year>;<volume>30</volume>(<issue>4‐Sup</issue>):<fpage>S652</fpage>‐<lpage>S658</lpage>.<pub-id pub-id-type="pmid">30838825</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jdb13611-cit-0006">
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karuranga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malanda</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Global and regional estimates and projections of diabetes‐related health expenditure: results from the International Diabetes Federation Diabetes Atlas</article-title>. <source>Diabetes Res Clin Pract</source>. <year>2020</year>;<volume>1</volume>(<issue>162</issue>):<elocation-id>108072</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diabres.2020.108072</pub-id><pub-id pub-id-type="pmid">32061820</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jdb13611-cit-0007">
+<string-name name-style="western">
+<surname>Basit</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fawwad</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baqa</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Pakistan and diabetes—a country on the edge</article-title>. <source>Diabetes Res Clin Pract</source>. <year>2019</year>;<volume>1</volume>(<issue>147</issue>):<fpage>166</fpage>‐<lpage>168</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diabres.2018.11.001</pub-id><pub-id pub-id-type="pmid">30423349</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jdb13611-cit-0008">
+<string-name name-style="western">
+<surname>Garcia‐Molina</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewis‐Mikhael</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riquelme‐Gallego</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cano‐Ibanez</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliveras‐Lopez</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bueno‐Cavanillas</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Improving type 2 diabetes mellitus glycaemic control through lifestyle modification implementing diet intervention: a systematic review and meta‐analysis</article-title>. <source>Eur J Nutr</source>. <year>2020</year>;<volume>59</volume>(<issue>4</issue>):<fpage>1313</fpage>‐<lpage>1328</lpage>.<pub-id pub-id-type="pmid">31781857</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00394-019-02147-6</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jdb13611-cit-0009">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pan</surname>
+<given-names>XF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Combined lifestyle factors and risk of incident type 2 diabetes and prognosis among individuals with type 2 diabetes: a systematic review and meta‐analysis of prospective cohort studies</article-title>. <source>Diabetologia</source>. <year>2020</year>;<volume>63</volume>(<issue>1</issue>):<fpage>21</fpage>‐<lpage>33</lpage>.<pub-id pub-id-type="pmid">31482198</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00125-019-04985-9</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jdb13611-cit-0010">
+<string-name name-style="western">
+<surname>Taheri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaghloul</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chagoury</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Effect of intensive lifestyle intervention on bodyweight and glycaemia in early type 2 diabetes (DIADEM‐I): an open‐label, parallel‐group, randomised controlled trial</article-title>. <source>Lancet Diabetes Endocrinol</source>. <year>2020</year>;<volume>8</volume>(<issue>6</issue>):<fpage>477</fpage>‐<lpage>489</lpage>.<pub-id pub-id-type="pmid">32445735</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-8587(20)30117-0</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jdb13611-cit-0011">
+<string-name name-style="western">
+<surname>Powers</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bardsley</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cypress</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Diabetes self‐management education and support in adults with type 2 diabetes: a consensus report of the American Diabetes Association, the Association of Diabetes Care &amp; Education Specialists, the Academy of Nutrition and Dietetics, the American Academy of Family Physicians, the American Academy of PAs, the American Association of Nurse Practitioners, and the American Pharmacists Association</article-title>. <source>Diabetes Care</source>. <year>2020</year>;<volume>43</volume>(<issue>7</issue>):<fpage>1636</fpage>‐<lpage>1649</lpage>.<pub-id pub-id-type="pmid">32513817</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/dci20-0023</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jdb13611-cit-0012">
+<string-name name-style="western">
+<surname>Kent</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Eramo Melkus</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stuart</surname>
+<given-names>PM</given-names>
+</string-name>, et al. <article-title>Reducing the risks of diabetes complications through diabetes self‐management education and support</article-title>. <source>Popul Health Manag</source>. <year>2013</year>;<volume>16</volume>(<issue>2</issue>):<fpage>74</fpage>‐<lpage>81</lpage>.<pub-id pub-id-type="pmid">23405872</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/pop.2012.0020</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="jdb13611-cit-0013">
+<string-name name-style="western">
+<surname>Delacruz</surname>
+<given-names>MV</given-names>
+</string-name>. <article-title>Promoting diabetes self‐management education and support in primary care clinic: an evidence‐based project</article-title>. <year>2019</year>.</mixed-citation></ref><ref id="jdb13611-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jdb13611-cit-0014">
+<string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The cost‐effectiveness analysis of self‐efficacy‐focused structured education program for patients with type 2 diabetes mellitus in mainland China setting</article-title>. <source>Front Public Health</source>. <year>2021</year>;<volume>9</volume>(<issue>9</issue>):<elocation-id>767123</elocation-id>.<pub-id pub-id-type="pmid">34957020</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2021.767123</pub-id><pub-id pub-id-type="pmcid">PMC8695800</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jdb13611-cit-0015">
+<string-name name-style="western">
+<surname>Bukhsh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phisalprapa</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Impact of pharmacist‐led diabetes self‐care education on patients with type 2 diabetes in Pakistan: a randomized controlled trial</article-title>. <source>Front Pharmacol</source>. <year>2022</year>;<volume>13</volume>:<elocation-id>754999</elocation-id>.<pub-id pub-id-type="pmid">35222018</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphar.2022.754999</pub-id><pub-id pub-id-type="pmcid">PMC8864215</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jdb13611-cit-0016">
+<string-name name-style="western">
+<surname>Qasim</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masih</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yousafzai</surname>
+<given-names>MT</given-names>
+</string-name>, et al. <article-title>Diabetes conversation map—a novel tool for diabetes management self‐efficacy among type 2 diabetes patients in Pakistan: a randomized controlled trial</article-title>. <source>BMC Endocr Disord</source>. <year>2020</year>;<volume>20</volume>:<fpage>88</fpage>.<pub-id pub-id-type="pmid">32546240</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12902-020-00572-x</pub-id><pub-id pub-id-type="pmcid">PMC7298747</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jdb13611-cit-0017">
+<string-name name-style="western">
+<surname>Khan</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walley</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Effectiveness of an integrated diabetes care package at primary healthcare facilities: a cluster randomized trial in Pakistan</article-title>. <source>BJGP Open</source>. <year>2018</year>;<volume>2</volume>(<issue>4</issue>):<elocation-id>bjgpopen18X101618</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3399/bjgpopen18X101618</pub-id><pub-id pub-id-type="pmcid">PMC6348328</pub-id><pub-id pub-id-type="pmid">30723803</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jdb13611-cit-0018">
+<string-name name-style="western">
+<surname>Fritzen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stautner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schnell</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Patient‐centred care in type 2 diabetes mellitus–key aspects of PDM‐ProValue are reflected in the 2018 ADA/EASD consensus report</article-title>. <source>Diabetes Res Clin Pract</source>. <year>2019</year>;<volume>1</volume>(<issue>158</issue>):<elocation-id>107897</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diabres.2019.107897</pub-id><pub-id pub-id-type="pmid">31672502</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jdb13611-cit-0019">
+<string-name name-style="western">
+<surname>Asmat</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhamani</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gul</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Froelicher</surname>
+<given-names>ES</given-names>
+</string-name>. <article-title>The effectiveness of patient‐centered care versus usual Care in Type 2 diabetes self‐management: a systematic review and meta‐analysis</article-title>. <source>Front Public Health</source>. <year>2022</year>;<volume>28</volume>:<fpage>3915</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2022.994766</pub-id><pub-id pub-id-type="pmcid">PMC9650641</pub-id><pub-id pub-id-type="pmid">36388341</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jdb13611-cit-0020">
+<string-name name-style="western">
+<surname>Asmat</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhamani</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Froelicher</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gul</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>A patient‐centered self‐management intervention to improve glycemic control, self‐efficacy and self‐care behaviors in adults with type 2 diabetes mellitus: a SPIRIT compliant study protocol for randomized controlled trial</article-title>. <source>Diabetes Metab Syndr Obes</source>. <year>2023</year>;<volume>31</volume>:<fpage>225</fpage>‐<lpage>236</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/DMSO.S385715</pub-id><pub-id pub-id-type="pmcid">PMC9885875</pub-id><pub-id pub-id-type="pmid">36760576</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jdb13611-cit-0021">
+<string-name name-style="western">
+<surname>Grant</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mayo‐Wilson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montgomery</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>CONSORT‐SPI 2018 explanation and elaboration: guidance for reporting social and psychological intervention trials</article-title>. <source>Trials</source>. <year>2018</year>;<volume>19</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>8</lpage>.<pub-id pub-id-type="pmid">30060763</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13063-018-2735-z</pub-id><pub-id pub-id-type="pmcid">PMC6066913</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jdb13611-cit-0022">
+<string-name name-style="western">
+<surname>Bandura</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Human agency in social cognitive theory</article-title>. <source>Am Psychol</source>. <year>1989</year>;<volume>44</volume>(<issue>9</issue>):<fpage>1175</fpage>‐<lpage>1184</lpage>.<pub-id pub-id-type="pmid">2782727</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1037/0003-066x.44.9.1175</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jdb13611-cit-0023">
+<collab collab-type="authors">American Association of Diabetes Educators</collab>
+. <article-title>An effective model of diabetes care and education: revising the AADE7 self‐care behaviors®</article-title>. <source>Diabetes Educ</source>. <year>2020</year>;<volume>46</volume>(<issue>2</issue>):<fpage>139</fpage>‐<lpage>160</lpage>.<pub-id pub-id-type="pmid">31928334</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0145721719894903</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jdb13611-cit-0024">
+<string-name name-style="western">
+<surname>Bijl</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poelgeest‐Eeltink</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shortridge‐Baggett</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>The psychometric properties of the Diabetes Management Self‐Efficacy Scale for patients with type 2 diabetes mellitus</article-title>. <source>J Adv Nurs</source>. <year>1999</year>;<volume>30</volume>(<issue>2</issue>):<fpage>352</fpage>‐<lpage>359</lpage>.<pub-id pub-id-type="pmid">10457237</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1365-2648.1999.01077.x</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jdb13611-cit-0025">
+<string-name name-style="western">
+<surname>Riaz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haq</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nasim</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadiq</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tahir</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Translation and validation of diabetes management self‐efficacy questionnaire (DMSES) into Urdu language</article-title>. <source>Int J Biol Pharm Allied Sci</source>. <year>2017</year>;<volume>6</volume>(<issue>6</issue>):<fpage>1244</fpage>‐<lpage>1254</lpage>.</mixed-citation></ref><ref id="jdb13611-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jdb13611-cit-0026">
+<string-name name-style="western">
+<surname>Toobert</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hampson</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glasgow</surname>
+<given-names>RE</given-names>
+</string-name>. <article-title>The summary of diabetes self‐care activities measure: results from 7 studies and a revised scale</article-title>. <source>Diabetes Care</source>. <year>2000</year>;<volume>23</volume>(<issue>7</issue>):<fpage>943</fpage>‐<lpage>950</lpage>.<pub-id pub-id-type="pmid">10895844</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/diacare.23.7.943</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jdb13611-cit-0027">
+<string-name name-style="western">
+<surname>Wichit</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mnatzaganian</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Courtney</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Randomized controlled trial of a family‐oriented self‐management program to improve self‐efficacy, glycemic control and quality of life among Thai individuals with type 2 diabetes</article-title>. <source>Diabetes Res Clin Pract</source>. <year>2017</year>;<volume>1</volume>(<issue>123</issue>):<fpage>37</fpage>‐<lpage>48</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diabres.2016.11.013</pub-id><pub-id pub-id-type="pmid">27918976</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jdb13611-cit-0028">
+<string-name name-style="western">
+<surname>Stratton</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adler</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neil</surname>
+<given-names>HA</given-names>
+</string-name>, et al. <article-title>Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): prospective observational study</article-title>. <source>BMJ</source>. <year>2000</year>;<volume>321</volume>(<issue>7258</issue>):<fpage>405</fpage>‐<lpage>412</lpage>.<pub-id pub-id-type="pmid">10938048</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.321.7258.405</pub-id><pub-id pub-id-type="pmcid">PMC27454</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0029"><label>29</label><mixed-citation publication-type="miscellaneous" id="jdb13611-cit-0029">
+<string-name name-style="western">
+<surname>Manjula</surname>
+<given-names>GB</given-names>
+</string-name>. <article-title>
+<italic toggle="yes">Effects of Structured Educational Programme (SEP) on self efficacy self care behaviour and HbA1c values among patients with type 2 diabetes mellitus</italic>. Doctoral dissertation. Rajiv Gandhi University of Health Sciences India</article-title>. <year>2016</year>.</mixed-citation></ref><ref id="jdb13611-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jdb13611-cit-0030">
+<string-name name-style="western">
+<surname>Luszczynska</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwarzer</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Social cognitive theory</article-title>. <source>Fac Health Sci Publ</source>. <year>2015</year>;<volume>2015</volume>:<fpage>225</fpage>‐<lpage>251</lpage>.</mixed-citation></ref><ref id="jdb13611-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jdb13611-cit-0031">
+<string-name name-style="western">
+<surname>Azami</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soh</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sazlina</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salmiah</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aazami</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Behavioral interventions to improve self‐management in Iranian adults with type 2 diabetes: a systematic review and meta‐analysis</article-title>. <source>J Diabetes Metab Disord</source>. <year>2018</year>;<volume>31</volume>(<issue>17</issue>):<fpage>365</fpage>‐<lpage>380</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40200-018-0376-0</pub-id><pub-id pub-id-type="pmcid">PMC6405389</pub-id><pub-id pub-id-type="pmid">30918872</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jdb13611-cit-0032">
+<string-name name-style="western">
+<surname>Norris</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Engelgau</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Venkat Narayan</surname>
+<given-names>KM</given-names>
+</string-name>. <article-title>Effectiveness of self‐management training in type 2 diabetes: a systematic review of randomized controlled trials</article-title>. <source>Diabetes Care</source>. <year>2001</year>;<volume>24</volume>(<issue>3</issue>):<fpage>561</fpage>‐<lpage>587</lpage>.<pub-id pub-id-type="pmid">11289485</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/diacare.24.3.561</pub-id></mixed-citation></ref><ref id="jdb13611-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jdb13611-cit-0033">
+<string-name name-style="western">
+<surname>Babazadeh</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lotfi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ranjbaran</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Predictors of self‐care behaviors and glycemic control among patients with type 2 diabetes mellitus</article-title>. <source>Front Public Health</source>. <year>2023</year>;<volume>10</volume>:<elocation-id>1031655</elocation-id>.<pub-id pub-id-type="pmid">36711399</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpubh.2022.1031655</pub-id><pub-id pub-id-type="pmcid">PMC9874308</pub-id></mixed-citation></ref></ref-list></back></article>

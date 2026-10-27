@@ -1,0 +1,21 @@
+{
+ "about": "Papers in the repository's manifests that are NOT committed to data/raw/ because their licence terms are not clear. The reproduction downloads them from NCBI (make fetch-pinned) and checks them against the same pins. Decision: repository owner.",
+ "excluded": [
+  {
+   "pmcid": "PMC7814507",
+   "split": "dev",
+   "dir": "data/raw/pmc",
+   "reason": "licence statement and copyright line conflict on commercial re-use",
+   "licence_statement": "...Creative Commons Attribution (CC BY 4.0) license, which permits others to distribute, remix, adapt and build upon this work, for commercial use, provided the original work is properly cited.",
+   "copyright_line": "© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY. No commercial re-use. See rights and permissions. Published by BMJ."
+  },
+  {
+   "pmcid": "PMC12829467",
+   "split": "fresh",
+   "dir": "data/raw/fresh",
+   "reason": "licence statement and copyright line conflict on commercial re-use",
+   "licence_statement": "...Creative Commons Attribution (CC BY 4.0) license, which permits others to distribute, remix, adapt and build upon this work, for commercial use, provided the original work is properly cited.",
+   "copyright_line": "© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY. No commercial re-use. See rights and permissions. Published by BMJ."
+  }
+ ]
+}

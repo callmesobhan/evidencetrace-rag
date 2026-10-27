@@ -1,0 +1,847 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="ejhf3504" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Heart Fail</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Heart Fail</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">100887595</journal-id><journal-id journal-id-type="publisher-id">EJHF</journal-id><journal-title-group><journal-title>European Journal of Heart Failure</journal-title></journal-title-group><issn pub-type="ppub">1388-9842</issn><issn pub-type="epub">1879-0844</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11798631</article-id><article-id pub-id-type="pmcid-ver">PMC11798631.1</article-id><article-id pub-id-type="pmcaid">11798631</article-id><article-id pub-id-type="pmcaiid">11798631</article-id><article-id pub-id-type="pmid">39453738</article-id><article-id pub-id-type="doi">10.1002/ejhf.3504</article-id><article-id pub-id-type="publisher-id">EJHF3504</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Infections and Heart Failure</subject><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Effect of correcting iron deficiency on the risk of serious infection in heart failure: Insights from the <styled-content style="fixed-case" toggle="no">IRONMAN</styled-content> trial</article-title><alt-title alt-title-type="right-running-head">Effect of correcting iron deficiency on serious infection in heart failure</alt-title><alt-title alt-title-type="left-running-head">P.W. Foley et al.</alt-title></title-group><contrib-group><contrib id="ejhf3504-cr-0001" contrib-type="author"><name name-style="western"><surname>Foley</surname><given-names initials="PW">Paul W.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4856-832X</contrib-id><xref rid="ejhf3504-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0002" contrib-type="author"><name name-style="western"><surname>Kalra</surname><given-names initials="PR">Paul R.</given-names></name><xref rid="ejhf3504-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="ejhf3504-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="ejhf3504-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0003" contrib-type="author"><name name-style="western"><surname>Cleland</surname><given-names initials="JGF">John G.F.</given-names></name><xref rid="ejhf3504-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0004" contrib-type="author"><name name-style="western"><surname>Petrie</surname><given-names initials="MC">Mark C.</given-names></name><xref rid="ejhf3504-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0005" contrib-type="author"><name name-style="western"><surname>Kalra</surname><given-names initials="PA">Philip A.</given-names></name><xref rid="ejhf3504-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0006" contrib-type="author"><name name-style="western"><surname>Squire</surname><given-names initials="I">Ian</given-names></name><xref rid="ejhf3504-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0007" contrib-type="author"><name name-style="western"><surname>Campbell</surname><given-names initials="P">Philip</given-names></name><xref rid="ejhf3504-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0008" contrib-type="author"><name name-style="western"><surname>Chapman</surname><given-names initials="C">Callum</given-names></name><xref rid="ejhf3504-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0009" contrib-type="author"><name name-style="western"><surname>Donnelly</surname><given-names initials="P">Patrick</given-names></name><xref rid="ejhf3504-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0010" contrib-type="author"><name name-style="western"><surname>Graham</surname><given-names initials="F">Fraser</given-names></name><xref rid="ejhf3504-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0011" contrib-type="author"><name name-style="western"><surname>Hannah</surname><given-names initials="A">Andrew</given-names></name><xref rid="ejhf3504-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0012" contrib-type="author"><name name-style="western"><surname>Lang</surname><given-names initials="NN">Ninian N.</given-names></name><xref rid="ejhf3504-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0013" contrib-type="author"><name name-style="western"><surname>Matthews</surname><given-names initials="I">Iain</given-names></name><xref rid="ejhf3504-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0014" contrib-type="author"><name name-style="western"><surname>Leslie</surname><given-names initials="SJ">Stephen J.</given-names></name><xref rid="ejhf3504-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0015" contrib-type="author"><name name-style="western"><surname>Pellicori</surname><given-names initials="P">Pierpaolo</given-names></name><xref rid="ejhf3504-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0016" contrib-type="author"><name name-style="western"><surname>Piper</surname><given-names initials="S">Sue</given-names></name><xref rid="ejhf3504-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0017" contrib-type="author"><name name-style="western"><surname>Ray</surname><given-names initials="R">Robin</given-names></name><xref rid="ejhf3504-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0018" contrib-type="author"><name name-style="western"><surname>Savage</surname><given-names initials="HO">Hernry O.</given-names></name><xref rid="ejhf3504-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0019" contrib-type="author"><name name-style="western"><surname>Spencer</surname><given-names initials="C">Chales</given-names></name><xref rid="ejhf3504-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0020" contrib-type="author"><name name-style="western"><surname>Walsh</surname><given-names initials="J">John</given-names></name><xref rid="ejhf3504-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0021" contrib-type="author"><name name-style="western"><surname>Wong</surname><given-names initials="YK">Yuk‐Ki</given-names></name><xref rid="ejhf3504-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="ejhf3504-cr-0022" contrib-type="author" corresp="yes"><name name-style="western"><surname>Ford</surname><given-names initials="I">Ian</given-names></name><xref rid="ejhf3504-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref><address><email>ian.ford@glasgow.ac.uk</email></address></contrib><contrib id="ejhf3504-cr-0023" contrib-type="author"><collab collab-type="authors"> on behalf of the IRONMAN Study Group<contrib-group><contrib id="ejhf3504-cr-0024" contrib-type="author"><name name-style="western"><surname>Kalra</surname><given-names initials="P">Paul</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0025" contrib-type="author"><name name-style="western"><surname>Cowan</surname><given-names initials="E">Elena</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0026" contrib-type="author"><name name-style="western"><surname>Turner</surname><given-names initials="C">Charlotte</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0027" contrib-type="author"><name name-style="western"><surname>Austin</surname><given-names initials="R">Rosalynn</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0028" contrib-type="author"><name name-style="western"><surname>Lane</surname><given-names initials="R">Rebeca</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0029" contrib-type="author"><name name-style="western"><surname>Rogers</surname><given-names initials="P">Paula</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0030" contrib-type="author"><name name-style="western"><surname>Foley</surname><given-names initials="P">Paul</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0031" contrib-type="author"><name name-style="western"><surname>Chandrasekaran</surname><given-names initials="B">Badri</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0032" contrib-type="author"><name name-style="western"><surname>Fraile</surname><given-names initials="E">Eva</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0033" contrib-type="author"><name name-style="western"><surname>Kyeremeh</surname><given-names initials="L">Lynsey</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0034" contrib-type="author"><name name-style="western"><surname>Ahmed</surname><given-names initials="F">Fozia</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0035" contrib-type="author"><name name-style="western"><surname>Petrie</surname><given-names initials="M">Mark</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0036" contrib-type="author"><name name-style="western"><surname>McGregor</surname><given-names initials="L">Lorraine</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0037" contrib-type="author"><name name-style="western"><surname>Osmanska</surname><given-names initials="J">Joanna</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0038" contrib-type="author"><name name-style="western"><surname>Graham</surname><given-names initials="F">Fraser</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0039" contrib-type="author"><name name-style="western"><surname>Lang</surname><given-names initials="N">Ninian</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0040" contrib-type="author"><name name-style="western"><surname>Meyer</surname><given-names initials="B">Barbara</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0041" contrib-type="author"><name name-style="western"><surname>Ahmad</surname><given-names initials="F">Faheem</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0042" contrib-type="author"><name name-style="western"><surname>Osmanska</surname><given-names initials="J">Joanna</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0043" contrib-type="author"><name name-style="western"><surname>Squire</surname><given-names initials="I">Iain</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0044" contrib-type="author"><name name-style="western"><surname>Fisher</surname><given-names initials="J">Jude</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0045" contrib-type="author"><name name-style="western"><surname>Kalra</surname><given-names initials="P">Philip</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0046" contrib-type="author"><name name-style="western"><surname>Summersgill</surname><given-names initials="C">Christina</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0047" contrib-type="author"><name name-style="western"><surname>Adeniji</surname><given-names initials="K">Katarzyna</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0048" contrib-type="author"><name name-style="western"><surname>Chinnadurai</surname><given-names initials="R">Rajkumar</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0049" contrib-type="author"><name name-style="western"><surname>Ludman</surname><given-names initials="A">Andrew</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0050" contrib-type="author"><name name-style="western"><surname>Massimo</surname><given-names initials="L">Lisa</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0051" contrib-type="author"><name name-style="western"><surname>Hardman</surname><given-names initials="C">Clare</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0052" contrib-type="author"><name name-style="western"><surname>Sykes</surname><given-names initials="D">Daisy</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0053" contrib-type="author"><name name-style="western"><surname>Cowburn</surname><given-names initials="P">Peter</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0054" contrib-type="author"><name name-style="western"><surname>Frank</surname><given-names initials="S">Sarah</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0055" contrib-type="author"><name name-style="western"><surname>Smith</surname><given-names initials="S">Simon</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0056" contrib-type="author"><name name-style="western"><surname>Japp</surname><given-names initials="A">Alan</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0057" contrib-type="author"><name name-style="western"><surname>Anwar</surname><given-names initials="M">Mohamed</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0058" contrib-type="author"><name name-style="western"><surname>Whittington</surname><given-names initials="B">Beth</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0059" contrib-type="author"><name name-style="western"><surname>Seed</surname><given-names initials="A">Alison</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0060" contrib-type="author"><name name-style="western"><surname>Ray</surname><given-names initials="R">Robin</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0061" contrib-type="author"><name name-style="western"><surname>Sookhoo</surname><given-names initials="V">Vennessa</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0062" contrib-type="author"><name name-style="western"><surname>Lyons</surname><given-names initials="S">Sinead</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0063" contrib-type="author"><name name-style="western"><surname>Al‐Mohammad</surname><given-names initials="A">Abdallah</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0064" contrib-type="author"><name name-style="western"><surname>Middle</surname><given-names initials="J">Janet</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0065" contrib-type="author"><name name-style="western"><surname>Housley</surname><given-names initials="K">Kay</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0066" contrib-type="author"><name name-style="western"><surname>Clark</surname><given-names initials="A">Andrew</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0067" contrib-type="author"><name name-style="western"><surname>Bulemfu</surname><given-names initials="J">Jeanne</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0068" contrib-type="author"><name name-style="western"><surname>Critoph</surname><given-names initials="C">Christopher</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0069" contrib-type="author"><name name-style="western"><surname>Chong</surname><given-names initials="V">Victor</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0070" contrib-type="author"><name name-style="western"><surname>Wood</surname><given-names initials="S">Stephen</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0071" contrib-type="author"><name name-style="western"><surname>Szwejkowski</surname><given-names initials="B">Benjamin</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0072" contrib-type="author"><name name-style="western"><surname>Lang</surname><given-names initials="C">Chim</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0073" contrib-type="author"><name name-style="western"><surname>Duff</surname><given-names initials="J">Jackie</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0074" contrib-type="author"><name name-style="western"><surname>MacDonald</surname><given-names initials="S">Susan</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0075" contrib-type="author"><name name-style="western"><surname>Schiff</surname><given-names initials="R">Rebekah</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0076" contrib-type="author"><name name-style="western"><surname>Donnelly</surname><given-names initials="P">Patrick</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0077" contrib-type="author"><name name-style="western"><surname>Nageh</surname><given-names initials="T">Thuraia</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0078" contrib-type="author"><name name-style="western"><surname>Kunhunny</surname><given-names initials="S">Swapna</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0079" contrib-type="author"><name name-style="western"><surname>Petrie</surname><given-names initials="M">Mark</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0080" contrib-type="author"><name name-style="western"><surname>Gardner</surname><given-names initials="R">Roy</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0081" contrib-type="author"><name name-style="western"><surname>McAdam</surname><given-names initials="M">Marion</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0082" contrib-type="author"><name name-style="western"><surname>McPherson</surname><given-names initials="E">Elizabeth</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0083" contrib-type="author"><name name-style="western"><surname>Banerjee</surname><given-names initials="P">Prithwish</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0084" contrib-type="author"><name name-style="western"><surname>Sear</surname><given-names initials="E">Eleanor</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0085" contrib-type="author"><name name-style="western"><surname>Edwards</surname><given-names initials="N">Nigel</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0086" contrib-type="author"><name name-style="western"><surname>Glover</surname><given-names initials="J">Jason</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0087" contrib-type="author"><name name-style="western"><surname>Pellicori</surname><given-names initials="P">Pierpaolo</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0088" contrib-type="author"><name name-style="western"><surname>Murphy</surname><given-names initials="C">Clare</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0089" contrib-type="author"><name name-style="western"><surname>Cooke</surname><given-names initials="J">Justin</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0090" contrib-type="author"><name name-style="western"><surname>Spencer</surname><given-names initials="C">Charles</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0091" contrib-type="author"><name name-style="western"><surname>Francis</surname><given-names initials="M">Mark</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0092" contrib-type="author"><name name-style="western"><surname>Matthews</surname><given-names initials="I">Iain</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0093" contrib-type="author"><name name-style="western"><surname>McKie</surname><given-names initials="H">Hayley</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0094" contrib-type="author"><name name-style="western"><surname>Marshall</surname><given-names initials="A">Andrew</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0095" contrib-type="author"><name name-style="western"><surname>Large</surname><given-names initials="J">Janet</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0096" contrib-type="author"><name name-style="western"><surname>Stratford</surname><given-names initials="J">Jenny</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0097" contrib-type="author"><name name-style="western"><surname>Clifford</surname><given-names initials="P">Piers</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0098" contrib-type="author"><name name-style="western"><surname>Tavares</surname><given-names initials="S">Sara</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0099" contrib-type="author"><name name-style="western"><surname>Boos</surname><given-names initials="C">Christopher</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0100" contrib-type="author"><name name-style="western"><surname>Keeling</surname><given-names initials="P">Philip</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0101" contrib-type="author"><name name-style="western"><surname>Hughes</surname><given-names initials="D">Debbie</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0102" contrib-type="author"><name name-style="western"><surname>Wong</surname><given-names initials="A">Aaron</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0103" contrib-type="author"><name name-style="western"><surname>Jones</surname><given-names initials="D">Deborah</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0104" contrib-type="author"><name name-style="western"><surname>James</surname><given-names initials="A">Alex</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0105" contrib-type="author"><name name-style="western"><surname>Williams</surname><given-names initials="R">Rhys</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0106" contrib-type="author"><name name-style="western"><surname>Leslie</surname><given-names initials="S">Stephen</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0107" contrib-type="author"><name name-style="western"><surname>Finlayson</surname><given-names initials="J">Jim</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0108" contrib-type="author"><name name-style="western"><surname>Clifford</surname><given-names initials="P">Piers</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0109" contrib-type="author"><name name-style="western"><surname>Hannah</surname><given-names initials="A">Andrew</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0110" contrib-type="author"><name name-style="western"><surname>Campbell</surname><given-names initials="P">Philip</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0111" contrib-type="author"><name name-style="western"><surname>Walsh</surname><given-names initials="J">John</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0112" contrib-type="author"><name name-style="western"><surname>Quinn</surname><given-names initials="J">Jane</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0113" contrib-type="author"><name name-style="western"><surname>Chapman</surname><given-names initials="C">Callum</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0114" contrib-type="author"><name name-style="western"><surname>Piper</surname><given-names initials="S">Susan</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0115" contrib-type="author"><name name-style="western"><surname>Patale</surname><given-names initials="S">Sheetal</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0116" contrib-type="author"><name name-style="western"><surname>Gupta</surname><given-names initials="P">Preeti</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0117" contrib-type="author"><name name-style="western"><surname>Sim</surname><given-names initials="V">Victor</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0118" contrib-type="author"><name name-style="western"><surname>Knibbs</surname><given-names initials="L">Lucy</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0119" contrib-type="author"><name name-style="western"><surname>Lyons</surname><given-names initials="K">Kristopher</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0120" contrib-type="author"><name name-style="western"><surname>Dixon</surname><given-names initials="L">Lana</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0121" contrib-type="author"><name name-style="western"><surname>Petrie</surname><given-names initials="C">Colin</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0122" contrib-type="author"><name name-style="western"><surname>Wong</surname><given-names initials="YK">Yuk‐ki</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0123" contrib-type="author"><name name-style="western"><surname>Labinjoh</surname><given-names initials="C">Catherine</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0124" contrib-type="author"><name name-style="western"><surname>Duckett</surname><given-names initials="S">Simon</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0125" contrib-type="author"><name name-style="western"><surname>Massey</surname><given-names initials="I">Ian</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0126" contrib-type="author"><name name-style="western"><surname>Savage</surname><given-names initials="H">Henry</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0127" contrib-type="author"><name name-style="western"><surname>Matias</surname><given-names initials="S">Sofia</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0128" contrib-type="author"><name name-style="western"><surname>Ramirez</surname><given-names initials="J">Jonaifah</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0129" contrib-type="author"><name name-style="western"><surname>Manisty</surname><given-names initials="C">Charlotte</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0130" contrib-type="author"><name name-style="western"><surname>Hussain</surname><given-names initials="I">Ifza</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0131" contrib-type="author"><name name-style="western"><surname>Sankaranarayanan</surname><given-names initials="R">Rajiv</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0132" contrib-type="author"><name name-style="western"><surname>Davis</surname><given-names initials="G">Gershan</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0133" contrib-type="author"><name name-style="western"><surname>McClure</surname><given-names initials="S">Samuel</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0134" contrib-type="author"><name name-style="western"><surname>Baxter</surname><given-names initials="J">John</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0135" contrib-type="author"><name name-style="western"><surname>Wicks</surname><given-names initials="E">Eleanor</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0136" contrib-type="author"><name name-style="western"><surname>Sobolewska</surname><given-names initials="J">Jolanta</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0137" contrib-type="author"><name name-style="western"><surname>Murphy</surname><given-names initials="J">Jerry</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0138" contrib-type="author"><name name-style="western"><surname>Elzayat</surname><given-names initials="A">Ahmed</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0139" contrib-type="author"><name name-style="western"><surname>Cooke</surname><given-names initials="A">Alastair</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0140" contrib-type="author"><name name-style="western"><surname>Wright</surname><given-names initials="J">Jay</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0141" contrib-type="author"><name name-style="western"><surname>Williams</surname><given-names initials="S">Simon</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0142" contrib-type="author"><name name-style="western"><surname>Muthumala</surname><given-names initials="A">Amal</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0143" contrib-type="author"><name name-style="western"><surname>Chaggar</surname><given-names initials="P">Parminder</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0144" contrib-type="author"><name name-style="western"><surname>Webber</surname><given-names initials="S">Sue</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0145" contrib-type="author"><name name-style="western"><surname>Ellis</surname><given-names initials="G">Gethin</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0146" contrib-type="author"><name name-style="western"><surname>Welch</surname><given-names initials="M">Mandie</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0147" contrib-type="author"><name name-style="western"><surname>Bulugahapitiya</surname><given-names initials="S">Sudantha</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0148" contrib-type="author"><name name-style="western"><surname>Jackson</surname><given-names initials="T">Thomas</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0149" contrib-type="author"><name name-style="western"><surname>Pakrashi</surname><given-names initials="T">Tapesh</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0150" contrib-type="author"><name name-style="western"><surname>Bakhai</surname><given-names initials="A">Ameet</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0151" contrib-type="author"><name name-style="western"><surname>Krishnamurthy</surname><given-names initials="V">Vinodh</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0152" contrib-type="author"><name name-style="western"><surname>Gamma</surname><given-names initials="R">Reto</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0153" contrib-type="author"><name name-style="western"><surname>Ellery</surname><given-names initials="S">Susan</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0154" contrib-type="author"><name name-style="western"><surname>Manisty</surname><given-names initials="C">Charlotte</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0155" contrib-type="author"><name name-style="western"><surname>Jenkins</surname><given-names initials="G">Geraint</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0156" contrib-type="author"><name name-style="western"><surname>Thomas</surname><given-names initials="G">Gladdys</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib><contrib id="ejhf3504-cr-0157" contrib-type="author"><name name-style="western"><surname>Nightingale</surname><given-names initials="A">Angus</given-names></name><xref rid="ejhf3504-cr-0023" ref-type="contrib" /></contrib></contrib-group>
+</collab></contrib></contrib-group><aff id="ejhf3504-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>The Great Western Hospital</institution>
+<city>Swindon</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Portsmouth Hospitals University NHS Trust</institution>
+<city>Portsmouth</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>College of Medical, Veterinary and Life Sciences, University of Glasgow</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Science and Health</named-content>
+<institution>University of Portsmouth</institution>
+<city>Portsmouth</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>School of Cardiovascular and Metabolic Health, University of Glasgow</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Renal Medicine</named-content>
+<institution>Salford Royal Hospital, Northern Care Alliance NHS Foundation Trust</institution>
+<city>Salford</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>NIHR Biomedical Research Centre, Glenfield Hospital</institution>
+<city>Leicester</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Royal Gwent Hospital</institution>
+<city>Newport</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Chelsea and Westminster Hospital</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<institution>Ulster Hospital Southeastern Health and Social Care Trust</institution>
+<city>Belfast</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<institution>Aberdeen Royal Infirmary</institution>
+<city>Aberdeen</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<institution>Queen Elizabeth University Hospital</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>Wansbeck General Hospital</institution>
+<city>Ashington</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Cardiac Unit</named-content>
+<institution>Raigmore Hospital</institution>
+<city>Inverness</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<institution>Kings College Hospital</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<institution>St Georges Hospital</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<institution>Mid and South Essex NHS Foundation Trust</institution>
+<city>Basildon</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<institution>New Cross Hospital</institution>
+<city>Wolverhampton</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<institution>Nottingham University Hospital, Nottingham City Hospital</institution>
+<city>Nottingham</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<institution>St Richard's Hospital</institution>
+<city>Chichester</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3504-aff-0021">
+<label>
+<sup>21</sup>
+</label>
+<institution>Robertson Centre for Biostatistics, University of Glasgow</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Corresponding author. Robertson Centre for Biostatistics, University of Glasgow, University Ave, Glasgow G12 8QQ, UK. Email: <email>ian.ford@glasgow.ac.uk</email>
+<break />
+</corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>10</month><year>2024</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2025</year></pub-date><volume>27</volume><issue seq="210">1</issue><issue-id pub-id-type="pmc-issue-id">481306</issue-id><issue-id pub-id-type="doi">10.1002/ejhf.v27.1</issue-id><fpage>166</fpage><lpage>173</lpage><history><date date-type="rev-recd"><day>09</day><month>9</month><year>2024</year></date><date date-type="received"><day>26</day><month>5</month><year>2024</year></date><date date-type="accepted"><day>04</day><month>10</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>02</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>06</day><month>02</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-06-08 01:25:17.977"><day>08</day><month>06</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">European Journal of Heart Failure</italic> published by John Wiley &amp; Sons Ltd on behalf of European Society of Cardiology.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="EJHF-27-166.pdf" /><self-uri content-type="pdf" ns1:href="file:EJHF-27-166.pdf" /><abstract><sec id="ejhf3504-sec-0001"><title>Aims</title><p>Concerns exist that intravenous (IV) iron might increase the risk of infections. The IRONMAN trial provided an opportunity to investigate whether giving IV ferric derisomaltose (FDI) to patients with heart failure and iron deficiency alters the rate of hospitalization or death due to infections.</p></sec><sec id="ejhf3504-sec-0002"><title>Methods and results</title><p>IRONMAN was a randomized trial of IV FDI versus usual care in patients with symptomatic heart failure, left ventricular ejection fraction (LVEF) ≤45%, and transferrin saturation (TSAT) &lt;20% or ferritin &lt;100 μg/L. Infection was a pre‐specified, blindly‐adjudicated, safety endpoint. The primary analysis of interest was infection as the main reason for hospitalization or death, using first and recurrent events analyses. The composite primary event of interest tended to be lower in those randomized to FDI when analysed as first (hazard ratio [HR] 0.79, 95% confidence interval [CI] 0.62–1.01, <italic toggle="no">p</italic> = 0.055) or recurrent event (rate ratio 0.85, 95% CI 0.64–1.13, <italic toggle="no">p</italic> = 0.089). The composite results were driven by fewer hospitalizations for infection (HR 0.76, 95% CI 0.49–0.98, <italic toggle="no">p</italic> = 0.032), with 5% fewer patients (absolute reduction) experiencing such an event if assigned to FDI. Similar trends were observed for recurrent events (HR 0.82, 95% CI 0.62–1.10). Further analyses suggested that the reduction in hospitalizations due to infection with FDI was restricted to patients with TSAT &lt;20%.</p></sec><sec id="ejhf3504-sec-0003"><title>Conclusions</title><p>In patients with heart failure and a reduced LVEF, correction of iron deficiency is not associated with an increased risk of hospitalization or death from infection, and may reduce such events, especially when TSAT is &lt;20%.</p><p>Clinical Trial Registration: 
+<ext-link ns1:href="http://clinicaltrials.gov/" ext-link-type="uri">ClinicalTrials.gov</ext-link>, <ext-link ns1:href="http://clinicaltrials.gov/show/NCT02642562" ext-link-type="uri">NCT02642562</ext-link>.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ejhf3504-kwd-0001">Heart failure</kwd><kwd id="ejhf3504-kwd-0002">Iron deficiency</kwd><kwd id="ejhf3504-kwd-0003">Infection</kwd><kwd id="ejhf3504-kwd-0004">Hospitalization</kwd><kwd id="ejhf3504-kwd-0005">Mortality</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>British Heart Foundation
+</institution><institution-id institution-id-type="doi">10.13039/501100000274</institution-id></institution-wrap></funding-source><award-id>CS/15/1/31175</award-id></award-group></funding-group><counts><fig-count count="2" /><table-count count="4" /><page-count count="8" /><word-count count="6200" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.3 mode:remove_FC converted:05.02.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="ejhf3504-body-0001"><sec id="ejhf3504-sec-0004"><title>Introduction</title><p>Iron deficiency is common in patients with heart failure and clinical trials suggest that correction with high‐dose intravenous (IV) iron improves symptoms and quality of life and reduces the risk of heart failure hospitalization.<xref rid="ejhf3504-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ejhf3504-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="ejhf3504-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> There is a theoretical risk that iron supplements might increase the risk or severity of infection. Iron is essential for bacterial growth and laboratory studies have shown that exogenous iron may enhance bacterial proliferation<xref rid="ejhf3504-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> and inhibit host defence pathways, including impeding phagocytic function.<xref rid="ejhf3504-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Yet, iron deficiency itself may adversely impact the hosts T cell, B cell and antibody responses to infections.<xref rid="ejhf3504-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Observational studies of IV iron have produced conflicting results.<xref rid="ejhf3504-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="ejhf3504-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> A meta‐analysis (across many clinical indications) suggested an increased risk of infections with IV iron (risk ratio 1.17; 95% confidence interval [CI] 1.04–1.31) but with marked variation in the definition and reporting of infections among trials.<xref rid="ejhf3504-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> As most trials did not pre‐specify infection as an endpoint, infections were probably under‐reported. A need for prospective randomized trials of IV iron, including infection as a pre‐specified endpoint, has been highlighted.<xref rid="ejhf3504-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="ejhf3504-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> The PIVOTAL trial demonstrated no increased risk of infection with higher IV iron dosing versus lower dosing regimens in patients on haemodialysis.<xref rid="ejhf3504-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> However, further data with comparison to usual care without IV iron and in other conditions are needed. This is particularly relevant for heart failure, given the complex relationship between decompensated heart failure and infection.<xref rid="ejhf3504-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>IRONMAN (effectiveness of intravenous iron treatment versus standard care in patients with heart failure and iron deficiency) was a randomized trial comparing IV ferric derisomaltose (FDI) versus usual care in patients with heart failure, reduced left ventricular ejection fraction (LVEF) and iron deficiency.<xref rid="ejhf3504-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> The primary outcome was a composite of hospitalization for heart failure or cardiovascular death. However, hospitalization and death due to infection were important pre‐specified safety endpoints. Given that a large part of the trial was conducted during the COVID‐19 pandemic, we also evaluated COVID‐19 infections.</p></sec><sec sec-type="methods" id="ejhf3504-sec-0005"><title>Methods</title><sec id="ejhf3504-sec-0006"><title>Trial design</title><p>Briefly, IRONMAN was an investigator‐initiated, prospective, randomized, open‐label, blinded endpoint (PROBE), event‐driven trial funded by the British Heart Foundation (grant award CS/15/1/31175). Pharmacosmos supplied FDI and further financial support. The trial design and the overall trial results have been published.<xref rid="ejhf3504-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ejhf3504-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</p></sec><sec id="ejhf3504-sec-0007"><title>Patients</title><p>Patients in the United Kingdom, aged ≥18 years, with new or established symptomatic heart failure, evidence of iron deficiency (serum ferritin &lt;100 μg/L or transferrin saturation [TSAT] &lt;20%) and LVEF ≤45% in the preceding 24 months were included. Patients were required either to have a current or recent (within 6 months) heart failure admission or, for patients not fulfilling either of these criteria, have raised plasma concentrations of natriuretic peptides (N‐terminal pro‐B‐type natriuretic peptide &gt;250 ng/L in sinus rhythm or &gt;1000 ng/L in atrial fibrillation or B‐type natriuretic peptide &gt;75 pg/ml or 300 pg/ml, respectively). Patients were excluded if they had active infection, serum ferritin &gt;400 μg/L or haemoglobin &lt;9.0 g/dl or &gt;13 g/dl for women or &gt;14 g/dl for men. Randomization was stratified by trial site and recruitment context and patients provided written informed consent.</p><p>The dose of FDI was calculated according to an individual patient's weight and haemoglobin, up to a maximum of 2000 mg per infusion.<xref rid="ejhf3504-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> For all patients, follow‐up was planned at 4 weeks, 4 months, and then every 4 months. To maintain iron repletion in patients randomized to IV FDI, a further infusion was given at follow‐up visits if ferritin was &lt;100 μg/L or TSAT was &lt;25% (provided ferritin ≤400 μg/L).</p></sec><sec id="ejhf3504-sec-0008"><title>Outcomes</title><p>The trial primary and secondary endpoints have been published.<xref rid="ejhf3504-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Hospitalization and death from infection were pre‐specified safety endpoints. As a large part of the IRONMAN trial was conducted during the COVID‐19 pandemic, hospitalizations and deaths due to COVID‐19 were collected and reported. A clinical endpoints committee, blinded to treatment allocation, adjudicated all deaths and unplanned hospitalizations for both the main and contributory causes of events.</p><p>For this paper, the primary analysis of interest was infection as the main reason for hospitalization or death, using first and recurrent events approaches. We also report an analysis of recurrent events for hospitalizations or deaths where infection was the main or contributory reason.</p><p>Infections were subcategorized to the most affected systems specified. These categories of infection were: non‐COVID respiratory, COVID‐19, skin and soft tissue, urinary and other (including those where primary sites of infection was uncertain).</p><p>Two further exploratory analyses were conducted. Firstly, censoring data at 1 year, to further reduce the effect of the COVID‐19 pandemic on the trial's conduct, which prevented patients assigned to IV FDI from being re‐dosed for long periods.<xref rid="ejhf3504-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Secondly, given the growing evidence that the effect of IV iron on clinical events is greater when TSAT is &lt;20%,<xref rid="ejhf3504-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> we performed subgroup analyses of patients with baseline TSAT &lt;20% and TSAT ≥20% for time‐to‐first event outcomes.</p></sec><sec id="ejhf3504-sec-0009"><title>Statistical analysis</title><p>All analyses were carried out in the validly randomized population (one patient was randomized in error and was excluded from all analyses). Recurrent events were analysed by the method of Lin <italic toggle="yes">et al</italic>.,<xref rid="ejhf3504-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> with mean frequency functions displayed using the method of Ghosh and Lin.<xref rid="ejhf3504-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The association between baseline characteristics and risk for infection was assessed in a recurrent events model for fatal and hospitalized infection. Time‐to‐first‐event fatal or hospitalized infections were analysed using Cox proportional hazards models and displayed graphically as a cumulative incidence function adjusting for deaths not included in the outcome analysed. All analyses included treatment group and recruitment context as covariates. A Clinical Endpoints Committee adjudicated infection events. All analyses used SAS version 9.4 (SAS Institute Inc., Cary, NC, USA) or R version 4.3.2 (R Foundation for Statistical Computing, Vienna, Austria).</p></sec><sec id="ejhf3504-sec-0010"><title>Role of the funding source</title><p>The funders of the study had no role in the trial design, data collection, data analysis, data interpretation, or writing of the report. The first draft of this paper was prepared by the first two and last authors. It was reviewed by all authors, who made the decision to submit the paper.</p></sec></sec><sec sec-type="results" id="ejhf3504-sec-0011"><title>Results</title><p>A total of 1137 patients were validly randomized to IV FDI or usual care and were followed up for a median of 2.7 (interquartile range 1.8–3.6) years (maximum of 5.4 years). Twelve patients assigned to IV FDI withdrew consent and a further five were lost to follow‐up compared, respectively, to seven and six for usual care.</p><p>Of those assigned to IV FDI, 217 received a single infusion, 226 two infusions, 81 three infusions, and 35 between four and nine infusions. Of those assigned to usual care, 95 (17%) received IV iron outside the protocol, with 48 patients receiving IV iron in the first year of follow‐up. Of those 95 patients, 69 received a single infusion, 21 received two infusions, and five received between three and five infusions.</p><p>Baseline characteristics which were associated with greater rates of hospitalization due to infection include higher LVEF, higher systolic blood pressure, impaired renal function, the presence of diabetes mellitus, higher baseline ferritin (but not TSAT), anaemia and being in New York Heart Association class III or IV rather than II (<italic toggle="yes">Table</italic> <xref rid="ejhf3504-tbl-0001" ref-type="table">
+<italic toggle="yes">1</italic>
+</xref>).</p><table-wrap position="float" id="ejhf3504-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Baseline characteristics by infection status during the trial (with or without infection as the main cause of hospitalization or death)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Infection‐related event during follow‐up</th><th align="left" valign="bottom" rowspan="1" colspan="1">≥ 1 Infection</th><th align="left" valign="bottom" rowspan="1" colspan="1">No Infection</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">266</td><td align="left" valign="top" rowspan="1" colspan="1">871</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Recruitment context</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Inpatient</td><td align="left" valign="top" rowspan="1" colspan="1">46 (17)</td><td align="left" valign="top" rowspan="1" colspan="1">118 (14)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.19</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Recent admission<xref rid="ejhf3504-note-0004" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">51 (19)</td><td align="left" valign="top" rowspan="1" colspan="1">157 (18)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Outpatient</td><td align="left" valign="top" rowspan="1" colspan="1">169 (64)</td><td align="left" valign="top" rowspan="1" colspan="1">596 (68)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="left" valign="top" rowspan="1" colspan="1">74 (68–79)</td><td align="left" valign="top" rowspan="1" colspan="1">73 (66–79)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.36</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Women</td><td align="left" valign="top" rowspan="1" colspan="1">61 (23)</td><td align="left" valign="top" rowspan="1" colspan="1">239 (27)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.99</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NYHA class &gt;II</td><td align="left" valign="top" rowspan="1" colspan="1">138 (52)</td><td align="left" valign="top" rowspan="1" colspan="1">351 (40)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0045</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ischaemic aetiology</td><td align="left" valign="top" rowspan="1" colspan="1">159 (60)</td><td align="left" valign="top" rowspan="1" colspan="1">488 (56)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.29</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous admission for HF</td><td align="left" valign="top" rowspan="1" colspan="1">173 (65)</td><td align="left" valign="top" rowspan="1" colspan="1">488 (56)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.069</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">De novo HF</td><td align="left" valign="top" rowspan="1" colspan="1">19 (7)</td><td align="left" valign="top" rowspan="1" colspan="1">96 (11)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.28</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">History of AF</td><td align="left" valign="top" rowspan="1" colspan="1">119 (45)</td><td align="left" valign="top" rowspan="1" colspan="1">415 (48)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.16</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">History of ACS</td><td align="left" valign="top" rowspan="1" colspan="1">138 (52)</td><td align="left" valign="top" rowspan="1" colspan="1">439 (50)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.93</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hypertension</td><td align="left" valign="top" rowspan="1" colspan="1">143 (54)</td><td align="left" valign="top" rowspan="1" colspan="1">469 (54)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.53</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diabetes</td><td align="left" valign="top" rowspan="1" colspan="1">143 (54)</td><td align="left" valign="top" rowspan="1" colspan="1">378 (43)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0072</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">28 (25–32)</td><td align="left" valign="top" rowspan="1" colspan="1">29 (25– 33)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.13</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Heart rate (bpm)</td><td align="left" valign="top" rowspan="1" colspan="1">70 (62– 80)</td><td align="left" valign="top" rowspan="1" colspan="1">69 (60, 79)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.014</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LVEF (%)</td><td align="left" valign="top" rowspan="1" colspan="1">35 (28–40)</td><td align="left" valign="top" rowspan="1" colspan="1">32 (25–37)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.012</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SBP (mmHg)</td><td align="left" valign="top" rowspan="1" colspan="1">121 (108–135)</td><td align="left" valign="top" rowspan="1" colspan="1">118 (106–132)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0058</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">TSAT (%)</td><td align="left" valign="top" rowspan="1" colspan="1">16 (11–19)</td><td align="left" valign="top" rowspan="1" colspan="1">15 (11–19)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.46</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">TSAT &lt;20%</td><td align="left" valign="top" rowspan="1" colspan="1">195 (75)</td><td align="left" valign="top" rowspan="1" colspan="1">646 (76)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.19</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ferritin (μg/L)</td><td align="left" valign="top" rowspan="1" colspan="1">52 (31–88)</td><td align="left" valign="top" rowspan="1" colspan="1">49 (29–85)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.031</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">eGFR (ml/min/1.73 m<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">47 (36–63)</td><td align="left" valign="top" rowspan="1" colspan="1">53 (39–70)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Haemoglobin (g/dl)</td><td align="left" valign="top" rowspan="1" colspan="1">11.9 (11.1–12.8)</td><td align="left" valign="top" rowspan="1" colspan="1">12.1 (11.2–12.9)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.026</td></tr></tbody></table><table-wrap-foot id="ejhf3504-ntgp-0002"><fn id="ejhf3504-note-0002"><p>Data are summarized as median (interquartile range) for continuous variables and <italic toggle="yes">n</italic> (%) for categorical variables, with <italic toggle="yes">p</italic>‐values for univariate tests of significance of characteristic in predicting infection events in a Cox proportional hazards model.</p></fn><fn id="ejhf3504-note-0003"><p>ACS, acute coronary syndrome; AF, atrial fibrillation; BMI, body mass index; eGFR, estimated glomerular filtration rate (Levey calculation); HF, heart failure; LVEF, left ventricular ejection fraction; NYHA, New York Heart Association; SBP, systolic blood pressure; TSAT, transferrin saturation.</p></fn><fn id="ejhf3504-note-0004"><label>
+<sup>a</sup>
+</label><p>Within preceding 6 months.</p></fn></table-wrap-foot></table-wrap><p>
+<italic toggle="yes">Table</italic> <xref rid="ejhf3504-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref> shows the infection‐related events for both arms of the trial. When evaluated using first event analysis, there were fewer hospitalizations or deaths with infection as the main cause in patients assigned to FDI (hazard ratio [HR] 0.79, 95% CI 0.62–1.01, <italic toggle="yes">p</italic> = 0.055) (<italic toggle="yes">Figure</italic> <xref rid="ejhf3504-fig-0001" ref-type="fig">
+<italic toggle="yes">1B</italic>
+</xref>). Fewer patients were hospitalized with infection as the main cause if assigned to FDI (<italic toggle="yes">n</italic> = 111; 20%) compared to usual care (<italic toggle="yes">n</italic> = 140; 25%) (HR 0.76, 95% CI 0.49–0.98, <italic toggle="yes">p</italic> = 0.032) (<italic toggle="yes">Figure</italic> <xref rid="ejhf3504-fig-0001" ref-type="fig">
+<italic toggle="yes">1A</italic>
+</xref>). Also, fewer patients were hospitalized with infection as the main or contributary cause in those assigned to FDI (<italic toggle="yes">n</italic> = 189; 33%) compared to usual care (<italic toggle="yes">n</italic> = 221; 39%) (HR 0.82, 95% CI 0.67–0.99, <italic toggle="yes">p</italic> = 0.032) (<italic toggle="yes">Figure</italic> <xref rid="ejhf3504-fig-0001" ref-type="fig">
+<italic toggle="yes">1C</italic>
+</xref>).</p><table-wrap position="float" id="ejhf3504-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Hospitalizations with, and deaths due to, infection</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th align="left" valign="bottom" rowspan="1" colspan="1">Usual care (<italic toggle="yes">n</italic> = 568)</th><th align="left" valign="bottom" rowspan="1" colspan="1">FDI (<italic toggle="yes">n</italic> = 569)</th><th align="left" valign="bottom" rowspan="1" colspan="1">HR or RR (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>First events</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">n</italic> (% with an event)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">n</italic> (% with an event)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization or death with infection as the main cause (first event)</td><td align="left" valign="top" rowspan="1" colspan="1">146 (26)</td><td align="left" valign="top" rowspan="1" colspan="1">120 (21)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.79 (0.62–1.01)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.055</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization with infection as the main cause (first event)</td><td align="left" valign="top" rowspan="1" colspan="1">140 (25)</td><td align="left" valign="top" rowspan="1" colspan="1">111 (20)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.76 (0.59–0.98)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.032</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization with infection as the main or contributory cause (first event)</td><td align="left" valign="top" rowspan="1" colspan="1">221 (39)</td><td align="left" valign="top" rowspan="1" colspan="1">189 (33)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.82 (0.67–0.99)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.044</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Deaths with infection as the main cause</td><td align="left" valign="top" rowspan="1" colspan="1">28 (5)</td><td align="left" valign="top" rowspan="1" colspan="1">34 (6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.22 (0.74–2.02)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.43</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Deaths due to infection as the main cause</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">COVID‐19</td><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Other respiratory</td><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Skin and soft tissue</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Urinary</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Other</td><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Recurrent events</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">n</italic> (rate per 100 patient‐years)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">n</italic> (rate per 100 patient‐years)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalizations with infection as the main cause (recurrent events)</td><td align="left" valign="top" rowspan="1" colspan="1">213 (14)</td><td align="left" valign="top" rowspan="1" colspan="1">175 (12)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.82 (0.62–1.10)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.19</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization with infection as the main cause</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">COVID‐19</td><td align="left" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Other respiratory</td><td align="left" valign="top" rowspan="1" colspan="1">68</td><td align="left" valign="top" rowspan="1" colspan="1">42</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Skin and soft tissue</td><td align="left" valign="top" rowspan="1" colspan="1">34</td><td align="left" valign="top" rowspan="1" colspan="1">19</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Urinary</td><td align="left" valign="top" rowspan="1" colspan="1">36</td><td align="left" valign="top" rowspan="1" colspan="1">33</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Other</td><td align="left" valign="top" rowspan="1" colspan="1">55</td><td align="left" valign="top" rowspan="1" colspan="1">67</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization or death with infection as the main cause (recurrent events)</td><td align="left" valign="top" rowspan="1" colspan="1">223 (15)</td><td align="left" valign="top" rowspan="1" colspan="1">189 (13)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.85 (0.64–1.13)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.26</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalizations with infection as the main or contributory cause (recurrent events)</td><td align="left" valign="top" rowspan="1" colspan="1">420 (28)</td><td align="left" valign="top" rowspan="1" colspan="1">345 (23)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.82 (0.66–1.03)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.089</td></tr></tbody></table><table-wrap-foot id="ejhf3504-ntgp-0003"><fn id="ejhf3504-note-0005"><p>Numbers and % with events for first events and numbers of events and rates/100 patient‐years for recurrent events with hazard ratios (HR) (for first events) and rate ratios (RR) (for recurrent events) with associated 95% confidence intervals (CI) and <italic toggle="yes">p</italic>‐values comparing ferric derisomaltose (FDI) with usual care.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="Figure" id="ejhf3504-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Cumulative incidence curves for selected infection outcomes. (<italic toggle="yes">A</italic>) Cumulative incidence functions for the outcome of first hospitalization due to infection as the main cause. (<italic toggle="yes">B</italic>) Cumulative incidence functions for the outcome of first hospitalization or death due to infection as the main cause. (<italic toggle="yes">C</italic>) Cumulative incidence functions for the outcome of first hospitalization due to infection as the main or contributory cause. CI, confidence interval; FDI, ferric derisomaltose; HR, hazard ratio.</p></caption><graphic position="anchor" id="jats-graphic-1" orientation="portrait" ns1:href="EJHF-27-166-g002.jpg" /></fig><p>For patients randomized to FDI, 120 (21%) were hospitalized with infection as the main cause or died due to infection: 84 patients had a single event, 20 patients two events, and 16 patients three or more events. For patients randomized to usual care, 146 (26%) had an infection related event: 105 patients had a single event, 24 patients two events, and 17 patients three or more events. With FDI, eight infections occurred within 28 days of inclusion compared to four patients assigned to usual care. There were similar numbers of fatal infections in each randomized group (<italic toggle="yes">Table</italic> <xref rid="ejhf3504-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>).</p><p>There were numerically fewer recurrent events with FDI compared to usual care for hospitalization with infection as the main cause, hospitalization or death with infection as the main cause, and for hospitalization with infection as the main or contributory cause (<italic toggle="yes">Table</italic> <xref rid="ejhf3504-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>, <italic toggle="yes">Figure</italic> <xref rid="ejhf3504-fig-0002" ref-type="fig">
+<italic toggle="yes">2</italic>
+</xref>). However, these differences did not reach statistical significance. There were numerically fewer hospitalizations for COVID‐19, other respiratory and skin infections (cellulitis) as the main cause in those assigned to FDI, with similar numbers of urinary and other infections in the two arms (<italic toggle="yes">Table</italic> <xref rid="ejhf3504-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>).</p><fig position="float" fig-type="Figure" id="ejhf3504-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Estimated mean frequency functions for selected infection outcomes. (<italic toggle="yes">A</italic>) Recurrent hospitalization with infection as the main cause. (<italic toggle="yes">B</italic>) Recurrent hospitalization due to infection as the main or contributory cause. CI, confidence interval; FDI, ferric derisomaltose; RR, risk ratio.</p></caption><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="EJHF-27-166-g001.jpg" /></fig><p>Comparing the results in <italic toggle="yes">Table</italic> <xref rid="ejhf3504-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref> (follow‐up to 1 year only) with those in <italic toggle="yes">Table</italic> <xref rid="ejhf3504-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref> (follow‐up for the whole trial), the HRs and risk ratios were generally smaller in the first year (that is the impact of FDI appeared to be greater), particularly for the recurrent event analyses that were most likely impacted by the COVID‐19 pandemic. There were significant reductions in the risk of recurrent hospitalization or death with infection as the main cause (rate ratio [RR] 0.52, 95% CI 0.39–0.91, <italic toggle="yes">p</italic> = 0.017), recurrent hospitalization with infection as the main cause (RR 0.59, 95% CI 0.38–0.92, <italic toggle="yes">p</italic> = 0.020), and hospitalization with infection as the main or contributory cause (RR 0.64, 95% CI 0.48–0.83, <italic toggle="yes">p</italic> = 0.0042).</p><table-wrap position="float" id="ejhf3504-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Hospitalizations with, and deaths due to, infection in the first year only</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th align="left" valign="bottom" rowspan="1" colspan="1">Usual care (<italic toggle="yes">n</italic> = 568)</th><th align="left" valign="bottom" rowspan="1" colspan="1">FDI (<italic toggle="yes">n</italic> = 569)</th><th align="left" valign="bottom" rowspan="1" colspan="1">HR or RR (95%CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>First event</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">n</italic> (% with an event)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">n</italic> (% with an event)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization or death with infection as the main cause (first event)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">56 (10)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">40 (7%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.70 (0.46–1.04)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.079</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization with infection as the main cause (first event)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">53 (9)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">37 (7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.68 (0.45–1.10)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.19</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization with infection as the main or contributory cause (first event)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">100 (18)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">85 (15)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.82 (0.62–0.98)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.038</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Deaths with infection as the main cause</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">8 (1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.33 (0.46–3.84)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.59</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Recurrent events</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">n</italic> (rate per 100 patient‐years)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">n</italic> (rate per 100 patient‐years)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalizations with infection as the main cause (recurrent events)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">71 (13)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">42 (8)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.59 (0.38–0.92)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.020</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization or death with infection as the main cause (recurrent events)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">74 (14)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">44 (8)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.52 (0.39–0.91)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.017</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalizations with infection as the main or contributory cause (recurrent events)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">158 (30)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">102 (19)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.64 (0.48–0.83)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0042</td></tr></tbody></table><table-wrap-foot id="ejhf3504-ntgp-0004"><fn id="ejhf3504-note-0006"><p>Numbers and percentage with events in the first year of follow‐up, for first events and numbers of events and rates/100 patient‐years for recurrent events with hazard ratios (HR) (for first events) and rate ratios (RR) (for recurrent events) with associated 95% confidence intervals (CI) and <italic toggle="yes">p</italic>‐values comparing ferric derisomaltose (FDI) with usual care.</p></fn></table-wrap-foot></table-wrap><p>
+<italic toggle="yes">Table</italic> <xref rid="ejhf3504-tbl-0004" ref-type="table">
+<italic toggle="yes">4</italic>
+</xref> contains a post‐hoc subgroup analysis based on baseline TSAT &lt;20% (<italic toggle="yes">n</italic> = 841) versus ≥20% (<italic toggle="yes">n</italic> = 269) for the three time‐to‐first event analyses shown in <italic toggle="yes">Table</italic> <xref rid="ejhf3504-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>. For each outcome there was evidence of a reduction in infection events in the IV FDI arm compared to usual care in the TSAT &lt;20% subgroup. There was no evidence of a difference in the TSAT ≥20% subgroup. However, tests for interaction did not meet statistical significance.</p><table-wrap position="float" id="ejhf3504-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Post hoc subgroup‐analyses of hospitalization or death from infection (all follow‐up) according to baseline transferrin saturation</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">TSAT &lt;20%</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">TSAT ≥20%</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<sub>interaction</sub>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">HR (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="left" valign="bottom" rowspan="1" colspan="1">HR (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="left" valign="bottom" rowspan="1" colspan="1" /></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization or death with infection as the main cause (first event)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.73 (0.55–0.97)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.029</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.20 (0.73–1.97)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.47</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.086</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization for infection as main cause (first event)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.70 (0.53–0.94)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.017</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.13 (0.69–1.87)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.63</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.10</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hospitalization for infection as main or contributory cause (first event)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.79 (0.63–0.99)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.039</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.08 (0.72–1.60)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.71</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.22</td></tr></tbody></table><table-wrap-foot id="ejhf3504-ntgp-0005"><fn id="ejhf3504-note-0007"><p>Hazard ratios (HR) and 95% confidence intervals (CI) for the effect of ferric derisomaltose relative to usual care split by levels of transferrin saturation (TSAT) (&lt;20% and ≥ 20%) for time‐to‐first event outcomes.</p></fn></table-wrap-foot></table-wrap></sec><sec id="ejhf3504-sec-0012"><title>Discussion</title><p>This analysis shows that patients with heart failure and iron deficiency are prone to a substantial risk of hospitalizations for infection and that IV iron replacement with FDI does not increase the risk of serious infection, and might reduce it, especially when the TSAT is &lt;20%. When analysed across the full timescale of the trial this effect was particularly noticeable in the time‐to‐first event analysis. Since many recurrent events by their nature will have occurred later in the trial, the recurrent event analyses were more likely to be affected by the COVID‐19 pandemic. This argument is supported by the analysis of outcomes in the first year of follow‐up where there was much clearer evidence of a reduction in serious infection‐related events with FDI when analysed as recurrent events, including a 6% absolute reduction in the risk of hospitalization or death with infection as the main cause. A further point is that, if FDI is beneficial in reducing the risk of serious infection, then this will be most evident in patients who are truly iron depleted. There is growing evidence that a TSAT &lt;20% provides strong evidence of iron depletion, while ferritin &lt;100 μg/L in patients with TSAT ≥20% does not. Our subgroup analyses suggesting that reduction in infection risk following IV FDI is restricted to patients with a TSAT &lt;20% support this argument. The reduction in events with FDI appeared to be due to fewer hospitalizations due to respiratory, skin/soft tissue and COVID‐19 aetiology. This finding should be investigated in other studies.</p><p>Our current data should be reassuring to clinicians and patients and aid the shared decision‐making process; the benefits of IV FDI do not come at the expense of increased risk of infection. Although not specifically assessed in the current analysis, given that patients with active infection were excluded, most would still agree that IV iron infusions should not be administered during active bacterial infections due to concern that iron is required for pathogen replication. Previous trials of IV iron have generally not pre‐specified infection as an endpoint and as such reporting of infections may have been subject to reporting bias.<xref rid="ejhf3504-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> In different patient populations, the subtypes of infection will likely differ, and this could also affect the observed overall effect of IV iron on infections. A major strength of our data is that serious infection‐related events were pre‐specified safety endpoints and that all unplanned hospitalizations and all deaths were blindly adjudicated. Our data add to those from the recent PIVOTAL trial of IV iron sucrose in patients with end‐stage kidney disease treated with dialysis.<xref rid="ejhf3504-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> This trial compared a high dose pro‐active versus lower dose reactive IV iron dosing regimen and found no evidence of a dose response effect in terms of infection risk, but in line with international dialysis practice ferritin levels in the pro‐active arm were substantially greater than in IRONMAN.<xref rid="ejhf3504-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Intravenous iron preparations differ with respect to the amount of free iron; FDI has tight binding of iron within the carbohydrate complex, with very low levels of labile iron.<xref rid="ejhf3504-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="ejhf3504-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> It would be interesting to compare the effect of FDI on infection with that other IV iron preparations which do not have this property.</p><p>The COVID‐19 pandemic profoundly affected the conduct of the IRONMAN trial; at times, in‐person review of research patients was not permitted preventing assessment of iron status and, if indicated, re‐dosing with FDI, which could have led to failure to maintain iron repletion. In addition, as the trial progressed, more patients assigned to usual care received IV iron outside the protocol. Such protocol deviations could obscure both beneficial and harmful effects of correcting iron deficiency. First event analyses or censoring follow‐up at 1 year reduce the confounding effects of the pandemic, not only providing more robust evidence of safety of IV FDI but also suggesting greater benefit. Recent trials of IV iron in heart failure have used the criteria for iron deficiency recommended in heart failure guidelines but these are not based on robust scientific evidence. This allowed inclusion of patients with a ferritin of &lt;100 μg/L irrespective of other iron markers. A TSAT &lt;20% may be a better marker of response to IV iron in patients with heart failure<xref rid="ejhf3504-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="ejhf3504-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="ejhf3504-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> and the reduction in infection with FDI seemed clearest for this group of patients.</p><p>It is not possible to infer from our data that IV iron reduces the risk of infection, more that it may reduce the risk of serious infection that causes or contributes to hospitalization or death in those with heart failure and iron deficiency. This could be because correction of iron deficiency makes patients more resilient to an insult, in this case exposure to infection. However, it is plausible that there are more specific mechanisms involved given iron has an important role in the immune response, and iron deficiency is associated with reduced T cell and macrophage function and reduced bactericidal capacity of polymorphs.<xref rid="ejhf3504-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ejhf3504-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="ejhf3504-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="ejhf3504-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> The bioavailability of iron to cells is reflected by how much iron is bound to transferrin in the circulation and this is represented by TSAT. The finding that patients with a TSAT &lt;20%, a marker of reduced iron bioavailability, exhibited a significant reduction in the risk of serious infection with IV FDI adds further support. Of note, infection was also a common contributary cause for hospital admission. It is uncertain how precisely these infections impacted admissions and whether a reduction in contributary infections can be interpreted as causally due to treatment. Nevertheless, the high rate of contributary infections emphasizes the complexity of typical heart failure hospitalizations.</p><p>Respiratory infections were common but numerically fewer in patients randomized to FDI. Differentiating respiratory infection from worsening heart failure may be clinically challenging, and the two conditions often co‐exist.<xref rid="ejhf3504-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Several other effective treatments for heart failure also reduce the risk of respiratory infections.<xref rid="ejhf3504-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="ejhf3504-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> It is plausible that some participants may have been adjudicated as presenting with heart failure when they had infection, and vice versa. However, we found evidence that FDI decreased the risk of hospitalization due to heart failure as well as hospitalization with infection.<xref rid="ejhf3504-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> The COVID‐19 pandemic placed patients with heart failure at a higher risk of complications and mortality than patients without heart failure. In this trial, FDI was associated with numerically fewer COVID‐19 related hospitalizations and deaths. Total numbers of severe COVID‐19 events were relatively low, but this merits further evaluation for patients with heart failure and/or other comorbidities associated with iron deficiency. Replenishing iron helps the immune response,<xref rid="ejhf3504-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> whilst low serum iron seems to impair the response to immunization,<xref rid="ejhf3504-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> for example blunting the T cell, B cell and neutralizing antibodies to influenza vaccine.<xref rid="ejhf3504-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> We do not have data on COVID‐19 immunization for participants in the IRONMAN trial, but there is no reason to believe that the high uptake of vaccination seen in the UK would differ between the arms of the trial.</p><p>There are limitations within the current analysis. The population was mainly Caucasian and as such extrapolation of the results to other ethnic populations should be done with caution. With a median age of around 74 years and with frequent comorbidities the population reflects patients encountered in routine clinical practice. The infection‐related events recorded were those that resulted in hospitalization or death and hence we are unable to comment on the number or type of infections that were managed outside of hospital. It was not possible to be certain of the precise nature of infection in all patient events. Whilst over two thirds (69%) were respiratory (separately reporting COVID‐19), skin and soft tissue, and urinary, the site of infection could not always be specified. This clinical scenario is frequently encountered in clinical practice, with patients receiving broad spectrum antibiotics in the face of pyrexia and/or elevated inflammatory markers. We are not able to comment on specific inflammatory markers since they were not routinely collected from these serious adverse events.</p></sec><sec sec-type="conclusions" id="ejhf3504-sec-0013"><title>Conclusion</title><p>This analysis from the IRONMAN trial found that patients with heart failure and reduced or mildly reduced LVEF and iron deficiency are prone to a substantial risk of serious infection. IV FDI is not associated with an increased risk of hospitalization or death from infection, and may in fact be protective in this population, especially when TSAT is &lt;20%.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ejhf3504-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Appendix S1.</bold> Supporting Information.</p></caption><media ns1:href="EJHF-27-166-s001.docx" position="float" orientation="portrait" /></supplementary-material></sec></body><back><ref-list id="ejhf3504-bibl-0001" content-type="cited-references"><title>References</title><ref id="ejhf3504-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0001">
+<string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Comin Colet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filippatos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Willenheimer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickstein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drexler</surname>
+<given-names>H</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">FAIR‐HF Trial Investigators</collab>
+. <article-title>Ferric carboxymaltose in patients with heart failure and iron deficiency</article-title>. <source>N Engl J Med</source>
+<year>2009</year>;<volume>361</volume>:<fpage>2436</fpage>–<lpage>2448</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa0908355</pub-id>
+<pub-id pub-id-type="pmid">19920054</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0002">
+<string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirwan</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonagh</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dorobantu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drozdz</surname>
+<given-names>J</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">AFFIRM‐AHF Investigators</collab>
+. <article-title>Ferric carboxymaltose for iron deficiency at discharge after acute heart failure: A multicentre, double‐blind, randomised, controlled trial</article-title>. <source>Lancet</source>
+<year>2020</year>;<volume>396</volume>:<fpage>1895</fpage>–<lpage>1904</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(20)32339-4</pub-id>
+<pub-id pub-id-type="pmid">33197395</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0003">
+<string-name name-style="western">
+<surname>Kalra</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JGF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomson</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalra</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Squire</surname>
+<given-names>IB</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">IRONMAN Study Group</collab>
+. <article-title>Intravenous ferric derisomaltose in patients with heart failure and iron deficiency in the UK (IRONMAN): An investigator‐initiated, prospective, randomised, open‐label, blinded‐endpoint trial</article-title>. <source>Lancet</source>
+<year>2022</year>;<volume>400</volume>:<fpage>2199</fpage>–<lpage>2209</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(22)02083-9</pub-id>
+<pub-id pub-id-type="pmid">36347265</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0004">
+<string-name name-style="western">
+<surname>Stefanova</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raychev</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arezes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruchala</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gabayan</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skurnik</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Endogenous hepcidin and its agonist mediate resistance to selected infections by clearing non‐transferrin‐bound iron</article-title>. <source>Blood</source>
+<year>2017</year>;<volume>130</volume>:<fpage>245</fpage>–<lpage>257</lpage>. <pub-id pub-id-type="doi">10.1182/blood-2017-03-772715</pub-id>
+<pub-id pub-id-type="pmid">28465342</pub-id>
+<pub-id pub-id-type="pmcid">PMC5520472</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0005">
+<string-name name-style="western">
+<surname>Ichii</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masuda</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hassanzadeh</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saffarian</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gollapudi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vaziri</surname>
+<given-names>ND</given-names>
+</string-name>. <article-title>Iron sucrose impairs phagocytic function and promotes apoptosis in polymorphonuclear leukocytes</article-title>. <source>Am J Nephrol</source>
+<year>2012</year>;<volume>36</volume>:<fpage>50</fpage>–<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1159/000339285</pub-id>
+<pub-id pub-id-type="pmid">22722756</pub-id>
+<pub-id pub-id-type="pmcid">PMC3986045</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0006">
+<string-name name-style="western">
+<surname>Frost</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abbas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wideman</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonadonna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stoffel</surname>
+<given-names>NU</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Hepcidin‐mediated hypoferremia disrupts immune responses to vaccination and infection</article-title>. <source>Med</source>
+<year>2021</year>;<volume>2</volume>:<fpage>164</fpage>–<lpage>179.e12</lpage>. <pub-id pub-id-type="doi">10.1016/j.medj.2020.10.004</pub-id>
+<pub-id pub-id-type="pmid">33665641</pub-id>
+<pub-id pub-id-type="pmcid">PMC7895906</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0007">
+<string-name name-style="western">
+<surname>Brookhart</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freburger</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ellis</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winkelmayer</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kshirsagar</surname>
+<given-names>AV</given-names>
+</string-name>. <article-title>Infection risk with bolus versus maintenance iron supplementation in hemodialysis patients</article-title>. <source>J Am Soc Nephrol</source>
+<year>2013</year>;<volume>24</volume>:<fpage>1151</fpage>–<lpage>1158</lpage>. <pub-id pub-id-type="doi">10.1681/ASN.2012121164</pub-id>
+<pub-id pub-id-type="pmid">23787911</pub-id>
+<pub-id pub-id-type="pmcid">PMC3699831</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0008">
+<string-name name-style="western">
+<surname>Tangri</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miskulin</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bandeen‐Roche</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michels</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ephraim</surname>
+<given-names>PL</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">DEcIDE Network Patient Outcomes in End‐Stage Renal Disease Study Investigators</collab>
+. <article-title>Effect of intravenous iron use on hospitalizations in patients undergoing hemodialysis: A comparative effectiveness analysis from the DEcIDE‐ESRD study</article-title>. <source>Nephrol Dial Transplant</source>
+<year>2015</year>;<volume>30</volume>:<fpage>667</fpage>–<lpage>675</lpage>. <pub-id pub-id-type="doi">10.1093/ndt/gfu349</pub-id>
+<pub-id pub-id-type="pmid">25366328</pub-id>
+<pub-id pub-id-type="pmcid">PMC4402378</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0009">
+<string-name name-style="western">
+<surname>Shah</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donovan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seeley</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickson</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palmer</surname>
+<given-names>AJR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doree</surname>
+<given-names>C</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Risk of infection associated with administration of intravenous iron: A systematic review and meta‐analysis</article-title>. <source>JAMA Netw Open</source>
+<year>2021</year>;<volume>4</volume>:<elocation-id>e2133935</elocation-id>. <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2021.33935</pub-id>
+<pub-id pub-id-type="pmid">34767026</pub-id>
+<pub-id pub-id-type="pmcid">PMC8590171</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0010">
+<string-name name-style="western">
+<surname>Rund</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Intravenous iron: Do we adequately understand the short‐ and long‐term risks in clinical practice?</article-title>
+<source>Br J Haematol</source>
+<year>2021</year>;<volume>193</volume>:<fpage>466</fpage>–<lpage>480</lpage>. <pub-id pub-id-type="doi">10.1111/bjh.17202</pub-id>
+<pub-id pub-id-type="pmid">33216989</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0011">
+<string-name name-style="western">
+<surname>Macdougall</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhandari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farrington</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalra</surname>
+<given-names>PA</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">PIVOTAL Investigators and Committees</collab>
+. <article-title>Intravenous iron in patients undergoing maintenance hemodialysis</article-title>. <source>N Engl J Med.</source>
+<year>2019</year>;<volume>380</volume>:<fpage>447</fpage>–<lpage>458</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1810742</pub-id>
+<pub-id pub-id-type="pmid">30365356</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0012">
+<string-name name-style="western">
+<surname>Heidecker</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pagnesi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lüscher</surname>
+<given-names>TF</given-names>
+</string-name>. <article-title>Heart failure and respiratory tract infection: Cause and consequence of acute decompensation?</article-title>
+<source>Eur J Heart Fail</source>
+<year>2024</year>;<volume>26</volume>:<fpage>960</fpage>–<lpage>962</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.3209</pub-id>
+<pub-id pub-id-type="pmid">38606584</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0013">
+<string-name name-style="western">
+<surname>Kalra</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JGF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmed</surname>
+<given-names>FZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foley</surname>
+<given-names>PWX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalra</surname>
+<given-names>PA</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Rationale and design of a randomised trial of intravenous iron in patients with heart failure</article-title>. <source>Heart</source>
+<year>2022</year>;<volume>108</volume>:<fpage>1979</fpage>–<lpage>1985</lpage>. <pub-id pub-id-type="doi">10.1136/heartjnl-2022-321304</pub-id>
+<pub-id pub-id-type="pmid">35948408</pub-id>
+<pub-id pub-id-type="pmcid">PMC9726969</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0014">
+<string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JGF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalra</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pellicori</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graham</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foley</surname>
+<given-names>PWX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Squire</surname>
+<given-names>IB</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">IRONMAN Study Group</collab>
+. <article-title>Intravenous iron for heart failure, iron deficiency definitions, and clinical response: The IRONMAN trial</article-title>. <source>Eur Heart J</source>
+<year>2024</year>;<volume>45</volume>:<fpage>1410</fpage>–<lpage>1426</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehae086</pub-id>
+<pub-id pub-id-type="pmid">38446126</pub-id>
+<pub-id pub-id-type="pmcid">PMC11032711</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0015">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ying</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Semiparametric regression for the mean and rate functions of recurrent events</article-title>. <source>J R Stat Soc Series B Stat Methodol</source>
+<year>2000</year>;<volume>62</volume>:<fpage>711</fpage>–<lpage>730</lpage>. doi:<pub-id pub-id-type="doi">10.1111/1467-9868.00259</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0016">
+<string-name name-style="western">
+<surname>Ghosh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Nonparametric analysis of recurrent events and death</article-title>. <source>Biometrics</source>
+<year>2000</year>;<volume>56</volume>:<fpage>554</fpage>–<lpage>562</lpage>. <pub-id pub-id-type="doi">10.1111/j.0006-341x.2000.00554.x</pub-id>
+<pub-id pub-id-type="pmid">10877316</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0017">
+<string-name name-style="western">
+<surname>Kalra</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhandari</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Safety of intravenous iron use in chronic kidney disease</article-title>. <source>Curr Opin Nephrol Hypertens</source>
+<year>2016</year>;<volume>25</volume>:<fpage>529</fpage>–<lpage>535</lpage>. <pub-id pub-id-type="doi">10.1097/MNH.0000000000000263</pub-id>
+<pub-id pub-id-type="pmid">27557350</pub-id>
+<pub-id pub-id-type="pmcid">PMC5054948</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0018">
+<string-name name-style="western">
+<surname>Garbowski</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bansal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porter</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mori</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burckhardt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hider</surname>
+<given-names>RC</given-names>
+</string-name>. <article-title>Intravenous iron preparations transiently generate non‐transferrin‐bound iron from two proposed pathways</article-title>. <source>Haematologica</source>
+<year>2020</year>;<volume>106</volume>:<fpage>2885</fpage>–<lpage>2896</lpage>. <pub-id pub-id-type="doi">10.3324/haematol.2020.250803</pub-id>
+<pub-id pub-id-type="pmcid">PMC8561294</pub-id><pub-id pub-id-type="pmid">33054113</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0019">
+<string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JGF</given-names>
+</string-name>. <article-title>Defining iron deficiency in patients with heart failure</article-title>. <source>Nat Rev Cardiol</source>
+<year>2024</year>;<volume>21</volume>:<fpage>1</fpage>–<lpage>2</lpage>. <pub-id pub-id-type="doi">10.1038/s41569-023-00951-6</pub-id>
+<pub-id pub-id-type="pmid">37875635</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0020">
+<string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mentz</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hernandez</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Veldhuisen</surname>
+<given-names>DJ</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Efficacy of ferric carboxymaltose in heart failure with iron deficiency: An individual patient data meta‐analysis</article-title>. <source>Eur Heart J</source>
+<year>2023</year>;<volume>44</volume>:<fpage>5077</fpage>–<lpage>5091</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehad586</pub-id>
+<pub-id pub-id-type="pmid">37632415</pub-id>
+<pub-id pub-id-type="pmcid">PMC10733736</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0021">
+<string-name name-style="western">
+<surname>Bagchi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohanram</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reddy</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Humoral immune response in children with iron‐deficiency anaemia</article-title>. <source>Br Med J</source>
+<year>1980</year>;<volume>280</volume>:<fpage>1249</fpage>–<lpage>1251</lpage>. <pub-id pub-id-type="doi">10.1136/bmj.280.6226.1249</pub-id>
+<pub-id pub-id-type="pmid">7388490</pub-id>
+<pub-id pub-id-type="pmcid">PMC1601555</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0022">
+<string-name name-style="western">
+<surname>Bhaskaram</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reddy</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Cell mediated immunity in iron‐ and vitamin‐deficient children</article-title>. <source>Br Med J</source>
+<year>1975</year>;<volume>3</volume>:<elocation-id>522</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.3.5982.522</pub-id>
+<pub-id pub-id-type="pmid">1080682</pub-id>
+<pub-id pub-id-type="pmcid">PMC1674360</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0023">
+<string-name name-style="western">
+<surname>Preston</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drakesmith</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frost</surname>
+<given-names>JN</given-names>
+</string-name>. <article-title>Adaptive immunity and vaccination – Iron in the spotlight</article-title>. <source>Immunother Adv</source>
+<year>2021</year>;<volume>1</volume>:<elocation-id>ltab007</elocation-id>. <pub-id pub-id-type="doi">10.1093/immadv/ltab007</pub-id>
+<pub-id pub-id-type="pmid">35919735</pub-id>
+<pub-id pub-id-type="pmcid">PMC9327113</pub-id></mixed-citation></ref><ref id="ejhf3504-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0024">
+<string-name name-style="western">
+<surname>Shen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anand</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatt</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desai</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Incidence and outcomes of pneumonia in patients with heart failure</article-title>. <source>J Am Coll Cardiol</source>
+<year>2021</year>;<volume>77</volume>:<fpage>1961</fpage>–<lpage>1973</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2021.03.001</pub-id>
+<pub-id pub-id-type="pmid">33888245</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0025">
+<string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filippatos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pocock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vasques‐Nóvoa</surname>
+<given-names>F</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Empagliflozin and risk of lower respiratory tract infection in heart failure with mildly reduced and preserved ejection fraction: An EMPEROR‐Preserved analysis</article-title>. <source>Eur J Heart Fail</source>
+<year>2024</year>;<volume>26</volume>:<fpage>952</fpage>–<lpage>959</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.3180</pub-id>
+<pub-id pub-id-type="pmid">38439585</pub-id>
+</mixed-citation></ref><ref id="ejhf3504-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ejhf3504-cit-0026">
+<string-name name-style="western">
+<surname>Drakesmith</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pasricha</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cabantchik</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hershko</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiss</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Girelli</surname>
+<given-names>D</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Vaccine efficacy and iron deficiency: An intertwined pair?</article-title>
+<source>Lancet Haematol</source>
+<year>2021</year>;<volume>8</volume>:<fpage>e666</fpage>–<lpage>e669</lpage>. <pub-id pub-id-type="doi">10.1016/S2352-3026(21)00201-5</pub-id>
+<pub-id pub-id-type="pmid">34450104</pub-id>
+<pub-id pub-id-type="pmcid">PMC8384343</pub-id></mixed-citation></ref></ref-list></back></article>

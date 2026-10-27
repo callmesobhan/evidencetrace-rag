@@ -1,6 +1,7 @@
 name: reproduce
 # Re-derives every committed number from the SHA-256-pinned papers on three Python versions and diffs the result
-# against the committed files. Manual and weekly (it downloads ~22 MB from NCBI), not on every push.
+# against the committed files. Manual and weekly, not on every push. The papers are committed (data/raw/NOTICE.md), so only the two
+# papers that are not committed are downloaded from NCBI.
 on:
   workflow_dispatch:
   schedule:

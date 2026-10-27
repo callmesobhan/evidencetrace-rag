@@ -105,10 +105,10 @@ make demo                        # ingest the synthetic corpus, ask two question
 make eval                        # per-stage evaluation on the synthetic corpus -> reports/eval.{md,json}
 ```
 
-Reproduce the real-paper numbers (network once, ~22 MB of CC BY papers, SHA-256 verified; `make reproduce` runs all four steps):
+Reproduce the real-paper numbers (164 of the 166 CC BY 4.0 papers are committed under `data/raw/`; `make fetch-pinned` checks them offline and downloads only the two that are not committed, SHA-256 verified; `make reproduce` runs all the steps; see [data/raw/NOTICE.md](data/raw/NOTICE.md)):
 
 ```bash
-make fetch-pinned                # exactly the 111 + 55 papers in data/m1/*_manifest.jsonl -> data/raw/ (git-ignored)
+make fetch-pinned                # the 111 + 55 papers in data/m1/*_manifest.jsonl: checks data/raw/ offline, downloads what is missing
 make verify-freeze               # every hash recorded in data/m1/FROZEN.json, recomputed
 make m1-frozen                   # the held-out numbers, from the frozen source; diffs against data/m1/results
 make m1 independent              # current code; independent-annotation scores; diffs against the committed files
@@ -241,3 +241,5 @@ See [docs/roadmap.md](docs/roadmap.md) for the plan.
 
 Code and original annotations: [MIT](LICENSE), copyright Sobhan Shahbazi. The quoted sentences in `data/m1/` come from 166
 CC BY articles and keep their authors' licence and attribution requirement: see [data/m1/ATTRIBUTION.md](data/m1/ATTRIBUTION.md).
+The full text of 164 of those articles is in `data/raw/` under CC BY 4.0, not MIT: see [data/raw/NOTICE.md](data/raw/NOTICE.md) for the licence check,
+the two articles not committed (their licence terms conflict), and the changes made to each file.

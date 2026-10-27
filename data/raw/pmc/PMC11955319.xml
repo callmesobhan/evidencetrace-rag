@@ -1,0 +1,839 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="ejhf3548" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Heart Fail</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Heart Fail</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">100887595</journal-id><journal-id journal-id-type="publisher-id">EJHF</journal-id><journal-title-group><journal-title>European Journal of Heart Failure</journal-title></journal-title-group><issn pub-type="ppub">1388-9842</issn><issn pub-type="epub">1879-0844</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11955319</article-id><article-id pub-id-type="pmcid-ver">PMC11955319.1</article-id><article-id pub-id-type="pmcaid">11955319</article-id><article-id pub-id-type="pmcaiid">11955319</article-id><article-id pub-id-type="pmid">39725521</article-id><article-id pub-id-type="doi">10.1002/ejhf.3548</article-id><article-id pub-id-type="publisher-id">EJHF3548</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>POST‐MYOCARDIAL INFARCTION</subject><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Empagliflozin in acute myocardial infarction in patients with and without type 2 diabetes: A pre‐specified analysis of the <styled-content style="fixed-case" toggle="no">EMPACT</styled-content>‐<styled-content style="fixed-case" toggle="no">MI</styled-content> trial</article-title><alt-title alt-title-type="right-running-head">Empagliflozin in acute MI with or without diabetes</alt-title><alt-title alt-title-type="left-running-head">M.C. Petrie et al.</alt-title></title-group><contrib-group><contrib id="ejhf3548-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Petrie</surname><given-names initials="MC">Mark C.</given-names></name><xref rid="ejhf3548-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejhf3548-note-0001" ref-type="author-notes">
+<sup>†</sup>
+</xref><address><email>mark.petrie@glasgow.ac.uk</email></address></contrib><contrib id="ejhf3548-cr-0002" contrib-type="author"><name name-style="western"><surname>Udell</surname><given-names initials="JA">Jacob A.</given-names></name><xref rid="ejhf3548-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="ejhf3548-note-0001" ref-type="author-notes">
+<sup>†</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0003" contrib-type="author"><name name-style="western"><surname>Anker</surname><given-names initials="SD">Stefan D.</given-names></name><xref rid="ejhf3548-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0004" contrib-type="author"><name name-style="western"><surname>Harrington</surname><given-names initials="J">Josephine</given-names></name><xref rid="ejhf3548-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0005" contrib-type="author"><name name-style="western"><surname>Jones</surname><given-names initials="WS">W. Schuyler</given-names></name><xref rid="ejhf3548-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0006" contrib-type="author"><name name-style="western"><surname>Mattheus</surname><given-names initials="M">Michaela</given-names></name><xref rid="ejhf3548-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0007" contrib-type="author"><name name-style="western"><surname>Gasior</surname><given-names initials="T">Tomasz</given-names></name><xref rid="ejhf3548-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="ejhf3548-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0008" contrib-type="author"><name name-style="western"><surname>van der Meer</surname><given-names initials="P">Peter</given-names></name><xref rid="ejhf3548-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0009" contrib-type="author"><name name-style="western"><surname>Amir</surname><given-names initials="O">Offer</given-names></name><xref rid="ejhf3548-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0010" contrib-type="author"><name name-style="western"><surname>Bahit</surname><given-names initials="MC">M. Cecilia</given-names></name><xref rid="ejhf3548-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0011" contrib-type="author"><name name-style="western"><surname>Bauersachs</surname><given-names initials="J">Johann</given-names></name><xref rid="ejhf3548-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0012" contrib-type="author"><name name-style="western"><surname>Bayes‐Genis</surname><given-names initials="A">Antoni</given-names></name><xref rid="ejhf3548-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0013" contrib-type="author"><name name-style="western"><surname>Chopra</surname><given-names initials="VK">Vijay K.</given-names></name><xref rid="ejhf3548-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0014" contrib-type="author"><name name-style="western"><surname>Januzzi</surname><given-names initials="JL">James L.</given-names></name><xref rid="ejhf3548-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0015" contrib-type="author"><name name-style="western"><surname>Lopes</surname><given-names initials="RD">Renato D.</given-names></name><xref rid="ejhf3548-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0016" contrib-type="author"><name name-style="western"><surname>Ponikowski</surname><given-names initials="P">Piotr</given-names></name><xref rid="ejhf3548-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0017" contrib-type="author"><name name-style="western"><surname>Rossello</surname><given-names initials="X">Xavier</given-names></name><xref rid="ejhf3548-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0018" contrib-type="author"><name name-style="western"><surname>Schou</surname><given-names initials="M">Morten</given-names></name><xref rid="ejhf3548-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0019" contrib-type="author"><name name-style="western"><surname>Zieroth</surname><given-names initials="S">Shelley</given-names></name><xref rid="ejhf3548-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0020" contrib-type="author"><name name-style="western"><surname>Brueckmann</surname><given-names initials="M">Martina</given-names></name><xref rid="ejhf3548-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="ejhf3548-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0021" contrib-type="author"><name name-style="western"><surname>Sumin</surname><given-names initials="M">Mikhail</given-names></name><xref rid="ejhf3548-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0022" contrib-type="author"><name name-style="western"><surname>Bhatt</surname><given-names initials="DL">Deepak L.</given-names></name><xref rid="ejhf3548-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0023" contrib-type="author"><name name-style="western"><surname>Hernandez</surname><given-names initials="AF">Adrian F.</given-names></name><xref rid="ejhf3548-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf3548-cr-0024" contrib-type="author"><name name-style="western"><surname>Butler</surname><given-names initials="J">Javed</given-names></name><xref rid="ejhf3548-aff-0022" ref-type="aff">
+<sup>22</sup>
+</xref></contrib></contrib-group><aff id="ejhf3548-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Cardiovascular and Medical Sciences, British Heart Foundation Glasgow Cardiovascular Research Centre</named-content>
+<institution>University of Glasgow</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf3548-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Women's College Hospital and Peter Munk Cardiac Centre, Toronto General Hospital</named-content>
+<institution>University of Toronto</institution>
+<city>Toronto</city>
+<named-content content-type="country-part">ON</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="ejhf3548-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology (CVK) of German Heart Center Charité; Berlin Institute of Health Center for Regenerative Therapies (BCRT), German Centre for Cardiovascular Research (DZHK) partner site Berlin</named-content>
+<institution>Charité Universitätsmedizin</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf3548-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Duke University Department of Medicine, Division of Cardiology</named-content>
+<institution>and Duke Clinical Research Institute</institution>
+<city>Durham</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf3548-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Boehringer Ingelheim Pharma GmbH &amp; Co KG</institution>
+<city>Ingelheim</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf3548-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Boehringer Ingelheim International GmbH</institution>
+<city>Ingelheim</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf3548-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Collegium Medicum – Faculty of Medicine</named-content>
+<institution>WSB University</institution>
+<city>Dabrowa Gornicza</city>
+<country country="PL">Poland</country>
+</aff><aff id="ejhf3548-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology, University of Groningen</named-content>
+<institution>University Medical Centre Groningen</institution>
+<city>Groningen</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="ejhf3548-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Heart Institute</named-content>
+<institution>Hadassah Medical Center &amp;The Hebrew University</institution>
+<city>Jerusalem</city>
+<country country="IL">Israel</country>
+</aff><aff id="ejhf3548-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">INECO Neurociencias Oroño</named-content>
+<institution>Fundación INECO</institution>
+<city>Rosario</city>
+<country country="AR">Argentina</country>
+</aff><aff id="ejhf3548-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology and Angiology</named-content>
+<institution>Hannover Medical School</institution>
+<city>Hannover</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf3548-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Heart Institute, Hospital Universitari Germans Trias i Pujol, Barcelona, Spain, and Department of Medicine</named-content>
+<institution>Universitat Autònomoa de Barcelona</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="ejhf3548-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>Max Super Speciality Hospital</institution>
+<city>New Delhi</city>
+<country country="IN">India</country>
+</aff><aff id="ejhf3548-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Massachusetts General Hospital, Harvard Medical School</named-content>
+<institution>Baim Institute for Clinical Research</institution>
+<city>Boston</city>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf3548-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Duke Clinical Research Institute</named-content>
+<institution>Duke University School of Medicine</institution>
+<city>Durham</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf3548-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Heart Diseases</named-content>
+<institution>Wroclaw Medical University</institution>
+<city>Wroclaw</city>
+<country country="PL">Poland</country>
+</aff><aff id="ejhf3548-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Hospital Universitari Son Espases, Health Research Institute of the Balearic Islands</named-content>
+<institution>University of the Balearic Islands</institution>
+<city>Palma de Mallorca</city>
+<country country="ES">Spain</country>
+</aff><aff id="ejhf3548-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology, Herlev‐Gentofte Hospital</named-content>
+<institution>University of Copenhagen</institution>
+<city>Herlev</city>
+<country country="DK">Denmark</country>
+</aff><aff id="ejhf3548-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<named-content content-type="organisation-division">Section of Cardiology, Max Rady College of Medicine</named-content>
+<institution>University of Manitoba</institution>
+<city>Winnipeg</city>
+<named-content content-type="country-part">MB</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="ejhf3548-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<named-content content-type="organisation-division">First Department of Medicine, Faculty of Medicine Mannheim</named-content>
+<institution>University of Heidelberg</institution>
+<city>Mannheim</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf3548-aff-0021">
+<label>
+<sup>21</sup>
+</label>
+<named-content content-type="organisation-division">Mount Sinai Fuster Heart Hospital</named-content>
+<institution>Icahn School of Medicine at Mount Sinai</institution>
+<city>New York</city>
+<named-content content-type="country-part">NY</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf3548-aff-0022">
+<label>
+<sup>22</sup>
+</label>
+<named-content content-type="organisation-division">Baylor Scott and White Research Institute, Dallas, TX, USA, and Department of Medicine</named-content>
+<institution>University of Mississippi</institution>
+<city>Jackson</city>
+<named-content content-type="country-part">MS</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Corresponding author. School of Cardiovascular and Metabolic Health, University of Glasgow, Glasgow G12 8TA, UK. Email: <email>mark.petrie@glasgow.ac.uk</email>
+<break />
+</corresp><fn id="ejhf3548-note-0001" fn-type="equal"><label>†</label><p>Contributed equally as co‐first authors.</p></fn></author-notes><pub-date pub-type="epub"><day>26</day><month>12</month><year>2024</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2025</year></pub-date><volume>27</volume><issue seq="280">3</issue><issue-id pub-id-type="pmc-issue-id">485584</issue-id><issue-id pub-id-type="doi">10.1002/ejhf.v27.3</issue-id><fpage>577</fpage><lpage>588</lpage><history><date date-type="rev-recd"><day>29</day><month>10</month><year>2024</year></date><date date-type="received"><day>19</day><month>7</month><year>2024</year></date><date date-type="accepted"><day>18</day><month>11</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>31</day><month>03</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>01</day><month>04</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-10-03 14:00:55.720"><day>03</day><month>10</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">European Journal of Heart Failure</italic> published by John Wiley &amp; Sons Ltd on behalf of European Society of Cardiology.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="EJHF-27-577.pdf" /><self-uri content-type="pdf" ns1:href="file:EJHF-27-577.pdf" /><abstract><title>Abstract</title><sec id="ejhf3548-sec-0001"><title>Aims</title><p>In the EMPACT‐MI trial, empagliflozin reduced heart failure (HF) hospitalizations but not mortality in acute myocardial infarction (MI). Contemporary reports of clinical event rates with and without type 2 diabetes mellitus (T2DM) in acute MI trials are sparse. The treatment effect of empagliflozin in those with and without T2DM in acute MI is unknown.</p></sec><sec id="ejhf3548-sec-0002"><title>Methods and results</title><p>A total of 6522 patients with acute MI with newly reduced left ventricular ejection fraction (LVEF) to &lt;45%, congestion, or both, were randomized to empagliflozin 10 mg or placebo. The primary endpoint was time to first HF hospitalization or all‐cause death. Rates of endpoints with and without T2DM and the efficacy and safety of empagliflozin according to T2DM status were assessed. Overall, 32% had T2DM; 14% had pre‐diabetes; 16% were normoglycaemic; 38% had unknown glycaemic status. Patients with T2DM, compared to those without T2DM, were at higher risk of time to first HF hospitalization or all‐cause death (hazard ratio [HR] 1.44; 95% confidence interval [CI] 1.06–1.95) and all‐cause death (HR 1.70; 95% CI 1.13–2.56). T2DM did not confer a higher risk of first HF hospitalization (HR 1.22, 95% CI 0.82–1.83). Empagliflozin reduced first and total HF hospitalizations, but not all‐cause mortality, regardless of presence or absence of T2DM. The safety profile of empagliflozin was the same with and without T2DM.</p></sec><sec id="ejhf3548-sec-0003"><title>Conclusion</title><p>Patients with acute MI, LVEF &lt;45% and/or congestion who had T2DM were at a higher risk of mortality than those without T2DM. Empagliflozin reduced first and total HF hospitalizations regardless of the presence or absence of T2DM.</p></sec></abstract><abstract abstract-type="graphical"><p>Glycaemic status and diabetes in EMPACT‐MI. HF, heart failure; LVEF, left ventricular ejection fraction; MI, myocardial infarction.
+<boxed-text position="anchor" content-type="graphic" id="ejhf3548-blkfxd-0001" orientation="portrait"><graphic position="anchor" id="jats-graphic-1" orientation="portrait" ns1:href="EJHF-27-577-g001.jpg" /></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ejhf3548-kwd-0001">Acute myocardial infarction</kwd><kwd id="ejhf3548-kwd-0002">Empagliflozin</kwd><kwd id="ejhf3548-kwd-0003">Diabetes</kwd><kwd id="ejhf3548-kwd-0004">Heart failure</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Boehringer Ingelheim
+</institution><institution-id institution-id-type="doi">10.13039/100019718</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="6" /><table-count count="2" /><page-count count="12" /><word-count count="8100" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.4 mode:remove_FC converted:30.03.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="ejhf3548-body-0001"><sec id="ejhf3548-sec-0004"><title>Introduction</title><p>Type 2 diabetes mellitus (T2DM) is increasingly prevalent in patients with acute myocardial infarction (MI). In clinical trials conducted between 10 and 30 years ago, patients with T2DM and acute MI had worse clinical outcomes than those without T2DM.<xref rid="ejhf3548-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ejhf3548-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Factors including more advanced epicardial and microvascular coronary disease and impaired healing of the infarct were thought to contribute to higher rates of clinical events among those with T2DM. Contemporary data investigating whether patients with T2DM are still at increased risk in the era of prompt reperfusion and improved medical therapy are sparse.</p><p>Sodium–glucose cotransporter 2 (SGLT2) inhibitors reduce the risk of heart failure (HF) hospitalizations in patients with T2DM and chronic stable cardiovascular disease as well as in patients with chronic kidney disease, and patients with HF across the range of ejection fraction, in patients with and without T2DM.<xref rid="ejhf3548-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> The success of SGLT2 inhibitors in these populations led to interest in their potential efficacy in patients with acute MI. In the SGLT2 inhibitor trials in T2DM and chronic stable coronary disease, patients were excluded if they had suffered an acute MI within 2 months<xref rid="ejhf3548-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> and few were enrolled within 1 year of an acute MI.<xref rid="ejhf3548-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> EMPACT‐MI was the first prospective randomized controlled trial to investigate the effect of SGLT2 inhibitors on clinical outcomes after acute MI in a cohort with and without T2DM.<xref rid="ejhf3548-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> EMPACT‐MI enrolled patients with acute MI who were at a high risk for developing HF. In EMPACT‐MI, empagliflozin did not reduce the primary outcome of first HF hospitalization or all‐cause mortality but reduced first and total HF hospitalizations by 23% and 33%, respectively. DAPA‐MI, which investigated the effect of dapagliflozin on cardiometabolic endpoints in an acute MI population, enrolled only those without T2DM.<xref rid="ejhf3548-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Accordingly, a difference between the effect of SGLT2 inhibition in those with or without T2DM and concomitant MI remained unknown. The objective of the current pre‐specified analysis was to compare outcomes of patients with and without T2DM in the EMPACT‐MI trial.</p></sec><sec sec-type="methods" id="ejhf3548-sec-0005"><title>Methods</title><sec id="ejhf3548-sec-0006"><title>Study design and participants</title><p>This was a pre‐specified analysis of the EMPACT‐MI trial. The design, baseline characteristics, and primary results of the double‐blind, randomized, placebo‐controlled, event‐driven EMPACT‐MI trial have been reported previously.<xref rid="ejhf3548-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ejhf3548-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="ejhf3548-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Briefly, patients were randomized within 14 days of an acute MI who were stable and at high risk for HF based on either newly developed left ventricular systolic dysfunction with documented left ventricular ejection fraction (LVEF) of &lt;45% or signs or symptoms of congestion requiring treatment. Patients were also required to have at least one of the following enrichment factors: age ≥65 years, newly developed LVEF &lt;35%, history of MI, atrial fibrillation, type 2 diabetes, estimated glomerular filtration rate (eGFR) &lt;60 ml/min/1.73 m<sup>2</sup>, elevated natriuretic peptides or uric acid levels, elevated pulmonary artery or right ventricular systolic pressure, three‐vessel coronary artery disease, peripheral artery disease, or no revascularization for the index MI. A total of 6522 participants were randomized in a 1:1 ratio to empagliflozin 10 mg daily or matching placebo on top of standard of care and were followed for a median of 17.9 months. Patients with pre‐existing HF, those who were planned for treatment with an SGLT2 inhibitor and patients with type 1 diabetes were excluded. All participants provided written informed consent and the study protocol was approved by the relevant ethics committee or institutional review board at each participating centre and the coordinating centre.</p></sec><sec id="ejhf3548-sec-0007"><title>Categorization of glycaemic status at baseline</title><p>Systematic glycated haemoglobin (HbA1c) measurement during the index acute MI hospitalization was not mandated per protocol. The HbA1c values used in the current analysis were those measured as per clinical practice. For the reporting of baseline glycaemic status, the cohort was grouped into five categories:
+<list list-type="order" id="ejhf3548-list-0001"><list-item id="ejhf3548-li-0001"><p>Normoglycaemia (HbA1c &lt;5.7% [&lt;39 mmol/ml] measured during the index presentation excluding those with baseline diagnosed T2DM).</p></list-item><list-item id="ejhf3548-li-0002"><p>Diagnosed T2DM (all participants with investigator‐reported T2DM regardless of HbA1c measured during the index presentation).</p></list-item><list-item id="ejhf3548-li-0003"><p>Pre‐diabetes (HbA1c ≥5.7% [≥39 mmol/ml] and &lt;6.5% [&lt;48 mmol/mol] measured during the index presentation excluding those with baseline diagnosed T2DM).</p></list-item><list-item id="ejhf3548-li-0004"><p>Undiagnosed diabetes (HbA1c ≥ 6.5% [≥48 mmol/mol] measured during the index presentation excluding those with baseline diagnosed T2DM).</p></list-item><list-item id="ejhf3548-li-0005"><p>Unknown HbA1c (HbA1c not measured during the index presentation excluding those with baseline diagnosed T2DM).</p></list-item></list>
+</p><p>For the purposes of investigation of outcomes and the treatment effect of empagliflozin according to T2DM status, the following categories were used:<list list-type="order" id="ejhf3548-list-0002"><list-item id="ejhf3548-li-0006"><p>T2DM: investigator‐reported T2DM plus undiagnosed diabetes (baseline HbA1c ≥6.5%).</p></list-item><list-item id="ejhf3548-li-0007"><p>No T2DM: normoglycaemia plus pre‐diabetes.</p></list-item><list-item id="ejhf3548-li-0008"><p>Unknown HbA1c: HbA1c not measured during the index presentation and no prior diagnosis of T2DM.</p></list-item></list>
+</p></sec><sec id="ejhf3548-sec-0008"><title>Endpoints</title><p>The primary endpoint of EMPACT‐MI was time to first HF hospitalization or all‐cause mortality. The key secondary endpoints were total (first and recurrent) number of HF hospitalizations or all‐cause mortality, total number of non‐elective cardiovascular hospitalizations or all‐cause mortality, total number of non‐elective all‐cause hospitalizations or all‐cause mortality and total hospitalizations for MI and all‐cause mortality. Other outcomes included total number of HF hospitalizations. All events were classified according to pre‐specified definitions by site investigators blinded to study drug assignment and trained on the trial protocol without central adjudication. In supplementary analyses, we also examined site‐reported first and total number of HF adverse events based on the narrow standardized MedDRA query ‘cardiac failure’ alone and as composite with all‐cause mortality. Any adverse events included in a pre‐specified list of cardiac failure events were to be considered always serious and therefore captured. These included both those reported as requiring or prolonging hospitalization (such as prolonged hospitalization due to HF) or reported outpatient HF events as well. The details of this approach in the overall EMPACT‐MI population have been previously published.<xref rid="ejhf3548-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+</p><p>Because of the established safety profile of empagliflozin, we used focused safety reporting, in which the investigators reported only serious adverse events, adverse events that led to discontinuation of the trial regimen for at least 7 consecutive days, and adverse events of special interest.</p></sec><sec id="ejhf3548-sec-0009"><title>Statistics</title><p>All analyses were performed based on the intention‐to‐treat principle and included all randomized participants. Baseline characteristics were summarized by categories of diabetes at baseline (three group comparison: T2DM, no T2DM, unknown HbA1c) using means (standard deviation) and medians (interquartile range) for continuous variables, and proportions for categorical variables and differences were evaluated using an analysis of variance for continuous variables and the chi‐square test for categorical variables. Among placebo‐assigned patients, we evaluated the risk for the primary endpoints (and its components) and key secondary endpoints for patients with T2DM, and unknown HbA1c versus those with no T2DM. Data for patients who did not have an event were censored on the last day they were known to be free of the outcome. Analyses for time‐to‐first event outcomes were performed based on a multivariable Cox proportional hazards regression model including factors for age, sex, eGFR (assessed categorically using the Chronic Kidney Disease Epidemiology Collaboration formula &lt;45 vs. 45–&lt;60 vs. 60–&lt;90 vs. ≥90 ml/min/1.73 m<sup>2</sup>), geographical region, T2DM, persistent/permanent atrial fibrillation, prior MI, peripheral artery disease, smoking status, and LVEF, and resulting effect estimates were expressed as hazard ratios (HRs) along with their 95% confidence intervals (CIs). Analyses for total (first and recurrent) events were performed based on a negative binomial regression model including the same covariates that were used for time‐to‐first event analyses and including logarithm of observation time as an offset variable. Resulting effect estimates were expressed as rate ratios (RRs) along with their 95% CIs.</p><p>Treatment effects of empagliflozin versus placebo were evaluated by T2DM status for the primary outcome and its components, key secondary and other endpoints using Cox proportional hazards regression models for time‐to‐first event endpoints and using negative binomial regression models for total HF hospitalizations. These multivariable models included the same covariates as described above with the addition of a term for treatment and an interaction term between treatment and the subgroup variable to explore potential effect modification of T2DM status. Additionally, treatment effects were evaluated by T2DM status and according to the prescription of metformin or insulin, or according to body mass index (BMI), age or sex at baseline using multivariable models including the same covariates. The effect of empagliflozin versus placebo across the range of baseline HbA1c (where measured) was also evaluated and displayed graphically using a cubic spline model that included a set of cubic polynomials which were constrained to meet at each of a set of equally distanced knots to explore for interaction. Analyses were not adjusted for multiplicity and should be interpreted as exploratory.</p><p>Safety outcomes of interest, including hypotension, hypovolaemia, and acute kidney injury were assessed according to T2DM categories. All statistical analyses were performed using SAS software version 9.4 (SAS institute Inc., Cary, NC, USA).</p></sec></sec><sec sec-type="results" id="ejhf3548-sec-0010"><title>Results</title><sec id="ejhf3548-sec-0011"><title>Glycaemia status at baseline (over pooled empagliflozin and placebo groups)</title><p>Overall, 32% of the participants had T2DM, 14% had pre‐diabetes, 16% were normoglycaemic; 38% had unknown glycaemic status, 1% had undiagnosed T2DM (<italic toggle="yes">Figure</italic> <xref rid="ejhf3548-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>). Patients with T2DM were more likely to be female, to have had a non‐ST‐elevation MI, a history of hypertension and an eGFR &lt;60 ml/min/1.73 m<sup>2</sup> (<italic toggle="yes">Table</italic> <xref rid="ejhf3548-tbl-0001" ref-type="table">
+<italic toggle="yes">1</italic>
+</xref>). Patients with T2DM also had a higher BMI and were more likely to be receiving a loop diuretic.</p><fig position="float" fig-type="Figure" id="ejhf3548-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Glycaemic status at baseline. HbA1c, glycated haemoglobin; T2DM, type 2 diabetes mellitus. *During index hospitalization.</p></caption><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="EJHF-27-577-g004.jpg" /></fig><table-wrap position="float" id="ejhf3548-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Baseline characteristics according to type 2 diabetes mellitus status</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="bottom" rowspan="1" colspan="1">T2DM (<italic toggle="yes">n</italic> = 2165)</th><th align="left" valign="bottom" rowspan="1" colspan="1">No T2DM (<italic toggle="yes">n</italic> = 1911)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Unknown HbA1c (<italic toggle="yes">n</italic> = 2446)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, years, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">64 (10)</td><td align="left" valign="top" rowspan="1" colspan="1">63 (11)</td><td align="left" valign="top" rowspan="1" colspan="1">64 (11)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1141</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Male</td><td align="left" valign="top" rowspan="1" colspan="1">71</td><td align="left" valign="top" rowspan="1" colspan="1">78</td><td align="left" valign="top" rowspan="1" colspan="1">77</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Female</td><td align="left" valign="top" rowspan="1" colspan="1">29</td><td align="left" valign="top" rowspan="1" colspan="1">22</td><td align="left" valign="top" rowspan="1" colspan="1">23</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Index myocardial infarction type, (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">STEMI</td><td align="left" valign="top" rowspan="1" colspan="1">69</td><td align="left" valign="top" rowspan="1" colspan="1">79</td><td align="left" valign="top" rowspan="1" colspan="1">76 &lt; 0.0001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">NSTEMI</td><td align="left" valign="top" rowspan="1" colspan="1">32</td><td align="left" valign="top" rowspan="1" colspan="1">21</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Race (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Asian</td><td align="left" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Black or African American</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Other including mixed race</td><td align="left" valign="top" rowspan="1" colspan="1">0.2</td><td align="left" valign="top" rowspan="1" colspan="1">0.4</td><td align="left" valign="top" rowspan="1" colspan="1">0.1</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">82</td><td align="left" valign="top" rowspan="1" colspan="1">79</td><td align="left" valign="top" rowspan="1" colspan="1">89</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Medical history (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Hypertension</td><td align="left" valign="top" rowspan="1" colspan="1">80</td><td align="left" valign="top" rowspan="1" colspan="1">63</td><td align="left" valign="top" rowspan="1" colspan="1">65</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">COPD</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.3373</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">AF</td><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.8540</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Previous stroke or TIA</td><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0140</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Previous MI</td><td align="left" valign="top" rowspan="1" colspan="1">16</td><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Previous PCI</td><td align="left" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0005</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Previous CABG</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0004</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Smoker (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Never</td><td align="left" valign="top" rowspan="1" colspan="1">27</td><td align="left" valign="top" rowspan="1" colspan="1">27</td><td align="left" valign="top" rowspan="1" colspan="1">26</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Current</td><td align="left" valign="top" rowspan="1" colspan="1">30</td><td align="left" valign="top" rowspan="1" colspan="1">38</td><td align="left" valign="top" rowspan="1" colspan="1">35</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Former</td><td align="left" valign="top" rowspan="1" colspan="1">44</td><td align="left" valign="top" rowspan="1" colspan="1">35</td><td align="left" valign="top" rowspan="1" colspan="1">39</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HbA1c<xref rid="ejhf3548-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>, %, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">8 (2)</td><td align="left" valign="top" rowspan="1" colspan="1">6 (0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">NA</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NT‐proBNP highest<xref rid="ejhf3548-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, pg/ml, median (IQR)</td><td align="left" valign="top" rowspan="1" colspan="1">1717 (678–3569)</td><td align="left" valign="top" rowspan="1" colspan="1">1810 (743–3623)</td><td align="left" valign="top" rowspan="1" colspan="1">1944 (867–3710)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1689</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">eGFR, ml/min/1.73 m<sup>2</sup>, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">75 (21)</td><td align="left" valign="top" rowspan="1" colspan="1">78 (18)</td><td align="left" valign="top" rowspan="1" colspan="1">76 (20)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">&lt;60 ml/min/1.73 m<sup>2</sup> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">27</td><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="left" valign="top" rowspan="1" colspan="1">22</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Creatinine, mg/dl, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (0.3)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Haemoglobin, g/dl, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">13 (2)</td><td align="left" valign="top" rowspan="1" colspan="1">14 (2)</td><td align="left" valign="top" rowspan="1" colspan="1">14 (2)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI, kg/m<sup>2</sup>, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">29 (5)</td><td align="left" valign="top" rowspan="1" colspan="1">28 (5)</td><td align="left" valign="top" rowspan="1" colspan="1">27 (5)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Systolic BP, mmHg, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">123 (15)</td><td align="left" valign="top" rowspan="1" colspan="1">118 (15)</td><td align="left" valign="top" rowspan="1" colspan="1">121 (15)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diastolic BP, mmHg, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">74 (10)</td><td align="left" valign="top" rowspan="1" colspan="1">72 (10)</td><td align="left" valign="top" rowspan="1" colspan="1">74 (10)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Medical therapy at baseline (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Beta‐blockers</td><td align="left" valign="top" rowspan="1" colspan="1">78</td><td align="left" valign="top" rowspan="1" colspan="1">81</td><td align="left" valign="top" rowspan="1" colspan="1">74</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">ACEi or ARB</td><td align="left" valign="top" rowspan="1" colspan="1">69</td><td align="left" valign="top" rowspan="1" colspan="1">70</td><td align="left" valign="top" rowspan="1" colspan="1">66</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0057</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">MRA</td><td align="left" valign="top" rowspan="1" colspan="1">39</td><td align="left" valign="top" rowspan="1" colspan="1">42</td><td align="left" valign="top" rowspan="1" colspan="1">37</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.0038</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Loop or high‐ceiling diuretics</td><td align="left" valign="top" rowspan="1" colspan="1">40</td><td align="left" valign="top" rowspan="1" colspan="1">29</td><td align="left" valign="top" rowspan="1" colspan="1">33</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.0001</td></tr></tbody></table><table-wrap-foot id="ejhf3548-ntgp-0002"><fn id="ejhf3548-note-0002"><p>ACEi, angiotensin‐converting enzyme inhibitor; AF, atrial fibrillation; ARB, angiotensin receptor blocker; BMI, body mass index; BP, blood pressure; CABG, coronary artery bypass graft; COPD, chronic obstructive pulmonary disease; eGFR, estimated glomerular filtration rate; HbA1c, glycated haemoglobin; IQR, interquartile range; MI, myocardial infarction; MRA, mineralocorticoid receptor blocker; NSTEMI, non‐ST‐elevation myocardial infarction; PCI, percutaneous coronary intervention; NT‐proBNP, N‐terminal pro‐B‐type natriuretic peptide; SD, standard deviation; STEMI, ST‐elevation myocardial infarction; T2DM, type 2 diabetes mellitus; TIA, transient ischaemic attack.</p></fn><fn id="ejhf3548-note-0003"><label>
+<sup>a</sup>
+</label><p>Based on 1201 patients with T2DM who provided data.</p></fn><fn id="ejhf3548-note-0004"><label>
+<sup>b</sup>
+</label><p>Based on 803 patients with T2DM, 998 patients with no T2DM and 747 patients with unknown HbA1c who provided data.</p></fn></table-wrap-foot></table-wrap></sec><sec id="ejhf3548-sec-0012"><title>Outcomes in the placebo group according <styled-content style="fixed-case" toggle="no">to type 2 diabetes</styled-content> status</title><p>Patients with T2DM, compared to those with no T2DM, were at higher risk of both the primary outcome (HR 1.44, 95% CI 1.06–1.95) and all‐cause mortality (HR 1.70, 95% CI 1.13–2.56) (<italic toggle="yes">Figure</italic> <xref rid="ejhf3548-fig-0002" ref-type="fig">
+<italic toggle="yes">2</italic>
+</xref> and online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf3548-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>). T2DM did not confer a higher risk of first HF hospitalization (HR 1.22, 95% CI 0.82–1.83).</p><fig position="float" fig-type="Figure" id="ejhf3548-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Adjusted event rates in the placebo group according to baseline type 2 diabetes mellitus (T2DM) status. Hazard ratios (HR) and rate ratios (RR) based on Cox regression or negative binomial regression models adjusted for age, sex, estimated glomerular filtration rate (assessed categorically using the Chronic Kidney Disease Epidemiology Collaboration formula &lt;45 vs. 45–&lt;60 vs. 60–&lt;90 vs. ≥90 ml/min/1.73 m<sup>2</sup>), geographical region, T2DM, persistent/permanent atrial fibrillation, prior myocardial infarction (MI), peripheral artery disease, smoking status and left ventricular ejection fraction. T2DM is defined as diagnosed T2DM (investigator‐reported) and undiagnosed T2DM (i.e. baseline glycated haemoglobin ≥6.5%). No T2DM is defined as normoglycaemia or pre‐diabetes. Unknown refers to no T2DM without glycated haemoglobin measured. CI, confidence interval; CV, cardiovascular; HHF, hospitalization for heart failure; PY, patient‐years.</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="EJHF-27-577-g003.jpg" /></fig><p>Type 2 diabetes mellitus conferred a higher risk of three of the four key secondary endpoints: total HF hospitalizations or all‐cause mortality (RR 1.82, 95% CI 1.21–2.75), total non‐elective cardiovascular hospitalizations or all‐cause mortality (RR 1.38, 95% CI 1.05–1.83) and total hospitalizations for MI and all‐cause mortality (RR 1.93, 95% CI 1.26–2.96) (<italic toggle="yes">Figure</italic> <xref rid="ejhf3548-fig-0002" ref-type="fig">
+<italic toggle="yes">2</italic>
+</xref> and online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf3548-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>). Cardiovascular mortality was higher in those with T2DM (HR 2.32, 95% CI 1.43–3.77), but total HF hospitalizations were not statistically different (RR 1.49, 95% CI 0.92–2.41).</p></sec><sec id="ejhf3548-sec-0013"><title>Effect of empagliflozin according to type 2 diabetes status</title><p>The effect of empagliflozin versus placebo on the primary endpoint was consistent in those with and without T2DM (<italic toggle="yes">Figures</italic> <xref rid="ejhf3548-fig-0003" ref-type="fig">
+<italic toggle="yes">3</italic>
+</xref> and <xref rid="ejhf3548-fig-0004" ref-type="fig">
+<italic toggle="yes">4</italic>
+</xref>). Empagliflozin reduced time to first HF hospitalization (T2DM: HR 0.85, 95% CI 0.58–1.23; no T2DM: HR 0.56, 95% CI 0.34–0.93; unknown HbA1c: HR 0.84, 95% CI 0.56–1.27, <italic toggle="yes">p</italic> for interaction 0.39) and total HF hospitalizations (T2DM: RR 0.62, 95% CI 0.39–0.98; no T2DM: RR 0.51, 95% CI 0.29–0.89; unknown HbA1c: RR 0.90, 95% CI 0.56–1.47, <italic toggle="yes">p</italic> for interaction 0.28) in patients with and without T2DM and in patients with unknown HbA1c. First adverse event of HF, total adverse events of HF, first and total adverse events of HF or all‐cause mortality were also reduced by empagliflozin to a similar extent in those with and without T2DM and patients with unknown HbA1c (online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf3548-supitem-0002" ref-type="supplementary-material">
+<italic toggle="yes">S2</italic>
+</xref>). Empagliflozin reduced first and total HF hospitalizations across the range of baseline HbA1c (<italic toggle="yes">Figure</italic> <xref rid="ejhf3548-fig-0005" ref-type="fig">
+<italic toggle="yes">5</italic>
+</xref>). The treatment effect of empagliflozin on the primary endpoint, its components and total hospitalizations according to T2DM status did not vary according to the prescription of metformin or insulin, or according to BMI, age, or sex at baseline (online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf3548-supitem-0003" ref-type="supplementary-material">
+<italic toggle="yes">S3</italic>
+</xref>).</p><fig position="float" fig-type="Figure" id="ejhf3548-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Effect of empagliflozin according to baseline glycaemic status. Hazard ratios (HR) and rate ratios (RR) based on Cox regression or negative binomial regression models adjusted for age, sex, estimated glomerular filtration rate (assessed categorically using the Chronic Kidney Disease Epidemiology Collaboration formula &lt;45 vs. 45–&lt;60 vs. 60–&lt;90 vs. ≥90 ml/min/1.73 m<sup>2</sup>), geographical region, type 2 diabetes mellitus (T2DM), persistent/permanent atrial fibrillation, prior myocardial infarction, peripheral artery disease, smoking status and left ventricular ejection fraction (categorical or continuous). T2DM is defined as diagnosed T2DM (investigator‐reported) and undiagnosed T2DM (i.e. baseline glycated haemoglobin ≥6.5%). <italic toggle="yes">n</italic> number of patients with event (for time‐to‐first event endpoints) or number of events (for total number of events endpoint) based on <italic toggle="yes">N</italic> number of patients at risk. No T2DM is defined as normoglycaemia or pre‐diabetes. Unknown refers to no T2DM without glycated haemoglobin measured. CI, confidence interval; PY, patient‐years.</p></caption><graphic position="anchor" id="jats-graphic-7" orientation="portrait" ns1:href="EJHF-27-577-g002.jpg" /></fig><fig position="float" fig-type="Figure" id="ejhf3548-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Treatment effect of empagliflozin compared to placebo according to type 2 diabetes mellitus (T2DM) status. Hazard ratios (HR) and rate ratios (RR) based on Cox regression or negative binomial regression models adjusted for age, sex, estimated glomerular filtration rate (assessed categorically using the Chronic Kidney Disease Epidemiology Collaboration formula &lt;45 vs. 45–&lt;60 vs. 60–&lt;90 vs. ≥90 ml/min/1.73 m<sup>2</sup>), geographical region, T2DM, persistent/permanent atrial fibrillation, prior myocardial infarction, peripheral artery disease, smoking status and left ventricular ejection fraction. Kaplan–Meier estimates and cumulative incidence function for the composite primary endpoint (<italic toggle="yes">A</italic>) and its components (<italic toggle="yes">B</italic>, <italic toggle="yes">C</italic>) and mean cumulative function for total number of heart failure hospitalizations (<italic toggle="yes">D</italic>). CI, confidence interval.</p></caption><graphic position="anchor" id="jats-graphic-9" orientation="portrait" ns1:href="EJHF-27-577-g005.jpg" /></fig><fig position="float" fig-type="Figure" id="ejhf3548-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Treatment effect for empagliflozin versus placebo according to baseline glycated haemoglobin (HbA1c) as a continuous variable. (<italic toggle="yes">A</italic>) Time to first heart failure hospitalization or all‐cause mortality: empagliflozin versus placebo by baseline HbA1c. (<italic toggle="yes">B</italic>) Time to all‐cause mortality: empagliflozin versus placebo by baseline HbA1c. (<italic toggle="yes">C</italic>) Time to first heart failure hospitalization: empagliflozin versus placebo by baseline HbA1c. (<italic toggle="yes">D</italic>) Total number of heart failure hospitalizations: empagliflozin versus placebo by baseline HbA1c. The solid black line represents the hazard ratio of the treatment effect. The grey shaded area represents the 95% confidence interval (CI) around the treatment effects. The dotted horizontal line represents a hazard ratio of 1 (i.e. no difference between randomized groups). Hazard ratios and rate ratios based on Cox regression or negative binomial regression models adjusted for age, sex, estimated glomerular filtration rate (assessed categorically using the Chronic Kidney Disease Epidemiology Collaboration formula &lt;45 vs. 45–&lt;60 vs. 60–&lt;90 vs. ≥90 ml/min/1.73 m<sup>2</sup>), geographical region, type 2 diabetes mellitus, persistent/permanent atrial fibrillation, prior myocardial infarction, peripheral artery disease, smoking status and left ventricular ejection fraction.</p></caption><graphic position="anchor" id="jats-graphic-11" orientation="portrait" ns1:href="EJHF-27-577-g006.jpg" /></fig></sec><sec id="ejhf3548-sec-0014"><title>Safety</title><p>The safety profile of empagliflozin and placebo was similar in participants with and without T2DM and those with unknown HbA1c (<italic toggle="yes">Table</italic> <xref rid="ejhf3548-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>). Specifically, there were no differences in rates of hypotension, volume depletion, and acute kidney injury between empagliflozin and placebo for those with T2DM and no T2DM and those with unknown HbA1c.</p><table-wrap position="float" id="ejhf3548-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Safety outcomes according to type 2 diabetes mellitus status<xref rid="ejhf3548-note-0007" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th colspan="4" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">T2DM</th><th colspan="4" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">No T2DM</th><th colspan="4" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Unknown HbA1c</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Empagliflozin (<italic toggle="yes">n</italic> = 1069)</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Placebo (<italic toggle="yes">n</italic> = 1070)</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Empagliflozin (<italic toggle="yes">n</italic> = 902)</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Placebo (<italic toggle="yes">n</italic> = 988)</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Empagliflozin (<italic toggle="yes">n</italic> = 1263)</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Placebo (<italic toggle="yes">n</italic> = 1171)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">%</th><th align="left" valign="bottom" rowspan="1" colspan="1">Incidence per 100 PY</th><th align="left" valign="bottom" rowspan="1" colspan="1">%</th><th align="left" valign="bottom" rowspan="1" colspan="1">Incidence per 100 PY</th><th align="left" valign="bottom" rowspan="1" colspan="1">%</th><th align="left" valign="bottom" rowspan="1" colspan="1">Incidence per 100 PY</th><th align="left" valign="bottom" rowspan="1" colspan="1">%</th><th align="left" valign="bottom" rowspan="1" colspan="1">Incidence per 100 PY</th><th align="left" valign="bottom" rowspan="1" colspan="1">%</th><th align="left" valign="bottom" rowspan="1" colspan="1">Incidence per 100 PY</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Incidence per 100 PY</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Patients with any AE</td><td align="char" char="." valign="top" rowspan="1" colspan="1">28</td><td align="char" char="." valign="top" rowspan="1" colspan="1">26</td><td align="char" char="." valign="top" rowspan="1" colspan="1">30</td><td align="char" char="." valign="top" rowspan="1" colspan="1">29</td><td align="char" char="." valign="top" rowspan="1" colspan="1">30</td><td align="char" char="." valign="top" rowspan="1" colspan="1">29</td><td align="char" char="." valign="top" rowspan="1" colspan="1">30</td><td align="char" char="." valign="top" rowspan="1" colspan="1">30</td><td align="char" char="." valign="top" rowspan="1" colspan="1">26</td><td align="char" char="." valign="top" rowspan="1" colspan="1">23</td><td align="char" char="." valign="top" rowspan="1" colspan="1">23</td><td align="char" char="." valign="top" rowspan="1" colspan="1">20</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patients with AE leading to permanent treatment discontinuation</td><td align="char" char="." valign="top" rowspan="1" colspan="1">4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patients with serious AE</td><td align="char" char="." valign="top" rowspan="1" colspan="1">24</td><td align="char" char="." valign="top" rowspan="1" colspan="1">22</td><td align="char" char="." valign="top" rowspan="1" colspan="1">27</td><td align="char" char="." valign="top" rowspan="1" colspan="1">25</td><td align="char" char="." valign="top" rowspan="1" colspan="1">25</td><td align="char" char="." valign="top" rowspan="1" colspan="1">23</td><td align="char" char="." valign="top" rowspan="1" colspan="1">27</td><td align="char" char="." valign="top" rowspan="1" colspan="1">27</td><td align="char" char="." valign="top" rowspan="1" colspan="1">23</td><td align="char" char="." valign="top" rowspan="1" colspan="1">19</td><td align="char" char="." valign="top" rowspan="1" colspan="1">21</td><td align="char" char="." valign="top" rowspan="1" colspan="1">18</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patients with AEs leading to LLA</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.7</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hepatic injury (AESI)<xref rid="ejhf3548-note-0008" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ketoacidosis (AESI)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Contrast‐induced AKI (AESI)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Acute kidney failure (narrow SMQ)<xref rid="ejhf3548-note-0009" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.8</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AKI<xref rid="ejhf3548-note-0010" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.8</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.7</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Volume depletion (narrow BIcMQ)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.8</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hypotension (BIcMQ based)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.8</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hypoglycaemia (narrow SMQ)<xref rid="ejhf3548-note-0009" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot id="ejhf3548-ntgp-0003"><fn id="ejhf3548-note-0005"><p>AE, adverse event; AESI, adverse event of special interest; AKI, acute kidney injury; ALT, alanine aminotransferase; AST, aspartate aminotransferase; BIcMQ, Boehringer Ingelheim‐customized MedDRA query; HbA1c, glycated haemoglobin; LLA, lower limb amputation; MedDRA, Medical Dictionary for Regulatory Activities; PY, patient‐years; SMQ, standardized MedDRA query; T2DM, type 2 diabetes mellitus.</p></fn><fn id="ejhf3548-note-0006"><p>Events were identified with the use of a BIcMQ, version 26.1.</p></fn><fn id="ejhf3548-note-0007"><label>
+<sup>a</sup>
+</label><p>Patients who received at least one dose of empagliflozin or placebo were included in the safety population. Shown are adverse events analysed up to 7 days after the discontinuation of the trial regimen, except for LLA, which were analysed up to the end of the trial. AEs that were to be reported in the trial included serious AEs, AEs that led to discontinuation of the trial regimen for at least 7 days, and AESI, defined as ketoacidosis, AEs leading to LLA, hepatic injury, and contrast‐induced AKI.</p></fn><fn id="ejhf3548-note-0008"><label>
+<sup>b</sup>
+</label><p>Hepatic injury was defined as an AST level or an ALT level (or both) of at least three times the upper limit of the normal range, combined with a total bilirubin level of at least two times the upper limit of the normal range, as measured in the same blood sample or in blood samples obtained within 30 days of each other; or an ALT level or AST level (or both) of at least 10 times the upper limit of the normal range. Hepatic injury as defined by these criteria and reported by the investigator occurred in four patients in the empagliflozin group and in no patients in the placebo group.</p></fn><fn id="ejhf3548-note-0009"><label>
+<sup>c</sup>
+</label><p>Events were identified with the use of a SMQ, version 26.1.</p></fn><fn id="ejhf3548-note-0010"><label>
+<sup>d</sup>
+</label><p>‘Acute kidney injury’ is a MedDRA, version 26.1, preferred term.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec sec-type="discussion" id="ejhf3548-sec-0015"><title>Discussion</title><p>In the EMPACT‐MI trial, T2DM was common and rates of the primary outcome and mortality (all‐cause and cardiovascular) were higher in patients with than without T2DM. In contrast, rates for HF hospitalizations (first or total) were not significantly higher in those with T2DM. In patients with and without T2DM, empagliflozin substantially reduced first and total HF hospitalizations as well as HF adverse events (<italic toggle="yes">Graphical Abstract</italic>).</p><p>That T2DM is common in populations with acute MI is well established. The prevalence of T2DM in all‐comer acute MI cohorts has previously been reported to be between 15% and 25%.<xref rid="ejhf3548-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ejhf3548-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="ejhf3548-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> The proportion of participants with T2DM in EMPACT‐MI (32%) was similar to that reported in prior acute MI trials in populations at high risk of HF (low LVEF ± congestion). For example, in VALIANT, EPHESUS and PARADISE‐MI 23%, 32% and 42%, respectively, had T2DM at baseline.<xref rid="ejhf3548-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="ejhf3548-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="ejhf3548-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> As T2DM was an enrichment HF criterion in EMPACT‐MI, the proportion of patients with T2DM is likely to be higher than in real‐world populations. Remarkably, only 16% of the EMPACT‐MI had confirmed normal glycaemic status. Glycaemic status in acute MI has not been widely investigated in randomized trials. In a single centre cohort of 841 patients, 17% had normal glycaemic status.<xref rid="ejhf3548-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> A major finding of interest in EMPACT‐MI was the large number of patients (more than one in three) where there was no HbA1c available to ascertain T2DM status. The European Society of Cardiology (ESC) guidelines for management of acute MI recommend assessment of glycaemic status in all patients during acute MI (ESC class IB recommendation).<xref rid="ejhf3548-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Using the opportunity of an acute coronary presentation to establish T2DM status allows appropriate glycaemic control as well as prescription of therapies that are indicated for chronic management of T2DM. Few patients in EMPACT‐MI (1.3%) were found to have previously undiagnosed T2DM. How many of those who did not have an HbA1c measured had T2DM which remained undiagnosed is unknown. Studies investigating the impact of screening strategies in acute coronary syndromes have yet to be performed.</p><p>Rates of cardiovascular events after acute MI have long been known to be higher in those with T2DM than those without.<xref rid="ejhf3548-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ejhf3548-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> In EMPACT‐MI the higher event rates with T2DM was striking for mortality. All‐cause and cardiovascular mortality were 70% and 132% higher, respectively, in those with T2DM when compared to those without T2DM. The increased mortality risk conferred by T2DM in EMPACT‐MI is greater than seen in previous similar trials. For example, in the VALIANT trial which enrolled patients from 1998–2001, T2DM was associated with a 37% and 42% increased risk of all‐cause and cardiovascular mortality, respectively.<xref rid="ejhf3548-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> EMPACT‐MI was a streamlined trial which relied on trained investigators to report and classify events. Investigations into causes of this high mortality rate in those with T2DM in the current era are warranted. Understanding why T2DM is associated with higher mortality would allow for development of targeted therapies. Potential causes of higher death rates in T2DM following acute MI include more stent thromboses, in‐stent restenoses, myocardial rupture, fatal dysrhythmias, bleeding or deaths due to HF. The absence of a clear higher HF hospitalization event rate in those with T2DM after adjustment in EMPACT‐MI is surprising. In previous acute MI trials, T2DM has been associated with higher rates of HF hospitalizations.<xref rid="ejhf3548-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="ejhf3548-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="ejhf3548-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> In EMPACT‐MI there was a numerical but not statistically significant higher rate of HF hospitalizations in those with T2DM after comprehensive multivariable adjustment. Why the risk conferred by T2DM might be less than previously seen might be related to changing drivers of HF hospitalization after acute MI. Modern rapid and complete revascularization, optimal acute MI medical therapy and improved comprehensive post‐MI management may have reduced the excess risk of HF hospitalization conferred by T2DM. It is unlikely that use of glucose‐lowering therapies is responsible as, except for SGLT2 inhibitors, these agents have not been reported to reduce HF hospitalizations.</p><p>The consistency of the treatment effect of empagliflozin on HF hospitalizations in those with and without T2DM following acute MI is similar to the effects of SGLT2 inhibitors in other disease states. In HF with reduced (HFrEF) and preserved ejection fraction (HFpEF), empagliflozin and dapagliflozin have shown very similar reductions in HF events in those with and without T2DM. Consistency of SGLT2 inhibitor treatment effects in HFrEF and HFpEF populations are also seen across the spectrum of baseline HbA1c. The treatment effect of SGLT2 inhibitors on reducing HF hospitalizations following acute MI in EMPACT‐MI confirms the benefit in both those with and without T2DM. EMPACT‐MI was the first SGLT2 inhibitor trial in acute MI to enrol those without T2DM as well as being the only post‐MI SGLT2 inhibitor trial to investigate effects on clinical outcomes. DAPA‐MI only included those without T2DM and had a primary endpoint of seven ‘cardio‐metabolic’ components analysed by the win ratio.<xref rid="ejhf3548-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> In the only completed mechanistic trial of SGLT2 inhibitors after MI, the EMMY trial, those with and without T2DM were enrolled. Empagliflozin reduced N‐terminal pro‐B‐type natriuretic peptide and left ventricular volumes and increased LVEF.<xref rid="ejhf3548-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> A second acute MI mechanistic trial, EMPRESS‐MI (<ext-link ext-link-type="pmc:clinical-trial" ns1:href="NCT05020704">NCT05020704</ext-link>), which enrolled patients with and without T2DM will complete shortly. The effect of empagliflozin on cardiac magnetic resonance imaging‐measured left ventricular volumes, renal parameters and circulating biomarkers will be reported. In trials of SGLT2 inhibitors in chronic kidney disease, HF benefits were seen regardless of the presence or absence of T2DM.<xref rid="ejhf3548-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> The consistency of reduction in HF hospitalizations across different clinical conditions regardless of presence or absence of T2DM (as well as across the spectrum of baseline HbA1c) gives a clear indication that the mechanism of reduction in HF with SGLT2 inhibitors is independent of any glucose‐related or diabetes‐related factors. Several mechanistic trials in HF have indicated a variety of different glucose‐ and diabetes‐independent mechanisms of HF benefit.</p><p>Empagliflozin did not reduce all‐cause mortality following MI whether T2DM was present or absent. This lack of treatment effect suggests that the causes of death in EMPACT‐MI are not modifiable by SGLT2 inhibitors regardless of diabetes status. The very high rates of death in those with T2DM highlights an ongoing and unmet need. Alternative, novel treatment strategies to further improve outcomes following MI, especially in patients with T2DM, are necessary.<xref rid="ejhf3548-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Potential causes of death that might not be impacted by SGLT2 inhibitors include arrhythmias (tachycardia and bradycardia events), stent thrombosis, in‐stent restenosis, myocardial rupture, pulmonary emboli, and other cardiovascular and non‐cardiovascular causes.</p><p>The safety of empagliflozin was similar in those with and without T2DM. In the context of acute MI with recent percutaneous intervention, haemodynamic fluctuations, and initiation of multiple pharmacological therapies, there was no increase in adverse events compared to placebo.</p><p>The major limitation of the current analysis is the lack of systematic measurement of HbA1c in EMPACT‐MI. The lack of systematic HbA1c measurement prevented precise ascertainment of glycaemia status in all patients. The lack of systematic measurement of HbA1c also meant that our analysis of treatment effect of empagliflozin across baseline HbA1c is subject to indication bias. The current analysis did not allow a meaningful analysis of pre‐diabetes as a standalone subgroup. Of the 447 patients with pre‐diabetes, only 39 had a primary outcome event (online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf3548-supitem-0004" ref-type="supplementary-material">
+<italic toggle="yes">S4</italic>
+</xref>). The other limitations of EMPACT‐MI are the low numbers of women and low numbers of racial and ethnic minorities.</p><p>In conclusion, around one third of patients in EMPACT‐MI had T2DM and only 16% were normoglycaemic. Patients with T2DM were at much higher risk of mortality than those without T2DM. Empagliflozin reduced first and total HF hospitalizations, but not all‐cause mortality, regardless of the presence or absence of T2DM or unknown HbA1c.</p><sec id="ejhf3548-sec-0016"><title>Funding</title><p>The manuscript was sponsored by the Boehringer Ingelheim and Eli Lilly and Company Diabetes Alliance. Graphical assistance was provided by HCG which was contracted, and compensated by Boehringer Ingelheim.</p><p>
+<bold>Conflict of interest</bold>: M.C.P. reports research funding: Boehringer Ingelheim, Roche, SQ Innovations, AstraZeneca, Novartis, Novo Nordisk, Medtronic, Boston Scientific, Pharmacosmos; consultancy and trial committees: Akero, Applied Therapeutics, Amgen, AnaCardio, Biosensors, Boehringer Ingelheim, Novartis, AstraZeneca, Novo Nordisk, Abbvie, Bayer, Horizon Therapeutics, Takeda, Cardiorentis, Pharmacosmos, Siemens, Eli Lilly, Vifor, New Amsterdam, Moderna, Teikoku, LIB Therapeutics, 3R Lifesciences. J.A.U. reports advisory board: Boehringer Ingelheim, Novavax, Novo Nordisk, Sanofi; Speaker honoraria: Amgen, AstraZeneca, Boehringer Ingelheim, Eli Lilly and Company; research funding to his institution: Amgen, Bayer, Boehringer Ingelheim, Novartis. S.D.A. has received research support from Abbott Vascular and Vifor International, and personal fees from Boehringer Ingelheim, Bayer, AstraZeneca, Novartis, Vifor International, Impulse Dynamics, Respicardia, and St Jude Medical. W.S.J. reports research grants from Bayer, Boehringer Ingelheim, Merck, Novartis, PCORI, NIH. P.v.d.M. is supported by a grant from the European Research Council (ERC CoG 101 045 236, DISSECT‐HF). The UMCG, which employs P.v.d.M., received consultancy fees and/or grants from Novartis, Pharmacosmos, Vifor Pharma, AstraZeneca, Pfizer, Pharma Nord, BridgeBio, Novo Nordisk, Daiichi Sankyo, Boehringer Ingelheim and Ionis. O.A. reports national PI‐steering committee member for the study and participated in paid lectures and advisory board meetings and have clinical trials in his department for Boehringer Ingelheim. M.C.B. reports modest honorarium from MSD, Pfizer, Bristol‐Myers Squibb, CSL Behring, Janssen, Boehringer Ingelheim, Anthos Therapeutics. J.B. received honoraria for lectures/consulting from Novartis, Vifor, Bayer, Pfizer, Boehringer Ingelheim, AstraZeneca, Cardior, CVRx, BMS, Amgen, Corvia, Norgine, Edwards, Roche not related to this article; and research support for the department from Zoll, CVRx, Abiomed, Norgine, Roche, not related to this article. A.B.G. has lectured and/or participated in advisory boards for Abbott, AstraZeneca, Bayer, Boehringer Ingelheim, Medtronic, Novartis, Novo Nordisk, Roche Diagnostics, Vifor. V.K.C. reports speaking fee from Novartis, Sanofi, Astra, Boehringer, Novo Nordisk, Pfizer, Sun Pharma, Mankind, Lupin. J.L.J. reports a board position with Imbria Pharma, grant support from Abbott, Applied Therapeutics, AstraZeneca, BMS, Novartis Pharmaceuticals, consulting income from Abbott Diagnostics, Beckman‐Coulter, BMS, Boehringer Ingelheim, Jana Care, Janssen, Lilly, Novartis, Prevencio, Quidel, and Roche Diagnostics, and serves on clinical endpoint committees/data safety monitoring boards for Abbott, AbbVie, Amgen, CVRx, Medtronic, Pfizer, and Roche Diagnostics. R.D.L. reports research grants or contracts from Amgen, Bristol‐Myers Squibb, GlaxoSmithKline, Medtronic, Pfizer, Sanofi‐Aventis; funding for educational activities or lectures from Pfizer, Daiichi Sankyo, and Novo Nordisk; and funding for consulting or other services from Bayer, Boehringer Ingelheim, Bristol‐Myers Squibb, Novo Nordisk. P.P. reports personal fees from Boehringer Ingelheim, AstraZeneca, Servier, Bristol Myers Squibb, Amgen, Novartis, Merck, Pfizer, Berlin Chemie, and grants and personal fees from Vifor Pharma. M.S. reports lecture fees from Novartis, AstraZeneca, Bohringer and Novo Nordisk. S.Z. reports research grant support, served on advisory boards for, or speaker engagements with AstraZeneca, Bayer, BMS, Boehringer Ingelheim, Cytokinetics, Eli Lilly, GSK, Janssen, Medtronic, Merck, Novartis, Novo‐Nordisk, Otsuka, Pfizer, Roche, Salubrisbio, Servier and Vifor Pharma; and serves on a clinical trial committee or as a national lead for studies sponsored by AstraZeneca, Bayer, Boehringer Ingelheim, Merck, Novartis and Pfizer; non industry: Canadian Medical and Surgical KT Group, CCS, CHFS, Charite, EOCI, Liv, Medscape, Ology, PACE‐CME, Radcliffe, Reach MD, Translational Medicine Academy. D.L.B. reports advisory board: Angiowave, Bayer, Boehringer Ingelheim, CellProthera, Cereno Scientific, Elsevier Practice Update Cardiology, High Enroll, Janssen, Level Ex, McKinsey, Medscape Cardiology, Merck, MyoKardia, NirvaMed, Novo Nordisk, PhaseBio, PLx Pharma, Stasys; Board of Directors: American Heart Association New York City, Angiowave (stock options), Bristol Myers Squibb (stock), DRS.LINQ (stock options), High Enroll (stock); consultant: Broadview Ventures, GlaxoSmithKline, Hims, SFJ, Youngene; Data Monitoring Committees: Acesion Pharma, Assistance Publique‐Hôpitaux de Paris, Baim Institute for Clinical Research (formerly Harvard Clinical Research Institute, for the PORTICO trial, funded by St. Jude Medical, now Abbott), Boston Scientific (Chair, PEITHO trial), Cleveland Clinic, Contego Medical (Chair, PERFORMANCE 2), Duke Clinical Research Institute, Mayo Clinic, Mount Sinai School of Medicine (for the ENVISAGE trial, funded by Daiichi Sankyo; for the ABILITY‐DM trial, funded by Concept Medical; for ALLAY‐HF, funded by Alleviant Medical), Novartis, Population Health Research Institute; Rutgers University (for the NIH‐funded MINT Trial); Honoraria: American College of Cardiology (Senior Associate Editor, Clinical Trials and News, <ext-link ns1:href="http://acc.org" ext-link-type="uri">ACC.org</ext-link>; Chair, ACC Accreditation Oversight Committee), Arnold and Porter law firm (work related to Sanofi/Bristol‐Myers Squibb clopidogrel litigation), Baim Institute for Clinical Research (formerly Harvard Clinical Research Institute; RE‐DUAL PCI clinical trial steering committee funded by Boehringer Ingelheim; AEGIS‐II executive committee funded by CSL Behring), Belvoir Publications (Editor in Chief, Harvard Heart Letter), Canadian Medical and Surgical Knowledge Translation Research Group (clinical trial steering committees), CSL Behring (AHA lecture), Cowen and Company, Duke Clinical Research Institute (clinical trial steering committees, including for the PRONOUNCE trial, funded by Ferring Pharmaceuticals), HMP Global (Editor in Chief, Journal of Invasive Cardiology), Journal of the American College of Cardiology (Guest Editor; Associate Editor), K2P (Co‐Chair, interdisciplinary curriculum), Level Ex, Medtelligence/ReachMD (CME steering committees), MJH Life Sciences, Oakstone CME (Course Director, Comprehensive Review of Interventional Cardiology), Piper Sandler, Population Health Research Institute (for the COMPASS operations committee, publications committee, steering committee, and USA national co‐leader, funded by Bayer), WebMD (CME steering committees), Wiley (steering committee); other: Clinical Cardiology (Deputy Editor); Patent: Sotagliflozin (named on a patent for sotagliflozin assigned to Brigham and Women's Hospital who assigned to Lexicon; neither I nor Brigham and Women's Hospital receive any income from this patent); research funding: Abbott, Acesion Pharma, Afimmune, Aker Biomarine, Alnylam, Amarin, Amgen, AstraZeneca, Bayer, Beren, Boehringer Ingelheim, Boston Scientific, Bristol‐Myers Squibb, Cardax, CellProthera, Cereno Scientific, Chiesi, CinCor, Cleerly, CSL Behring, Eisai, Ethicon, Faraday Pharmaceuticals, Ferring Pharmaceuticals, Forest Laboratories, Fractyl, Garmin, HLS Therapeutics, Idorsia, Ironwood, Ischemix, Janssen, Javelin, Lexicon, Lilly, Medtronic, Merck, Moderna, MyoKardia, NirvaMed, Novartis, Novo Nordisk, Otsuka, Owkin, Pfizer, PhaseBio, PLx Pharma, Recardio, Regeneron, Reid Hoffman Foundation, Roche, Sanofi, Stasys, Synaptic, The Medicines Company, Youngene, 89Bio; royalties: Elsevier (Editor, Braunwald's Heart Disease); site co‐investigator: Abbott, Biotronik, Boston Scientific, CSI, Endotronix, St. Jude Medical (now Abbott), Philips, SpectraWAVE, Svelte, Vascular Solutions; Trustee: American College of Cardiology; Unfunded Research: FlowCo. A.F.H. reports consultant to Amgen, AstraZeneca, Bayer, Boehringer Ingelheim, Boston Scientific, Bristol Myers Squibb, Cytokinetics, Eidos, GlaxoSmithKline, Intellia, Intercept, Myokardia, Novartis, Novo Nordisk, Prolaio, TikkunLev; research funding: American Regent, Amgen, Bayer, Boehringer Ingelheim, Lilly, Merck, Novartis, Novo Nordisk and Verily. J.B. reports consultant to Abbott, American Regent, Amgen, Applied Therapeutic, AskBio, Astellas, AstraZeneca, Bayer, Boehringer Ingelheim, Boston Scientific, Bristol Myers Squibb, Cardiac Dimension, Cardiocell, Cardior, CSL Bearing, CVRx, Cytokinetics, Daxor, Edwards, Element Science, Faraday, Foundry, G3P, Innolife, Impulse Dynamics, Imbria, Inventiva, Ionis, Lexicon, Lilly, LivaNova, Janssen, Medtronics, Merck, Occlutech, Owkin, Novartis, Novo Nordisk, Pfizer, Pharmacosmos, Pharmain, Prolaio, Regeneron, Renibus, Roche, Salamandra, Sanofi, SC Pharma, Secretome, Sequana, SQ Innovation, Tenex, Tricog, Ultromics, Vifor, and Zoll. M.M., T.G., M.B. and M.S. are employees of Boehringer Ingelheim. All other authors have nothing to disclose.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ejhf3548-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary Figure S1.</bold> Outcomes according to baseline T2DM status in the placebo group.</p><p>Hazard ratios and Rate Ratios based on Cox regression or Negative binomial regression models adjusted for age, sex, estimated glomerular filtration rate (assessed categorically using the CKD‐EPI formula &lt;45 vs 45–&lt;60 vs 60–&lt;90 vs ≥90 mL/min/1.73 m<sup>2</sup>), geographical region, type 2 diabetes, persistent/permanent atrial fibrillation, prior MI, peripheral artery disease, smoking status and LVEF. Kaplan–Meier Estimates and Cumulative Incidence Function for the Composite Primary End Point and Its Components and Mean cumulative function for total number of heart failure hospitalizations.</p></caption><media ns1:href="EJHF-27-577-s004.pdf" position="float" orientation="portrait" /></supplementary-material><supplementary-material id="ejhf3548-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary Figure S2.</bold> Treatment effect of empagliflozin compared to placebo on HF AEs according to T2DM status. Hazard ratios and Rate Ratios based on Cox regression or Negative binomial regression models adjusted for age, sex, estimated glomerular filtration rate (assessed categorically using the CKD‐EPI formula &lt;45 vs 45–&lt;60 vs 60–&lt;90 vs ≥90 mL/min/1.73 m<sup>2</sup>), geographical region, type 2 diabetes, persistent/permanent atrial fibrillation, prior MI, peripheral artery disease, smoking status and LVEF. Kaplan–Meier Estimates and Cumulative Incidence Function for the Composite Primary End Point and Its Components and Mean cumulative function for total number of heart failure hospitalizations.</p></caption><media ns1:href="EJHF-27-577-s005.pdf" position="float" orientation="portrait" /></supplementary-material><supplementary-material id="ejhf3548-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary Figure S3.</bold> (A and B) Treatment effect for empagliflozin versus placebo according to baseline metformin or insulin prescription, BMI, age and sex. Hazard ratios and based on Cox regression or Negative binomial regression models adjusted for age (if not part of subgroup), sex (if not part of subgroup), estimated glomerular filtration rate (assessed categorically using the CKD‐EPI formula &lt;45 vs 45–&lt;60 vs 60–&lt;90 vs ≥90 mL/min/1.73 m<sup>2</sup>), geographical region, subgroup, persistent/permanent atrial fibrillation, prior MI, peripheral artery disease, smoking status and LVEF (categorical or continuous), treatment and interaction of subgroup and treatment. T2DM is defined as diagnosed T2DM (investigator‐reported) and undiagnosed T2D (i.e. baseline HbA1c &gt; =6.5%). n number of patients with event (for time to first event endpoints) or number of events (for total number of events endpoint) based on N number of patients at risk. No T2DM is defined as normoglycaemia or pre‐diabetes and unknown diabetes status (i.e. no T2DM without HbA1c measured).</p></caption><media ns1:href="EJHF-27-577-s003.zip" position="float" orientation="portrait" /></supplementary-material><supplementary-material id="ejhf3548-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary Figure S4.</bold> Effect of empagliflozin according to baseline glycaemic status (including prediabetes). Hazard ratios and Rate Ratios based on Cox regression or Negative binomial regression models adjusted for age, sex, estimated glomerular filtration rate (assessed categorically using the CKD‐EPI formula &lt;45 vs 45–&lt;60 vs 60–&lt;90 vs ≥90 mL/min/1.73 m<sup>2</sup>), geographical region, type 2 diabetes, persistent/permanent atrial fibrillation, prior MI, peripheral artery disease, smoking status and LVEF (categorical or continuous). T2DM is defined as diagnosed T2DM (investigator‐reported) and undiagnosed T2D (i.e. baseline HbA1c &gt; =6.5%). n number of patients with event (for time to first event endpoints) or number of events (for total number of events endpoint) based on N number of patients at risk. Pre‐diabetes is defined as HbA1c ≥5.7% (≥39 mmol/mL) and &lt;6.5% (&lt;48 mmol/mol) measured during the index presentation excluding those with baseline diagnosed T2DM. Unknown refers to no T2DM without HbA1c measured.</p></caption><media ns1:href="EJHF-27-577-s001.pdf" position="float" orientation="portrait" /></supplementary-material><supplementary-material id="ejhf3548-supitem-0005" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary Table S1.</bold> Baseline characteristics according T2DM status, and treatment assignment to empagliflozin or placebo.</p><p>
+<bold>Supplementary Table S2.</bold> Diabetes therapies at baseline and at discharge according to T2DM status.</p></caption><media ns1:href="EJHF-27-577-s002.docx" position="float" orientation="portrait" /></supplementary-material></sec></body><back><ref-list id="ejhf3548-bibl-0001" content-type="cited-references"><title>References</title><ref id="ejhf3548-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0001">
+<string-name name-style="western">
+<surname>Ertelt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brener</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehran</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ben‐Yehuda</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McAndrew</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stone</surname>
+<given-names>GW</given-names>
+</string-name>. <article-title>Comparison of outcomes and prognosis of patients with versus without newly diagnosed diabetes mellitus after primary percutaneous coronary intervention for ST‐elevation myocardial infarction (the HORIZONS‐AMI study)</article-title>. <source>Am J Cardiol</source>
+<year>2017</year>;<volume>119</volume>:<fpage>1917</fpage>–<lpage>1923</lpage>. <pub-id pub-id-type="doi">10.1016/j.amjcard.2017.03.016</pub-id>
+<pub-id pub-id-type="pmid">28427734</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0002">
+<string-name name-style="western">
+<surname>Shah</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uno</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kober</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Velazquez</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>MacDonald</surname>
+<given-names>MR</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>The inter‐relationship of diabetes and left ventricular systolic function on outcome after high‐risk myocardial infarction</article-title>. <source>Eur J Heart Fail</source>
+<year>2010</year>;<volume>12</volume>:<fpage>1229</fpage>–<lpage>1237</lpage>. <pub-id pub-id-type="doi">10.1093/eurjhf/hfq179</pub-id>
+<pub-id pub-id-type="pmid">20965879</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0003">
+<string-name name-style="western">
+<surname>Usman</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hameed</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>AYY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hernandez</surname>
+<given-names>AF</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Effect of SGLT2 inhibitors on heart failure outcomes and cardiovascular death across the cardiometabolic disease spectrum: A systematic review and meta‐analysis</article-title>. <source>Lancet Diabetes Endocrinol</source>
+<year>2024</year>;<volume>12</volume>:<fpage>447</fpage>–<lpage>461</lpage>. <pub-id pub-id-type="doi">10.1016/S2213-8587(24)00102-5</pub-id>
+<pub-id pub-id-type="pmid">38768620</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0004">
+<string-name name-style="western">
+<surname>Zinman</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wanner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lachin</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fitchett</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bluhmki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hantel</surname>
+<given-names>S</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">EMPA‐REG OUTCOME Investigators</collab>
+. <article-title>Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes</article-title>. <source>N Engl J Med</source>
+<year>2015</year>;<volume>373</volume>:<fpage>2117</fpage>–<lpage>2128</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa1504720</pub-id>
+<pub-id pub-id-type="pmid">26378978</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0005">
+<string-name name-style="western">
+<surname>Odutayo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zinman</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wanner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zwiener</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lund</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hantel</surname>
+<given-names>S</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">EMPA‐REG OUTCOME Trial Investigators</collab>
+. <article-title>Effect of qualifying atherosclerotic cardiovascular disease diagnosis proximity on cardiovascular risk and benefit of empagliflozin in the EMPA‐REG OUTCOME trial</article-title>. <source>CJC Open</source>
+<year>2024</year>;<volume>6</volume>:<fpage>868</fpage>–<lpage>875</lpage>. <pub-id pub-id-type="doi">10.1016/j.cjco.2024.01.013</pub-id>
+<pub-id pub-id-type="pmid">39026628</pub-id>
+<pub-id pub-id-type="pmcid">PMC11252526</pub-id></mixed-citation></ref><ref id="ejhf3548-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0006">
+<string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Udell</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrington</surname>
+<given-names>J</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Empagliflozin after acute myocardial infarction</article-title>. <source>N Engl J Med</source>
+<year>2024</year>;<volume>390</volume>:<fpage>1455</fpage>–<lpage>1466</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa2314051</pub-id>
+<pub-id pub-id-type="pmid">38587237</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0007">
+<string-name name-style="western">
+<surname>James</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Erlinge</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Storey</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McGuire</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Belder</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eriksson</surname>
+<given-names>N</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Dapagliflozin in myocardial infarction without diabetes or heart failure</article-title>. <source>NEJM Evid</source>
+<year>2024</year>;<volume>3</volume>:EVIDoa2300286. <pub-id pub-id-type="doi">10.1056/EVIDoa2300286</pub-id>
+<pub-id pub-id-type="pmid">38320489</pub-id></mixed-citation></ref><ref id="ejhf3548-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0008">
+<string-name name-style="western">
+<surname>Harrington</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Udell</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Empagliflozin in patients post myocardial infarction rationale and design of the EMPACT‐MI trial</article-title>. <source>Am Heart J</source>
+<year>2022</year>;<volume>253</volume>:<fpage>86</fpage>–<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1016/j.ahj.2022.05.010</pub-id>
+<pub-id pub-id-type="pmid">35595091</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0009">
+<string-name name-style="western">
+<surname>Harrington</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Udell</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Baseline characteristics of patients enrolled in the EMPACT‐MI trial</article-title>. <source>Eur J Heart Fail</source>
+<year>2023</year>;<volume>25</volume>:<fpage>1708</fpage>–<lpage>1715</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.2990</pub-id>
+<pub-id pub-id-type="pmid">37622416</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0010">
+<string-name name-style="western">
+<surname>Hernandez</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Udell</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrington</surname>
+<given-names>J</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Effect of empagliflozin on heart failure outcomes after acute myocardial infarction: Insights from the EMPACT‐MI trial</article-title>. <source>Circulation</source>
+<year>2024</year>;<volume>149</volume>:<fpage>1627</fpage>–<lpage>1638</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.124.069217</pub-id>
+<pub-id pub-id-type="pmid">38581389</pub-id>
+<pub-id pub-id-type="pmcid">PMC11115458</pub-id></mixed-citation></ref><ref id="ejhf3548-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0011">
+<string-name name-style="western">
+<surname>Wallentin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Becker</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Budaj</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Emanuelsson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Held</surname>
+<given-names>C</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">PLATO Investigators</collab>
+. <article-title>Ticagrelor versus clopidogrel in patients with acute coronary syndromes</article-title>. <source>N Engl J Med</source>
+<year>2009</year>;<volume>361</volume>:<fpage>1045</fpage>–<lpage>1057</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa0904327</pub-id>
+<pub-id pub-id-type="pmid">19717846</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0012">
+<string-name name-style="western">
+<surname>Pfeffer</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Velazquez</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rouleau</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kober</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">Valsartan in Acute Myocardial Infarction Trial Investigators</collab>
+. <article-title>Valsartan, captopril, or both in myocardial infarction complicated by heart failure, left ventricular dysfunction, or both</article-title>. <source>N Engl J Med</source>
+<year>2003</year>;<volume>349</volume>:<fpage>1893</fpage>–<lpage>1906</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa032292</pub-id>
+<pub-id pub-id-type="pmid">14610160</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0013">
+<string-name name-style="western">
+<surname>Pitt</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Remme</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neaton</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roniker</surname>
+<given-names>B</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">Eplerenone Post‐Acute Myocardial Infarction Heart Failure Efficacy and Survival Study Investigators</collab>
+. <article-title>Eplerenone, a selective aldosterone blocker, in patients with left ventricular dysfunction after myocardial infarction</article-title>. <source>N Engl J Med</source>
+<year>2003</year>;<volume>348</volume>:<fpage>1309</fpage>–<lpage>1321</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa030207</pub-id>
+<pub-id pub-id-type="pmid">12668699</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0014">
+<string-name name-style="western">
+<surname>Pfeffer</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claggett</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewis</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kober</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">PARADISE‐MI Investigators and Committees</collab>
+. <article-title>Angiotensin receptor‐neprilysin inhibition in acute myocardial infarction</article-title>. <source>N Engl J Med</source>
+<year>2021</year>;<volume>385</volume>:<fpage>1845</fpage>–<lpage>1855</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa2104508</pub-id>
+<pub-id pub-id-type="pmid">34758252</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0015">
+<string-name name-style="western">
+<surname>Karayiannides</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Djupsjo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuhl</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hofman‐Bang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Norhammar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holzmann</surname>
+<given-names>MJ</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Long‐term prognosis in patients with acute myocardial infarction and newly detected glucose abnormalities: Predictive value of oral glucose tolerance test and HbA1c</article-title>. <source>Cardiovasc Diabetol</source>
+<year>2021</year>;<volume>20</volume>:<fpage>122</fpage>. <pub-id pub-id-type="doi">10.1186/s12933-021-01315-5</pub-id>
+<pub-id pub-id-type="pmid">34126971</pub-id>
+<pub-id pub-id-type="pmcid">PMC8204442</pub-id></mixed-citation></ref><ref id="ejhf3548-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0016">
+<string-name name-style="western">
+<surname>Byrne</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossello</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coughlan</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbato</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berry</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chieffo</surname>
+<given-names>A</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>2023 ESC Guidelines for the management of acute coronary syndromes</article-title>. <source>Eur Heart J</source>
+<year>2023</year>;<volume>44</volume>:<fpage>3720</fpage>–<lpage>3826</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehad191</pub-id>
+<pub-id pub-id-type="pmid">37622654</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0017">
+<string-name name-style="western">
+<surname>Rossello</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aguilar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pfeffer</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pitt</surname>
+<given-names>B</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">High‐Risk Myocardial Infarction Database Initiative</collab>
+. <article-title>Editor's choice‐ Impact of insulin‐treated diabetes on cardiovascular outcomes following high‐risk myocardial infarction</article-title>. <source>Eur Heart J Acute Cardiovasc Care</source>
+<year>2019</year>;<volume>8</volume>:<fpage>231</fpage>–<lpage>241</lpage>. <pub-id pub-id-type="doi">10.1177/2048872618803701</pub-id>
+<pub-id pub-id-type="pmid">30259764</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0018">
+<string-name name-style="western">
+<surname>Stone</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Witzenbichler</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guagliumi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peruga</surname>
+<given-names>JZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brodie</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dudek</surname>
+<given-names>D</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">HORIZONS‐AMI Trial Investigators</collab>
+. <article-title>Bivalirudin during primary PCI in acute myocardial infarction</article-title>. <source>N Engl J Med</source>
+<year>2008</year>;<volume>358</volume>:<fpage>2218</fpage>–<lpage>2230</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa0708191</pub-id>
+<pub-id pub-id-type="pmid">18499566</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0019">
+<string-name name-style="western">
+<surname>von Lewinski</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kolesnik</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tripolt</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pferschy</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benedikt</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wallner</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Empagliflozin in acute myocardial infarction: The EMMY trial</article-title>. <source>Eur Heart J</source>
+<year>2022</year>;<volume>43</volume>:<fpage>4421</fpage>–<lpage>4432</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehac494</pub-id>
+<pub-id pub-id-type="pmid">36036746</pub-id>
+<pub-id pub-id-type="pmcid">PMC9622301</pub-id></mixed-citation></ref><ref id="ejhf3548-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0020">
+<string-name name-style="western">
+<surname>Wheeler</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stefansson</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jongs</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chertow</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greene</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hou</surname>
+<given-names>FF</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">DAPA‐CKD Trial Committees and Investigators</collab>
+. <article-title>Effects of dapagliflozin on major adverse kidney and cardiovascular events in patients with diabetic and non‐diabetic chronic kidney disease: A prespecified analysis from the DAPA‐CKD trial</article-title>. <source>Lancet Diabetes Endocrinol</source>
+<year>2021</year>;<volume>9</volume>:<fpage>22</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1016/S2213-8587(20)30369-7</pub-id>
+<pub-id pub-id-type="pmid">33338413</pub-id>
+</mixed-citation></ref><ref id="ejhf3548-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ejhf3548-cit-0021">
+<string-name name-style="western">
+<surname>Frantz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hundertmark</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulz‐Menger</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bengel</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bauersachs</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Left ventricular remodelling post‐myocardial infarction: Pathophysiology, imaging, and novel therapies</article-title>. <source>Eur Heart J</source>
+<year>2022</year>;<volume>43</volume>:<fpage>2549</fpage>–<lpage>2561</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehac223</pub-id>
+<pub-id pub-id-type="pmid">35511857</pub-id>
+<pub-id pub-id-type="pmcid">PMC9336586</pub-id></mixed-citation></ref></ref-list></back></article>

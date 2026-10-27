@@ -1,0 +1,866 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="ejhf70022" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Heart Fail</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Heart Fail</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">100887595</journal-id><journal-id journal-id-type="publisher-id">EJHF</journal-id><journal-title-group><journal-title>European Journal of Heart Failure</journal-title></journal-title-group><issn pub-type="ppub">1388-9842</issn><issn pub-type="epub">1879-0844</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12803603</article-id><article-id pub-id-type="pmcid-ver">PMC12803603.1</article-id><article-id pub-id-type="pmcaid">12803603</article-id><article-id pub-id-type="pmcaiid">12803603</article-id><article-id pub-id-type="pmid">40891341</article-id><article-id pub-id-type="doi">10.1002/ejhf.70022</article-id><article-id pub-id-type="publisher-id">EJHF70022</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>CLINICAL TRIALS</subject><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Low‐dose digoxin improves cardiac function in patients with heart failure, preserved ejection fraction and atrial fibrillation – the <styled-content style="fixed-case" toggle="no">RATE</styled-content>‐<styled-content style="fixed-case" toggle="no">AF</styled-content> randomized trial</article-title><alt-title alt-title-type="right-running-head">The RATE‐AF trial</alt-title><alt-title alt-title-type="left-running-head">K.V. Bunting et al.</alt-title></title-group><contrib-group><contrib id="ejhf70022-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Bunting</surname><given-names initials="KV">Karina V.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4602-4377</contrib-id><xref rid="ejhf70022-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejhf70022-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>k.v.bunting@bham.ac.uk</email></address></contrib><contrib id="ejhf70022-cr-0002" contrib-type="author"><name name-style="western"><surname>Champsi</surname><given-names initials="A">Asgher</given-names></name><xref rid="ejhf70022-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejhf70022-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="ejhf70022-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf70022-cr-0003" contrib-type="author"><name name-style="western"><surname>Gill</surname><given-names initials="SK">Simrat K.</given-names></name><xref rid="ejhf70022-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejhf70022-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf70022-cr-0004" contrib-type="author"><name name-style="western"><surname>Saadeh</surname><given-names initials="K">Khalil</given-names></name><xref rid="ejhf70022-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf70022-cr-0005" contrib-type="author"><name name-style="western"><surname>Camm</surname><given-names initials="AJ">A. John</given-names></name><xref rid="ejhf70022-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="ejhf70022-note-0002" ref-type="author-notes">
+<sup>‡</sup>
+</xref></contrib><contrib id="ejhf70022-cr-0006" contrib-type="author"><name name-style="western"><surname>Stanbury</surname><given-names initials="M">Mary</given-names></name><xref rid="ejhf70022-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ejhf70022-cr-0007" contrib-type="author"><name name-style="western"><surname>Haynes</surname><given-names initials="S">Sandra</given-names></name><xref rid="ejhf70022-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ejhf70022-cr-0008" contrib-type="author"><name name-style="western"><surname>Townend</surname><given-names initials="JN">Jonathon N.</given-names></name><xref rid="ejhf70022-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejhf70022-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf70022-cr-0009" contrib-type="author" equal-contrib="yes"><name name-style="western"><surname>Steeds</surname><given-names initials="RP">Richard P.</given-names></name><xref rid="ejhf70022-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejhf70022-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf70022-cr-0010" contrib-type="author" equal-contrib="yes"><name name-style="western"><surname>Kotecha</surname><given-names initials="D">Dipak</given-names></name><xref rid="ejhf70022-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejhf70022-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="ejhf70022-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf70022-cr-0011" contrib-type="author"><collab collab-type="authors">the RAte control Therapy Evaluation in Permanent Atrial Fibrillation (RATE‐AF) Trial Group</collab></contrib></contrib-group><aff id="ejhf70022-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Cardiovascular Science</named-content>
+<institution>University of Birmingham</institution>
+<city>Birmingham</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf70022-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>University Hospitals Birmingham NHS Foundation Trust</institution>
+<city>Birmingham</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf70022-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>NIHR Birmingham Biomedical Research Centre</institution>
+<city>Birmingham</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf70022-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">NHS West Midlands Secure Data Environment</named-content>
+<institution>University Hospitals Birmingham NHS Foundation Trust</institution>
+<city>Birmingham</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf70022-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Cardiology Clinical Academic Group Molecular &amp; Clinical Sciences Institute, City St George's University of London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf70022-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Patient and Public Involvement team</institution>
+<city>Birmingham</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Corresponding author. University of Birmingham Institute of Cardiovascular Sciences, Medical School, Vincent Drive, Birmingham B15 2TT, UK. Tel: +44 121 3718125, Fax: +44 121 5544083, Email: <email>k.v.bunting@bham.ac.uk</email>
+<break />
+</corresp><fn id="ejhf70022-note-0002"><label>‡</label><p>Independent Oversight Committee.</p></fn></author-notes><pub-date pub-type="epub"><day>02</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2025</year></pub-date><volume>27</volume><issue seq="230">12</issue><issue-id pub-id-type="pmc-issue-id">505099</issue-id><issue-id pub-id-type="doi">10.1002/ejhf.v27.12</issue-id><fpage>2869</fpage><lpage>2878</lpage><history><date date-type="rev-recd"><day>24</day><month>7</month><year>2025</year></date><date date-type="received"><day>09</day><month>5</month><year>2025</year></date><date date-type="accepted"><day>06</day><month>8</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>14</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>15</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-15 16:25:14.403"><day>15</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">European Journal of Heart Failure</italic> published by John Wiley &amp; Sons Ltd on behalf of European Society of Cardiology.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="EJHF-27-2869.pdf" /><self-uri content-type="pdf" ns1:href="file:EJHF-27-2869.pdf" /><abstract><sec id="ejhf70022-sec-0001"><title>Aims</title><p>To compare the effect of digoxin versus beta‐blockers on left ventricular function, in patients with permanent atrial fibrillation (AF) and symptoms of heart failure within the RATE‐AF randomized trial.</p></sec><sec id="ejhf70022-sec-0002"><title>Methods and results</title><p>Blinded echocardiograms were performed at baseline and 12‐month follow‐up using a pre‐defined imaging protocol and the index‐beat approach. The change in systolic and diastolic function was assessed, stratified by left ventricular ejection fraction (LVEF). Overall, 145 patients completed follow‐up, with median age 75 years (interquartile range 69–82) and 44% women. In 119 patients with baseline LVEF ≥50%, a significantly greater improvement in systolic function was noted in patients randomized to low‐dose digoxin versus beta‐blockers: adjusted mean difference for LVEF 2.3% (95% confidence interval [CI] 0.3–4.2; <italic toggle="no">p</italic> = 0.021), s′ 1.1 cm/s (95% CI 1.0–1.2; <italic toggle="no">p</italic> = 0.001) and stroke volume 6.5 ml (95% CI 0.4–12.6; <italic toggle="no">p</italic> = 0.037), with no difference in global longitudinal strain (<italic toggle="no">p</italic> = 0.11) or any diastolic parameters. There were no significant differences between groups for patients with LVEF 40–49% and &lt;40%. Digoxin reduced N‐terminal pro‐B‐type natriuretic peptide compared to beta‐blockers (geometric mean difference 0.77; 95% CI 0.64–0.92; <italic toggle="no">p</italic> = 0.004), improved New York Heart Association functional class (odds ratio [OR] 11.3, 95% CI 4.3–29.8; <italic toggle="no">p</italic> &lt; 0.001) and modified European Heart Rhythm Association arrhythmia symptom class (OR 4.91, 95% CI 2.36–10.23; <italic toggle="no">p</italic> &lt; 0.001), with substantially less adverse events (incident rate ratio 0.21, 95% CI 0.13–0.31; <italic toggle="no">p</italic> &lt; 0.001). There were no interactions between treatment effects and baseline LVEF for these outcomes (interaction <italic toggle="no">p</italic> = 0.62, 0.49, 0.07 and 0.13, respectively).</p></sec><sec id="ejhf70022-sec-0003"><title>Conclusions</title><p>Low‐dose digoxin in patients with symptoms of heart failure, preserved LVEF and permanent AF leads to a significantly greater improvement in systolic function compared to treatment with beta‐blockers.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ejhf70022-kwd-0001">Digoxin</kwd><kwd id="ejhf70022-kwd-0002">Beta‐blockers</kwd><kwd id="ejhf70022-kwd-0003">Heart failure with preserved ejection fraction</kwd><kwd id="ejhf70022-kwd-0004">Atrial fibrillation</kwd><kwd id="ejhf70022-kwd-0005">Randomized controlled trial</kwd><kwd id="ejhf70022-kwd-0006">Echocardiography</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>British Heart Foundation</institution><institution-id institution-id-type="doi">10.13039/501100000274</institution-id></institution-wrap>
+</funding-source><award-id>FS/CDRF/21/21032</award-id><award-id>AA/18/2/34218</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Birmingham Biomedical Research Centre</institution><institution-id institution-id-type="doi">10.13039/501100018952</institution-id></institution-wrap>
+</funding-source><award-id>NIHR203326</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>National Institute for Health and Care Research</institution><institution-id institution-id-type="doi">10.13039/501100000272</institution-id></institution-wrap>
+</funding-source><award-id>CDF‐2015‐08‐074</award-id></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>Medical Research Council</institution><institution-id institution-id-type="doi">10.13039/501100000265</institution-id></institution-wrap>
+</funding-source><award-id>HDRUK/CFC/01</award-id></award-group></funding-group><counts><fig-count count="4" /><table-count count="4" /><page-count count="10" /><word-count count="7100" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.8 mode:remove_FC converted:14.01.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="ejhf70022-body-0001"><sec id="ejhf70022-sec-0004"><title>Introduction</title><p>Atrial fibrillation (AF) is the commonest heart rhythm condition and is predicted to double further in prevalence over the next 20 years.<xref rid="ejhf70022-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Half of patients with AF also suffer from heart failure, which worsens prognosis, increases the risk of hospitalization and places increased strain on hospital services.<xref rid="ejhf70022-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Heart failure with preserved ejection fraction (HFpEF) is the predominant type of heart failure in AF, with limited treatment options available.<xref rid="ejhf70022-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ejhf70022-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>The choice of rate control agent in patients with AF and heart failure has not previously been evidence‐based, and often relies on clinician preference or prior experience.<xref rid="ejhf70022-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> The RAte control Therapy Evaluation in permanent Atrial Fibrillation (RATE‐AF) trial was the first head to head, randomized controlled trial (RCT) of beta‐blockers versus digoxin, the two most commonly used medications in this patient group.<xref rid="ejhf70022-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> RATE‐AF demonstrated that low‐dose digoxin had the same impact on physical‐related quality of life as beta‐blockers, but with substantially better functional improvement, lower natriuretic peptide release and significantly fewer adverse events. Previous studies have found that rate control can improve ventricular function in patients with AF,<xref rid="ejhf70022-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="ejhf70022-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> however it is unknown whether different rate control therapies have a distinct impact on either systolic or diastolic cardiac performance. This study provides a direct randomized comparison of low‐dose digoxin with beta‐blocker therapy on blinded echocardiography data, with a focus on patients with AF and a preserved ejection fraction where there are limited data to support clinical decision‐making.</p></sec><sec sec-type="methods" id="ejhf70022-sec-0005"><title>Methods</title><sec id="ejhf70022-sec-0006"><title>Patient population</title><p>RATE‐AF was a prospective, randomized, open‐label, blinded endpoint trial comparing heart rate control using digoxin versus beta‐blockers. Approval was obtained from the East Midlands Derby Research Ethics Committee (16/EM/0178), the Health Research Authority (IRAS 191437), and the Medicines and Healthcare Products Regulatory Agency. The trial was funded by the UK National Institute for Health and Care Research (NIHR; CDF‐2015‐08‐074). Trial registration: <ext-link ns1:href="http://clinicaltrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> Identifier: <ext-link ext-link-type="pmc:clinical-trial" ns1:href="NCT02391337">NCT02391337</ext-link> and clinicaltrialsregister.eu Identifier: 2015‐005043‐13.</p><p>The rationale, design and main results from the trial have previously been published, along with the trial protocol.<xref rid="ejhf70022-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ejhf70022-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> The trial was co‐designed and co‐run with a patient and public involvement team.<xref rid="ejhf70022-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> The trial was embedded into usual care within the National Health Service (NHS), with patients recruited from primary care practices and three hospitals in the West Midlands region of England from 2016 to 2018. All participants provided written informed consent after review of patient information developed by the patient and public involvement team. The inclusion criteria were age 60 years or older, permanent AF only (characterized at time of randomization, as a physician decision for rate control with no plans for cardioversion, anti‐arrhythmic medication, or ablation therapy), and symptoms suggestive of heart failure with New York Heart Association (NYHA) class II or above. Key exclusion criteria were heart rate &lt;60 bpm or evidence of prior second or third‐degree heart block, with few other exclusion criteria to allow results to be applicable to a wide population (see online supplementary <italic toggle="yes">Table Appendix</italic>
+<xref rid="ejhf70022-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref> for the full list of selection criteria). There were no exclusion criteria for echocardiographic image quality or heart failure according to left ventricular ejection fraction (LVEF), except for patients with decompensated heart failure in the last 14 days evidenced by the need for intravenous inotropes, vasodilators or diuretics.</p></sec><sec id="ejhf70022-sec-0007"><title>Randomization</title><p>Randomization was determined using a computer‐generated minimization algorithm, stratified by the modified European Heart Rhythm Association (mEHRA) class and gender. The treatment allocation was concealed until all baseline assessments were completed. Participants were randomized to low‐dose digoxin (62.5–250 μg daily) or bisoprolol (1.25–10 mg daily) on a 1:1 ratio. Those with intolerance to bisoprolol were permitted to receive another beta‐blocker at equivalent dose. There was no cross‐over between randomized groups.</p></sec><sec id="ejhf70022-sec-0008"><title>Echocardiography</title><p>Transthoracic echocardiography was performed at baseline and 12‐month follow‐up using a Philips EPIQ 7 and X5‐1 transducer, performed by the same British Society of Echocardiography level 2 accredited sonographer with over 5 years of experience. The sonographer was blinded to the patient's clinical details and trial therapy. All echocardiograms were conducted following a pre‐specified protocol ratified before the trial started (online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf70022-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S2</italic>
+</xref>). A minimum of 30‐beat loops or 30‐beat Doppler traces were obtained for all measurements of systolic and diastolic function. For loops of the apical 2‐, 3‐ and 4‐chamber views depth, sector width and focus were optimized to maximize frame rate and ensure all left ventricular endocardial segments were well visualized. The left atrium was assessed in both the apical 2‐ and 4‐chamber views. Doppler traces were obtained on tissue Doppler imaging (TDI) derived from the lateral and septal wall, mitral inflow, pulmonary venous flow and left ventricular outflow tract flow.</p><p>No measurements were taken at the time of imaging; all measurements were calculated offline at least 3 months after the patient's echocardiogram by the same echocardiographer. To ensure blinding at the time of analysis, each echocardiogram study was given a unique alphanumeric code, and all patient identifiable features (including trial number) were removed. Analysis was carried out using Philips Q‐station (version 3.5; Philips Healthcare, Andover, MA, USA). All measurements were calculated as the average of three index‐beats (online supplementary <italic toggle="yes">Figure Appendix</italic>
+<xref rid="ejhf70022-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>), defined as the cardiac cycle following two cycles of similar duration (within 60 ms of each other).<xref rid="ejhf70022-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Systolic measurements assessed were: LVEF using the modified Simpson's biplane approach, global longitudinal strain (GLS), TDI myocardial systolic velocity (s′) from the lateral and septal walls, and stroke volume derived from the continuity equation. Diastolic measurements assessed were: mitral inflow velocity (E) and E‐wave deceleration time, TDI‐derived myocardial early diastolic velocity (e′), the ratio of mitral E to average of e′ (E/e′), isovolumic relaxation time, pulmonary venous diastolic deceleration time, tricuspid regurgitation maximal velocity (TR V<sub>max</sub>), left atrial reservoir strain and left atrial ejection fraction.</p></sec><sec id="ejhf70022-sec-0009"><title>Clinical outcomes</title><p>Potential interactions of randomized therapy with LVEF were assessed using secondary outcomes obtained in the RATE‐AF trial. N‐terminal pro‐B‐type natriuretic peptide (NT‐proBNP) was measured on the same day as the baseline and 12‐month echocardiograms, with the clinical and imaging team blinded to results. Symptoms and functional impact were assessed using the NYHA and mEHRA classification systems for heart failure and AF, respectively, determined by the clinical team who were blinded to the results of the echocardiogram. Adverse events were collected at each visit by the research nurse according to the summary of product characteristics for each drug. All serious adverse events and incident cardiovascular events underwent a process of independent clinical adjudication.</p></sec><sec id="ejhf70022-sec-0010"><title>Statistical analysis</title><p>Summary results are presented as number (percentage), mean with standard deviation (SD), or median with interquartile range (IQR; displayed as 25th–75th quartiles). The analysis was performed using an intention‐to‐treat analysis (randomized treatment allocation to beta‐blockers or digoxin). Patients were stratified into groups based on baseline LVEF that forms the diagnostic criteria for HFpEF: LVEF ≥50%; heart failure with mildly reduced ejection fraction (HFmrEF): LVEF 41–49%; and heart failure with reduced ejection fraction (HFrEF): LVEF ≤40%. A paired <italic toggle="yes">t</italic>‐test was used to determine the change in echocardiographic parameters from baseline to 12‐month follow‐up, with transformation in cases of non‐normal distribution. Multivariable linear regression models were performed to determine whether there was a difference between treatment groups for the change in systolic and diastolic parameters, stratified by heart failure sub‐type and adjusting for baseline measurement of that echo variable, variables used in the randomization process (mEHRA and gender), age at baseline and history of myocardial infarction. The beta‐blocker arm was used as the reference category for all analysis. Interactions of LVEF with treatment allocation for outcomes (NT‐proBNP, 2 class mEHRA improvement and NYHA class) were evaluated in the fully adjusted models, with the incidence of adverse events during follow‐up assessed using adjusted Poisson regression. Statistical analysis was performed using STATA version 17.0 (StataCorp, College Station, TX, USA). All hypothesis testing was two‐sided, and a two‐tailed <italic toggle="yes">p</italic>‐value of 0.05 was considered statistically significant.</p></sec></sec><sec sec-type="results" id="ejhf70022-sec-0011"><title>Results</title><p>A plain English summary of results is presented in online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf70022-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S3</italic>
+</xref>. Overall, 160 patients were randomized, completed their baseline visit and were initiated on their allocated treatment. The mean achieved dose in the digoxin group was 161 μg/day (SD 55 μg/day), with mean digoxin level 0.78 ng/ml (SD 0.31 ng/mL). In the beta‐blocker group, the mean dose was 3.2 mg/day of bisoprolol (SD 1.8 mg/day) with alternative beta‐blockers used in seven patients who did not tolerate bisoprolol. A total of 145 participants reached 12‐month follow‐up; 11 died (4 randomized to digoxin, 7 randomized to beta‐blockers) and 3 withdrew and 1 did not attend follow‐up (3 randomized to digoxin, 1 randomized to beta‐blockers) (see online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf70022-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S2</italic>
+</xref> for consort diagram).</p><p>Baseline demographics for the 145 patients in this analysis are shown in <italic toggle="yes">Table</italic> <xref rid="ejhf70022-tbl-0001" ref-type="table">
+<italic toggle="yes">1</italic>
+</xref>. The median age was 75 years (IQR 69–82), 44% were women, mean NYHA class was 2.4 (SD 0.6), LVEF was 57% (SD 9%) and 52% had clinical signs of heart failure at enrolment. Randomized groups were well balanced apart from a higher proportion with a formal diagnosis of heart failure in the digoxin group, but similar NT‐proBNP and LVEF versus beta‐blockers. Echocardiogram parameters are shown in <italic toggle="yes">Table</italic> <xref rid="ejhf70022-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>; at baseline 119 (82%) patients had preserved LVEF (≥50%), 15 (10%) had mildly reduced LVEF (41%–49%) and 11 (8%) had reduced LVEF (≤40%).</p><table-wrap position="float" id="ejhf70022-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Characteristics of participants with baseline and 12‐month cardiac imaging</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Baseline characteristics</th><th align="left" valign="bottom" rowspan="1" colspan="1">All patients (<italic toggle="yes">n</italic> = 145)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Randomized to digoxin (<italic toggle="yes">n</italic> = 73)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Randomized to beta‐ blockers (<italic toggle="yes">n</italic> = 72)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, years, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">75 (69–82)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">74 (68–79)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">79 (70–84)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Female sex, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">64 (44)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">33 (45)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">31 (43)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Body surface area, m<sup>2</sup>, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.0 (1.8–2.2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.1 (1.8–2.2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.0 (1.7–2.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">30.0 (26.3–34.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">30.3 (26.7–34.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">29.8 (25.3–33.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Treatment for hypertension, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">102 (70)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">49 (67)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">53 (74)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous stroke or TIA, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">16 (11)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (8)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (14)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous myocardial infarction, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11 (8)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Unplanned admission for AF or HF in the last 12 months, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">26 (18)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">14 (19)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">12 (17)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous diagnosis of HF, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">51 (35)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">32 (44)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19 (26)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Signs of HF on examination, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">75 (52)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">43 (59)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">32 (44)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NYHA class, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">I: no symptoms, no limitations</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">II: mild symptoms, slight limitation</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">93 (64)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">43 (59)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">50 (69)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">III: marked symptoms and limitation</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">47 (32)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (38)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19 (26)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">IV: symptoms at rest, severe limitation</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (4)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Mean (SD)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.4 (0.6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.4 (0.6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.3 (0.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">mEHRA class, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">1: no symptoms</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">2a: mild symptoms not troubling patient</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (4)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">2b: moderate symptoms troubling patient, activity unaffected</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">70 (48)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">32 (44)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">38 (53)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">3: severe symptoms, activity affected</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">55 (38)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">33 (45)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">22 (31)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">4: disabling symptoms, activity discontinued</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">14 (10)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9 (13)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Creatinine, μmol/L, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">85 (72–100)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">85 (71–95)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">86 (75–102)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NT‐proBNP, pg/ml, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1049 (755–1463)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1091 (710–1522)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1011 (753–1404)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Heart rate, bpm, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">96 (86–112)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">97 (88–113)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">95 (85–110)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Systolic/diastolic blood pressure, mmHg, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">135/85 (124/77–146/91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">134/85 (124/77–145/91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">136/84 (124/75–148/92)</td></tr></tbody></table><table-wrap-foot id="ejhf70022-ntgp-0002"><fn id="ejhf70022-note-0003"><p>AF, atrial fibrillation; HF, heart failure; IQR, interquartile range; mEHRA, modified European Heart Rhythm Association; NT‐proBNP, N‐terminal pro‐B‐type natriuretic peptide; NYHA, New York Heart Association; SD, standard deviation; TIA, transient ischaemic attack.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="ejhf70022-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Echocardiography parameters at baseline and 12 months by treatment group</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="top" style="border-bottom:solid 1px #000000" colspan="1">Parameter</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Beta‐blockers (<italic toggle="yes">n</italic> = 72)</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Digoxin (<italic toggle="yes">n</italic> = 73)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Baseline</th><th align="left" valign="bottom" rowspan="1" colspan="1">12 months</th><th align="left" valign="bottom" rowspan="1" colspan="1">Baseline</th><th align="left" valign="bottom" rowspan="1" colspan="1">12 months</th></tr></thead><tbody valign="top"><tr><td colspan="5" align="left" valign="top" rowspan="1">Left ventricular systolic function<xref rid="ejhf70022-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Left ventricular ejection fraction, %, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">60.1 (55.1–64.1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">61.4 (56.5–64.6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">57.2 (50.4–62.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">61.3 (57.5–65.1)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Global longitudinal strain, %, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">−14.2 (−12.2 to −15.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">−15.8 (−14.2 to −17.4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">−13.6 (−11.9 to −14.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">−15.6 (−13.5 to −17.5)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Average TDI s′, cm/s, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6.7 (5.7–7.6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6.1 (5.4–7.1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6.4 (5.7–7.6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">7.0 (6.0–7.9)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Stroke volume, ml, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">54 (45–63)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">58 (48–69)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">58 (48–69)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">61 (54–79)</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Left ventricular diastolic function<xref rid="ejhf70022-note-0005" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Average e′, cm/s, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9.7 (8.5–11.1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">8.7 (7.7–10.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9.1 (8.1–10.9)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10.1 (7.8–11.3)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Mitral E velocity, cm/s, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">93 (79–102)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">89 (75–99)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">88 (77–101)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">92 (79–105)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Mitral deceleration time, ms, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">208 (181–235)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">224 (201–246)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">213 (192–233)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">224 (205–249)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Average E/e′, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9.4 (7.5–11.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10.0 (8.0–11.8)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9.3 (8.1–11.8)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9.0 (7.5–12.3)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Isovolumic relaxation time, ms, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">96 (87–107)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">99 (90–110)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">97 (89–109)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">103 (93–111)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Pulmonary vein ratio, mean (SD)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.7 (0.6–0.8)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.6 (0.6–0.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.7 (0.6–0.8)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.6 (0.6–0.8)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Pulmonary vein deceleration time, ms, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">243 (220–257)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">257 (235–281)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">240 (224–259)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">264 (243–285)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Left atrial volume indexed to BSA, ml/m<sup>2</sup>, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">44 (36–51)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">43 (34–52)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">36 (30–46)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">39 (34–50)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Left atrial ejection fraction, %, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">21.5 (14.7–30.1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">26.3 (18.5–34.0)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">23.5 (15.6–34.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">31.1 (21.9–37.3)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Left atrial reservoir strain, %, mean (SD)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9.7 (3.6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11.9 (5.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10.1 (4.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11.8 (4.8)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">TR V<sub>max</sub>, m/s, mean (SD)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.4 (0.4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.4 (0.4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.3 (0.5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.4 (0.5)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Elevated left ventricular filling pressures, <italic toggle="yes">n</italic> (%)<xref rid="ejhf70022-note-0006" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">18 (25)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">13 (18)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (38)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">23 (32)</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Other parameters of structure and function</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Left ventricular end‐diastolic volume, ml, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">76 (56–96)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">73 (60–99)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">84 (62–106)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">87 (69–106)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Left ventricular end‐systolic volume, ml, median (IQR)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">29 (22–40)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">30 (23–37)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">34 (25–44)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">33 (25–44)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Moderate/severe valve stenosis, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (5)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Moderate/severe valve regurgitation, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (14)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (14)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">15 (21)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9 (12)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Intermediate or high risk of pulmonary hypertension, <italic toggle="yes">n</italic> (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">13 (18)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">22 (31)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11 (15)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">24 (33)</td></tr></tbody></table><table-wrap-foot id="ejhf70022-ntgp-0003"><fn id="ejhf70022-note-0004"><p>BSA, body surface area; E, early diastolic velocity through mitral valve; e′, diastolic tissue velocity; IQR, interquartile range; SD, standard deviation; TDI, tissue Doppler imaging; TR, tricuspid regurgitation.</p></fn><fn id="ejhf70022-note-0005"><label>
+<sup>a</sup>
+</label><p>Left ventricular systolic and diastolic function were measured on an average of three index‐beats.</p></fn><fn id="ejhf70022-note-0006"><label>
+<sup>b</sup>
+</label><p>Assessed using the British Society of Echocardiography's diastolic assessment.</p></fn></table-wrap-foot></table-wrap><sec id="ejhf70022-sec-0012"><title>Change in left ventricular function in atrial fibrillation patients with preserved ejection fraction (≥50%)</title><p>In patients with LVEF ≥50% at baseline, there was a significant and consistent improvement in systolic function parameters for patients randomized to digoxin (<italic toggle="yes">Table</italic> <xref rid="ejhf70022-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref> and <italic toggle="yes">Figure</italic> <xref rid="ejhf70022-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>): from baseline to 12 months an increase in LVEF of 3.3% (<italic toggle="yes">p</italic> &lt; 0.001), change in GLS of −2.4% (<italic toggle="yes">p</italic> &lt; 0.001), increase in TDI s′ by 0.4 cm/s (<italic toggle="yes">p</italic> = 0.035) and increased stroke volume of 9.9 ml (<italic toggle="yes">p</italic> &lt; 0.001). Patients randomized to beta‐blockers had varied results: no significant change in LVEF (baseline to 12 months: −0.3%; <italic toggle="yes">p</italic> = 0.68), an improvement in GLS (−1.5%; <italic toggle="yes">p</italic> &lt; 0.001), worsening of TDI s′ (−0.5 cm/s; <italic toggle="yes">p</italic> = 0.011), but an increase in stroke volume (5.2 ml; <italic toggle="yes">p</italic> = 0.011). In direct comparison by intention‐to‐treat, there was a significantly greater improvement in systolic function parameters in those randomized to digoxin. Adjusted mean differences compared to the beta‐blocker group were 2.3% for LVEF (95% confidence interval [CI] 0.35–4.15; <italic toggle="yes">p</italic> = 0.021), 6.51 ml for stroke volume (95% CI 0.39–12.62; <italic toggle="yes">p</italic> = 0.037) and 1.12 cm/s for TDI‐derived s′ (95% CI 1.05–1.20, <italic toggle="yes">p</italic> = 0.001) (<italic toggle="yes">Table</italic> <xref rid="ejhf70022-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref> and <italic toggle="yes">Figure</italic> <xref rid="ejhf70022-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>).</p><table-wrap position="float" id="ejhf70022-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Change in left ventricular systolic function for digoxin versus beta‐blockers with baseline left ventricular ejection fraction ≥50%</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Digoxin</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Beta‐blockers</th><th align="left" valign="bottom" rowspan="1" colspan="1">Digoxin vs. beta‐blockers</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean change from baseline to 12 months, <italic toggle="yes">p</italic>‐value</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean change from baseline to 12 months, <italic toggle="yes">p</italic>‐value</th><th align="left" valign="bottom" rowspan="1" colspan="1">Adjusted mean difference<xref rid="ejhf70022-note-0008" ref-type="table-fn">
+<sup>a</sup>
+</xref> (95% CI); <italic toggle="yes">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">LVEF, %</td><td align="char" char="." valign="top" rowspan="1" colspan="1">57</td><td align="left" valign="top" rowspan="1" colspan="1">3.3%, <italic toggle="yes">p</italic> &lt; 0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">62</td><td align="left" valign="top" rowspan="1" colspan="1">−0.3%, <italic toggle="yes">p</italic> = 0.676</td><td align="left" valign="top" rowspan="1" colspan="1">2.3 (0.4–4.2); <italic toggle="yes">p</italic> = 0.021</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">GLS, %</td><td align="char" char="." valign="top" rowspan="1" colspan="1">45</td><td align="left" valign="top" rowspan="1" colspan="1">−2.4%, <italic toggle="yes">p</italic> &lt; 0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">47</td><td align="left" valign="top" rowspan="1" colspan="1">−1.5%, <italic toggle="yes">p</italic> &lt; 0.001</td><td align="left" valign="top" rowspan="1" colspan="1">−0.8 (−1.9 to −0.2); <italic toggle="yes">p</italic> = 0.11</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">s′, cm/s</td><td align="char" char="." valign="top" rowspan="1" colspan="1">57</td><td align="left" valign="top" rowspan="1" colspan="1">0.36, <italic toggle="yes">p</italic> = 0.035</td><td align="char" char="." valign="top" rowspan="1" colspan="1">62</td><td align="left" valign="top" rowspan="1" colspan="1">−0.53, <italic toggle="yes">p</italic> = 0.011</td><td align="left" valign="top" rowspan="1" colspan="1">1.12 (1.05–1.20); <italic toggle="yes">p</italic> = 0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stroke volume, ml</td><td align="char" char="." valign="top" rowspan="1" colspan="1">57</td><td align="left" valign="top" rowspan="1" colspan="1">9.9, <italic toggle="yes">p</italic> &lt; 0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">61</td><td align="left" valign="top" rowspan="1" colspan="1">5.2, <italic toggle="yes">p</italic> = 0.011</td><td align="left" valign="top" rowspan="1" colspan="1">6.5 (0.4–12.6); <italic toggle="yes">p</italic> = 0.037</td></tr></tbody></table><table-wrap-foot id="ejhf70022-ntgp-0004"><fn id="ejhf70022-note-0007"><p>CI, confidence interval; GLS, global longitudinal strain; LVEF, left ventricular ejection fraction; s′, systolic tissue Doppler velocity.</p></fn><fn id="ejhf70022-note-0008"><label>
+<sup>a</sup>
+</label><p>Muliple linear regression model comparing 12‐month ventricular function parameter by randomized treatment allocation, adjusted for age, sex, modified European Heart Rhythm Association score, history of myocardial infarction and each patient's baseline value for that outcome.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="Figure" id="ejhf70022-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Change in left ventricular systolic parameters from baseline to 12‐month follow‐up in patients with left ventricular ejection fraction (LVEF) ≥ 50% randomized to beta‐blockers versus digoxin. AF, atrial fibrillation; GLS, global longitudinal strain; s′, systolic tissue Doppler velocity.</p></caption><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="EJHF-27-2869-g003.jpg" /></fig><p>Significant improvements in diastolic function and LV filling pressure parameters were also noted for patients with baseline LVEF ≥50% randomized to digoxin: from baseline to 12 months an increase in pulmonary vein diastolic deceleration time of 37.1 ms (<italic toggle="yes">p</italic> &lt; 0.001), increase in mitral deceleration time of 11.8 ms (<italic toggle="yes">p</italic> = 0.041) and increase in left atrial ejection fraction of 4.1% (<italic toggle="yes">p</italic> = 0.044). There was no significant change in E/e′ (<italic toggle="yes">p</italic> = 0.76), left atrial reservoir strain (<italic toggle="yes">p</italic> = 0.41), TR V<sub>max</sub> (<italic toggle="yes">p</italic> = 0.29) or averaged e′ (<italic toggle="yes">p</italic> = 0.32). In patients randomized to beta‐blockers there was an improvement from baseline to 12 months in mitral deceleration time with a mean increase of 18.1 ms (<italic toggle="yes">p</italic> = 0.037). There was no change in left atrial ejection fraction, left atrial reservoir strain or pulmonary vein diastolic deceleration time. There was a worsening of E/e′ (increase of 1.1; <italic toggle="yes">p</italic> = 0.007) and worsening of averaged e′ (decrease by −0.51 cm/s; <italic toggle="yes">p</italic> = 0.038). There was no significant difference in diastolic parameter change between the two treatment arms for patients with preserved LVEF (<italic toggle="yes">Table</italic> <xref rid="ejhf70022-tbl-0004" ref-type="table">
+<italic toggle="yes">4</italic>
+</xref> and <italic toggle="yes">Figure</italic> <xref rid="ejhf70022-fig-0002" ref-type="fig">
+<italic toggle="yes">2</italic>
+</xref>).</p><table-wrap position="float" id="ejhf70022-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Change in left ventricular diastolic function in digoxin versus beta‐blockers with baseline left ventricular ejection fraction ≥50%</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Digoxin</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Beta‐blockers</th><th align="left" valign="bottom" rowspan="1" colspan="1">Digoxin vs. beta‐blockers</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean change from baseline to 12 months, <italic toggle="yes">p</italic>‐value</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean change from baseline to 12 months, <italic toggle="yes">p</italic>‐value</th><th align="left" valign="bottom" rowspan="1" colspan="1">Adjusted mean difference<xref rid="ejhf70022-note-0010" ref-type="table-fn">
+<sup>a</sup>
+</xref> (95% CI); <italic toggle="yes">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">E/e′</td><td align="char" char="." valign="top" rowspan="1" colspan="1">57</td><td align="left" valign="top" rowspan="1" colspan="1">1.0, <italic toggle="yes">p</italic> = 0.76</td><td align="char" char="." valign="top" rowspan="1" colspan="1">62</td><td align="left" valign="top" rowspan="1" colspan="1">1.1, <italic toggle="yes">p</italic> = 0.007</td><td align="left" valign="top" rowspan="1" colspan="1">2.72 (0.87–1.02); <italic toggle="yes">p</italic> = 0.17</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MV deceleration time, ms</td><td align="char" char="." valign="top" rowspan="1" colspan="1">57</td><td align="left" valign="top" rowspan="1" colspan="1">11.8, <italic toggle="yes">p</italic> = 0.041</td><td align="char" char="." valign="top" rowspan="1" colspan="1">62</td><td align="left" valign="top" rowspan="1" colspan="1">18.1, <italic toggle="yes">p</italic> = 0.037</td><td align="left" valign="top" rowspan="1" colspan="1">1.01 (0.94–1.08); <italic toggle="yes">p</italic> = 0.87</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Average e′, cm/s</td><td align="char" char="." valign="top" rowspan="1" colspan="1">57</td><td align="left" valign="top" rowspan="1" colspan="1">0.22, <italic toggle="yes">p</italic> = 0.32</td><td align="char" char="." valign="top" rowspan="1" colspan="1">62</td><td align="left" valign="top" rowspan="1" colspan="1">−0.51, <italic toggle="yes">p</italic> = 0.038</td><td align="left" valign="top" rowspan="1" colspan="1">0.57 (−0.21 to 1.36); <italic toggle="yes">p</italic> = 0.15</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PV diastolic deceleration time, ms</td><td align="char" char="." valign="top" rowspan="1" colspan="1">39</td><td align="left" valign="top" rowspan="1" colspan="1">37.1, <italic toggle="yes">p</italic> = &lt;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">38</td><td align="left" valign="top" rowspan="1" colspan="1">9.5, <italic toggle="yes">p</italic> = 0.26</td><td align="left" valign="top" rowspan="1" colspan="1">19.4 (−0.40 to 39.13); <italic toggle="yes">p</italic> = 0.06</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LAEF, %</td><td align="char" char="." valign="top" rowspan="1" colspan="1">46</td><td align="left" valign="top" rowspan="1" colspan="1">4.1%, <italic toggle="yes">p</italic> = 0.044</td><td align="char" char="." valign="top" rowspan="1" colspan="1">52</td><td align="left" valign="top" rowspan="1" colspan="1">3.1%, <italic toggle="yes">p</italic> = 0.12</td><td align="left" valign="top" rowspan="1" colspan="1">2.27 (−2.80 to 7.34); <italic toggle="yes">p</italic> = 0.38</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IVRT, ms</td><td align="char" char="." valign="top" rowspan="1" colspan="1">54</td><td align="left" valign="top" rowspan="1" colspan="1">4.1, <italic toggle="yes">p</italic> = 0.13</td><td align="char" char="." valign="top" rowspan="1" colspan="1">55</td><td align="left" valign="top" rowspan="1" colspan="1">2.1, <italic toggle="yes">p</italic> = 0.43</td><td align="left" valign="top" rowspan="1" colspan="1">0.95 (−4.94 to 6.84); <italic toggle="yes">p</italic> = 0.75</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Left atrial reservoir strain, %</td><td align="char" char="." valign="top" rowspan="1" colspan="1">45</td><td align="left" valign="top" rowspan="1" colspan="1">0.8%, <italic toggle="yes">p</italic> = 0.41</td><td align="char" char="." valign="top" rowspan="1" colspan="1">44</td><td align="left" valign="top" rowspan="1" colspan="1">1.1%, <italic toggle="yes">p</italic> = 0.17</td><td align="left" valign="top" rowspan="1" colspan="1">−0.04 (−2.02 to 1.93); <italic toggle="yes">p</italic> = 0.97</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">TR V<sub>max</sub>, m/s</td><td align="char" char="." valign="top" rowspan="1" colspan="1">18</td><td align="left" valign="top" rowspan="1" colspan="1">0.1, <italic toggle="yes">p</italic> = 0.29</td><td align="char" char="." valign="top" rowspan="1" colspan="1">33</td><td align="left" valign="top" rowspan="1" colspan="1">0.01, <italic toggle="yes">p</italic> = 0.9</td><td align="left" valign="top" rowspan="1" colspan="1">0.1 (−0.1 to 0.3); <italic toggle="yes">p</italic> = 0.40</td></tr></tbody></table><table-wrap-foot id="ejhf70022-ntgp-0005"><fn id="ejhf70022-note-0009"><p>CI, confidence interval; E/e′, the ratio of mitral E to average of e′; e′, diastolic tissue Doppler velocity; IQR, interquartile range; IVRT, isovolumic relaxation time; LAEF, left atrial ejection fraction; MV, mitral valve; PV, pulmonary vein; TR V<sub>max</sub>, maximum tricuspid regurgitation velocity.</p></fn><fn id="ejhf70022-note-0010"><label>
+<sup>a</sup>
+</label><p>Multiple linear regression model comparing 12‐month ventricular function parameter by randomized treatment allocation, adjusted for age, sex, modified European Heart Rhythm Association score, history of myocardial infarction and each patient's baseline value for that outcome.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="Figure" id="ejhf70022-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Change in left ventricular diastolic parameters from baseline to 12‐month follow‐up in patients with left ventricular ejection fraction (LVEF) ≥ 50% randomized to beta‐blockers versus digoxin. AF, atrial fibrillation; E/e′, the ratio of mitral E to average of e′ diastolic tissue velocity; LAEF, left atrial ejection fraction.</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="EJHF-27-2869-g004.jpg" /></fig></sec><sec id="ejhf70022-sec-0013"><title>Change in left ventricular function in atrial fibrillation patients with mildly reduced (41–49%) and reduced ejection fraction (≤40%)</title><p>For systolic function, there was a significant improvement with digoxin in patients with baseline LVEF 41–49% for LVEF (6.2%; <italic toggle="yes">p</italic> = 0.009) and TDI‐derived s′ (1.25 cm/s; <italic toggle="yes">p</italic> = 0.015). In patients randomized to beta‐blockers, there were significant improvements for those with baseline LVEF 41–49% in LVEF (11.5%; <italic toggle="yes">p</italic> = 0.016) and GLS (−5.63%; <italic toggle="yes">p</italic> = 0.001), and TDI‐derived s′ for baseline LVEF &lt;40% (2.2 cm/s; <italic toggle="yes">p</italic> = 0.045). Across all systolic parameters, the only significant difference between groups was improved TDI‐derived s′ with low‐dose digoxin; adjusted mean difference 1.45 cm/s compared to beta‐blockers (95% CI 1.22–1.73; <italic toggle="yes">p</italic> = 0.002) (online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf70022-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S3</italic>
+</xref> and <italic toggle="yes">Table</italic> <xref rid="ejhf70022-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S4</italic>
+</xref>). There were no differences in diastolic function parameters over time comparing digoxin with beta‐blockers in patients with reduced LVEF (online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf70022-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S5</italic>
+</xref>).</p></sec><sec id="ejhf70022-sec-0014"><title>Interaction of left ventricular ejection fraction with clinical outcomes</title><p>NT‐proBNP was significantly reduced in patients randomized to digoxin from baseline (median 1091 pg/ml [IQR 710–1522]) to 12‐month follow‐up (960 pg/ml [IQR 626–1531]) but was increased in those randomized to beta‐blockers (1011 pg/ml [IQR 753–1404] to 1250 pg/ml [IQR 847–1890]). Comparing groups, the ratio of geometric means for NT‐proBNP was 0.77 in favour of digoxin (95% CI 0.64–0.92; <italic toggle="yes">p</italic> = 0.004) with no interaction for baseline LVEF (<italic toggle="yes">p</italic>
+<sub>interaction</sub> = 0.62) (online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf70022-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S6</italic>
+</xref> and <italic toggle="yes">Figure</italic> <xref rid="ejhf70022-fig-0003" ref-type="fig">
+<italic toggle="yes">3</italic>
+</xref>). Digoxin led to significant improvement in both NYHA class and mEHRA functional score versus beta‐blockers, with adjusted odds ratios (OR) for a one class or more improvement in NYHA class of 11.32 (95% CI 4.29–29.84; <italic toggle="yes">p</italic> &lt; 0.001) and 4.91 for a 2 or more class improvement in mEHRA score (95% CI 2.36–10.23; <italic toggle="yes">p</italic> &lt; 0.001). In a post‐hoc analysis, more patients in the digoxin group stopped concomitant diuretics, and less started diuretics, compared to those randomized to beta‐blockers (<italic toggle="yes">p</italic> = 0.047), with no difference between groups in the number of participants who changed their diuretic treatment regime (<italic toggle="yes">p</italic> = 0.63) (online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf70022-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S7</italic>
+</xref>). There were no interactions for baseline LVEF (<italic toggle="yes">p</italic>
+<sub>interaction</sub> = 0.49 for NYHA class, and = 0.07 for mEHRA score). There were significantly fewer adverse events in patients randomized to digoxin (27 events compared to 136 events in the beta‐blocker arm), with incident rate ratio 0.21 (95% CI 0.13–0.31; <italic toggle="yes">p</italic> &lt; 0.001), and no interactions with baseline LVEF (<italic toggle="yes">p</italic>
+<sub>interaction</sub> = 0.13).</p><fig position="float" fig-type="Figure" id="ejhf70022-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Difference between clinical parameters at 12 months between the beta‐blocker arm and digoxin arm. mEHRA, modified European Heart Rhythm Association; NT‐proBNP, N‐terminal pro‐B‐type natriuretic peptide; NYHA, New York Heart Association.</p></caption><graphic position="anchor" id="jats-graphic-7" orientation="portrait" ns1:href="EJHF-27-2869-g001.jpg" /></fig></sec></sec><sec sec-type="discussion" id="ejhf70022-sec-0015"><title>Discussion</title><p>This study has demonstrated that patients with AF and a preserved ejection fraction randomized to low‐dose digoxin derive improvements in parameters related to left ventricular function. There was a significantly greater improvement in systolic function in those randomized to digoxin compared to beta‐blockers, where baseline LVEF was preserved (≥50%). Participants of all heart failure phenotypes allocated to digoxin had a significantly greater reduction in NT‐proBNP, better resolution of impaired functional class, and substantially fewer adverse events when compared to beta‐blockers, without any interaction with baseline cardiac function (<italic toggle="yes">Graphical Abstract</italic>). The numbers of patients with mildly reduced or reduced ejection fraction limit the ability to draw conclusions on the effects of digoxin and beta‐blockers on ventricular function.</p><p>The number of patients with both AF and heart failure is increasing exponentially, making it important to define effective therapies.<xref rid="ejhf70022-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="ejhf70022-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> However it remains unclear whether treatment strategies should differ between different heart failure phenotypes and the presence or absence of AF.<xref rid="ejhf70022-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Recovery or improvement in LVEF has been associated with better prognosis, although studies in patients with AF are limited.<xref rid="ejhf70022-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>In the TOPCAT trial in which patients with heart failure and LVEF ≥45% (35% with AF) were randomized to spironolactone versus placebo, there was overall a neutral outcome for the primary composite of death from cardiovascular causes, aborted cardiac arrest, or hospitalization. However when stratified by baseline LVEF, there was a benefit demonstrated in patients with an LVEF &lt;50%.<xref rid="ejhf70022-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> In an individual patient meta‐analysis of RCTs in which patients with heart failure were randomized to beta‐blockers versus placebo, in patients with AF and LVEF ≤49% there was an improvement in LVEF, but across all heart failure phenotypes for patients with AF there was no mortality benefit from beta‐blockers.<xref rid="ejhf70022-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="ejhf70022-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</p><p>In the AF with heart failure population from three sodium–glucose co‐transporter 2 (SGLT2) inhibitor trials, there remained a reduction in heart failure hospitalization or cardiovascular death in the SGLT2 inhibitor arm when compared to placebo,<xref rid="ejhf70022-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> but no significant difference in change in LVEF between the placebo and SGLT2 inhibitor treatment groups, with only one study showing an improvement in LVEF from baseline to follow‐up.<xref rid="ejhf70022-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</p><p>With regards to diastolic function, the IMPRESS‐AF (Improved Exercise Tolerance in Heart Failure With Preserved Ejection Fraction by Spironolactone on Myocardial Fibrosis in Atrial Fibrillation) trial randomized patients with AF and HFpEF to spironolactone versus placebo and found no change in diastolic function measured by E/e′ and no improvement in exercise capacity or quality of life in the spironolactone group.<xref rid="ejhf70022-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> While we saw no change in E/e′ in response to digoxin, there were significant improvements in other measures of diastolic function including left atrial ejection fraction.</p><p>The RATE‐AF trial was launched as the first head‐to‐head randomized trial of beta‐blockers versus digoxin in this patient group. The primary outcome of physical‐related quality of life was no different between digoxin and beta‐blockers, however the majority of secondary outcomes were in favour of digoxin therapy.<xref rid="ejhf70022-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> This sub‐analysis of the RATE‐AF trial has demonstrated that in patients randomized to low‐dose digoxin there is either an improvement or stabilization in left ventricular systolic function across all heart failure phenotypes, with a greater improvement in systolic function compared to the beta‐blocker arm in patients with LVEF ≥50%. Due to the paucity of data on the validity of left ventricular systolic function for patients in AF<xref rid="ejhf70022-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> it is unknown whether the improvements seen are clinically relevant. However, this is seen alongside a substantially greater improvement in symptoms of heart failure and AF, greater reduction in NT‐proBNP and significantly fewer treatment‐related adverse events when using digoxin therapy.<xref rid="ejhf70022-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> The improvements in clinical outcomes were seen in the context of a mean serum digoxin level of 0.78 ng/ml, which falls into a low‐dose regimen. In patients with sinus rhythm and heart failure, higher doses of digoxin are associated with worse prognosis,<xref rid="ejhf70022-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> although there are no trial data on patients with AF. In a detailed heart rate sub‐study using wearable devices in RATE‐AF participants, there was a similar effect on heart rate from low‐dose digoxin and beta‐blockers, with equivalent effects at rest and with physical activity.<xref rid="ejhf70022-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p><p>The value of digoxin in patients with heart failure remains controversial due to findings of higher rates of mortality and hospitalization in observational studies. However in RCTs, where prescription bias is addressed, digoxin has a neutral effect on mortality and leads to lower rates of heart failure‐related death and hospitalization.<xref rid="ejhf70022-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="ejhf70022-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Beta‐blockers also have a neutral effect on mortality, for patients with HFrEF and AF.<xref rid="ejhf70022-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="ejhf70022-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Previous RCTs assessing the effect of digoxin on long‐term outcomes excluded patients with AF; further studies on the use of cardiac glycosides are due to report, including DECISION<xref rid="ejhf70022-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> and DIGIT‐HF,<xref rid="ejhf70022-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> although neither is focussed specifically on patients with concomitant AF. Current guidelines give beta‐blockers and digoxin a similar level of recommendation for long‐term heart rate control, although beta‐blockers are preferred for acute rate control due to their more rapid and predictable heart rate response.<xref rid="ejhf70022-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>As digoxin inhibits the sodium/potassium‐ATPase pump leading to increases in intracellular calcium, the improvement in systolic function across all heart failure sub‐types with digoxin in this study was perhaps not unexpected. The improvements in diastolic function may be of greater significance in improving symptoms but may not be explained by known pharmacological actions. We cannot exclude effects secondary to rate control, but these effects were not seen in the beta‐blocker‐treated patients. The RATE‐AF population was elderly with multi‐morbid conditions and so may have benefited from the potential senolytic properties of digoxin.<xref rid="ejhf70022-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+</p><sec id="ejhf70022-sec-0016"><title>Study limitations</title><p>Although the RATE‐AF trial used an open‐label design, bias was minimized by blinded analysis of all echocardiogram data. Most patients had preserved LVEF at baseline, meaning that conclusions about the effects of digoxin are largely limited to this group. There was no pre‐exclusion criterion for echocardiographic image quality, which meant for analysis of parameters more reliant on image quality not all patients were included. Despite reducing the maximum number of patients for certain analyses, this has made the results more generalizable to the patient population seen in clinical practice. All measurements of systolic and diastolic function were made using an index‐beat which has been shown to reduce variability between measurements compared to conventional averaging.<xref rid="ejhf70022-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p></sec></sec><sec sec-type="conclusions" id="ejhf70022-sec-0017"><title>Conclusion</title><p>Patients with permanent AF and symptoms of heart failure who are treated with low‐dose digoxin benefit from an improvement in left ventricular systolic function across all heart failure phenotypes. In patients with a preserved ejection fraction there was a significantly greater improvement in left ventricular systolic function in patients treated with digoxin, when compared to treatment with beta‐blockers. Digoxin also showed a greater improvement in symptoms related to heart failure and AF with fewer treatment‐related adverse events compared to beta‐blockers, regardless of baseline LVEF.</p></sec><sec id="ejhf70022-sec-0019"><sec disp-level="2" id="ejhf70022-sec-0019a"><title>Funding</title><p>K.V.B. is funded by a British Heart Foundation (BHF) fellowship (FS/CDRF/21/21032). The RATE‐AF trial was funded by the National Institute for Health Research (NIHR) (CDF‐2015‐08‐074). The work is also supported by a BHF Accelerator Award to the University of Birmingham Institute of Cardiovascular Sciences (AA/18/2/34218), the NIHR Birmingham Biomedical Research Centre (NIHR203326), and MRC Health Data Research UK (HDRUK/CFC/01). The opinions expressed in this paper are those of the authors and do not represent any of the listed organizations; none of the organizations had any role in design or conduct of the study (including collection, analysis and interpretation of the data) or any involvement in preparation, review or approval of the manuscript.</p><p>
+<bold>Conflict of interest</bold>: K.V.B. reports receiving funding from the NIHR and the BHF; and receiving personal fees from Health Systems‐Philips UKI. S.K.G. reports funding through the BigData@Heart Innovative Medicines Initiative (grant no.116074). A.J.C. reports receiving consulting fees from Boston Scientific, Abbott, Biosense Webster, Johnson and Johnson and Acesion; and receiving payment for lectures from Menarini, Daiichi Sankyo, Abbott and Boston Scientific. J.N.T. reports payment for manuscript writing from the British Journal of Cardiology. D.K. reports receiving grants from the National Institute for Health Research (NIHR), the British Heart Foundation (BHF), UK National Health Service–Data for R&amp;D‐Subnational Secure Data Environment programme, the European Union‐European Federation of Pharma Industries and Associations Innovative Medicines Initiative BigData@Heart, the European Society of Cardiology, EU Horizon and UKRI, EU/EFPIA Innovative Medicines Initiative and Cook &amp; Wolstenholme Charitable Trust; and receiving personal fees from Bayer, Amomed, and Prothetics Medicine Development. All other authors have nothing to disclose.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ejhf70022-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Appendix S1. Supporting Information</bold>.</p></caption><media ns1:href="EJHF-27-2869-s001.docx" position="float" orientation="portrait" /></supplementary-material></sec></body><back><ack id="ejhf70022-sec-0018"><title>Acknowledgements</title><p>We are grateful to the patients who gave their time to take part in the RATE‐AF trial, in addition to the investigators and trial teams at the University Hospitals Birmingham NHS Foundation Trust and Sandwell and West Birmingham Hospitals NHS Trust, the Birmingham Clinical Trials Unit and the independent members of the Trial Steering Committee and Data Monitoring Committee. In memory of Jacqueline Jones (Patient &amp; Public Involvement team). We are grateful for Philips Electronics UK Limited for loaning the Ultrasound Workspace software for left atrial strain analysis. We are grateful for the peer reviewers' suggestions which have been incorporated into the revised manuscript.</p></ack><ref-list id="ejhf70022-bibl-0001" content-type="cited-references"><title>References</title><ref id="ejhf70022-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0001">
+<string-name name-style="western">
+<surname>Lane</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skjøth</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lip</surname>
+<given-names>GYH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larsen</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Temporal trends in incidence, prevalence, and mortality of atrial fibrillation in primary care</article-title>. <source>J Am Heart Assoc</source>
+<year>2017</year>;<volume>6</volume>:<elocation-id>e005155</elocation-id>. <pub-id pub-id-type="doi">10.1161/JAHA.116.005155</pub-id>
+<pub-id pub-id-type="pmid">28455344</pub-id>
+<pub-id pub-id-type="pmcid">PMC5524079</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0002">
+<string-name name-style="western">
+<surname>Chiang</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naditch‐Brûlé</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goethals</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inoue</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Neill</surname>
+<given-names>J</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Distribution and risk profile of paroxysmal, persistent, and permanent atrial fibrillation in routine clinical practice: Insight from the real‐life global survey evaluating patients with atrial fibrillation international registry</article-title>. <source>Circ Arrhythm Electrophysiol</source>
+<year>2012</year>;<volume>5</volume>:<fpage>632</fpage>–<lpage>639</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCEP.112.970749</pub-id>
+<pub-id pub-id-type="pmid">22787011</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0003">
+<string-name name-style="western">
+<surname>Ţica</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khamboo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Breaking the cycle of heart failure with preserved ejection fraction and atrial fibrillation</article-title>. <source>Card Fail Rev</source>
+<year>2022</year>;<volume>8</volume>:<elocation-id>e32</elocation-id>. <pub-id pub-id-type="doi">10.15420/cfr.2022.03</pub-id>
+<pub-id pub-id-type="pmid">36644646</pub-id>
+<pub-id pub-id-type="pmcid">PMC9820207</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0004">
+<string-name name-style="western">
+<surname>Van Gelder</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rienstra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casado‐Arroyo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caso</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crijns</surname>
+<given-names>H</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio‐Thoracic Surgery (EACTS)</article-title>. <source>Eur Heart J</source>
+<year>2024</year>;<volume>45</volume>:<fpage>3314</fpage>–<lpage>3414</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehae176</pub-id>
+<pub-id pub-id-type="pmid">39210723</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0005">
+<string-name name-style="western">
+<surname>Kirchhof</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breithardt</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bax</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benninger</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blomstrom‐Lundqvist</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boriani</surname>
+<given-names>G</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>A roadmap to improve the quality of atrial fibrillation management: Proceedings from the fifth Atrial Fibrillation Network/European Heart Rhythm Association consensus conference</article-title>. <source>Europace</source>
+<year>2016</year>;<volume>18</volume>:<fpage>37</fpage>–<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1093/europace/euv304</pub-id>
+<pub-id pub-id-type="pmid">26481149</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0006">
+<string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calvert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deeks</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Griffith</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirchhof</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>A review of rate control in atrial fibrillation, and the rationale and protocol for the RATE‐AF trial</article-title>. <source>BMJ Open</source>
+<year>2017</year>;<volume>7</volume>:<elocation-id>e015099</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2016-015099</pub-id>
+<pub-id pub-id-type="pmcid">PMC5588987</pub-id><pub-id pub-id-type="pmid">28729311</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0007">
+<string-name name-style="western">
+<surname>Hagens</surname>
+<given-names>VE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Veldhuisen</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kamp</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rienstra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bosker</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Veeger</surname>
+<given-names>NJGM</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">Control versus Electrical Cardioversion for Persistent Atrial Fibrillation Study Group</collab>
+. <article-title>Effect of rate and rhythm control on left ventricular function and cardiac dimensions in patients with persistent atrial fibrillation: Results from the RAte Control versus Electrical Cardioversion for Persistent Atrial Fibrillation (RACE) study</article-title>. <source>Heart Rhythm</source>
+<year>2005</year>;<volume>2</volume>:<fpage>19</fpage>–<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/j.hrthm.2004.09.028</pub-id>
+<pub-id pub-id-type="pmid">15851259</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0008">
+<string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JGF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flather</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holmes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coats</surname>
+<given-names>AJS</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Beta‐blockers for heart failure with reduced, mid‐range, and preserved ejection fraction: An individual patient‐level analysis of double‐blind randomized trials</article-title>. <source>Eur Heart J</source>
+<year>2018</year>;<volume>39</volume>:<fpage>26</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehx564</pub-id>
+<pub-id pub-id-type="pmid">29040525</pub-id>
+<pub-id pub-id-type="pmcid">PMC5837435</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0009">
+<string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gill</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stanbury</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>JC</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">Rate Control Therapy Evaluation in Permanent Atrial Fibrillation (RATE‐AF) Team</collab>
+. <article-title>Effect of digoxin vs bisoprolol for heart rate control in atrial fibrillation on patient‐reported quality of life: The RATE‐AF randomized clinical trial</article-title>. <source>JAMA</source>
+<year>2020</year>;<volume>324</volume>:<fpage>2497</fpage>–<lpage>2508</lpage>. <pub-id pub-id-type="doi">10.1001/jama.2020.23138</pub-id>
+<pub-id pub-id-type="pmid">33351042</pub-id>
+<pub-id pub-id-type="pmcid">PMC7756234</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0010">
+<string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stanbury</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tica</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Transforming clinical research by involving and empowering patients‐ the RATE‐AF randomized trial</article-title>. <source>Eur Heart J</source>
+<year>2021</year>;<volume>42</volume>:<fpage>2411</fpage>–<lpage>2414</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehab098</pub-id>
+<pub-id pub-id-type="pmid">33655299</pub-id>
+<pub-id pub-id-type="pmcid">PMC8248994</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0011">
+<string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gill</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sitch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Connor</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Improving the diagnosis of heart failure in patients with atrial fibrillation</article-title>. <source>Heart</source>
+<year>2021</year>;<volume>107</volume>:<fpage>902</fpage>–<lpage>908</lpage>. <pub-id pub-id-type="doi">10.1136/heartjnl-2020-318557</pub-id>
+<pub-id pub-id-type="pmid">33692093</pub-id>
+<pub-id pub-id-type="pmcid">PMC8142420</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0012">
+<string-name name-style="western">
+<surname>Linz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrade</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arbelo</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boriani</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breithardt</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Camm</surname>
+<given-names>AJ</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Longer and better lives for patients with atrial fibrillation: The 9th AFNET/EHRA consensus conference</article-title>. <source>Europace</source>
+<year>2024</year>;<volume>26</volume>:<elocation-id>euae070</elocation-id>. <pub-id pub-id-type="doi">10.1093/europace/euae070</pub-id>
+<pub-id pub-id-type="pmid">38591838</pub-id>
+<pub-id pub-id-type="pmcid">PMC11003300</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0013">
+<string-name name-style="western">
+<surname>Kornej</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Börschel</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schnabel</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Epidemiology of atrial fibrillation in the 21st century: Novel methods and new insights</article-title>. <source>Circ Res</source>
+<year>2020</year>;<volume>127</volume>:<fpage>4</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCRESAHA.120.316340</pub-id>
+<pub-id pub-id-type="pmid">32716709</pub-id>
+<pub-id pub-id-type="pmcid">PMC7577553</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0014">
+<string-name name-style="western">
+<surname>Reddy</surname>
+<given-names>YNV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borlaug</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gersh</surname>
+<given-names>BJ</given-names>
+</string-name>. <article-title>Management of atrial fibrillation across the spectrum of heart failure with preserved and reduced ejection fraction</article-title>. <source>Circulation</source>
+<year>2022</year>;<volume>146</volume>:<fpage>339</fpage>–<lpage>357</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.122.057444</pub-id>
+<pub-id pub-id-type="pmid">35877831</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0015">
+<string-name name-style="western">
+<surname>Kalogeropoulos</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Georgiopoulou</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burkman</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siwamogsatham</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>A</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Characteristics and outcomes of adult outpatients with heart failure and improved or recovered ejection fraction</article-title>. <source>JAMA Cardiol</source>
+<year>2016</year>;<volume>1</volume>:<fpage>510</fpage>–<lpage>518</lpage>. <pub-id pub-id-type="doi">10.1001/jamacardio.2016.1325</pub-id>
+<pub-id pub-id-type="pmid">27434402</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0016">
+<string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claggett</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewis</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desai</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anand</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sweitzer</surname>
+<given-names>NK</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Influence of ejection fraction on outcomes and efficacy of spironolactone in patients with heart failure with preserved ejection fraction</article-title>. <source>Eur Heart J</source>
+<year>2016</year>;<volume>37</volume>:<fpage>455</fpage>–<lpage>462</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehv464</pub-id>
+<pub-id pub-id-type="pmid">26374849</pub-id>
+<pub-id pub-id-type="pmcid">PMC4751235</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0017">
+<string-name name-style="western">
+<surname>Karwath</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gill</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tica</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pendleton</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aziz</surname>
+<given-names>F</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Redefining β‐blocker response in heart failure patients with sinus rhythm and atrial fibrillation: A machine learning cluster analysis</article-title>. <source>Lancet</source>
+<year>2021</year>;<volume>398</volume>:<fpage>1427</fpage>–<lpage>1435</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(21)01638-X</pub-id>
+<pub-id pub-id-type="pmid">34474011</pub-id>
+<pub-id pub-id-type="pmcid">PMC8542730</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0018">
+<string-name name-style="western">
+<surname>Pandey</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okaj</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaur</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belley‐Cote</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oraii</surname>
+<given-names>A</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Sodium‐glucose co‐transporter inhibitors and atrial fibrillation: A systematic review and meta‐analysis of randomized controlled trials</article-title>. <source>J Am Heart Assoc</source>
+<year>2021</year>;<volume>10</volume>:<elocation-id>e022222</elocation-id>. <pub-id pub-id-type="doi">10.1161/JAHA.121.022222</pub-id>
+<pub-id pub-id-type="pmid">34459238</pub-id>
+<pub-id pub-id-type="pmcid">PMC8649253</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0019">
+<string-name name-style="western">
+<surname>Dhingra</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mistry</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Puar</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verma</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mazer</surname>
+<given-names>CD</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>SGLT2 inhibitors and cardiac remodelling: A systematic review and meta‐analysis of randomized cardiac magnetic resonance imaging trials</article-title>. <source>ESC Heart Fail</source>
+<year>2021</year>;<volume>8</volume>:<fpage>4693</fpage>–<lpage>4700</lpage>. <pub-id pub-id-type="doi">10.1002/ehf2.13645</pub-id>
+<pub-id pub-id-type="pmid">34623032</pub-id>
+<pub-id pub-id-type="pmcid">PMC8712921</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0020">
+<string-name name-style="western">
+<surname>Shantsila</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shahid</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deeks</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calvert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fisher</surname>
+<given-names>JP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Spironolactone in atrial fibrillation with preserved cardiac fraction: The IMPRESS‐AF trial</article-title>. <source>J Am Heart Assoc</source>
+<year>2020</year>;<volume>9</volume>:<elocation-id>e016239</elocation-id>. <pub-id pub-id-type="doi">10.1161/JAHA.119.016239</pub-id>
+<pub-id pub-id-type="pmid">32909497</pub-id>
+<pub-id pub-id-type="pmcid">PMC7726985</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0021">
+<string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Connor</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steeds</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Cardiac imaging to assess left ventricular systolic function in atrial fibrillation</article-title>. <source>Am J Cardiol</source>
+<year>2021</year>;<volume>139</volume>:<fpage>40</fpage>–<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1016/j.amjcard.2020.10.012</pub-id>
+<pub-id pub-id-type="pmid">33065079</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0022">
+<string-name name-style="western">
+<surname>Abdali</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Camm</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rahimi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stanbury</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Cost‐effectiveness of digoxin versus beta blockers in permanent atrial fibrillation: The Rate Control Therapy Evaluation in Permanent Atrial Fibrillation (RATE‐AF) randomised trial</article-title>. <source>Heart</source>
+<year>2025</year>;<volume>111</volume>:<fpage>362</fpage>–<lpage>369</lpage>. <pub-id pub-id-type="doi">10.1136/heartjnl-2024-324761</pub-id>
+<pub-id pub-id-type="pmid">39819610</pub-id>
+<pub-id pub-id-type="pmcid">PMC12015011</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0023">
+<string-name name-style="western">
+<surname>Rathore</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Curtis</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bristow</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krumholz</surname>
+<given-names>HM</given-names>
+</string-name>. <article-title>Association of serum digoxin concentration and outcomes in patients with heart failure</article-title>. <source>JAMA</source>
+<year>2003</year>;<volume>289</volume>:<fpage>871</fpage>–<lpage>878</lpage>. <pub-id pub-id-type="doi">10.1001/jama.289.7.871</pub-id>
+<pub-id pub-id-type="pmid">12588271</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0024">
+<string-name name-style="western">
+<surname>Gill</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barsky</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karwath</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tica</surname>
+<given-names>O</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Consumer wearable devices for evaluation of heart rate control using digoxin versus beta‐blockers: The RATE‐AF randomized trial</article-title>
+<source>Nat Med</source>
+<year>2024</year>
+<volume>30</volume>(<issue>7</issue>):<fpage>2030</fpage>–<lpage>2036</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-024-03094-4</pub-id>
+<pub-id pub-id-type="pmid">39009776</pub-id>
+<pub-id pub-id-type="pmcid">PMC11271403</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0025">
+<string-name name-style="western">
+<surname>Ziff</surname>
+<given-names>OJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lane</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Griffith</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirchhof</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Safety and efficacy of digoxin: Systematic review and meta‐analysis of observational and controlled trial data</article-title>. <source>BMJ</source>
+<year>2015</year>;<volume>351</volume>:<elocation-id>h4451</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.h4451</pub-id>
+<pub-id pub-id-type="pmid">26321114</pub-id>
+<pub-id pub-id-type="pmcid">PMC4553205</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0026"><label>26</label><mixed-citation publication-type="miscellaneous" id="ejhf70022-cit-0026">
+<string-name name-style="western">
+<surname>Champsi</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tica</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ziff</surname>
+<given-names>OJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mobley</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Digoxin in patients with heart failure and/or atrial fibrillation: A systematic review and meta‐analysis of 5.9 million patient years of follow‐up</article-title>. <year>2023</year>
+<pub-id pub-id-type="doi">10.2139/ssrn.4544769</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0027">
+<string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holmes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krum</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manzano</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JG</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Efficacy of β blockers in patients with heart failure plus atrial fibrillation: An individual‐patient data meta‐analysis</article-title>. <source>Lancet</source>
+<year>2014</year>;<volume>384</volume>:<fpage>2235</fpage>–<lpage>2243</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(14)61373-8</pub-id>
+<pub-id pub-id-type="pmid">25193873</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0028">
+<string-name name-style="western">
+<surname>van Veldhuisen</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rienstra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mosterd</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alings</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Asselt</surname>
+<given-names>ADJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bouvy</surname>
+<given-names>ML</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Efficacy and safety of low‐dose digoxin in patients with heart failure. Rationale and design of the DECISION trial</article-title>. <source>Eur J Heart Fail</source>
+<year>2024</year>;<volume>26</volume>:<fpage>2223</fpage>–<lpage>2230</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.3428</pub-id>
+<pub-id pub-id-type="pmid">39212246</pub-id>
+</mixed-citation></ref><ref id="ejhf70022-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0029">
+<string-name name-style="western">
+<surname>Bavendiek</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berliner</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwab</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rieth</surname>
+<given-names>A</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; DIGIT‐HF Study Group. <article-title>DIGitoxin to Improve ouTcomes in patients with advanced chronic Heart Failure (DIGIT‐HF): Baseline characteristics compared to recent randomized controlled heart failure trials</article-title>. <source>Eur J Heart Fail</source>
+<year>2025</year>;<volume>27</volume>:<fpage>1224</fpage>‐<lpage>1233</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.3679</pub-id>
+<pub-id pub-id-type="pmid">40389288</pub-id>
+<pub-id pub-id-type="pmcid">PMC12370576</pub-id></mixed-citation></ref><ref id="ejhf70022-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ejhf70022-cit-0030">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jackson</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Repurposing digoxin for geroprotection in patients with frailty and multimorbidity</article-title>. <source>Ageing Res Rev</source>
+<year>2023</year>;<volume>86</volume>:<elocation-id>101860</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.arr.2023.101860</pub-id>
+<pub-id pub-id-type="pmid">36682465</pub-id>
+</mixed-citation></ref></ref-list></back></article>

@@ -312,6 +312,16 @@ def check_fetched(art: ET.Element, pin: dict, canonical_pin: str | None) -> str:
     return "drifted"
 
 
+def check_on_disk(path: Path, pin: dict, canonical_pin: str | None) -> str:
+    """Check a paper already on disk, with no network: 'ok', 'metadata' or 'drifted' (as ``check_fetched``). A file that cannot be read
+    as the article it names is drifted."""
+    try:
+        art = dict(split_articles(path.read_text(encoding="utf-8")))[pin["pmcid"]]
+    except (ET.ParseError, KeyError, ValueError):
+        return "drifted"
+    return check_fetched(art, pin, canonical_pin)
+
+
 def fetch_pinned(
     pinned: list[dict],
     out_dir: Path,
@@ -322,22 +332,33 @@ def fetch_pinned(
     allow_drift: bool = False,
     log: Callable[[str], None] = print,
 ) -> dict[str, list[str]]:
-    """Download exactly the pinned PMCIDs and verify each file against its recorded hash.
+    """Verify the pinned PMCIDs against the files in ``out_dir``; download only the ones that are not there.
 
-    Returns {"ok": [...], "metadata": [...], "drifted": [...], "missing": [...]}.
+    A paper already on disk (for example committed under data/raw, see data/raw/NOTICE.md) is checked locally against its pins, with no
+    network. Only the missing papers are requested from NCBI, so a checkout that contains the papers reproduces offline.
+
+    Returns {"ok": [...], "metadata": [...], "drifted": [...], "missing": [...], "fetched": [...]}; "fetched" lists the ids downloaded
+    in this call.
 
     "metadata" means PMC changed only its own bookkeeping (for example the ``pmc-last-change`` date) and the canonical text is
-    identical to the pinned one: the file is written and the results are unaffected (checked by reproducing them). "drifted" means
+    identical to the pinned one: the paper is accepted and the results are unaffected (checked by reproducing them). "drifted" means
     the article's content changed (publishers correct papers): gold quotes may no longer match, so by default such a file is NOT written.
     """
     out_dir.mkdir(parents=True, exist_ok=True)
     want = {r["pmcid"]: r for r in pinned}
     canonical_pins = canonical_pins or {}
-    result: dict[str, list[str]] = {"ok": [], "metadata": [], "drifted": [], "missing": []}
-    ids = [r["pmcid"] for r in pinned]
-    for i in range(0, len(ids), batch_size):
+    result: dict[str, list[str]] = {"ok": [], "metadata": [], "drifted": [], "missing": [], "fetched": []}
+    to_fetch = []
+    for r in pinned:
+        path = out_dir / f"{r['pmcid']}.xml"
+        if path.exists():
+            result[check_on_disk(path, want[r["pmcid"]], canonical_pins.get(r["pmcid"]))].append(r["pmcid"])
+        else:
+            to_fetch.append(r["pmcid"])
+    log(f"  {len(pinned) - len(to_fetch)} of {len(pinned)} papers are on disk and checked locally; {len(to_fetch)} to fetch from NCBI")
+    for i in range(0, len(to_fetch), batch_size):
         time.sleep(sleep)
-        batch = ids[i : i + batch_size]
+        batch = to_fetch[i : i + batch_size]
         got = dict(split_articles(efetch([b.removeprefix("PMC") for b in batch])))
         for pmcid in batch:
             art = got.get(pmcid)
@@ -349,11 +370,12 @@ def fetch_pinned(
             if status in ("ok", "metadata"):
                 (out_dir / f"{pmcid}.xml").write_text(text, encoding="utf-8")
                 result[status].append(pmcid)
+                result["fetched"].append(pmcid)
             else:
                 result["drifted"].append(pmcid)
                 if allow_drift:
                     (out_dir / f"{pmcid}.xml").write_text(text, encoding="utf-8")
-        log(f"  {min(i + batch_size, len(ids))}/{len(ids)}  ok={len(result['ok'])} metadata={len(result['metadata'])} "
+        log(f"  fetched {min(i + batch_size, len(to_fetch))}/{len(to_fetch)}  ok={len(result['ok'])} metadata={len(result['metadata'])} "
             f"drifted={len(result['drifted'])} missing={len(result['missing'])}")
     (out_dir / "manifest.jsonl").write_text(
         "\n".join(json.dumps({k: v for k, v in want[p].items() if k not in {"sha256", "bytes"}}, ensure_ascii=False)

@@ -58,7 +58,8 @@ def main() -> int:
         if args.canonical_pins.exists():
             canon = {r["pmcid"]: r["canonical_sha256"] for r in map(json.loads, args.canonical_pins.read_text().splitlines()) if r}
         res = fetch_pinned(pinned, args.out, canonical_pins=canon, allow_drift=args.allow_drift)
-        print(f"ok={len(res['ok'])} metadata-only={len(res['metadata'])} drifted={len(res['drifted'])} missing={len(res['missing'])}")
+        print(f"ok={len(res['ok'])} metadata-only={len(res['metadata'])} drifted={len(res['drifted'])} missing={len(res['missing'])} "
+              f"downloaded={len(res['fetched'])}")
         if res["metadata"]:
             print(f"  metadata-only change (article text identical; PMC bookkeeping changed): {', '.join(res['metadata'])}")
         for k in ("drifted", "missing"):

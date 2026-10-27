@@ -1,0 +1,744 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Clin Oncol</journal-id><journal-id journal-id-type="iso-abbrev">J Clin Oncol</journal-id><journal-id journal-id-type="pmc-domain-id">2035</journal-id><journal-id journal-id-type="pmc-domain">lwwopen</journal-id><journal-id journal-id-type="nlm-id">8309333</journal-id><journal-id journal-id-type="publisher-id">JCO</journal-id><journal-title-group><journal-title>Journal of Clinical Oncology</journal-title></journal-title-group><issn pub-type="ppub">0732-183X</issn><issn pub-type="epub">1527-7755</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Lippincott Open Access</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11107897</article-id><article-id pub-id-type="pmcid-ver">PMC11107897.1</article-id><article-id pub-id-type="pmcaid">11107897</article-id><article-id pub-id-type="pmcaiid">11107897</article-id><article-id pub-id-type="pmid">38640453</article-id><article-id pub-id-type="doi">10.1200/JCO.23.01019</article-id><article-id pub-id-type="publisher-id">JCO.23.01019</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>ORIGINAL REPORTS</subject><subj-group><subject>Surgical Oncology</subject></subj-group></subj-group></article-categories><title-group><article-title>Laparoscopic Versus Open Hemihepatectomy: The ORANGE II PLUS Multicenter Randomized Controlled Trial</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9143-8213</contrib-id><name name-style="western"><surname>Fichtinger</surname><given-names initials="RS">Robert S.</given-names></name><degrees>MD</degrees><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Aldrighetti</surname><given-names initials="LA">Luca A.</given-names></name><degrees>MD, PhD</degrees><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3162-4639</contrib-id><name name-style="western"><surname>Abu Hilal</surname><given-names initials="M">Mohammed</given-names></name><degrees>MD, PhD</degrees><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6280-810X</contrib-id><name name-style="western"><surname>Troisi</surname><given-names initials="RI">Roberto I.</given-names></name><degrees>MD, PhD</degrees><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1881-7655</contrib-id><name name-style="western"><surname>Sutcliffe</surname><given-names initials="RP">Robert P.</given-names></name><degrees>MS, FRCS</degrees><xref rid="aff8" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2650-9350</contrib-id><name name-style="western"><surname>Besselink</surname><given-names initials="MG">Marc G.</given-names></name><degrees>MD, PhD</degrees><xref rid="aff9" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="aff10" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5613-6463</contrib-id><name name-style="western"><surname>Aroori</surname><given-names initials="S">Somaiah</given-names></name><degrees>MD, FRCS</degrees><xref rid="aff11" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8193-4889</contrib-id><name name-style="western"><surname>Menon</surname><given-names initials="KV">Krishna V.</given-names></name><degrees>MS, FRCS</degrees><xref rid="aff12" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3137-6225</contrib-id><name name-style="western"><surname>Edwin</surname><given-names initials="B">Bjørn</given-names></name><degrees>MD, PhD</degrees><xref rid="aff13" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5542-3017</contrib-id><name name-style="western"><surname>D'Hondt</surname><given-names initials="M">Mathieu</given-names></name><degrees>MD, PhD</degrees><xref rid="aff14" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7347-9727</contrib-id><name name-style="western"><surname>Lucidi</surname><given-names initials="V">Valerio</given-names></name><degrees>MD</degrees><xref rid="aff15" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0602-7207</contrib-id><name name-style="western"><surname>Ulmer</surname><given-names initials="TF">Tom F.</given-names></name><degrees>MD, PhD</degrees><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Díaz-Nieto</surname><given-names initials="R">Rafael</given-names></name><degrees>MD, PhD</degrees><xref rid="aff16" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4213-4723</contrib-id><name name-style="western"><surname>Soonawalla</surname><given-names initials="Z">Zahir</given-names></name><degrees>MS, FRCS</degrees><xref rid="aff17" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>White</surname><given-names initials="S">Steve</given-names></name><degrees>MD, FRCS</degrees><xref rid="aff18" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8846-3824</contrib-id><name name-style="western"><surname>Sergeant</surname><given-names initials="G">Gregory</given-names></name><degrees>MD, PhD</degrees><xref rid="aff19" ref-type="aff">
+<sup>19</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1027-8685</contrib-id><name name-style="western"><surname>Olij</surname><given-names initials="B">Bram</given-names></name><degrees>MD</degrees><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff20" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8108-9064</contrib-id><name name-style="western"><surname>Ratti</surname><given-names initials="F">Francesca</given-names></name><degrees>MD, PhD</degrees><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7109-3545</contrib-id><name name-style="western"><surname>Kuemmerli</surname><given-names initials="C">Christoph</given-names></name><degrees>MD</degrees><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0490-7780</contrib-id><name name-style="western"><surname>Scuderi</surname><given-names initials="V">Vincenzo</given-names></name><degrees>MD</degrees><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3575-5345</contrib-id><name name-style="western"><surname>Berrevoet</surname><given-names initials="F">Frederik</given-names></name><degrees>MD, PhD</degrees><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4457-4255</contrib-id><name name-style="western"><surname>Vanlander</surname><given-names initials="A">Aude</given-names></name><degrees>MD</degrees><xref rid="aff21" ref-type="aff">
+<sup>21</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0640-3535</contrib-id><name name-style="western"><surname>Marudanayagam</surname><given-names initials="R">Ravi</given-names></name><degrees>MS, FRCS</degrees><xref rid="aff8" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3146-3310</contrib-id><name name-style="western"><surname>Tanis</surname><given-names initials="P">Pieter</given-names></name><degrees>MD, PhD</degrees><xref rid="aff9" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="aff10" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1945-5481</contrib-id><name name-style="western"><surname>Dewulf</surname><given-names initials="MJL">Maxime J.L.</given-names></name><degrees>MD, PhD</degrees><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Dejong</surname><given-names initials="CHC">Cornelis H.C.</given-names></name><degrees>MD, PhD</degrees><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff27" ref-type="aff">
+<sup>†</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0001-2747-4279</contrib-id><name name-style="western"><surname>Eminton</surname><given-names initials="Z">Zina</given-names></name><degrees>BSc</degrees><xref rid="aff22" ref-type="aff">
+<sup>22</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5717-5704</contrib-id><name name-style="western"><surname>Kimman</surname><given-names initials="ML">Merel L.</given-names></name><degrees>PhD</degrees><xref rid="aff23" ref-type="aff">
+<sup>23</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0620-1271</contrib-id><name name-style="western"><surname>Brandts</surname><given-names initials="L">Lloyd</given-names></name><degrees>PhD</degrees><xref rid="aff23" ref-type="aff">
+<sup>23</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3831-8917</contrib-id><name name-style="western"><surname>Neumann</surname><given-names initials="UP">Ulf P.</given-names></name><degrees>MD, PhD</degrees><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff24" ref-type="aff">
+<sup>24</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0945-5189</contrib-id><name name-style="western"><surname>Fretland</surname><given-names initials="ÅA">Åsmund A.</given-names></name><degrees>MD, PhD</degrees><xref rid="aff13" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1866-8338</contrib-id><name name-style="western"><surname>Pugh</surname><given-names initials="SA">Siân A.</given-names></name><degrees>MRCP, PhD</degrees><xref rid="aff25" ref-type="aff">
+<sup>25</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0949-0272</contrib-id><name name-style="western"><surname>van Breukelen</surname><given-names initials="GJP">Gerard J.P.</given-names></name><degrees>PhD</degrees><xref rid="aff26" ref-type="aff">
+<sup>26</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2069-7605</contrib-id><name name-style="western"><surname>Primrose</surname><given-names initials="JN">John N.</given-names></name><degrees>MD, FMedSci</degrees><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8415-5090</contrib-id><name name-style="western"><surname>van Dam</surname><given-names initials="RM">Ronald M.</given-names></name><degrees>MD, PhD</degrees><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff20" ref-type="aff">
+<sup>20</sup>
+</xref><xref rid="cor1" ref-type="corresp" /></contrib><on-behalf-of>for the ORANGE II PLUS Collaborative</on-behalf-of><aff id="aff1"><label><sup>1</sup></label>Department of Surgery, Maastricht University Medical Center+, Maastricht, <country>the Netherlands</country></aff><aff id="aff2"><label><sup>2</sup></label>Department of Surgery and Transplantation, University Hospital RWTH Aachen, Aachen, <country>Germany</country></aff><aff id="aff3"><label><sup>3</sup></label>Hepatobiliary Surgery Division, IRCCS San Raffaele Hospital, Milan, Italy</aff><aff id="aff4"><label><sup>4</sup></label>Department of Surgery, Southampton University Hospital NHS Foundation Trust, Southampton, <country>United Kingdom</country></aff><aff id="aff5"><label><sup>5</sup></label>Department of Surgery, Poliambulanza Hospital, Brescia, Italy</aff><aff id="aff6"><label><sup>6</sup></label>Division of HPB, Minimally Invasive and Robotic Surgery, Department of Clinical Medicine and Surgery, Transplantation Service, Federico II University, Naples, Italy</aff><aff id="aff7"><label><sup>7</sup></label>Department of General, Hepatobiliary and Liver Transplantation Surgery, Ghent University Hospital, Ghent, <country>Belgium</country></aff><aff id="aff8"><label><sup>8</sup></label>Department of Surgery, University Hospitals Birmingham NHS Foundation Trust, Birmingham, <country>United Kingdom</country></aff><aff id="aff9"><label><sup>9</sup></label>Department of Surgery, Amsterdam UMC, Location University of Amsterdam, Amsterdam, <country>the Netherlands</country></aff><aff id="aff10"><label><sup>10</sup></label>Cancer Center Amsterdam, <country>the Netherlands</country></aff><aff id="aff11"><label><sup>11</sup></label>Department of Surgery, Plymouth Hospitals NHS Trust, Plymouth, <country>United Kingdom</country></aff><aff id="aff12"><label><sup>12</sup></label>Department of Surgery, King's College Hospital NHS Foundation Trust, London, <country>United Kingdom</country></aff><aff id="aff13"><label><sup>13</sup></label>Intervention Center and Department of Hepatic, Pancreatic and Biliary Surgery, Oslo University Hospital and Institute of Medicine, University of Oslo, Oslo, <country>Norway</country></aff><aff id="aff14"><label><sup>14</sup></label>Department of Digestive and Hepatobiliary/Pancreatic Surgery, AZ Groeninge, Kortrijk, <country>Belgium</country></aff><aff id="aff15"><label><sup>15</sup></label>Department of Digestive Surgery, Unit of Hepatobiliary Surgery and Transplantation, Hôpitaux Universitaires de Bruxelles, Hôpital Erasme, Brussels, <country>Belgium</country></aff><aff id="aff16"><label><sup>16</sup></label>Department of Hepato-Biliary Surgery, Aintree University Hospital NHS Foundation Trust, Liverpool, <country>United Kingdom</country></aff><aff id="aff17"><label><sup>17</sup></label>Department of Surgery, Oxford University Hospitals NHS Foundation Trust, Oxford, <country>United Kingdom</country></aff><aff id="aff18"><label><sup>18</sup></label>Department of Surgery, Newcastle Upon Tyne Hospitals NHS Foundation Trust, Newcastle Upon Tyne, <country>United Kingdom</country></aff><aff id="aff19"><label><sup>19</sup></label>Department of Digestive and Hepatobiliary/Pancreatic Surgery, Jessa Hospital, Hasselt, <country>Belgium</country></aff><aff id="aff20"><label><sup>20</sup></label>GROW—School for Oncology and Reproduction, Maastricht University, Maastricht, <country>the Netherlands</country></aff><aff id="aff21"><label><sup>21</sup></label>Department of Surgery, Free University Hospital, AZ Jette Hospital, Brussels, <country>Belgium</country></aff><aff id="aff22"><label><sup>22</sup></label>Southampton Clinical Trials Unit, University of Southampton, Southampton, <country>United Kingdom</country></aff><aff id="aff23"><label><sup>23</sup></label>Department of Clinical Epidemiology and Medical Technology Assessment, Maastricht University Medical Center+, Maastricht, <country>the Netherlands</country></aff><aff id="aff24"><label><sup>24</sup></label>Department of Surgery, University Hospital Essen, Essen, <country>Germany</country></aff><aff id="aff25"><label><sup>25</sup></label>Department of Oncology, Addenbrooke's Hospital, Cambridge, <country>United Kingdom</country></aff><aff id="aff26"><label><sup>26</sup></label>Department of Methodology and Statistics, CAPHRI Care and Public Health Research Institute Maastricht University, Maastricht, <country>the Netherlands</country></aff><aff id="aff27"><label><sup>†</sup></label>Deceased</aff></contrib-group><contrib-group><contrib contrib-type="author"><collab>ORANGE II PLUS Collaborative</collab></contrib></contrib-group><contrib-group><contrib contrib-type="collab"><name name-style="western"><surname>Neumann</surname><given-names initials="U">Ulf</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Ulmer</surname><given-names initials="F">Florian</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Clausen</surname><given-names initials="F">Finja</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Díaz-Nieto</surname><given-names initials="R">Rafael</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Lintforth</surname><given-names initials="M">Michelle</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Besselink</surname><given-names initials="M">Marc</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Tanis</surname><given-names initials="P">Pieter</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Gorçek</surname><given-names initials="B">Burak</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>van der Poel</surname><given-names initials="M">Marcel</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Sutcliffe</surname><given-names initials="R">Robert</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Marudanayagam</surname><given-names initials="R">Ravi</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Rogers</surname><given-names initials="P">Penelope</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Lucidi</surname><given-names initials="V">Valerio</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>van Laethem</surname><given-names initials="V">Viviane</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Troisi</surname><given-names initials="R">Roberto</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Berrevoet</surname><given-names initials="F">Frederik</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Scuderi</surname><given-names initials="V">Vincenzo</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Vanlander</surname><given-names initials="A">Aude</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>van Loo</surname><given-names initials="B">Betsy</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Segers</surname><given-names initials="K">Kathleen</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Sergeant</surname><given-names initials="G">Gregory</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>D'Hondt</surname><given-names initials="M">Mathieu</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Demeyere</surname><given-names initials="C">Celine</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Menon</surname><given-names initials="K">Krishna</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Zamalloa</surname><given-names initials="A">Ane</given-names></name></contrib><contrib contrib-type="collab" corresp="yes"><name name-style="western"><surname>van Dam</surname><given-names initials="R">Ronald</given-names></name><xref rid="cor1" ref-type="corresp" /></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Dejong</surname><given-names initials="C">Cornelis</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Dewulf</surname><given-names initials="M">Maxime</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Brandts</surname><given-names initials="L">Lloyd</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Fichtinger</surname><given-names initials="R">Robert</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Olij</surname><given-names initials="B">Bram</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Kimman</surname><given-names initials="M">Merel</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>van Breukelen</surname><given-names initials="G">Gerard</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Aldrighetti</surname><given-names initials="L">Luca</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Ratti</surname><given-names initials="F">Francesca</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>White</surname><given-names initials="S">Steve</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Robinson</surname><given-names initials="S">Stuart</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Brunton</surname><given-names initials="C">Caroline</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Edwin</surname><given-names initials="B">Björn</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Fretland</surname><given-names initials="Å">Åsmund</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Aghayan</surname><given-names initials="D">Davit</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Soonawalla</surname><given-names initials="Z">Zahir</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Gordon-Quayle</surname><given-names initials="K">Katherine</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Aroori</surname><given-names initials="S">Somaiah</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Ward</surname><given-names initials="T">Tracy</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Primrose</surname><given-names initials="J">John</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Abu Hilal</surname><given-names initials="M">Mohammed</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Kümmerli</surname><given-names initials="C">Christopher</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Boxal</surname><given-names initials="J">Jess</given-names></name></contrib><contrib contrib-type="collab"><name name-style="western"><surname>Eminton</surname><given-names initials="Z">Zina</given-names></name></contrib></contrib-group><author-notes><corresp id="cor1">Ronald M. van Dam, MD, PhD; e-mail: <email>r.van.dam@mumc.nl</email>.</corresp></author-notes><pub-date pub-type="ppub"><day>20</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="epub"><day>19</day><month>4</month><year>2024</year></pub-date><volume>42</volume><issue>15</issue><issue-id pub-id-type="pmc-issue-id">462825</issue-id><fpage>1799</fpage><lpage>1809</lpage><history><date date-type="received"><day>11</day><month>5</month><year>2023</year></date><date date-type="rev-recd"><day>13</day><month>11</month><year>2023</year></date><date date-type="accepted"><day>17</day><month>1</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>19</day><month>04</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>22</day><month>05</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-09-06 02:06:20.403"><day>06</day><month>09</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© 2024 by American Society of Clinical Oncology</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>American Society of Clinical Oncology</copyright-holder><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>Licensed under the Creative Commons Attribution 4.0 License: <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="jco-42-1799.pdf" /><self-uri ns1:href="jco-42-1799.pdf" /><abstract><sec><title>PURPOSE</title><p>To compare outcomes after laparoscopic versus open major liver resection (hemihepatectomy) mainly for primary or metastatic cancer. The primary outcome measure was time to functional recovery. Secondary outcomes included morbidity, quality of life (QoL), and for those with cancer, resection margin status and time to adjuvant systemic therapy.</p></sec><sec><title>PATIENTS AND METHODS</title><p>This was a multicenter, randomized controlled, patient-blinded, superiority trial on adult patients undergoing hemihepatectomy. Patients were recruited from 16 hospitals in Europe between November 2013 and December 2018.</p></sec><sec><title>RESULTS</title><p>Of the 352 randomly assigned patients, 332 patients (94.3%) underwent surgery (laparoscopic, n = 166 and open, n = 166) and comprised the analysis population. The median time to functional recovery was 4 days (IQR, 3-5; range, 1-30) for laparoscopic hemihepatectomy versus 5 days (IQR, 4-6; range, 1-33) for open hemihepatectomy (difference, –17.5% [96% CI, –25.6 to –8.4]; <italic toggle="yes">P</italic> &lt; .001). There was no difference in major complications (laparoscopic 24/166 [14.5%] <italic toggle="yes">v</italic> open 28/166 [16.9%]; odds ratio [OR], 0.84; <italic toggle="yes">P</italic> = .58). Regarding QoL, both global health status (difference, 3.2 points; <italic toggle="yes">P</italic> &lt; .001) and body image (difference, 0.9 points; <italic toggle="yes">P</italic> &lt; .001) scored significantly higher in the laparoscopic group. For the 281 (84.6%) patients with cancer, R0 resection margin status was similar (laparoscopic 106 [77.9%] <italic toggle="yes">v</italic> open 122 patients [84.1%], OR, 0.60; <italic toggle="yes">P</italic> = .14) with a shorter time to adjuvant systemic therapy in the laparoscopic group (46.5 days <italic toggle="yes">v</italic> 62.8 days, hazard ratio, 2.20; <italic toggle="yes">P</italic> = .009).</p></sec><sec><title>CONCLUSION</title><p>Among patients undergoing hemihepatectomy, the laparoscopic approach resulted in a shorter time to functional recovery compared with open surgery. In addition, it was associated with a better QoL, and in patients with cancer, a shorter time to adjuvant systemic therapy with no adverse impact on cancer outcomes observed.</p></sec></abstract><counts><fig-count count="5" /><table-count count="3" /><equation-count count="0" /><ref-count count="47" /><page-count count="13" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>OPEN-ACCESS</meta-name><meta-value>TRUE</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="introduction"><title>INTRODUCTION</title><p>Surgical resection of the liver is central to the curative treatment strategy of several cancers including colorectal liver metastases, hepatocellular carcinoma, and cholangiocarcinoma. Favorable long-term outcomes are achieved in up to a quarter of patients, provided a complete resection can be accomplished.<sup><xref rid="b1" ref-type="bibr">1</xref>-<xref rid="b3" ref-type="bibr">3</xref></sup> Optimizing postoperative recovery is essential not only for the quality of life (QoL) of patients but also to delivery of further oncological treatments when indicated.<sup><xref rid="b4" ref-type="bibr">4</xref></sup></p><boxed-text id="B1" position="anchor" orientation="portrait"><sec sec-type="context-box"><title>CONTEXT</title><p>
+<list list-type="simple"><list-item><p>
+<bold>Key Objective</bold>
+</p></list-item><list-item><p>Liver resection is a key treatment in the curative management of primary and metastatic hepatic malignancy. Randomized studies have confirmed the benefit of laparoscopic (minimally invasive) surgery in small resections of the liver, but there is no level one evidence supporting the use of laparoscopic major hepatectomy, which is technically more complex.</p></list-item><list-item><p>
+<bold>Knowledge Generated</bold>
+</p></list-item><list-item><p>This study provides evidence that laparoscopic hemihepatectomy is superior to open hemihepatectomy in terms of time functional recovery, postoperative quality of life, time to adjuvant systemic therapy when given, and cost-effectiveness. The oncological efficacy appears similar.</p></list-item><list-item><p>
+<bold>Relevance <italic toggle="yes">(E.M. O'Reilly)</italic></bold>
+</p></list-item><list-item><p>This phase III trial adds to the body of evidence supporting a minimally invasive surgical approach over open surgery for major liver resections across a spectrum of primary and metastatic malignancies and with maintenance of oncologic outcomes.*</p></list-item><list-item><p>*Relevance section written by <italic toggle="yes">JCO</italic> Associate Editor Eileen M. O'Reilly, MD.</p></list-item></list>
+</p></sec></boxed-text><p>Minimally invasive surgery, such as laparoscopy, reduces the physical impact of surgery, accelerates postoperative recovery, and because of the decreased inflammatory response may improve cancer outcomes.<sup><xref rid="b4" ref-type="bibr">4</xref>,<xref rid="b5" ref-type="bibr">5</xref></sup> Alongside the laparoscopic approach, the increased use of enhanced recovery after surgery protocols in hepatobiliary surgery has contributed to reduced length of hospital stay, postoperative complications, and overall hospital costs while preserving patient safety.<sup><xref rid="b6" ref-type="bibr">6</xref></sup></p><p>Laparoscopic surgery is now established as standard of care for minor liver resections.<sup><xref rid="b7" ref-type="bibr">7</xref>-<xref rid="b10" ref-type="bibr">10</xref></sup> Resection of the right or left side of the liver, so called hemihepatectomy, is considered a major liver resection. The technical complexity of hemihepatectomy is such that it is more challenging to perform using laparoscopic techniques. Furthermore, these operations carry a higher complication rate because of the volume of liver that needs to be resected, a larger wound surface, longer time in anesthesia, and exposure of major vessels and bile ducts.<sup><xref rid="b11" ref-type="bibr">11</xref>-<xref rid="b14" ref-type="bibr">14</xref></sup> Experience is growing, but its adoption has appropriately been limited by the absence of level one evidence supporting its use.<sup><xref rid="b15" ref-type="bibr">15</xref></sup></p><p>The ORANGE II PLUS trial sought to assess whether the laparoscopic approach to hemihepatectomy improves clinical and oncological outcomes for patients compared with open surgery. To standardize perioperative management and optimize recovery across both groups of the trial, all patients were managed within an enhanced recovery after surgery pathway.<sup><xref rid="b16" ref-type="bibr">16</xref></sup></p></sec><sec sec-type="patients|methods"><title>PATIENTS AND METHODS</title><sec sec-type="subjects"><title>Patients</title><p>Eligible patients were adults age 18 years or older, with a BMI between 18 and 35 kg/m<sup>2</sup>, an American Society of Anesthesiologists status of &lt;IV, and an indication for a left or right hemihepatectomy, suitable for both laparoscopic and open approach as decided at the local multidisciplinary tumor board meeting. One additional ablation or metastasectomy in the remaining liver remnant was permitted.</p><p>The following patients were excluded: those who were pregnant or breastfeeding, any previous hepatectomy, or any hepatic lesions too close to central vascular or biliary structures. Previous open abdominal surgery and systemic anticancer therapy were not considered contraindications for inclusion. Detailed eligibility criteria are shown in the Data Supplement (Table S1, online only).</p><p>Patients were recruited from 16 centers in Europe. Ethical approval was obtained from the institutional review board of each participating center, and data were reviewed by an independent Data and Safety Monitoring Board (Data Supplement). Written informed consent was obtained from all patients before random assignment.</p></sec><sec><title>Random Assignment and Masking</title><p>Patients were randomly assigned in a 1:1 ratio to laparoscopic or open hemihepatectomy using online random assignment software (TENALEA, Version 3.0). A minimization scheme was used to balance patient allocation, with stratification by center and side of hemihepatectomy.<sup><xref rid="b17" ref-type="bibr">17</xref></sup> In the case of an imbalance of two patients, the probability of being assigned to the underrepresented group was 90%.</p><p>Patients and ward personnel were masked to treatment allocation using a large abdominal dressing that covered all surgical incisions, proven effective in two previous randomized trials (Data Supplement, Fig S1). This dressing remained in place until postoperative day 4, unless patients had achieved functional recovery sooner or if the patient's clinical condition necessitated unblinding.<sup><xref rid="b18" ref-type="bibr">18</xref>,<xref rid="b19" ref-type="bibr">19</xref></sup></p></sec><sec sec-type="methods"><title>Procedures</title><p>All participating centers were experienced in laparoscopic and open hemihepatectomy (Data Supplement, Table S2). At the start of trial accrual, four centers had performed more than 40 laparoscopic hemihepatectomies, and 12 centers had performed between 10 and 40. All centers had a standardized perioperative enhanced recovery program in place.<sup><xref rid="b16" ref-type="bibr">16</xref>,<xref rid="b20" ref-type="bibr">20</xref></sup></p><p>For pragmatic reasons and to preserve external validity, the surgical techniques were not standardized. Participating surgeons could use their preferred methods for abdominal access, liver parenchymal transection, vascular control, and closure of the surgical wound.</p></sec><sec><title>Data Collection and Outcomes Measures</title><p>The primary end point was time to functional recovery, defined as the time in days between the end of surgery and the time point the patient met five predefined criteria, as observed and scored by the blinded ward personnel or trial nurse. The five criteria were adequate pain control with oral analgesia alone, independent mobility (mobility score of ≥8 or at the preoperative level),<sup><xref rid="b18" ref-type="bibr">18</xref>,<xref rid="b21" ref-type="bibr">21</xref></sup> tolerance of solid food ≥24 hours, normalized or improving liver function tests (total bilirubin, ALT, and/or AST) and blood clotting (international normalized ratio), and independence from intravenous fluid administration. <sup><xref rid="b22" ref-type="bibr">22</xref></sup></p><p>Secondary end points were length of hospital stay, intraoperative blood loss, operating time, intraoperative incidents, conversion rate from laparoscopic to open surgery, in-hospital and 90-day mortality, 90-day (liver specific) morbidity, readmission, health-related QoL, and costs. Postoperative complications were divided into minor (Clavien-Dindo grade 1 and 2), major (Clavien-Dindo grade ≥3a), and cumulative in accordance with the Comprehensive Complication Index.<sup><xref rid="b23" ref-type="bibr">23</xref>,<xref rid="b24" ref-type="bibr">24</xref></sup> In addition, the following oncological end points (where appropriate) were included: resection margin status, time to adjuvant systemic therapy initiation when delivered, disease-free survival (DFS), and overall survival. Overall survival was defined as the time from surgery to death from any cause. DFS was defined as the time from surgery to death from any cause or recurrence of cancer, whichever occurred first. Liver-specific morbidity was defined as the occurrence of one or more of the following complications: operative mortality, intra-abdominal hemorrhage, ascites, bile leakage, intra-abdominal abscess, or postoperative liver failure.<sup><xref rid="b25" ref-type="bibr">25</xref></sup> Intraoperative and postoperative costs were estimated on the basis of clinician-reported individual-level resource use (Data Supplement). Cost-effectiveness was expressed by the incremental cost per quality-adjusted life year (QALY) gained. Health-related QoL was measured using the EuroQoL EQ-5D-3L and the European Organization for Research and Treatment of Cancer (EORTC) QoL Questionnaire C30.<sup><xref rid="b26" ref-type="bibr">26</xref>,<xref rid="b27" ref-type="bibr">27</xref></sup> Body image was assessed using a body image questionnaire.<sup><xref rid="b28" ref-type="bibr">28</xref></sup></p></sec><sec><title>Sample Size</title><p>Anticipating a drop-out rate of 10% and a loss in df for estimating covariate effects (hemihepatectomy side and center), a total sample size of 250 patients was planned to demonstrate a 2-day reduction in time to functional recovery with a two-sided 4% level of significance and a power of 80%, assuming a standard deviation (SD) of time to functional recovery of 5 days within both groups.<sup><xref rid="b29" ref-type="bibr">29</xref>,<xref rid="b30" ref-type="bibr">30</xref></sup> A two-sided 4% level of significance was used instead of 5% to compensate for the planned interim analysis halfway through the trial with a two-sided 1% level of significance, thus preserving an overall type I error rate of 5%.<sup><xref rid="b31" ref-type="bibr">31</xref></sup></p></sec><sec><title>Statistical Analyses</title><p>Before the trial started, there were no data available on time to functional recovery, so length of hospital stay was used to estimate the effect size. Because of an unforeseen sample size extension, additional analyses were performed to crosscheck for any influence (Data Supplement).<sup><xref rid="b47" ref-type="bibr">47</xref></sup></p><p>The primary analysis was by intention-to-treat. Patients were excluded if they had withdrawn their consent or not undergone surgery. An additional per-protocol analysis excluded five patients who underwent surgery but not hemihepatectomy. Procedures converted to hand-assisted or open surgery from laparoscopy remained in the laparoscopic group for all analyses.</p><p>Time to functional recovery was analyzed with fixed and mixed linear regression on treatment group, adjusting for center (dummy coded), hemihepatectomy side (left/right), age (years, continuous), sex (male/female), and tumor type (benign/malignant) at the two-sided 4% significance level. The secondary surgical and oncological end points were assessed with mixed regression (with center as random effect), linear for continuous outcomes, logistic for binary outcomes, and Cox for time-to-event outcomes, all at a two-sided 1% significance level in view of the multiple outcome testing. Cost and cost-effectiveness data were analyzed using nonparametric bootstrapping techniques.</p><p>Subgroup analyses were performed to assess the outcome difference between the treatment groups on the basis of the covariates used in the regression models and also on the basis of various other predefined preoperative and intraoperative covariates. These subgroup analyses were only exploratory unless significant interaction was found between treatment groups and the covariate at hand.</p><p>Analyses were performed using SPSS Statistics software (IBM, Windows Version 27.0.1.0) and R software (R project for Statistical Computing, Windows Version 4.1.0).</p></sec></sec><sec sec-type="results"><title>RESULTS</title><p>Between November 2013 and December 2018, 829 patients were screened and 352 were randomly assigned. The median time from random assignment to surgery was 7.5 days (IQR, 2-22; range, 0-83) in the laparoscopic group and 9 days (IQR, 2-20; range, 0-178) in the open group. The intention-to-treat analysis included 332 patients. Figure <xref rid="fig1" ref-type="fig">1</xref> and the Data Supplement (Table S3) describe the study flow and reasons for withdrawal.</p><fig position="float" id="fig1" fig-type="figure" orientation="portrait"><label>FIG 1.</label><caption><p>CONSORT diagram of the ORANGE II PLUS trial. Surgical procedures that were converted from laparoscopy to hand-assisted or open surgery were considered a laparoscopic procedure in both the intention-to-treat analysis and the per-protocol analysis.</p></caption><graphic position="float" orientation="portrait" ns1:href="jco-42-1799-g002.jpg" /></fig><p>Clinical characteristics were well-balanced between treatment groups, Table <xref rid="tbl1" ref-type="table">1</xref>. Right hemihepatectomy was the most common procedure, performed on 108 of 166 patients (65%) in the laparoscopic group and 105 of 166 patients (63%) in the open group. The majority underwent surgery for cancer (136 patients [48%] in the laparoscopic group and 145 patients [52%] in the open group) of whom most had colorectal liver metastases (165/281 patients [59%]). Neoadjuvant systemic therapy was administered to 58 of 136 patients (43%) in the laparoscopic group and to 58 of 145 patients (40%) in the open group (Data Supplement, Tables S4 and S5).</p><table-wrap position="float" id="tbl1" orientation="portrait"><label>TABLE 1.</label><caption><p>Baseline Demographic and Clinical Characteristics of Patients Who Underwent Laparoscopic or Open Surgery</p></caption><table frame="hsides" rules="groups"><thead valign="bottom"><tr><th rowspan="2" colspan="1">Characteristic</th><th colspan="2" align="center" rowspan="1">Surgery, No./Total (%)<xref rid="tblfn1" ref-type="table-fn"><sup>a</sup></xref></th></tr><tr><th align="center" rowspan="1" colspan="1">Laparoscopic (n = 166)</th><th align="center" rowspan="1" colspan="1">Open (n = 166)</th></tr></thead><tbody valign="top"><tr><td rowspan="1" colspan="1">Sex</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1"> Female</td><td align="char" char="(" rowspan="1" colspan="1">67/166 (40)</td><td align="char" char="(" rowspan="1" colspan="1">70/166 (42)</td></tr><tr><td rowspan="1" colspan="1"> Male</td><td align="char" char="(" rowspan="1" colspan="1">99/166 (60)</td><td align="char" char="(" rowspan="1" colspan="1">96/166 (58)</td></tr><tr><td rowspan="1" colspan="1">Age at surgery, mean (SD), years</td><td align="char" char="(" rowspan="1" colspan="1">61.5 (13.5)</td><td align="char" char="(" rowspan="1" colspan="1">62.6 (13.0)</td></tr><tr><td rowspan="1" colspan="1">BMI, median (IQR; range), kg/m<sup>2</sup></td><td align="center" rowspan="1" colspan="1">26.0 (23-29; 17-37)</td><td align="center" rowspan="1" colspan="1">25.0 (22 to 28; 14 to 36)</td></tr><tr><td rowspan="1" colspan="1">Association of Anesthesiologists Classification</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1"> I: Healthy</td><td align="char" char="(" rowspan="1" colspan="1">13/166 (8)</td><td align="char" char="(" rowspan="1" colspan="1">19/166 (11)</td></tr><tr><td rowspan="1" colspan="1"> II: Mild systemic disease</td><td align="char" char="(" rowspan="1" colspan="1">93/166 (56)</td><td align="char" char="(" rowspan="1" colspan="1">91/166 (55)</td></tr><tr><td rowspan="1" colspan="1"> III: Severe systemic disease</td><td align="char" char="(" rowspan="1" colspan="1">52/166 (31)</td><td align="char" char="(" rowspan="1" colspan="1">52/166 (31)</td></tr><tr><td rowspan="1" colspan="1"> Missing</td><td align="char" char="(" rowspan="1" colspan="1">8/166 (5)</td><td align="char" char="(" rowspan="1" colspan="1">4/166 (5)</td></tr><tr><td rowspan="1" colspan="1">Eastern Cooperative Oncology Group performance status</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1"> 0: Asymptomatic, normal activity</td><td align="char" char="(" rowspan="1" colspan="1">121/166 (73)</td><td align="char" char="(" rowspan="1" colspan="1">123/166 (74)</td></tr><tr><td rowspan="1" colspan="1"> 1: Symptomatic, normal activity</td><td align="char" char="(" rowspan="1" colspan="1">36/166 (22)</td><td align="char" char="(" rowspan="1" colspan="1">40/166 (24)</td></tr><tr><td rowspan="1" colspan="1"> 2: Symptomatic, &lt;50% bedridden</td><td align="char" char="(" rowspan="1" colspan="1">4/166 (2)</td><td align="char" char="(" rowspan="1" colspan="1">1/166 (1)</td></tr><tr><td rowspan="1" colspan="1"> 3: Symptomatic, &gt;50% bedridden</td><td align="char" char="(" rowspan="1" colspan="1">1/166 (1)</td><td align="char" char="(" rowspan="1" colspan="1">0/166 (0)</td></tr><tr><td rowspan="1" colspan="1"> 4: 100% bedridden</td><td align="char" char="(" rowspan="1" colspan="1">0/166 (0)</td><td align="char" char="(" rowspan="1" colspan="1">0/166 (0)</td></tr><tr><td rowspan="1" colspan="1"> Missing</td><td align="char" char="(" rowspan="1" colspan="1">4/166 (2)</td><td align="char" char="(" rowspan="1" colspan="1">1/166 (1)</td></tr><tr><td rowspan="1" colspan="1">Charlson Comorbidity Index, mean (SD), points</td><td align="char" char="(" rowspan="1" colspan="1">6.3 (3.2)</td><td align="char" char="(" rowspan="1" colspan="1">6.2 (2.8)</td></tr><tr><td rowspan="1" colspan="1">Previous abdominal surgery</td><td align="char" char="(" rowspan="1" colspan="1">87/166 (52)</td><td align="char" char="(" rowspan="1" colspan="1">92/166 (55)</td></tr><tr><td rowspan="1" colspan="1">Preoperative portal vein embolization</td><td align="char" char="(" rowspan="1" colspan="1">16/166 (10)</td><td align="char" char="(" rowspan="1" colspan="1">9/166 (5)</td></tr><tr><td rowspan="1" colspan="1">Neoadjuvant systemic therapy</td><td align="char" char="(" rowspan="1" colspan="1">58/136 (43)</td><td align="char" char="(" rowspan="1" colspan="1">58/145 (40)</td></tr><tr><td rowspan="1" colspan="1">Radiological diagnosis</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1"> Benign</td><td align="char" char="(" rowspan="1" colspan="1">25/166 (15)</td><td align="char" char="(" rowspan="1" colspan="1">20/166 (12)</td></tr><tr><td rowspan="1" colspan="1">  Hemangioma</td><td align="char" char="(" rowspan="1" colspan="1">6/166 (4)</td><td align="char" char="(" rowspan="1" colspan="1">6/166 (4)</td></tr><tr><td rowspan="1" colspan="1">  Adenoma</td><td align="char" char="(" rowspan="1" colspan="1">5/166 (3)</td><td align="char" char="(" rowspan="1" colspan="1">0/166 (0)</td></tr><tr><td rowspan="1" colspan="1">  Follicular nodular hyperplasia</td><td align="char" char="(" rowspan="1" colspan="1">0/166 (0)</td><td align="char" char="(" rowspan="1" colspan="1">2/166 (1)</td></tr><tr><td rowspan="1" colspan="1">  Other benign</td><td align="char" char="(" rowspan="1" colspan="1">14/166 (8)</td><td align="char" char="(" rowspan="1" colspan="1">12/166 (7)</td></tr><tr><td rowspan="1" colspan="1"> Cancer</td><td align="char" char="(" rowspan="1" colspan="1">141/166 (85)</td><td align="char" char="(" rowspan="1" colspan="1">146/166 (88)</td></tr><tr><td rowspan="1" colspan="1">  Colorectal metastasis</td><td align="char" char="(" rowspan="1" colspan="1">90/166 (54)</td><td align="char" char="(" rowspan="1" colspan="1">78/166 (48)</td></tr><tr><td rowspan="1" colspan="1">  Hepatocellular carcinoma</td><td align="char" char="(" rowspan="1" colspan="1">22/166 (13)</td><td align="char" char="(" rowspan="1" colspan="1">25/166 (15)</td></tr><tr><td rowspan="1" colspan="1">  Cholangiocarcinoma</td><td align="char" char="(" rowspan="1" colspan="1">17/166 (10)</td><td align="char" char="(" rowspan="1" colspan="1">30/166 (18)</td></tr><tr><td rowspan="1" colspan="1">  Other malignant</td><td align="char" char="(" rowspan="1" colspan="1">12/166 (7)</td><td align="char" char="(" rowspan="1" colspan="1">13/166 (7)</td></tr><tr><td rowspan="1" colspan="1">Hemihepatectomy side</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1"> Left</td><td align="char" char="(" rowspan="1" colspan="1">61/166 (37)</td><td align="char" char="(" rowspan="1" colspan="1">58/166 (35)</td></tr><tr><td rowspan="1" colspan="1"> Right</td><td align="char" char="(" rowspan="1" colspan="1">105/166 (63)</td><td align="char" char="(" rowspan="1" colspan="1">108/166 (65)</td></tr><tr><td rowspan="1" colspan="1">Additional contralateral surgery</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1"> Wedge resection</td><td align="char" char="(" rowspan="1" colspan="1">18/166 (10)</td><td align="char" char="(" rowspan="1" colspan="1">18/166 (10)</td></tr><tr><td rowspan="1" colspan="1"> Ablation</td><td align="char" char="(" rowspan="1" colspan="1">6/166 (3)</td><td align="char" char="(" rowspan="1" colspan="1">3/166 (2)</td></tr><tr><td rowspan="1" colspan="1"> Ablation and wedge resection</td><td align="char" char="(" rowspan="1" colspan="1">2/166 (1)</td><td align="char" char="(" rowspan="1" colspan="1">2/166 (1)</td></tr></tbody></table><table-wrap-foot><fn fn-type="abbr"><p>Abbreviation: SD, standard deviation.</p></fn><fn id="tblfn1" fn-type="other"><label>
+<sup>a</sup>
+</label><p>Data are reported as No./total (%) unless otherwise indicated. Percentages may not total 100 because of rounding.</p></fn></table-wrap-foot></table-wrap><p>The mean time to functional recovery was 4.7 days (SD, 3.5) in the laparoscopic group and 5.9 days (SD, 4.4) in the open group. In view of the non-normal distribution of the primary outcome, the median time to functional recovery is primarily reported: 4 days (IQR, 3-5; range, 1-30) in the laparoscopic group and 5 days (IQR, 4-6; range, 1-33) in the open group (Table <xref rid="tbl2" ref-type="table">2</xref>, Data Supplement, Table S6). The median time taken to achieve the individual components of the end point is depicted in the Data Supplement (Fig S2).<table-wrap position="float" id="tbl2" orientation="portrait"><label>TABLE 2.</label><caption><p>Primary and Secondary Outcomes of Participants Who Underwent Surgery in the Intention-To-Treat Analysis, Multivariable Model</p></caption><table frame="hsides" rules="groups"><thead valign="bottom"><tr><th rowspan="2" colspan="1">Primary End Point</th><th rowspan="2" align="center" colspan="1">Laparoscopic (n = 162)</th><th rowspan="2" align="center" colspan="1">Open (n = 160)</th><th colspan="2" align="center" rowspan="1">Model 2—Multivariable<xref rid="tblfn3" ref-type="table-fn"><sup>b</sup></xref></th></tr><tr><th align="center" rowspan="1" colspan="1">% Difference/β (96% CI)</th><th align="center" rowspan="1" colspan="1"><italic toggle="yes">P</italic></th></tr></thead><tbody valign="top"><tr><td rowspan="1" colspan="1">Functional recovery, median, days<xref rid="tblfn2" ref-type="table-fn"><sup>a</sup></xref> (IQR; range)</td><td align="char" char="(" rowspan="1" colspan="1">4 (3-5; 1-30)</td><td align="char" char="(" rowspan="1" colspan="1">5 (4-6; 1-33)</td><td align="char" char="(" rowspan="1" colspan="1">–17.5 (–25.6 to –8.4)</td><td align="char" char="." rowspan="1" colspan="1">&lt;.001</td></tr></tbody></table><table frame="hsides" rules="groups"><thead valign="bottom"><tr><th rowspan="2" colspan="1">Secondary End Point—Surgical<xref rid="tblfn4" ref-type="table-fn"><sup>c</sup></xref></th><th rowspan="2" align="center" char="(" colspan="1">Laparoscopic (n = 166)</th><th rowspan="2" align="center" char="(" colspan="1">Open (n = 166)</th><th colspan="4" align="center" rowspan="1">Model 2—Multivariable<xref rid="tblfn3" ref-type="table-fn"><sup>b</sup></xref></th></tr><tr><th align="center" char="(" rowspan="1" colspan="1">% Difference/β (99% CI)</th><th align="center" char="(" rowspan="1" colspan="1">Odds Ratio (99% CI)</th><th align="center" char="(" rowspan="1" colspan="1">Hazard Ratio (99% CI)</th><th align="center" rowspan="1" colspan="1"><italic toggle="yes">P</italic></th></tr></thead><tbody valign="top"><tr><td rowspan="1" colspan="1">Hospital stay, median, days (IQR; range)</td><td align="char" char="(" rowspan="1" colspan="1">5 (4-7; 1-43)</td><td align="char" char="(" rowspan="1" colspan="1">6 (5-7; 2-50)</td><td align="char" char="(" rowspan="1" colspan="1">–16.4 (–27.7 to –3.9)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.002</td></tr><tr><td rowspan="1" colspan="1">Blood loss, median, mL (IQR; range)</td><td align="char" char="(" rowspan="1" colspan="1">450 (300-775; 0-5,000)</td><td align="char" char="(" rowspan="1" colspan="1">450 (300-785; 50-16,000)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.79<xref rid="tblfn5" ref-type="table-fn"><sup>d</sup></xref></td></tr><tr><td rowspan="1" colspan="1">Operation time median, minutes (IQR; range)</td><td align="char" char="(" rowspan="1" colspan="1">310 (255-379; 45-595)</td><td align="char" char="(" rowspan="1" colspan="1">254 (194-301; 41-604)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">&lt;.001<sup>d</sup></td></tr><tr><td rowspan="1" colspan="1">Conversions to hand-assisted surgery</td><td align="char" char="(" rowspan="1" colspan="1">2 (1.2)</td><td align="center" rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1">Conversions to open surgery</td><td align="char" char="(" rowspan="1" colspan="1">26 (15.7)</td><td align="center" rowspan="1" colspan="1">NA</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1">Intraoperative inotropy use</td><td align="char" char="(" rowspan="1" colspan="1">73 (47.4)</td><td align="char" char="(" rowspan="1" colspan="1">67 (40.4)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">1.60 (0.74 to 3.45)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.12</td></tr><tr><td rowspan="1" colspan="1">Satava 1 intraoperative incidents</td><td align="char" char="(" rowspan="1" colspan="1">13 (7.8)</td><td align="char" char="(" rowspan="1" colspan="1">25 (15.1)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">0.55 (0.21 to 1.46)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.12</td></tr><tr><td rowspan="1" colspan="1">Satava 2 intraoperative incidents</td><td align="char" char="(" rowspan="1" colspan="1">5 (3)</td><td align="char" char="(" rowspan="1" colspan="1">5 (3)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">1.10 (0.19 to 6.39)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.89</td></tr><tr><td rowspan="1" colspan="1">Satava 3 intraoperative incidents</td><td align="char" char="(" rowspan="1" colspan="1">0 (0)</td><td align="char" char="(" rowspan="1" colspan="1">2 (1.2)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1">Comprehensive Complication Index</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td><td align="char" char="(" rowspan="1" colspan="1">–1.30 (–7.13 to 4.52)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.56</td></tr><tr><td rowspan="1" colspan="1"> CCI &gt;0</td><td align="char" char="(" rowspan="1" colspan="1">73 (44)</td><td align="char" char="(" rowspan="1" colspan="1">79 (47.6)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">0.86 (0.47 to 1.60)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.54</td></tr><tr><td rowspan="1" colspan="1"> CCI when excluding grade 1</td><td align="char" char="(" rowspan="1" colspan="1">49 (29.5)</td><td align="char" char="(" rowspan="1" colspan="1">56 (33.7)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">3.46 (-8.29 to 15.21)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.44</td></tr><tr><td rowspan="1" colspan="1">Minor complications (grade 1 or 2)</td><td align="char" char="(" rowspan="1" colspan="1">49 (29.5)</td><td align="char" char="(" rowspan="1" colspan="1">51 (30.7)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">0.96 (0.50 to 1.81)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.85</td></tr><tr><td rowspan="1" colspan="1">Major complications (≥grade 3A)</td><td align="char" char="(" rowspan="1" colspan="1">24 (14.5)</td><td align="char" char="(" rowspan="1" colspan="1">28 (16.9)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">0.84 (0.37 to 1.89)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.58</td></tr><tr><td rowspan="1" colspan="1">Prolonged admission (&gt;10 days)</td><td align="char" char="(" rowspan="1" colspan="1">16 (9.6)</td><td align="char" char="(" rowspan="1" colspan="1">24 (14.5)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">0.70 (0.29 to 1.69)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.29</td></tr><tr><td rowspan="1" colspan="1">30-day readmission</td><td align="char" char="(" rowspan="1" colspan="1">13 (7.8)</td><td align="char" char="(" rowspan="1" colspan="1">12 (7.2)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">1.12 (0.37 to 3.38)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.79</td></tr><tr><td rowspan="1" colspan="1">90-day mortality</td><td align="char" char="(" rowspan="1" colspan="1">5 (3)</td><td align="char" char="(" rowspan="1" colspan="1">5 (3)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">1.02 (0.27 to 3.92)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.97</td></tr><tr><td rowspan="1" colspan="1">90-day morbidity</td><td align="char" char="(" rowspan="1" colspan="1">73 (44)</td><td align="char" char="(" rowspan="1" colspan="1">79 (47.6)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1">90-day liver specific morbidity</td><td align="char" char="(" rowspan="1" colspan="1">23 (13.9)</td><td align="char" char="(" rowspan="1" colspan="1">26 (15.7)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">0.89 (0.40 to 2.00)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.71</td></tr><tr><td rowspan="1" colspan="1">90-day readmission</td><td align="char" char="(" rowspan="1" colspan="1">22 (13.3)</td><td align="char" char="(" rowspan="1" colspan="1">20 (12)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">1.12 (0.46 to 2.74)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.74</td></tr><tr><td rowspan="1" colspan="1">Global health status<xref rid="tblfn6" ref-type="table-fn"><sup>e</sup></xref></td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">3.19 (0.71 to 5.68)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">&lt;.001</td></tr><tr><td rowspan="1" colspan="1">Body image<xref rid="tblfn6" ref-type="table-fn"><sup>e</sup></xref></td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">0.86 (0.46 to 1.26)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">&lt;.001</td></tr><tr><td rowspan="1" colspan="1">Costs, mean, USD (99% BCI)</td><td align="char" char="(" rowspan="1" colspan="1">17,140 (16,223 to 18,240)</td><td align="char" char="(" rowspan="1" colspan="1">15,478 (14,203 to 16,886)</td><td align="char" char="(" rowspan="1" colspan="1">1,662 (98 to 3,334)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr><tr><td rowspan="1" colspan="1">Quality-adjusted life years, observed mean (SD)</td><td align="char" char="(" rowspan="1" colspan="1">0.83 (0.22)</td><td align="char" char="(" rowspan="1" colspan="1">0.80 (0.24)</td><td align="char" char="(" rowspan="1" colspan="1">0.05 (–0.003 to 0.10)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.080</td></tr><tr><td rowspan="1" colspan="1">Incremental cost-effectiveness ratio, USD</td><td rowspan="1" colspan="1">33,119</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /></tr></tbody></table><table frame="hsides" rules="groups"><thead valign="bottom"><tr><th rowspan="2" colspan="1">Secondary End Point—Oncological<xref rid="tblfn7" ref-type="table-fn"><sup>f</sup></xref></th><th rowspan="2" align="center" char="(" colspan="1">Laparoscopic (n = 136)</th><th rowspan="2" align="center" char="(" colspan="1">Open (n = 145)</th><th colspan="4" align="center" rowspan="1">Model 2—Multivariable<xref rid="tblfn3" ref-type="table-fn"><sup>b</sup></xref></th></tr><tr><th align="center" char="(" rowspan="1" colspan="1">% Difference (99% CI)</th><th align="center" char="(" rowspan="1" colspan="1">Odds Ratio (99% CI)</th><th align="center" char="(" rowspan="1" colspan="1">Hazard Ratio (99% CI)</th><th align="center" rowspan="1" colspan="1"><italic toggle="yes">P</italic></th></tr></thead><tbody valign="top"><tr><td rowspan="1" colspan="1">Time to adjuvant systemic therapy, median, days<xref rid="tblfn8" ref-type="table-fn"><sup>g</sup></xref> (IQR; range)</td><td align="char" char="(" rowspan="1" colspan="1">46.5 (36.5-62.8; 6-84)</td><td align="char" char="(" rowspan="1" colspan="1">62 (47-72; 22-88)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">2.20 (1.01 to 4.77)</td><td align="char" char="." rowspan="1" colspan="1">.009</td></tr><tr><td rowspan="1" colspan="1">R0 resection margin</td><td align="char" char="(" rowspan="1" colspan="1">106/132 (77.9)</td><td align="char" char="(" rowspan="1" colspan="1">122/140 (84.1)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">0.60 (0.25 to 1.45)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.14</td></tr><tr><td rowspan="1" colspan="1">R1 and R2 resection margin</td><td align="char" char="(" rowspan="1" colspan="1">26/132 (19.1)</td><td align="char" char="(" rowspan="1" colspan="1">18/140 (12.4)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">1.65 (0.69 to 3.97)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.14</td></tr><tr><td rowspan="1" colspan="1">Recurrence total</td><td align="char" char="(" rowspan="1" colspan="1">66 (48.5)</td><td align="char" char="(" rowspan="1" colspan="1">84 (57.9)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">0.72 (0.38 to 1.37)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.19</td></tr><tr><td rowspan="1" colspan="1">Recurrence liver only</td><td align="char" char="(" rowspan="1" colspan="1">36 (26.5)</td><td align="char" char="(" rowspan="1" colspan="1">50 (34.5)</td><td rowspan="1" colspan="1" /><td align="char" char="(" rowspan="1" colspan="1">0.67 (0.34 to 1.34)</td><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.13</td></tr><tr><td rowspan="1" colspan="1">Disease-free survival<xref rid="tblfn9" ref-type="table-fn"><sup>h</sup></xref></td><td align="char" char="(" rowspan="1" colspan="1">55 (40.7)</td><td align="char" char="(" rowspan="1" colspan="1">51 (35.4)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.46</td></tr><tr><td rowspan="1" colspan="1">Overall survival<xref rid="tblfn9" ref-type="table-fn"><sup>h</sup></xref></td><td align="char" char="(" rowspan="1" colspan="1">67 (57.3)</td><td align="char" char="(" rowspan="1" colspan="1">86 (65.6)</td><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td rowspan="1" colspan="1" /><td align="char" char="." rowspan="1" colspan="1">.59</td></tr></tbody></table><table-wrap-foot><fn fn-type="abbr"><p>Abbreviations: BCI, bootstrapped confidence interval; CCI, comprehensive complication index; NA, not applicable; USD, US dollars.</p></fn><fn id="tblfn2" fn-type="other"><label><sup>a</sup></label><p>Time to functional recovery could not be determined for four patients in the laparoscopic group and six patients in the open group.</p></fn><fn id="tblfn3" fn-type="other"><label><sup>b</sup></label><p>Result adjusted for sex, age, hemihepatectomy side, benign/malignant tumor type, and treatment center. In all analyses, the open group is used as reference group.</p></fn><fn id="tblfn4" fn-type="other"><label><sup>c</sup></label><p>Data are reported as No./total (%) unless otherwise indicated. Percentages may not total 100 because of rounding.</p></fn><fn id="tblfn5" fn-type="other"><label><sup>d</sup></label><p>Mann-Whitney <italic toggle="yes">U</italic> test.</p></fn><fn id="tblfn6" fn-type="other"><label><sup>e</sup></label><p>Points difference over 12 months after surgery. Result adjusted for sex, age, hemihepatectomy side, benign/malignant tumor type, treatment center, and baseline difference.</p></fn><fn id="tblfn7" fn-type="other"><label><sup>f</sup></label><p>Patients with malignant disease only.</p></fn><fn id="tblfn8" fn-type="other"><label><sup>g</sup></label><p>Adjuvant systemic therapy was given to 38 patients in the laparoscopic group and 31 patients in the open group.</p></fn><fn id="tblfn9" fn-type="other"><label><sup>h</sup></label><p>Log-rank test.</p></fn></table-wrap-foot></table-wrap>
+</p><p>The fixed-effect regression analyses of the log-transformed time to functional recovery showed that time to functional recovery was significantly shorter in the laparoscopic group (difference –17.5% [96% CI, 25.6 to –8.4]; naïve method <italic toggle="yes">P</italic> &lt; .001 and combinatory method <italic toggle="yes">P</italic> = .004). These results were also confirmed with nonparametric tests (naïve method <italic toggle="yes">P</italic> &lt; .001 and combinatory method <italic toggle="yes">P</italic> = .026). For further details on the regression analyses, see the Data Supplement. Outcomes were similar for the per-protocol analysis (Data Supplement Tables S7 and S8).</p><p>Median length of hospital stay was shorter in the laparoscopic group (5 days [IQR, 4-7; range, 1-43] <italic toggle="yes">v</italic> 6 days [IQR, 5-7; range, 2-50] difference, –16.4% [99% CI, –27.7 to –3.9]; <italic toggle="yes">P</italic> = .002) while the duration of surgery was longer (310 minutes, IQR, 255-379; range, 45-595) versus 254 minutes (IQR, 194-301; range, 41-604; <italic toggle="yes">P</italic> &lt; .001). Median overall blood loss was comparable, <italic toggle="yes">P</italic> = .79 (Table <xref rid="tbl2" ref-type="table">2</xref>).</p><p>For 28 patients (17%), the laparoscopic resection was converted to an open procedure. Of these patients, seven (25%) were converted for urgent reasons (mainly bleeding) and 21 (75%) for nonurgent reasons (predominantly uncertainty concerning resection margins). The median time to functional recovery in those 28 patients converted to an open procedure was 5 days (IQR, 4-6; range, 1-9, Data Supplement, Table S9).</p><p>The overall incidence of adverse events was similar between the groups (Table <xref rid="tbl2" ref-type="table">2</xref>). Major complications occurred in 24 patients (15%) in the laparoscopic group and in 28 patients (17%) in the open group (odds ratio [OR], 0.84 [99% CI, 0.37 to 1.89]; <italic toggle="yes">P</italic> = .58). There were five deaths (3%) in the laparoscopic group and five (3%) in the open group within 90 days of surgery (OR, 1.02 [99% CI, 0.27 to 3.9]; <italic toggle="yes">P</italic> = .97). One death in the laparoscopic group was due to disease progression. A detailed description of the most common complications is in the Data Supplement (Tables S10 and S11).</p><sec><title>Secondary Outcomes: QoL, Body Image, Costs, and Cost-Effectiveness</title><p>Over the first year after laparoscopic hemihepatectomy, Global Health Status (derived from EORTC QoL questionnaires) was significantly better in the laparoscopic group (difference, 3.19 points [99% CI, 0.71 to 5.68]; <italic toggle="yes">P</italic> &lt; .001) (Table <xref rid="tbl2" ref-type="table">2</xref>, Fig <xref rid="fig2" ref-type="fig">2</xref>). In addition, patients in the laparoscopic group reported significantly less deterioration of satisfaction with body image compared with the open group (difference, –0.86 points [99% CI, –1.26 to –0.46]; <italic toggle="yes">P</italic> &lt; .001).</p><fig position="float" id="fig2" fig-type="figure" orientation="portrait"><label>FIG 2.</label><caption><p>Global health status of the European Organization for Research and Treatment of cancer—Quality-of-Life Questionnaire C30.</p></caption><graphic position="float" orientation="portrait" ns1:href="jco-42-1799-g003.jpg" /></fig><p>Intraoperative and postoperative costs per patient were higher for laparoscopic hemihepatectomy (mean difference, $1,662 in US dollars [USD] [99% CI, $98 (USD) to $3,334 (USD)]). However, the laparoscopic group gained an additional 0.05 QALYs in 12 months compared with the open group. As a result, the incremental cost-effectiveness ratio was $33,119 (USD) per additional QALY (Table <xref rid="tbl2" ref-type="table">2</xref>). On the basis of the available evidence from the trial and using the Dutch-based maximum willingness-to-pay threshold of $72,240 (USD) (ie, €80,000), laparoscopic hemihepatectomy has a 77% probability to be a cost-effective alternative to open surgery. The cost-effectiveness acceptability curve (Data Supplement, Fig S3) shows the decision uncertainty in relation to a range of willingness-to-pay thresholds.</p></sec><sec sec-type="results"><title>Secondary Outcomes: Oncological Results</title><p>Additional outcomes were obtained for the patients undergoing resection for cancer (laparoscopic: n = 136, 82%; open: n = 145, 87%). R0 resection margins (≥1 mm) were achieved for 106 patients (78%) in the laparoscopic group compared with 122 patients (84%) in the open group (OR, 0.60 [99% CI, 0.25 to 1.45]; <italic toggle="yes">P</italic> = .14, Data Supplement, Table S12). For those who received adjuvant systemic therapy, the time interval between surgery and initiation of treatment was significantly shorter in the laparoscopic group (46.5 days) compared with the open group (62.8 days; hazard ratio, 2.20 [99% CI, 1.01 to 4.77]; <italic toggle="yes">P</italic> = .009; Table <xref rid="tbl2" ref-type="table">2</xref>). The use of systemic therapy was largely restricted to those patients with colorectal liver metastases and cholangiocarcinoma with some patients receiving treatment in the neoadjuvant setting before trial recruitment (Data Supplement, Tables S4 and S5).</p><p>Recurrence was diagnosed in 66 patients (49%) in the laparoscopic group and 84 patients (58%) in the open group (OR, 0.72 [99% CI, 0.38 to 1.37]; <italic toggle="yes">P</italic> = .19). Of them, 36 patients (27%) in the laparoscopic group and 50 patients (35%) in the open group had a recurrence in the liver (OR, 0.67 [99% CI, 0.34 to 1.34]; <italic toggle="yes">P</italic> = .13, Data Supplement, Table S13). At a median follow-up of 53 months (IQR, 39-63; range, 0-86), there were no significant differences in disease-free or overall survival between the groups (Figs <xref rid="fig3" ref-type="fig">3</xref> and <xref rid="fig4" ref-type="fig">4</xref>).</p><fig position="float" id="fig3" fig-type="figure" orientation="portrait"><label>FIG 3.</label><caption><p>Kaplan-Meier curves of probability of disease-free survival for laparoscopic hemihepatectomy versus open hemihepatectomy, (A) curtailed at a maximum follow-up time of 68 months for all malignancies (follow-up index 65%) (B) and for colorectal liver metastases at a maximal follow-up time of 62 months (follow-up index 67%). 99% CI in shadings.</p></caption><graphic position="float" orientation="portrait" ns1:href="jco-42-1799-g004.jpg" /></fig><fig position="float" id="fig4" fig-type="figure" orientation="portrait"><label>FIG 4.</label><caption><p>Kaplan-Meier curves of probability of overall survival for laparoscopic hemihepatectomy versus open hemihepatectomy, (A) curtailed at a maximum of 68 months for all malignancies (follow-up index 43%) and (B) for colorectal liver metastases at a maximum follow-up time of 65 months (follow-up index 39%). 99% CI in shadings.</p></caption><graphic position="float" orientation="portrait" ns1:href="jco-42-1799-g005.jpg" /></fig><p>The outcomes of the per-protocol analysis were similar for all secondary outcomes (Data Supplement, Tables S7 and S8).</p></sec><sec><title>Subgroup Analyses</title><p>In the primary outcome analyses, interaction of treatment was tested with sex, age, hemihepatectomy side (left/right), surgical center, and tumor type (benign/malignant). A significant interaction was found for surgical center (<italic toggle="yes">P</italic> &lt; .01 fixed regression, <italic toggle="yes">P</italic> &lt; .05 mixed regression, Data Supplement). To determine whether this interaction might be due to differences in experience with laparoscopic surgery, an additional analysis was conducted in which centers with moderate experience (10-40 laparoscopic hemihepatectomies performed before the trial) were compared with centers with high experience (&gt;40 laparoscopic hemihepatectomies). No interaction of the factor experience with treatment was found for time to functional recovery. Similarly, no significant interaction was found for time to functional recovery with any of the 10 predefined preoperative and intraoperative covariates (Data Supplement, Tables S14 and S15). The reduced time to functional recovery for the laparoscopic treatment group remained across all subgroups.</p></sec></sec><sec sec-type="discussion"><title>DISCUSSION</title><p>To our knowledge, this is the first randomized clinical trial to evaluate the benefit of the laparoscopic approach in the context of a major liver resection. The results demonstrate a reduction in time to functional recovery, an improvement in QoL, and a shorter time to initiation of systemic therapy in favor of the laparoscopic approach.</p><p>Time to functional recovery was selected as the primary outcome measure because it avoids confounders that can affect length of stay.<sup><xref rid="b32" ref-type="bibr">32</xref>-<xref rid="b34" ref-type="bibr">34</xref></sup> The observed 1 day difference could be regarded as small, but even in the group assigned to open surgery, time to functional recovery was just 5 days. The excellent outcomes achieved across both groups of the trial likely reflect the experience of the surgical centers and the benefits of modern enhanced recovery after surgery protocols.<sup><xref rid="b6" ref-type="bibr">6</xref></sup> Indeed, it seems unlikely that further surgical advances, such as the use of robotic techniques, will be able to demonstrate an additional meaningful improvement.<sup><xref rid="b35" ref-type="bibr">35</xref>,<xref rid="b36" ref-type="bibr">36</xref></sup></p><p>Concerns exist regarding the quality of cancer surgery performed laparoscopically.<sup><xref rid="b37" ref-type="bibr">37</xref></sup> Reassuringly, there was no evidence of inferior oncological outcomes. Specifically, the R0 resection and recurrence rates, including liver only recurrence, were comparable in both groups. While the trial was not powered to assess the impact on survival, the outcomes are appropriate for the clinical cohort.<sup><xref rid="b1" ref-type="bibr">1</xref>,<xref rid="b38" ref-type="bibr">38</xref>,<xref rid="b39" ref-type="bibr">39</xref></sup> Surgical morbidity and mortality were similarly as expected with no significant differences between the groups.<sup><xref rid="b15" ref-type="bibr">15</xref>,<xref rid="b40" ref-type="bibr">40</xref></sup></p><p>Of further interest is that the time interval between surgery and start of adjuvant systemic therapy was shorter in the laparoscopic group. It is generally accepted that it is optimal to commence adjuvant treatment as soon as possible after surgery for a number of cancers albeit that the longer-term oncological impact of this to the ORANGE II PLUS cohort are unknown.<sup><xref rid="b41" ref-type="bibr">41</xref>-<xref rid="b43" ref-type="bibr">43</xref></sup> The evidence for adjuvant systemic therapy in colorectal liver metastases is debated, both in terms of whether there is a need at all for systemic therapy and if so the optimal sequencing of treatment. In biliary tract cancer, there is a greater consensus but these patients comprised a smaller population within the trial.<sup><xref rid="b44" ref-type="bibr">44</xref>,<xref rid="b45" ref-type="bibr">45</xref></sup></p><p>The value of patient-reported outcomes is increasingly recognized. A previous trial of patients undergoing resection of colorectal liver metastases demonstrated an improvement in QoL in favor of the laparoscopic approach up to 4 months after surgery.<sup><xref rid="b10" ref-type="bibr">10</xref></sup> The current trial similarly demonstrated an improvement which extended to over 1 year after the operation. Body image and cosmesis scores were also significantly better in the laparoscopic group.</p><p>Not all end points were superior in the laparoscopic group. Operating times were longer, consistent with observational series but in contrast to the OSLO-COMET trial.<sup><xref rid="b8" ref-type="bibr">8</xref></sup> This likely reflects the additional complexity of performing a hemihepatectomy and the need for conversion to an open procedure, which can be essential to avoid compromising oncological outcomes. The longer operating time and requirement for specialist equipment also resulted in higher operating costs. However, when the improvement in QoL is considered, reflected in QALY, the calculated incremental cost effectiveness ratio for the laparoscopic approach is likely to meet funding criteria across major western health care systems.</p><p>Trials evaluating surgical techniques need to be undertaken when sufficient experience in the technique has been developed, but before the new approach has been universally adopted in the absence of randomized data.<sup><xref rid="b46" ref-type="bibr">46</xref></sup> To facilitate recruitment to ORANGE II PLUS, inclusion was not restricted to a particular disease. Although the majority of patients had colorectal liver metastases, it does limit the ability to explore oncological end points with precision, particularly within cancer subtypes.</p><p>In conclusion, this trial demonstrated excellent recovery times for patients undergoing hemihepatectomy managed within an enhanced recovery program. The laparoscopic approach resulted in an even shorter time to functional recovery together with being cost-effective and associated with a better QoL. In patients with cancer, surrogate oncological outcomes such as pathological resection status and sites of recurrence are reassuring in the absence of being able to assess an effect on overall survival. The shorter time to commencing adjuvant systemic therapy may reflect more subtle advantages to the laparoscopic approach in terms of recovery not captured by the primary end point. These results are directly applicable to the majority of patients with an indication for hemihepatectomy worldwide and may support a larger role for liver surgery within oncological treatment pathways. If experience is available, a laparoscopic approach can be considered for all patients undergoing hemihepatectomy.</p></sec></body><back><ack><title>ACKNOWLEDGMENT</title><p>This trial was made possible by the collaborative efforts of doctors, nurses, and administrators at the recruiting hospitals. We thank everyone who contributed their time and expertise, in particular the trial patients.</p><p><bold>In memory</bold> of Prof Dr Cornelis H.C. Dejong, founder of the hepatopancreatobiliary surgery department of the Maastricht UMC+. Innovator and Inspirator. In 2003, Kees performed the first laparoscopic left lateral sectionectomy in the Netherlands at Maastricht UMC+. “Standing on the shoulders of giants”—our present is the result of a history. We must always act, resolutely innovative, daring and focused on the future. It will always only be thanks to the progress of those who came before us that we can see and understand. Gain height, see better, further, on your shoulders…thank you giant!</p><p>The list of ORANGE II PLUS collaborators is available in Appendix <xref rid="tblA1" ref-type="table">Table A1</xref> (online only).</p></ack><fn-group content-type="presented-at"><title>PRIOR PRESENTATION</title><fn specific-use="presented-at" fn-type="presented-at"><p>Presented at the European Society of Medical Oncology, Paris, France, September 16-21, 2021; European-African Hepato-Pancreato-Biliary Association, Bilbao, Spain, September 15-17, 2021; Alpine Liver and Pancreatic Surgery Meeting, Madonna Di Campiglio, Italy, February 2-6, 2022; International Hepato-Pancreato-Biliary Association, New York, NY, March 30-April 2, 2022; Viszeralmedizin; Hamburg, Germany, September 12-17, 2022.</p></fn></fn-group><fn-group content-type="supported-by"><title>SUPPORT</title><fn specific-use="supported-by" fn-type="supported-by"><p>Supported by Maastricht University Medical Center+, University Hospital RWTH Aachen, Cancer Research UK (CRUK 12/048) and European Association of Endoscopic Surgery.</p></fn></fn-group><fn-group><fn specific-use="equal" fn-type="equal"><p>R.S.F. and L.A.A. authors share first authorship. J.N.P. and R.M.v.D. authors share senior authorship.</p></fn></fn-group><sec sec-type="clinical-trial-information"><title>CLINICAL TRIAL INFORMATION</title><p><ext-link ns1:href="https://clinicaltrials.gov/ct2/show/NCT01441856" ext-link-type="uri">NCT01441856</ext-link> (ORANGE II PLUS)</p></sec><sec sec-type="contributed"><title>AUTHOR CONTRIBUTIONS</title><p><bold>Conception and design:</bold> Robert S. Fichtinger, Luca A. Aldrighetti, Mohammed Abu Hilal, Roberto I. Troisi, Robert P. Sutcliffe, Marc G. Besselink, Somaiah Aroori, Krishna V. Menon, Bjørn Edwin, Mathieu D'Hondt, Valerio Lucidi, Tom F. Ulmer, Rafael Díaz-Nieto, Zahir Soonawalla, Steve White, Gregory Sergeant, Cornelis H.C. Dejong, Zina Eminton, Åsmund A. Fretland, Siân A. Pugh, Gerard J.P. van Breukelen, John N. Primrose, Ronald M. van Dam</p><p><bold>Financial support:</bold> Ronald M. van Dam, John N. Primrose</p><p><bold>Administrative support:</bold> Luca A. Aldrighetti, Roberto I. Troisi, Ulf P. Neumann, Zina Eminton, John N. Primrose, Ronald M. van Dam</p><p><bold>Provision of study materials or patients:</bold> Robert S. Fichtinger, Luca A. Aldrighetti, Mohammed Abu Hilal, Roberto I. Troisi, Robert P. Sutcliffe, Marc G. Besselink, Somaiah Aroori, Krishna V. Menon, Bjørn Edwin, Mathieu D'Hondt, Valerio Lucidi, Ulf P. Neumann, Rafael Díaz-Nieto, Zahir Soonawalla, Gregory Sergeant, John N. Primrose, Ronald M. van Dam</p><p><bold>Collection and assembly of data:</bold> Robert S. Fichtinger, Luca A. Aldrighetti, Mohammed Abu Hilal, Roberto I. Troisi, Robert P. Sutcliffe, Marc G. Besselink, Somaiah Aroori, Krishna V. Menon, Bjørn Edwin, Mathieu D'Hondt, Valerio Lucidi, Tom F. Ulmer, Rafael Díaz-Nieto, Zahir Soonawalla, Steve White, Gregory Sergeant, Bram Olij, Francesca Ratti, Christoph Kuemmerli, Vincenzo Scuderi, Frederik Berrevoet, Aude Vanlander, Ravi Marudanayagam, Pieter Tanis, Maxime J.L. Dewulf, Cornelis H.C. Dejong, Zina Eminton, Ulf P. Neumann, Åsmund A. Fretland, Siân A. Pugh, John N. Primrose, Ronald M. van Dam</p><p><bold>Data analysis and interpretation:</bold> Robert S. Fichtinger, Luca A. Aldrighetti, Mohammed Abu Hilal, Roberto I. Troisi, Robert P. Sutcliffe, Marc G. Besselink, Somaiah Aroori, Krishna V. Menon, Bjørn Edwin, Mathieu D'Hondt, Valerio Lucidi, Ulf P. Neumann, Rafael Díaz-Nieto, Zahir Soonawalla, Steve White, Gregory Sergeant, Bram Olij, Merel L. Kimman, Lloyd Brandts, Siân A. Pugh, Gerard J.P. van Breukelen, John N. Primrose, Ronald M. van Dam</p><p><bold>Manuscript writing:</bold> All authors</p><p><bold>Final approval of manuscript:</bold> All authors</p><p><bold>Accountable for all aspects of the work:</bold> All authors</p></sec><sec sec-type="COI-statement"><title>AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST</title><sec><title>Laparoscopic Versus Open Hemihepatectomy: The ORANGE II PLUS Multicenter Randomized Controlled Trial</title><p>The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to <ext-link ns1:href="http://www.asco.org/rwc" ext-link-type="uri">www.asco.org/rwc</ext-link> or <ext-link ns1:href="https://ascopubs.org/jco/authors/author-center" ext-link-type="uri">ascopubs.org/jco/authors/author-center</ext-link>.</p><p>Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (<ext-link ns1:href="https://openpaymentsdata.cms.gov/" ext-link-type="uri">Open Payments</ext-link>).</p></sec><sec><title>Marc G. Besselink</title><p><bold>Research Funding:</bold> Intuitive Surgical, Medtronic, Ethicon/Johnson &amp; Johnson, Oncosil, Viatris, Viatris</p></sec><sec><title>Zahir Soonawalla</title><p><bold>Travel, Accommodations, Expenses:</bold> Ipsen</p></sec><sec><title>Steve White</title><p><bold>Honoraria:</bold> Baxter, Medtronic, Johnson and Johnson</p><p><bold>Research Funding:</bold> Intuitive Surgical</p><p><bold>Travel, Accommodations, Expenses:</bold> Baxter, Medtronic</p></sec><sec><title>Gregory Sergeant</title><p><bold>Travel, Accommodations, Expenses:</bold> Intuitive Surgical</p></sec><sec><title>Christoph Kuemmerli</title><p><bold>Stock and Other Ownership Interests:</bold> Novartis</p></sec><sec><title>Pieter Tanis</title><p><bold>Consulting or Advisory Role:</bold> Medtronic (Inst)</p><p><bold>Research Funding:</bold> Novus Scientific (Inst)</p></sec><sec><title>Ulf P. Neumann</title><p><bold>Honoraria:</bold> Merck Serono, AstraZeneca, Dr Falk Pharma UK Ltd</p></sec><sec><title>Åsmund A. Fretland</title><p><bold>Honoraria:</bold> Olympus Medical Systems, Bayer Health</p><p><bold>Research Funding:</bold> Siemens Healthineers (Inst)</p></sec><sec><title>Siân A. Pugh</title><p><bold>Honoraria:</bold> Merck Serono, SERVIER</p><p><bold>Travel, Accommodations, Expenses:</bold> Takeda</p></sec><sec><title>John N. Primrose</title><p><bold>Honoraria:</bold> AstraZeneca</p><p><bold>Travel, Accommodations, Expenses:</bold> Takeda</p></sec><sec><title>Ronald M. van Dam</title><p><bold>Honoraria:</bold> Johnson &amp; Johnson (Inst)</p><p><bold>Research Funding:</bold> Abbott Laboratories (Inst), Guerbet (Inst)</p><p>No other potential conflicts of interest were reported.</p></sec></sec><app-group><app id="app1"><title>APPENDIX</title><table-wrap position="anchor" id="tblA1" orientation="portrait"><label>TABLE A1.</label><caption><p>ORANGE II PLUS Collaborative</p></caption><table frame="hsides" rules="groups"><thead valign="bottom"><tr><th rowspan="1" colspan="1">Center</th><th align="center" rowspan="1" colspan="1">Name</th><th align="center" rowspan="1" colspan="1">Role</th></tr></thead><tbody valign="top"><tr><td rowspan="3" colspan="1">Aachen University Hospital, Aachen, Germany</td><td rowspan="1" colspan="1">Ulf Neumann</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Florian Ulmer</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Finja Clausen</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="2" colspan="1">Aintree University Hospital NHS Foundation Trust, Aintree, United Kingdom</td><td rowspan="1" colspan="1">Rafael Díaz-Nieto</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Michelle Linforth</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="4" colspan="1">Amsterdam University Medical Centers, Amsterdam, the Netherlands</td><td rowspan="1" colspan="1">Marc Besselink</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Pieter Tanis</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Burak Gorçek</td><td rowspan="1" colspan="1">PhD candidate</td></tr><tr><td rowspan="1" colspan="1">Marcel van der Poel</td><td rowspan="1" colspan="1">PhD candidate</td></tr><tr><td rowspan="4" colspan="1">University Hospitals Birmingham NHS Foundation Trust, Birmingham, United Kingdom</td><td rowspan="1" colspan="1">Robert Sutcliffe</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Ravi Marudanayagam</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Diana Hull</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="1" colspan="1">Penelope Rogers</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="2" colspan="1">Erasmus Hospital, Brussels, Belgium</td><td rowspan="1" colspan="1">Valerio Lucidi</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Viviane van Laethem</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="6" colspan="1">Ghent University Hospital, Ghent, Belgium</td><td rowspan="1" colspan="1">Roberto Troisi</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Frederik Berrevoet</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Vincenzo Scuderi</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Aude Vanlander</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Betsy van Loo</td><td rowspan="1" colspan="1">Research nurse, trial coordinator</td></tr><tr><td rowspan="1" colspan="1">Kathleen Segers</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="1" colspan="1">Jessa Hospital, Hasselt, Belgium</td><td rowspan="1" colspan="1">Gregory Sergeant</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="2" colspan="1">Groeninge General Hospital, Kortrijk, Belgium</td><td rowspan="1" colspan="1">Mathieu D'Hondt</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Celine Demeyere</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="2" colspan="1">King's College Hospital NHS Foundation Trust, London, the United Kingdom</td><td rowspan="1" colspan="1">Krishna Menon</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Ane Zamalloa</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="8" colspan="1">Maastricht University Medical Center+, Maastricht, the Netherlands</td><td rowspan="1" colspan="1">Ronald van Dam</td><td rowspan="1" colspan="1">Principal investigator, trial leader and main investigator</td></tr><tr><td rowspan="1" colspan="1">Cornelis Dejong</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Maxime Dewulf</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Lloyd Brandts</td><td rowspan="1" colspan="1">Trial statistician</td></tr><tr><td rowspan="1" colspan="1">Robert Fichtinger</td><td rowspan="1" colspan="1">PhD candidate, trial coordinator</td></tr><tr><td rowspan="1" colspan="1">Bram Olij</td><td rowspan="1" colspan="1">PhD candidate</td></tr><tr><td rowspan="1" colspan="1">Merel Kimman</td><td rowspan="1" colspan="1">Health economics and quality of life expert</td></tr><tr><td rowspan="1" colspan="1">E.M. Wong-Lun-Hing</td><td rowspan="1" colspan="1">PhD candidate</td></tr><tr><td rowspan="1" colspan="1">Maastricht University, Maastricht, the Netherlands</td><td rowspan="1" colspan="1">Gerard van Breukelen</td><td rowspan="1" colspan="1">Trial statistician</td></tr><tr><td rowspan="2" colspan="1">San Raffaele Hospital, Milan, Italy</td><td rowspan="1" colspan="1">Luca Aldrighetti</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Francesca Ratti</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="3" colspan="1">Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle, the United Kingdom</td><td rowspan="1" colspan="1">Steve White</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Stuart Robinson</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Caroline Brunton</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="3" colspan="1">Oslo University Hospital, Oslo, Norway</td><td rowspan="1" colspan="1">Björn Edwin</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Åsmund Fretland</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Davit Aghayan</td><td rowspan="1" colspan="1">PhD candidate</td></tr><tr><td rowspan="2" colspan="1">Oxford University Hospitals NHS Foundation Trust, Oxford, the United Kingdom</td><td rowspan="1" colspan="1">Zahir Soonawalla</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Katherine Gordon-Quayle</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="2" colspan="1">University Hospitals Plymouth NHS Foundation Trust, Plymouth, the United Kingdom</td><td rowspan="1" colspan="1">Somaiah Aroori</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">Tracy Ward</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="4" colspan="1">University Hospital Southampton NHS Foundation Trust, Southampton, the United Kingdom</td><td rowspan="1" colspan="1">Mohammed Abu Hilal</td><td rowspan="1" colspan="1">Principal investigator</td></tr><tr><td rowspan="1" colspan="1">John Primrose</td><td rowspan="1" colspan="1">Medical staff involved in patient care</td></tr><tr><td rowspan="1" colspan="1">Christoph Kümmerli</td><td rowspan="1" colspan="1">PhD candidate</td></tr><tr><td rowspan="1" colspan="1">Elizabeth Wedge</td><td rowspan="1" colspan="1">Research nurse</td></tr><tr><td rowspan="1" colspan="1">Southampton Clinical Trials Unit, Southampton, the United Kingdom</td><td rowspan="1" colspan="1">Zina Eminton</td><td rowspan="1" colspan="1">Trial manager</td></tr></tbody></table></table-wrap></app></app-group><ref-list><title>REFERENCES</title><ref id="b1"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kanas</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Primrose</surname><given-names>JN</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Survival after liver resection in metastatic colorectal cancer: Review and meta-analysis of prognostic factors</article-title>
+<source>Clin Epidemiol</source>
+<volume>4</volume>
+<fpage>283</fpage>
+<lpage>301</lpage>
+<year>2012</year>
+<pub-id pub-id-type="pmid">23152705</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/CLEP.S34285</pub-id><pub-id pub-id-type="pmcid">PMC3496330</pub-id></mixed-citation></ref><ref id="b2"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cervantes</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Adam</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Rosello</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Metastatic colorectal cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up</article-title>
+<source>Ann Oncol</source>
+<volume>34</volume>
+<fpage>10</fpage>
+<lpage>32</lpage>
+<year>2023</year>
+<pub-id pub-id-type="pmid">36307056</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.annonc.2022.10.003</pub-id></mixed-citation></ref><ref id="b3"><label>3.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bridgewater</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fletcher</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Palmer</surname><given-names>DH</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Long-term outcomes and exploratory analyses of the randomized phase III BILCAP study</article-title>
+<source>J Clin Oncol</source>
+<volume>40</volume>
+<fpage>2048</fpage>
+<lpage>2057</lpage>
+<year>2022</year>
+<pub-id pub-id-type="pmid">35316080</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.21.02568</pub-id></mixed-citation></ref><ref id="b4"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kehlet</surname><given-names>H</given-names></name>
+</person-group>
+<article-title>Multimodal approach to control postoperative pathophysiology and rehabilitation</article-title>
+<source>Br J Anaesth</source>
+<volume>78</volume>
+<fpage>606</fpage>
+<lpage>617</lpage>
+<year>1997</year>
+<pub-id pub-id-type="pmid">9175983</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bja/78.5.606</pub-id></mixed-citation></ref><ref id="b5"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Fretland</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Sokolov</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Postriganova</surname><given-names>N</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Inflammatory response after laparoscopic versus open resection of colorectal liver metastases: Data from the Oslo-CoMet trial</article-title>
+<source>Medicine (Baltimore)</source>
+<volume>94</volume>
+<fpage>e1786</fpage>
+<year>2015</year>
+<pub-id pub-id-type="pmid">26496309</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MD.0000000000001786</pub-id><pub-id pub-id-type="pmcid">PMC4620756</pub-id></mixed-citation></ref><ref id="b6"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Noba</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Rodgers</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Chandler</surname><given-names>C</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Enhanced Recovery After Surgery (ERAS) reduces hospital costs and improve clinical outcomes in liver surgery: A systematic review and meta-analysis</article-title>
+<source>J Gastrointest Surg</source>
+<volume>24</volume>
+<fpage>918</fpage>
+<lpage>932</lpage>
+<year>2020</year>
+<pub-id pub-id-type="pmid">31900738</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11605-019-04499-0</pub-id><pub-id pub-id-type="pmcid">PMC7165160</pub-id></mixed-citation></ref><ref id="b7"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Abu Hilal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Aldrighetti</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Dagher</surname><given-names>I</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>The southampton consensus guidelines for laparoscopic liver surgery: From indication to implementation</article-title>
+<source>Ann Surg</source>
+<volume>268</volume>
+<fpage>11</fpage>
+<lpage>18</lpage>
+<year>2018</year>
+<pub-id pub-id-type="pmid">29064908</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0000000000002524</pub-id></mixed-citation></ref><ref id="b8"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Fretland</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Dagenborg</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Bjørnelv</surname><given-names>GMW</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Laparoscopic versus open resection for colorectal liver metastases: The OSLO-COMET randomized controlled trial</article-title>
+<source>Ann Surg</source>
+<volume>267</volume>
+<fpage>199</fpage>
+<lpage>207</lpage>
+<year>2018</year>
+<pub-id pub-id-type="pmid">28657937</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0000000000002353</pub-id></mixed-citation></ref><ref id="b9"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Robles-Campos</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lopez-Lopez</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Brusadin</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Open versus minimally invasive liver surgery for colorectal liver metastases (LapOpHuva): A prospective randomized controlled trial</article-title>
+<source>Surg Endosc</source>
+<volume>33</volume>
+<fpage>3926</fpage>
+<lpage>3936</lpage>
+<year>2019</year>
+<pub-id pub-id-type="pmid">30701365</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00464-019-06679-0</pub-id></mixed-citation></ref><ref id="b10"><label>10.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Fretland</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Dagenborg</surname><given-names>VJ</given-names></name>
+<name name-style="western"><surname>Waaler Bjørnelv</surname><given-names>GM</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Quality of life from a randomized trial of laparoscopic or open liver resection for colorectal liver metastases</article-title>
+<source>Br J Surg</source>
+<volume>106</volume>
+<fpage>1372</fpage>
+<lpage>1380</lpage>
+<year>2019</year>
+<pub-id pub-id-type="pmid">31322735</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bjs.11227</pub-id></mixed-citation></ref><ref id="b11"><label>11.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Couinaud</surname><given-names>C</given-names></name>
+</person-group>
+<source>Le foie: études anatomiques et chirurgicales</source>
+<publisher-loc>Paris, France</publisher-loc>
+<publisher-name>Masson</publisher-name>
+<year>1957</year>
+</mixed-citation></ref><ref id="b12"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bismuth</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Chiche</surname><given-names>L</given-names></name>
+</person-group>
+<article-title>Surgery of hepatic tumors</article-title>
+<source>Prog Liver Dis</source>
+<volume>11</volume>
+<fpage>269</fpage>
+<lpage>285</lpage>
+<year>1993</year>
+<pub-id pub-id-type="pmid">8272515</pub-id>
+</mixed-citation></ref><ref id="b13"><label>13.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>van der Poel</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Besselink</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Cipriani</surname><given-names>F</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Outcome and learning curve in 159 consecutive patients undergoing total laparoscopic hemihepatectomy</article-title>
+<source>JAMA Surg</source>
+<volume>151</volume>
+<fpage>923</fpage>
+<lpage>928</lpage>
+<year>2016</year>
+<pub-id pub-id-type="pmid">27383568</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamasurg.2016.1655</pub-id></mixed-citation></ref><ref id="b14"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ciria</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Cherqui</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Geller</surname><given-names>DA</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Comparative short-term benefits of laparoscopic liver resection: 9000 cases and climbing</article-title>
+<source>Ann Surg</source>
+<volume>263</volume>
+<fpage>761</fpage>
+<lpage>777</lpage>
+<year>2016</year>
+<pub-id pub-id-type="pmid">26700223</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0000000000001413</pub-id></mixed-citation></ref><ref id="b15"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kasai</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cipriani</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Gayet</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Laparoscopic versus open major hepatectomy: A systematic review and meta-analysis of individual patient data</article-title>
+<source>Surgery</source>
+<volume>163</volume>
+<fpage>985</fpage>
+<lpage>995</lpage>
+<year>2018</year>
+<pub-id pub-id-type="pmid">29555197</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.surg.2018.01.020</pub-id></mixed-citation></ref><ref id="b16"><label>16.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Melloul</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Hubner</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Scott</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Guidelines for perioperative care for liver surgery: Enhanced Recovery After Surgery (ERAS) Society recommendations</article-title>
+<source>World J Surg</source>
+<volume>40</volume>
+<fpage>2425</fpage>
+<lpage>2440</lpage>
+<year>2016</year>
+<pub-id pub-id-type="pmid">27549599</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00268-016-3700-1</pub-id></mixed-citation></ref><ref id="b17"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Pocock</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Simon</surname><given-names>R</given-names></name>
+</person-group>
+<article-title>Sequential treatment assignment with balancing for prognostic factors in the controlled clinical trial</article-title>
+<source>Biometrics</source>
+<volume>31</volume>
+<fpage>103</fpage>
+<lpage>115</lpage>
+<year>1975</year>
+<pub-id pub-id-type="pmid">1100130</pub-id>
+</mixed-citation></ref><ref id="b18"><label>18.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Wong-Lun-Hing</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>van Dam</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>van Breukelen</surname><given-names>GJ</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Randomized clinical trial of open versus laparoscopic left lateral hepatic sectionectomy within an enhanced recovery after surgery programme (ORANGE II study)</article-title>
+<source>Br J Surg</source>
+<volume>104</volume>
+<fpage>525</fpage>
+<lpage>535</lpage>
+<year>2017</year>
+<pub-id pub-id-type="pmid">28138958</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bjs.10438</pub-id></mixed-citation></ref><ref id="b19"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>de Rooij</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>van Hilst</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>van Santvoort</surname><given-names>H</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Minimally invasive versus open distal pancreatectomy (LEOPARD): A multicenter patient-blinded randomized controlled trial</article-title>
+<source>Ann Surg</source>
+<volume>269</volume>
+<fpage>2</fpage>
+<lpage>9</lpage>
+<year>2019</year>
+<pub-id pub-id-type="pmid">30080726</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0000000000002979</pub-id></mixed-citation></ref><ref id="b20"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ljungqvist</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Scott</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fearon</surname><given-names>KC</given-names></name>
+</person-group>
+<article-title>Enhanced recovery after surgery: A review</article-title>
+<source>JAMA Surg</source>
+<volume>152</volume>
+<fpage>292</fpage>
+<lpage>298</lpage>
+<year>2017</year>
+<pub-id pub-id-type="pmid">28097305</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamasurg.2016.4952</pub-id></mixed-citation></ref><ref id="b21"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Suurmeijer</surname><given-names>TP</given-names></name>
+<name name-style="western"><surname>Doeglas</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Moum</surname><given-names>T</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>The Groningen activity restriction scale for measuring disability: Its utility in international comparisons</article-title>
+<source>Am J Public Health</source>
+<volume>84</volume>
+<fpage>1270</fpage>
+<lpage>1273</lpage>
+<year>1994</year>
+<pub-id pub-id-type="pmid">8059884</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2105/ajph.84.8.1270</pub-id><pub-id pub-id-type="pmcid">PMC1615477</pub-id></mixed-citation></ref><ref id="b22"><label>22.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>van Dam</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Hendry</surname><given-names>PO</given-names></name>
+<name name-style="western"><surname>Coolsen</surname><given-names>MM</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Initial experience with a multimodal enhanced recovery programme in patients undergoing liver resection</article-title>
+<source>Br J Surg</source>
+<volume>95</volume>
+<fpage>969</fpage>
+<lpage>975</lpage>
+<year>2008</year>
+<pub-id pub-id-type="pmid">18618897</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bjs.6227</pub-id></mixed-citation></ref><ref id="b23"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dindo</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Demartines</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Clavien</surname><given-names>PA</given-names></name>
+</person-group>
+<article-title>Classification of surgical complications: A new proposal with evaluation in a cohort of 6336 patients and results of a survey</article-title>
+<source>Ann Surg</source>
+<volume>240</volume>
+<fpage>205</fpage>
+<lpage>213</lpage>
+<year>2004</year>
+<pub-id pub-id-type="pmid">15273542</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/01.sla.0000133083.54934.ae</pub-id><pub-id pub-id-type="pmcid">PMC1360123</pub-id></mixed-citation></ref><ref id="b24"><label>24.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Slankamenac</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Graf</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Barkun</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>The comprehensive complication index: A novel continuous scale to measure surgical morbidity</article-title>
+<source>Ann Surg</source>
+<volume>258</volume>
+<fpage>1</fpage>
+<lpage>7</lpage>
+<year>2013</year>
+<pub-id pub-id-type="pmid">23728278</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0b013e318296c732</pub-id></mixed-citation></ref><ref id="b25"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>van den Broek</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>van Dam</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>van Breukelen</surname><given-names>GJ</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Development of a composite endpoint for randomized controlled trials in liver surgery</article-title>
+<source>Br J Surg</source>
+<volume>98</volume>
+<fpage>1138</fpage>
+<lpage>1145</lpage>
+<year>2011</year>
+<pub-id pub-id-type="pmid">21557208</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bjs.7503</pub-id></mixed-citation></ref><ref id="b26"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rabin</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>de Charro</surname><given-names>F</given-names></name>
+</person-group>
+<article-title>EQ-5D: A measure of health status from the EuroQol group</article-title>
+<source>Ann Med</source>
+<volume>33</volume>
+<fpage>337</fpage>
+<lpage>343</lpage>
+<year>2001</year>
+<pub-id pub-id-type="pmid">11491192</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/07853890109002087</pub-id></mixed-citation></ref><ref id="b27"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Aaronson</surname><given-names>NK</given-names></name>
+<name name-style="western"><surname>Ahmedzai</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bergman</surname><given-names>B</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>The European Organization for Research and Treatment of Cancer QLQ-C30: A quality-of-life instrument for use in international clinical trials in oncology</article-title>
+<source>J Natl Cancer Inst</source>
+<volume>85</volume>
+<fpage>365</fpage>
+<lpage>376</lpage>
+<year>1993</year>
+<pub-id pub-id-type="pmid">8433390</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnci/85.5.365</pub-id></mixed-citation></ref><ref id="b28"><label>28.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dunker</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Stiggelbout</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>van Hogezand</surname><given-names>RA</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Cosmesis and body image after laparoscopic-assisted and open ileocolic resection for Crohn's disease</article-title>
+<source>Surg Endosc</source>
+<volume>12</volume>
+<fpage>1334</fpage>
+<lpage>1340</lpage>
+<year>1998</year>
+<pub-id pub-id-type="pmid">9788857</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s004649900851</pub-id></mixed-citation></ref><ref id="b29"><label>29.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dagher</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Di Giuro</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Dubrez</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Laparoscopic versus open right hepatectomy: A comparative study</article-title>
+<source>Am J Surg</source>
+<volume>198</volume>
+<fpage>173</fpage>
+<lpage>177</lpage>
+<year>2009</year>
+<pub-id pub-id-type="pmid">19268902</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amjsurg.2008.09.015</pub-id></mixed-citation></ref><ref id="b30"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Jarnagin</surname><given-names>WR</given-names></name>
+<name name-style="western"><surname>Gonen</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fong</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Improvement in perioperative outcome after hepatic resection: Analysis of 1,803 consecutive cases over the past decade</article-title>
+<source>Ann Surg</source>
+<volume>236</volume>
+<fpage>397</fpage>
+<lpage>407</lpage>
+<year>2002</year>
+<comment>; discussion 406-7</comment>
+<pub-id pub-id-type="pmid">12368667</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/01.SLA.0000029003.66466.B3</pub-id><pub-id pub-id-type="pmcid">PMC1422593</pub-id></mixed-citation></ref><ref id="b31"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>DeMets</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Lan</surname><given-names>KK</given-names></name>
+</person-group>
+<article-title>Interim analysis: The alpha spending function approach</article-title>
+<source>Stat Med</source>
+<volume>13</volume>
+<fpage>1341</fpage>
+<lpage>1356</lpage>
+<year>1994</year>
+<comment>; discussion 1353-6</comment>
+<pub-id pub-id-type="pmid">7973215</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/sim.4780131308</pub-id></mixed-citation></ref><ref id="b32"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Fiore</surname><given-names>JF</given-names><suffix>Jr.</suffix></name>
+<name name-style="western"><surname>Faragher</surname><given-names>IG</given-names></name>
+<name name-style="western"><surname>Bialocerkowski</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Time to readiness for discharge is a valid and reliable measure of short-term recovery after colorectal surgery</article-title>
+<source>World J Surg</source>
+<volume>37</volume>
+<fpage>2927</fpage>
+<lpage>2934</lpage>
+<year>2013</year>
+<pub-id pub-id-type="pmid">24101012</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00268-013-2208-1</pub-id></mixed-citation></ref><ref id="b33"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Fiore</surname><given-names>JF</given-names><suffix>Jr.</suffix></name>
+<name name-style="western"><surname>Bialocerkowski</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Browning</surname><given-names>L</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Criteria to determine readiness for hospital discharge following colorectal surgery: An international consensus using the Delphi technique</article-title>
+<source>Dis Colon Rectum</source>
+<volume>55</volume>
+<fpage>416</fpage>
+<lpage>423</lpage>
+<year>2012</year>
+<pub-id pub-id-type="pmid">22426265</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/DCR.0b013e318244a8f2</pub-id></mixed-citation></ref><ref id="b34"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Boden</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Peng</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lockstone</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Validity and utility testing of a criteria-led discharge checklist to determine post-operative recovery after abdominal surgery: An international multicentre prospective cohort trial</article-title>
+<source>World J Surg</source>
+<volume>45</volume>
+<fpage>719</fpage>
+<lpage>729</lpage>
+<year>2021</year>
+<pub-id pub-id-type="pmid">33231731</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00268-020-05873-9</pub-id></mixed-citation></ref><ref id="b35"><label>35.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ziogas</surname><given-names>IA</given-names></name>
+<name name-style="western"><surname>Giannis</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Esagian</surname><given-names>SM</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Laparoscopic versus robotic major hepatectomy: A systematic review and meta-analysis</article-title>
+<source>Surg Endosc</source>
+<volume>35</volume>
+<fpage>524</fpage>
+<lpage>535</lpage>
+<year>2021</year>
+<pub-id pub-id-type="pmid">32989544</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00464-020-08008-2</pub-id></mixed-citation></ref><ref id="b36"><label>36.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Montalti</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Giglio</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>AGR</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Risk factors and outcomes of open conversion during minimally invasive major hepatectomies: An international multicenter study on 3880 procedures comparing the laparoscopic and robotic approaches</article-title>
+<source>Ann Surg Oncol</source>
+<volume>30</volume>
+<fpage>4783</fpage>
+<lpage>4796</lpage>
+<year>2023</year>
+<pub-id pub-id-type="pmid">37202573</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1245/s10434-023-13525-0</pub-id></mixed-citation></ref><ref id="b37"><label>37.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Ramirez</surname><given-names>PT</given-names></name>
+<name name-style="western"><surname>Frumovitz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Pareja</surname><given-names>R</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Minimally invasive versus abdominal radical hysterectomy for cervical cancer</article-title>
+<source>N Engl J Med</source>
+<volume>379</volume>
+<fpage>1895</fpage>
+<lpage>1904</lpage>
+<year>2018</year>
+<pub-id pub-id-type="pmid">30380365</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1806395</pub-id></mixed-citation></ref><ref id="b38"><label>38.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Aghayan</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Kazaryan</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Dagenborg</surname><given-names>VJ</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Long-term oncologic outcomes after laparoscopic versus open resection for colorectal liver metastases: A randomized trial</article-title>
+<source>Ann Intern Med</source>
+<volume>174</volume>
+<fpage>175</fpage>
+<lpage>182</lpage>
+<year>2021</year>
+<pub-id pub-id-type="pmid">33197213</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7326/M20-4011</pub-id></mixed-citation></ref><ref id="b39"><label>39.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Bridgewater</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Pugh</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Maishman</surname><given-names>T</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Systemic chemotherapy with or without cetuximab in patients with resectable colorectal liver metastasis (new EPOC): Long-term results of a multicentre, randomised, controlled, phase 3 trial</article-title>
+<source>Lancet Oncol</source>
+<volume>21</volume>
+<fpage>398</fpage>
+<lpage>411</lpage>
+<year>2020</year>
+<pub-id pub-id-type="pmid">32014119</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(19)30798-3</pub-id><pub-id pub-id-type="pmcid">PMC7052737</pub-id></mixed-citation></ref><ref id="b40"><label>40.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gorgec</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Benedetti Cacciaguerra</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lanari</surname><given-names>J</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Assessment of textbook outcome in laparoscopic and open liver surgery</article-title>
+<source>JAMA Surg</source>
+<volume>156</volume>
+<fpage>e212064</fpage>
+<year>2021</year>
+<pub-id pub-id-type="pmid">34076671</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamasurg.2021.2064</pub-id><pub-id pub-id-type="pmcid">PMC8173471</pub-id></mixed-citation></ref><ref id="b41"><label>41.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Des Guetz</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Nicolas</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Perret</surname><given-names>GY</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Does delaying adjuvant chemotherapy after curative surgery for colorectal cancer impair survival? A meta-analysis</article-title>
+<source>Eur J Cancer</source>
+<volume>46</volume>
+<fpage>1049</fpage>
+<lpage>1055</lpage>
+<year>2010</year>
+<pub-id pub-id-type="pmid">20138505</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejca.2010.01.020</pub-id></mixed-citation></ref><ref id="b42"><label>42.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Gao</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>XZ</given-names></name>
+<name name-style="western"><surname>Song</surname><given-names>YX</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Impact of timing of adjuvant chemotherapy on survival in stage III colon cancer: A population-based study</article-title>
+<source>BMC Cancer</source>
+<volume>18</volume>
+<fpage>234</fpage>
+<year>2018</year>
+<pub-id pub-id-type="pmid">29490625</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12885-018-4138-7</pub-id><pub-id pub-id-type="pmcid">PMC5831576</pub-id></mixed-citation></ref><ref id="b43"><label>43.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Cardoso</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Kyriakides</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ohno</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Early breast cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up†</article-title>
+<source>Ann Oncol</source>
+<volume>30</volume>
+<fpage>1194</fpage>
+<lpage>1220</lpage>
+<year>2019</year>
+<pub-id pub-id-type="pmid">31161190</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/annonc/mdz173</pub-id></mixed-citation></ref><ref id="b44"><label>44.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Primrose</surname><given-names>JN</given-names></name>
+<name name-style="western"><surname>Fox</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Palmer</surname><given-names>DH</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Capecitabine compared with observation in resected biliary tract cancer (BILCAP): A randomised, controlled, multicentre, phase 3 study</article-title>
+<source>Lancet Oncol</source>
+<volume>20</volume>
+<fpage>663</fpage>
+<lpage>673</lpage>
+<year>2019</year>
+<pub-id pub-id-type="pmid">30922733</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1470-2045(18)30915-X</pub-id></mixed-citation></ref><ref id="b45"><label>45.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Nakachi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Ikeda</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Konishi</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group>
+<article-title>Adjuvant S-1 compared with observation in resected biliary tract cancer (JCOG1202, ASCOT): A multicentre, open-label, randomised, controlled, phase 3 trial</article-title>
+<source>Lancet</source>
+<volume>401</volume>
+<fpage>195</fpage>
+<lpage>203</lpage>
+<year>2023</year>
+<pub-id pub-id-type="pmid">36681415</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(22)02038-4</pub-id></mixed-citation></ref><ref id="b46"><label>46.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lassen</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Hϕye</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Myrmel</surname><given-names>T</given-names></name>
+</person-group>
+<article-title>Randomised trials in surgery: The burden of evidence</article-title>
+<source>Rev Recent Clin Trials</source>
+<volume>7</volume>
+<fpage>244</fpage>
+<lpage>248</lpage>
+<year>2012</year>
+<pub-id pub-id-type="pmid">22621283</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/157488712802281402</pub-id></mixed-citation></ref><ref id="b47"><label>47.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Proschan</surname><given-names>MA</given-names></name>
+</person-group>
+<article-title>Sample size re-estimation in clinical trials</article-title>
+<source>Biom J</source>
+<volume>51</volume>
+<fpage>348</fpage>
+<lpage>357</lpage>
+<year>2009</year>
+<pub-id pub-id-type="pmid">19358221</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bimj.200800266</pub-id></mixed-citation></ref></ref-list></back></article>

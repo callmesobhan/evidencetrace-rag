@@ -1,0 +1,920 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="jch14616" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Clin Hypertens (Greenwich)</journal-id><journal-id journal-id-type="iso-abbrev">J Clin Hypertens (Greenwich)</journal-id><journal-id journal-id-type="pmc-domain-id">4028</journal-id><journal-id journal-id-type="pmc-domain">jclinhype</journal-id><journal-id journal-id-type="nlm-id">100888554</journal-id><journal-id journal-id-type="publisher-id">JCH</journal-id><journal-title-group><journal-title>The Journal of Clinical Hypertension</journal-title></journal-title-group><issn pub-type="ppub">1524-6175</issn><issn pub-type="epub">1751-7176</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9994166</article-id><article-id pub-id-type="pmcid-ver">PMC9994166.1</article-id><article-id pub-id-type="pmcaid">9994166</article-id><article-id pub-id-type="pmcaiid">9994166</article-id><article-id pub-id-type="pmid">36756690</article-id><article-id pub-id-type="doi">10.1111/jch.14616</article-id><article-id pub-id-type="publisher-id">JCH14616</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Meta‐analysis</subject></subj-group><subj-group subj-group-type="heading"><subject>Review and Meta‐analysis</subject></subj-group></article-categories><title-group><article-title>Blood pressure lowering effects of β‐blockers as add‐on or combination therapy: A meta‐analysis of randomized controlled trials</article-title><alt-title alt-title-type="left-running-head">GUO et al.</alt-title></title-group><contrib-group><contrib id="jch14616-cr-0001" contrib-type="author"><name name-style="western"><surname>Guo</surname><given-names initials="QH">Qian‐Hui</given-names></name><degrees>MD</degrees><xref rid="jch14616-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jch14616-cr-0002" contrib-type="author"><name name-style="western"><surname>Zhu</surname><given-names initials="ZM">Zhi‐Ming</given-names></name><degrees>MD, PhD</degrees><xref rid="jch14616-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jch14616-cr-0003" contrib-type="author"><name name-style="western"><surname>Feng</surname><given-names initials="YQ">Ying‐Qing</given-names></name><degrees>MD, PhD</degrees><xref rid="jch14616-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jch14616-cr-0004" contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="JX">Jin‐Xiu</given-names></name><degrees>MD, PhD</degrees><xref rid="jch14616-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jch14616-cr-0005" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wang</surname><given-names initials="JG">Ji‐Guang</given-names></name><degrees>MD, PhD</degrees><xref rid="jch14616-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>jiguangwang@rjh.com.cn</email></address></contrib></contrib-group><aff id="jch14616-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiovascular Medicine</named-content>
+<named-content content-type="organisation-division">State Key Laboratory of Medical Geonomics</named-content>
+<named-content content-type="organisation-division">Shanghai Key Laboratory of Hypertension</named-content>
+<named-content content-type="organisation-division">Center for Epidemiological Studies and Clinical Trials</named-content>
+<named-content content-type="organisation-division">The Shanghai Institute of Hypertension</named-content>
+<named-content content-type="organisation-division">National Research Center for Translational Medicine at Shanghai</named-content>
+<institution>Ruijin Hospital</institution>
+<institution>Shanghai Jiaotong University School of Medicine</institution>
+<named-content content-type="country-part">Shanghai</named-content>
+<country country="CN">China</country>
+</aff><aff id="jch14616-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Chongqing Institute of Hypertension</named-content>
+<named-content content-type="organisation-division">Department of Hypertension and Endocrinology</named-content>
+<institution>Daping Hospital</institution>
+<institution>Army Medical University</institution>
+<named-content content-type="country-part">Chongqing</named-content>
+<country country="CN">China</country>
+</aff><aff id="jch14616-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<named-content content-type="organisation-division">Guangdong Cardiovascular Institute</named-content>
+<institution>Guangdong Provincial People's Hospital</institution>
+<institution>Guangdong Academy of Medical Sciences</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="jch14616-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Cardiovascular Department</named-content>
+<institution>The First Affiliated Hospital</institution>
+<institution>Fujian Medical University</institution>
+<institution>Fujian Institute of Hypertension</institution>
+<city>Fuzhou</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break />Ji‐Guang Wang MD, PhD, The Shanghai Institute of Hypertension, Ruijin 2nd Road 197, Shanghai 200025, China.<break />Email: <email>jiguangwang@rjh.com.cn</email>
+<break />
+</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>2</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2023</year></pub-date><volume>25</volume><issue seq="20">3</issue><issue-id pub-id-type="pmc-issue-id">430760</issue-id><issue-id pub-id-type="doi">10.1111/jch.v25.3</issue-id><fpage>227</fpage><lpage>237</lpage><history><date date-type="rev-recd"><day>30</day><month>11</month><year>2022</year></date><date date-type="received"><day>09</day><month>9</month><year>2022</year></date><date date-type="accepted"><day>06</day><month>12</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>08</day><month>02</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>09</day><month>03</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-04-30 17:25:13.233"><day>30</day><month>04</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2023 The Authors. <italic toggle="yes">The Journal of Clinical Hypertension</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="JCH-25-227.pdf" /><self-uri content-type="pdf" ns1:href="file:JCH-25-227.pdf" /><abstract><title>Abstract</title><p>The authors performed a meta‐analysis to assess the efficacy of non‐atenolol β‐blockers as add‐on to monotherapy or as a component of combination antihypertensive therapy in patients with hypertension. The authors searched and identified relevant randomized controlled trials from PubMed until November 2021. Studies comparing blood pressure lowering effects of β‐blockers with diuretics, calcium channel blockers (CCBs), angiotensin‐converting enzyme inhibitors (ACEIs), or angiotensin receptor blockers (ARBs) were included. The analysis included 20 studies with 5544 participants. β‐blockers add‐on to monotherapy significantly reduced systolic and diastolic blood pressure as compared with non‐β‐blocker monotherapy (weighted mean difference in mm Hg [95% confidence interval]: −4.1 [−6.0, −2.2] and −3.7 [−4.6, −2.8], respectively). These results were consistent across the comparisons with diuretics (systolic pressure, −10.2 [−14.2, −6.2]; diastolic pressure, −5.4 [−8.2, −2.6]), CCBs (systolic pressure, −4.1 [−7.1, −1.0]; diastolic pressure, −2.8 [−4.1, −1.5]), and ACEIs/ARBs (systolic pressure, −2.9 [−4.3, −1.5]; diastolic pressure, −4.2 [−5.0, −3.4]). There was no significant difference in blood pressure lowering effects between combinations with and without a β‐blocker (systolic pressure, −1.3 mm Hg [−5.8, 3.2]; diastolic pressure, −.3 mm Hg [−2.7, 2.1]). Metoprolol add‐on or combination therapy had a significantly greater blood pressure reduction than non‐β‐blocker therapy (systolic pressure, −3.6 mm Hg [−5.9, −1.3]; diastolic pressure, −2.1 mm Hg [−3.5, −.7]). In conclusion, non‐atenolol β‐blockers are effective in lowering blood pressure as add‐on to monotherapy or as a component of combination antihypertensive therapy. In line with the current hypertension guideline recommendations, β‐blockers can and should be used in combination with other antihypertensive drugs.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jch14616-kwd-0001">beta‐blocker</kwd><kwd id="jch14616-kwd-0002">combination therapy</kwd><kwd id="jch14616-kwd-0003">efficacy</kwd><kwd id="jch14616-kwd-0004">hypertension</kwd><kwd id="jch14616-kwd-0005">non‐atenolol</kwd></kwd-group><counts><fig-count count="4" /><table-count count="1" /><page-count count="11" /><word-count count="5438" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.6 mode:remove_FC converted:08.03.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jch14616-cit-0050">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Q‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>Z‐M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>
+<given-names>Y‐Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>J‐X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J‐G</given-names>
+</string-name>. <article-title>Blood pressure lowering effects of β‐blockers as add‐on or combination therapy: A meta‐analysis of randomized controlled trials</article-title>. <source>J Clin Hypertens</source>. <year>2023</year>;<volume>25</volume>:<fpage>227</fpage>–<lpage>237</lpage>. <pub-id pub-id-type="doi">10.1111/jch.14616</pub-id>
+<pub-id pub-id-type="pmcid">PMC9994166</pub-id><pub-id pub-id-type="pmid">36756690</pub-id></mixed-citation>
+</p></notes></front><body><sec id="jch14616-sec-0010"><label>1</label><title>INTRODUCTION</title><p>Current guidelines for the management of hypertension differ for the use of β‐blockers, despite the same clinical evidence. The Chinese Hypertension League (CHL) guidelines recommend β‐blockers as one of the first‐line antihypertensive drugs,<xref rid="jch14616-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> whereas the European Society of Cardiology (ESC)/European Society of Hypertension (ESH),<xref rid="jch14616-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> and the International Society of Hypertension (ISH)<xref rid="jch14616-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> guidelines recommend the use of β‐blockers at any treatment step for patients with cardiovascular diseases such as myocardial infarction, heart failure, angina, or atrial fibrillation. The American Heart Association (AHA)/American College of Cardiology (ACC)<xref rid="jch14616-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> and the Japanese Society of Hypertension (JSH)<xref rid="jch14616-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> guidelines recommend β‐blockers for resistant hypertension and for patients with cardiovascular diseases. In consideration of the high prevalence of resistant hypertension and cardiovascular diseases, β‐blockers are often indispensable as a component of combination therapy for blood pressure control and for cardiovascular prevention and protection. However, the reluctance to use β‐blockers as part of the first‐line therapy for uncomplicated hypertension is influenced by studies with atenolol, which showed inferior effects in comparison with other classes of antihypertensive drugs.<xref rid="jch14616-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="jch14616-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="jch14616-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Indeed, in the LIFE (Losartan Intervention For Endpoint Reduction in Hypertension)<xref rid="jch14616-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> and ASCOT‐BPLA (the blood pressure‐lowering arm of the Anglo‐Scandinavian Cardiac Outcomes Trial)<xref rid="jch14616-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> trials with an antihypertensive regimen based on an angiotensin‐receptor blocker (ARB) and calcium‐channel blocker (CCB) as the comparator, respectively, atenolol‐based antihypertensive regimen was less efficacious in reducing blood pressure as well as the risk of cardiovascular events.</p><p>There is emerging clinical trial evidence that antihypertensive therapy with a β‐blocker other than atenolol may be particularly efficacious in blood pressure control.<xref rid="jch14616-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jch14616-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="jch14616-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Therefore, we performed a systematic review and meta‐analysis of randomized controlled trials to assess the effects of β‐blockers, other than atenolol, as a component of antihypertensive therapy on systolic and diastolic blood pressure in patients with hypertension.</p></sec><sec id="jch14616-sec-0020"><label>2</label><title>METHODS</title><sec id="jch14616-sec-0030"><label>2.1</label><title>Search strategy and selection criteria</title><p>We performed systematic review of randomized controlled trials with a parallel‐group design that compared blood pressure lowering effects of non‐atenolol β‐blockers as add‐on to monotherapy or as a component of combination antihypertensive therapy in patients with hypertension. We searched MEDLINE (PubMed) databases from inception to 28 November 2021. The complete search strategy is provided in <xref rid="jch14616-supitem-0001" ref-type="supplementary-material">Supplementary Appendix A</xref>.</p><p>Other components of combination therapy included diuretics, CCBs, angiotensin‐converting enzyme inhibitors (ACEIs), and ARBs. Among β‐blockers, atenolol was excluded, and metoprolol, bisoprolol, acebutolol, esmolol, carvedilol, labetalol, arotinolol, bevantolol, celiprolol, nebivolol, and bucindolol were included in the search. There was no restriction in terms of study duration or type of blood pressure measurement device; however, studies with a sample size smaller than 50 participants were excluded.</p></sec><sec id="jch14616-sec-0040"><label>2.2</label><title>Data extraction and synthesis</title><p>Studies retrieved from the MEDLINE database search were first assessed for relevance through screening of titles and abstracts. The full texts of relevant studies were then assessed for eligibility according to the inclusion and exclusion criteria set for this meta‐analysis. Prespecified data were extracted from each of the included studies by one researcher using a standardized Excel data extraction sheet, and independently reviewed by two researchers. The prespecified data extracted for each eligible study included study design, intervention characteristics, baseline characteristics of interest, and study outcomes. Any disagreements during data extraction were resolved by consensus (Figure <xref rid="jch14616-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="FIGURE" id="jch14616-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Flow diagram of selection procedure for included studies.</p></caption><graphic position="anchor" id="jats-graphic-1" orientation="portrait" ns1:href="JCH-25-227-g001.jpg" /></fig></sec><sec id="jch14616-sec-0050"><label>2.3</label><title>Outcome measures</title><p>The outcomes of interest for the present meta‐analysis included change from baseline in clinic systolic and diastolic blood pressure and heart rate and the proportion of patients with blood pressure response.</p></sec><sec id="jch14616-sec-0060"><label>2.4</label><title>Assessment of selection bias</title><p>Selection bias in eligible trials was assessed by the Cochrane collaboration's tool (version 2.0); further details are provided in Supplementary <xref rid="jch14616-supitem-0001" ref-type="supplementary-material">Appendices B and C</xref>. Selection bias was concurrently examined by the two data reviewers for the randomization process, deviation from intended intervention, missing outcome data, measurement of the outcome, and selection of the reported results. The overall bias for each trial was categorized as “low risk”, “some concerns”, and “high risk”.</p></sec><sec id="jch14616-sec-0070"><label>2.5</label><title>Statistical analyses</title><p>All statistical analyses (pooled analyses, funnel plot, sensitivity analysis, and Harbord/Egger's test) were performed using the Stata software (version 15.0). Data were extracted using a standardized data form. The relative risks or weighted mean difference (WMD) and 95% confidence intervals (95% CIs) were calculated for each outcome using a fixed‐effects (Mantel–Haenszel method, inverse variance method) and random‐effects model, respectively, in the absence and presence of heterogeneity. All tests were two‐sided and <italic toggle="yes">P</italic> ≤ .05 was considered statistically significant. For all the outcomes of interest, subgroup analyses were performed according to therapeutic regimen.</p><p>Statistical heterogeneity was assessed using the I<sup>2</sup> statistic and chi‐squared test. I<sup>2</sup> statistic with values &lt; 25, 25–50, and &gt; 50% indicated low, moderate, and high heterogeneity, respectively. The chi‐squared test was used as inferential statistics of heterogeneity with a significance level at <italic toggle="yes">P</italic> &lt; .1. Potential publication bias was evaluated using the funnel plot and the Harbord or Egger's test. To evaluate the influence of each study on the overall estimate, sensitivity analysis was performed in which the meta‐analysis was re‐estimated by omitting each study in turn. An individual study was suspected of excessive influence if the point estimate of its omitted analysis laid outside the CI of the combined analysis, or its omitted analysis estimate differed in significance relative to the combined analysis.</p></sec></sec><sec id="jch14616-sec-0080"><label>3</label><title>RESULTS</title><sec id="jch14616-sec-0090"><label>3.1</label><title>Characteristics of the included studies</title><p>Of the 1117 titles and abstracts identified in the initial search of the database, a total of 66 studies were shortlisted for full‐text review; of these, 26 papers met the inclusion criteria and reported at least one outcome of interest.<xref rid="jch14616-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="jch14616-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="jch14616-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="jch14616-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="jch14616-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="jch14616-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="jch14616-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="jch14616-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="jch14616-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="jch14616-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="jch14616-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="jch14616-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="jch14616-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="jch14616-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="jch14616-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="jch14616-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="jch14616-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="jch14616-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="jch14616-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="jch14616-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="jch14616-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="jch14616-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="jch14616-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="jch14616-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="jch14616-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="jch14616-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> Six papers were excluded because of insufficient data<xref rid="jch14616-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="jch14616-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="jch14616-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="jch14616-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="jch14616-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="jch14616-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>; hence, 20 papers (reporting 21 treatment comparisons) comprising 5544 patients were included in the final analysis.<xref rid="jch14616-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="jch14616-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="jch14616-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="jch14616-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="jch14616-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="jch14616-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="jch14616-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="jch14616-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="jch14616-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="jch14616-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="jch14616-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="jch14616-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="jch14616-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="jch14616-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="jch14616-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="jch14616-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="jch14616-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="jch14616-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="jch14616-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="jch14616-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> The trials were segregated and analyzed separately based on the β‐blocker interventions as add‐on to monotherapy or as a component of combination therapy. A total of 15 papers reported effects of β‐blockers as an add‐on to monotherapy compared with a non‐β‐blocker monotherapy,<xref rid="jch14616-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="jch14616-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="jch14616-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="jch14616-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="jch14616-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="jch14616-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="jch14616-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="jch14616-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="jch14616-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="jch14616-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="jch14616-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="jch14616-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="jch14616-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="jch14616-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="jch14616-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> while five papers compared blood pressure lowering effects of combination therapy with and without β‐blockers.<xref rid="jch14616-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="jch14616-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="jch14616-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="jch14616-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="jch14616-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+</p><p>The study selection process is described in Figure <xref rid="jch14616-fig-0001" ref-type="fig">1</xref> and details of the included studies are summarized in Table <xref rid="jch14616-tbl-0001" ref-type="table">1</xref>. Study duration ranged from 4 to 36 weeks. Of the 20 trials included in the analysis, 15 showed low risk of selection bias for the six domains of the Cochrane Risk of Bias instrument, and five trials showed some concerns of selection bias (Supplementary <xref rid="jch14616-supitem-0001" ref-type="supplementary-material">Appendices B and C</xref>).</p><table-wrap position="float" id="jch14616-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Characteristics of the included studies</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="center" span="1" /><col align="left" span="1" /><col align="center" span="1" /><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Study (first author, year)</th><th align="left" rowspan="1" colspan="1">
+<bold>Intervention</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Number of patients</bold>
+</th><th align="left" rowspan="1" colspan="1">Patients (inclusion criteria)</th><th align="center" rowspan="1" colspan="1">Follow‐up (weeks)</th></tr></thead><tbody><tr><td colspan="5" style="background-color:#808080" align="left" rowspan="1">
+<bold>
+<italic toggle="yes">β‐blocker add‐on therapy versus non‐β‐blocker monotherapy</italic>
+</bold>
+</td></tr><tr><td style="background-color:#BDD6EE" align="left" rowspan="1" colspan="1">
+<bold>β‐blocker + diuretic</bold>
+</td><td style="background-color:#BDD6EE" align="left" rowspan="1" colspan="1" /><td style="background-color:#BDD6EE" align="center" rowspan="1" colspan="1" /><td style="background-color:#BDD6EE" align="left" rowspan="1" colspan="1" /><td style="background-color:#BDD6EE" align="center" rowspan="1" colspan="1" /></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Bichisao and coworkers, 1989<xref rid="jch14616-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Metoprolol/chlorthalidone SR (200/25 mg/day) versus chlorthalidone (25 mg/day)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">545</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Hypertensive outpatients, at stage I or II, with supine DBP &gt; 95 mm Hg and &lt; 115 mm Hg</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">8 weeks</td></tr><tr><td align="left" rowspan="1" colspan="1">Labetalol/HCTZ Multicenter Study Group, 1985<xref rid="jch14616-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Labetalol (200–800 mg/day) + HCTZ (50 mg/day) versus HCTZ (50 mg/day)</td><td align="center" rowspan="1" colspan="1">174</td><td align="left" rowspan="1" colspan="1">Adults aged 19—70 years with essential hypertension (standing DBP &gt; 95 mm Hg)</td><td align="center" rowspan="1" colspan="1">10 weeks</td></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Frishman and coworkers, 1994<xref rid="jch14616-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Bisoprolol (10 mg/day) + HCTZ (25 mg/day) versus HCTZ (25 mg/day)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">63</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Adults aged ≥21 years with stage I and stage II hypertension (DBP 95–115 mm Hg)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">4 weeks</td></tr><tr><td align="left" rowspan="1" colspan="1">Frishman and coworkers, 1995<xref rid="jch14616-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Bisoprolol (5 mg/day) + HCTZ (6.25 mg/day) versus HCTZ (25 mg/day)</td><td align="center" rowspan="1" colspan="1">283</td><td align="left" rowspan="1" colspan="1">Adults aged ≥21 years with stage I and stage II hypertension (DBP 95–115 mm Hg)</td><td align="center" rowspan="1" colspan="1">4 weeks</td></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Prisant and coworkers, 1998<xref rid="jch14616-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">
+<p>Bisoprolol/HCTZ (up to 10/6.25 mg OD) versus enalapril (up to 40 mg OD)</p>
+<p>Bisoprolol/HCTZ (up to 10/6.25 mg OD) versus amlodipine (up to 10 mg OD)</p>
+</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">462</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Adults with stage I and II hypertension (DBP 95–114 mm Hg)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">12 weeks</td></tr><tr><td style="background-color:#BDD6EE" align="left" rowspan="1" colspan="1">
+<bold>β‐blocker + CCB</bold>
+</td><td style="background-color:#BDD6EE" align="left" rowspan="1" colspan="1" /><td style="background-color:#BDD6EE" align="center" rowspan="1" colspan="1" /><td style="background-color:#BDD6EE" align="left" rowspan="1" colspan="1" /><td style="background-color:#BDD6EE" align="center" rowspan="1" colspan="1" /></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Dahlöf and coworkers, 1990<xref rid="jch14616-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Metoprolol/felodipine ER (100/10 mg/day) + versus felodipine ER (10 mg/day)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">107</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Adults aged 20–70 years with newly diagnosed or previously treated hypertension (DBP &gt; 95 mm Hg)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">12 weeks</td></tr><tr><td align="left" rowspan="1" colspan="1">Wetzchewald and coworkers, 1992<xref rid="jch14616-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Metoprolol (100–200 mg OD) + felodipine (10–20 mg OD) versus felodipine (10–40 mg OD)</td><td align="center" rowspan="1" colspan="1">76</td><td align="left" rowspan="1" colspan="1">Adults with DBP ≥95 mm Hg</td><td align="center" rowspan="1" colspan="1">36 weeks</td></tr><tr><td align="left" rowspan="1" colspan="1">Andersson and coworkers, 1999<xref rid="jch14616-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Metoprolol/felodipine (50/5 or 100/10 mg OD) versus enalapril (10–20 mg OD)</td><td align="center" rowspan="1" colspan="1">120</td><td align="left" rowspan="1" colspan="1">Adults aged 20–70 years, with supine DBP 95–115 mm Hg</td><td align="center" rowspan="1" colspan="1">8 weeks</td></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Waeber and coworkers, 1999<xref rid="jch14616-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Metoprolol/felodipine (50/5 to 100/10 mg/day) versus enalapril (10–20 mg/day)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">642</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Adults with uncomplicated essential hypertension (seated DBP 95–110 mm Hg)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">12 weeks</td></tr><tr><td align="left" rowspan="1" colspan="1">Zannad and coworkers, 1999<xref rid="jch14616-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Metoprolol/felodipine (50/5 mg OD) versus amlodipine (5 mg OD)</td><td align="center" rowspan="1" colspan="1">245</td><td align="left" rowspan="1" colspan="1">Patients aged 30–75 years with mild‐to‐moderate uncomplicated primary hypertension and DBP of 95–115 mm Hg</td><td align="center" rowspan="1" colspan="1">6 weeks</td></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Frishman and coworkers, 2006<xref rid="jch14616-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Metoprolol/felodipine ER (400/20 mg OD) versus felodipine ER (20 mg OD)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">173</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Adults aged 18–80 years with uncomplicated essential hypertension (seated DBP 95–114 mm Hg)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">9 weeks</td></tr><tr><td align="left" rowspan="1" colspan="1">Devi and coworkers, 2011<xref rid="jch14616-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Metoprolol ER/amlodipine (50/5 mg OD) versus amlodipine (5 mg OD)</td><td align="center" rowspan="1" colspan="1">163</td><td align="left" rowspan="1" colspan="1">Adults aged 18–80 years with a SBP of 140–179 mm Hg and DBP of 90–114 mm Hg</td><td align="center" rowspan="1" colspan="1">8 weeks</td></tr><tr><td style="background-color:#BDD6EE" align="left" rowspan="1" colspan="1">
+<bold>β‐blocker + ACEI/ARB</bold>
+</td><td style="background-color:#BDD6EE" align="left" rowspan="1" colspan="1" /><td style="background-color:#BDD6EE" align="center" rowspan="1" colspan="1" /><td style="background-color:#BDD6EE" align="left" rowspan="1" colspan="1" /><td style="background-color:#BDD6EE" align="center" rowspan="1" colspan="1" /></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Deedwania and coworkers, 2013<xref rid="jch14616-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Nebivolol (5–40 mg/day) + lisinopril (10 mg/day) or losartan (50 mg/day) versus lisinopril (10 mg/day) or losartan (50 mg/day)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">325</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Adults aged 18–80 years with a diagnosis of primary hypertension; DBP 90–110 mm Hg if untreated, 85–105 mm Hg if taking one antihypertensive medication, or 80–95 mm Hg if taking two antihypertensive medications</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">12 weeks</td></tr><tr><td align="left" rowspan="1" colspan="1">Weiss and coworkers, 2013<xref rid="jch14616-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Nebivolol (5–40 mg/day) + lisinopril (10–20 mg/day) or losartan (100–200 mg/day) versus lisinopril (10–20 mg/day) or losartan (100–200 mg/day)</td><td align="center" rowspan="1" colspan="1">491</td><td align="left" rowspan="1" colspan="1">Adults aged 18–85 years with a diagnosis of primary hypertension; SBP 170–200 mm Hg if untreated, 155–180 mm Hg if taking one antihypertensive medication, or 140–170 mm Hg if taking two antihypertensive medications</td><td align="center" rowspan="1" colspan="1">12 weeks</td></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Giles and coworkers, 2014<xref rid="jch14616-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Nebivolol/valsartan (10/160 mg/day for Weeks 1–4 and 20/320 mg/day for Weeks 5–8) versus valsartan (160 mg/day for Weeks 1–4 and 320 mg/day for Weeks 5–8)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">1108</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Men and women aged ≥18 years with stage I or II hypertension (JNC7 criteria) with a recent DBP of ≥90 mm Hg and &lt; 110 mm Hg if receiving hypertensive treatment, or ≥95 mm Hg and &lt; 110 mm Hg at screening if untreated</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">8 weeks</td></tr><tr><td colspan="5" style="background-color:#808080" align="left" rowspan="1">
+<bold>β‐blocker combination therapy</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Breithaupt‐Grögler K and coworkers, 1998<xref rid="jch14616-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Metoprolol/HCTZ (100/12.5 mg) versus verapamil SR/trandolapril (180/1 mg)</td><td align="center" rowspan="1" colspan="1">51</td><td align="left" rowspan="1" colspan="1">Adults with hypertension (DBP ≥90 and  &lt; 115 mm Hg)</td><td align="center" rowspan="1" colspan="1">24 weeks</td></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Klein and coworkers, 1998<xref rid="jch14616-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Metoprolol/felodipine (50/5 mg OD for Weeks 1–4 and 100/10 mg OD for Weeks 5–8) versus captopril/HCTZ (25/25 mg OD for Weeks 1–4 and 50/25 mg OD for Weeks 5–8)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">109</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Adults aged 20—70 years with mild‐to‐moderate primary hypertension (DBP 95–115 mm Hg)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">8 weeks</td></tr><tr><td align="left" rowspan="1" colspan="1">Pareek and coworkers, 2010<xref rid="jch14616-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Metoprolol ER/amlodipine (25/2.5 mg – 50/5 mg OD) versus losartan (25–50 mg OD) + amlodipine (2.5–5 mg OD)</td><td align="center" rowspan="1" colspan="1">148</td><td align="left" rowspan="1" colspan="1">Patients aged 18—75 years with mild‐to‐moderate hypertension (DBP 90–109 mm Hg)</td><td align="center" rowspan="1" colspan="1">12 weeks</td></tr><tr><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Grassi and coworkers, 2017<xref rid="jch14616-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Nebivolol/HCTZ (5/12.5 mg OD) versus irbesartan/HCTZ (150/12.5 mg OD)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">122</td><td style="background-color:#E7E6E6" align="left" rowspan="1" colspan="1">Elderly aged &gt; 60 years with isolated systolic hypertension (SBP ≥140 mm Hg and DBP &lt; 90 mm Hg)</td><td style="background-color:#E7E6E6" align="center" rowspan="1" colspan="1">12 weeks</td></tr><tr><td align="left" rowspan="1" colspan="1">Farag and coworkers, 2018<xref rid="jch14616-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Nebivolol (5 mg OD) + valsartan (160 mg OD) versus amlodipine/valsartan (10/160 mg OD)</td><td align="center" rowspan="1" colspan="1">137</td><td align="left" rowspan="1" colspan="1">Patients with essential hypertension of stage II or more severe (defined as either SBP ≥160 mm Hg or DBP ≥100 mm Hg)</td><td align="center" rowspan="1" colspan="1">12 weeks</td></tr></tbody></table><table-wrap-foot><fn id="jch14616-tbl1-note-0001"><p>Abbreviations: ACEI, angiotensin‐converting enzyme inhibitor; ARB, angiotensin receptor blocker; CCB, calcium channel blocker; DBP, diastolic blood pressure; ER, extended‐release; HCTZ, hydrochlorothiazide; JNC7, Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure; OD, once daily; SBP, systolic blood pressure, SR, slow‐release.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="jch14616-sec-0100"><label>3.2</label><title>Efficacy of β‐blockers as an add‐on to antihypertensive therapy</title><p>Of the 15 add‐on therapy trials, nine and 11 reported changes in sitting/supine systolic and diastolic blood pressure, respectively. Overall, the β‐blocker add‐on therapy significantly reduced systolic and diastolic blood pressure more than the non‐β‐blocker monotherapy (WMD [95% CI]: −4.1 mm Hg [−6.0, −2.2] and −3.7 mm Hg [−4.6, −2.8], respectively). In the analysis according to the antihypertensive medication, systolic blood pressure reduction was significantly and consistently greater for the β‐blocker add‐on to a diuretic (WMD: −10.2 mm Hg, 95% CI: −14.2, −6.2), a CCB (WMD: −4.1 mm Hg, 95% CI: −7.1, −1.0), or an ACEI/ARB (WMD: −2.9 mm Hg, 95% CI: −4.3, −1.5; Figure <xref rid="jch14616-fig-0002" ref-type="fig">2A</xref>), compared to the respective monotherapies. Similar results were observed for diastolic blood pressure, with the corresponding WMD of −5.4 mm Hg (95% CI: −8.2, −2.6), −2.8 mm Hg (95% CI: −4.1, −1.5), and −4.2 mm Hg (95% CI: −5.0, −3.4), respectively (Figure <xref rid="jch14616-fig-0002" ref-type="fig">2B</xref>).</p><fig position="float" fig-type="FIGURE" id="jch14616-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Treatment effects of β‐blocker add‐on therapy on (A) systolic and (B) diastolic blood pressure in the sitting or supine position, and (C) diastolic blood pressure response. Black symbols represent point estimate of each individual trial. Horizontal lines denote 95% CIs of each individual trial. Diamonds represent overall or subtotal pooled estimate and 95% CI of trials. ACEI, angiotensin‐converting enzyme inhibitor; ARB, angiotensin receptor blocker; BB, β‐blocker; CCB, calcium channel blocker; CI, confidence interval; WMD, weighted mean difference</p></caption><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="JCH-25-227-g002.jpg" /></fig><p>Ten studies reported effects on the proportion of patients who achieved a diastolic blood pressure control (&lt; 90 mm Hg or &lt; 95 mm Hg, or a ≥10 mm Hg reduction from baseline). Overall, the probability of patients achieving a diastolic blood pressure response was 34% higher with the β‐blocker add‐on therapy than non‐β‐blocker monotherapy (odds ratio [OR]: 1.34, 95% CI: 1.12, 1.61). In the analysis according to antihypertensive medication, the likelihood of achieving a diastolic blood pressure response was higher for the β‐blocker add‐on to a diuretic (OR: 1.50, 95% CI: 1.20, 1.88) and to an ACEI/ARB (OR: 1.25, 95% CI: 1.01, 1.55), but not to a CCB (OR: 1.13; 95% CI: .82, 1.55), compared to the respective non‐β‐blocker monotherapies (Figure <xref rid="jch14616-fig-0002" ref-type="fig">2A</xref>).</p><p>Three trials (all with metoprolol) reported treatment effects on heart rate. β‐blocker add‐on led to a greater reduction in heart rate by 6.9 bpm (95% CI: −8.6, −5.2) than non‐β‐blocker monotherapy in a fixed‐effect model (Supplementary Appendix <xref rid="jch14616-supitem-0001" ref-type="supplementary-material">D</xref>).</p><p>None of the included studies had excessive influence on the overall results of the meta‐analysis (Supplementary Appendix <xref rid="jch14616-supitem-0001" ref-type="supplementary-material">E</xref>). Funnel plots did not show any evidence of publication bias (Supplementary Appendix <xref rid="jch14616-supitem-0001" ref-type="supplementary-material">F</xref>).</p></sec><sec id="jch14616-sec-0110"><label>3.3</label><title>Efficacy of β‐blockers as a component of combination antihypertensive therapy</title><p>Five trials reported changes in sitting/supine systolic and diastolic blood pressure between combination antihypertensive therapy with and without β‐blocker as a component. There was no significant difference between β‐blocker combination and non‐β‐blocker combination therapies for the reduction in systolic and diastolic blood pressure (WMD [95% CI]: −1.3 mm Hg [−5.8, 3.2] and −.3 mm Hg [−2.7, 2.1], respectively; Figure <xref rid="jch14616-fig-0003" ref-type="fig">3A and B</xref>).</p><fig position="float" fig-type="FIGURE" id="jch14616-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Treatment effects of β‐blocker combination therapy on (A) systolic and (B) diastolic blood pressure in the sitting or supine position. Black symbols represent point estimate of each individual trial. Horizontal lines denote 95% CIs of each individual trial. Diamonds represent overall or subtotal pooled estimate and 95% CI of trials. BB, β‐blocker; CI, confidence interval; WMD, weighted mean difference.</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="JCH-25-227-g003.jpg" /></fig></sec><sec id="jch14616-sec-0120"><label>3.4</label><title>Subgroup analysis of metoprolol add‐on or combination antihypertensive therapy</title><p>Seven and nine trials reported changes in sitting/supine systolic and diastolic blood pressure with metoprolol add‐on and combination therapy, respectively. Overall, the metoprolol add‐on or combination therapy was associated with a significantly greater reduction in systolic and diastolic blood pressure than non‐β‐blocker therapy (WMD [95% CI]: −3.6 mm Hg [−5.9, −1.3] and −2.1 mm Hg [−3.5, −.7], respectively; Figure <xref rid="jch14616-fig-0004" ref-type="fig">4A and B</xref>).</p><fig position="float" fig-type="FIGURE" id="jch14616-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Treatment effects on (A) systolic and (B) diastolic blood pressure in the sitting or supine position in metoprolol trials. Black symbols represent point estimate of each individual trial. Horizontal lines denote 95% CIs of each individual trial. BB, β‐blocker; CI, confidence interval; WMD, weighted mean difference.</p></caption><graphic position="anchor" id="jats-graphic-7" orientation="portrait" ns1:href="JCH-25-227-g004.jpg" /></fig></sec></sec><sec id="jch14616-sec-0130"><label>4</label><title>DISCUSSION</title><p>In the present meta‐analysis, β‐blocker add‐on therapy was associated with a significantly greater reduction in systolic and diastolic blood pressure compared with non‐β‐blocker monotherapy. The between‐group WMD was −4.1 and −3.7 mm Hg, respectively, consistently in favor of the β‐blocker add‐on therapy compared to various antihypertensive therapies such as diuretics, CCBs and ACEIs/ARBs. Combination therapy containing a β‐blocker was as effective as non‐β‐blocker combination therapy for blood pressure lowering effects. Similar results were observed for the analysis restricted to metoprolol trials.</p><p>This meta‐analysis investigates the blood pressure lowering effect of β‐blockers as add‐on and a component of combination antihypertensive therapy. The results of the analysis support the position that beta‐blockers can be used in combination with the other classes of antihypertensive drugs at any stage of treatment for blood pressure control, including as a first‐choice therapy. The findings of the analysis are also in line with results of previous meta‐analyses of β‐blocker therapy for the management of hypertension and other cardiovascular diseases and with the view expressed by Mancia and coworkers<xref rid="jch14616-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> and Esler and coworkers<xref rid="jch14616-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> in their recent reviews. After thorough review of the evidence, these authors highlighted favorable effects of β‐blockers in about 50 different clinical conditions that may coexist with hypertension. The authors also argued that downgrading β‐blockers from first‐choice therapy to use on specific conditions alone may not be justified based on the evidence that β‐blockers are as effective as other antihypertensive drugs in lowering blood pressure.<xref rid="jch14616-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="jch14616-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="jch14616-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> However, it is noteworthy that β‐blockers are a heterogenous class of drugs with differences in physiochemical properties and receptor selectivity, leading to variable pharmacological effects and efficacy in patients with hypertension. Previous randomized controlled trials often used propranolol or atenolol in the evaluation of the efficacy of β‐blockers for the primary prevention of cardiovascular events. Propranolol is a non‐selective β‐blocker. Atenolol is a hydrophilic β1 selective agent with a relatively short half‐life. The once‐daily dosing of atenolol was probably sub‐optimal, as indicated by significantly lower blood pressure reduction in the atenolol group than in the comparator groups in the LIFE and ASCOT‐BPLM trials.<xref rid="jch14616-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="jch14616-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> The results of these atenolol trials probably do not apply to other β1 selective blockers such as metoprolol. Indeed, in the Metoprolol Atherosclerosis Prevention in Hypertensives (MAPHY) trial, metoprolol treatment led to a significant reduction in cardiovascular mortality and morbidity, including stroke, compared with diuretics.<xref rid="jch14616-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="jch14616-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Furthermore, a previous meta‐analysis has shown that β‐blockers are effective as other classes of antihypertensive drugs in preventing cardiovascular events, especially when trials with atenolol were excluded.<xref rid="jch14616-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> The findings of our current study further add to the evidence in supporting the efficacy of β‐blockers in hypertension.</p><p>If used properly, such as in combination with other classes of antihypertensive drugs, β‐blockers could be particularly effective in blood pressure lowering and in cardiovascular disease prevention. The observed 3–4 mm Hg superior blood pressure lowering effect may explain the results from several recent observational studies demonstrating outcome benefits of β‐blockers in cardiovascular disease prevention.<xref rid="jch14616-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="jch14616-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> In a real‐world evidence study of long‐term effectiveness of β‐blockers, using data from patients registered in the UK Clinical Practice Research Datalink between 2000 and 2014 (<italic toggle="yes">n</italic> = 100 066),<xref rid="jch14616-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> patients receiving β‐blocker therapy (<italic toggle="yes">N</italic> = 4240) had a lower risk of mortality than those receiving other antihypertensive therapy. The risk reduction in mortality was sustained for 15 years (hazard ratio, .52; 95% CI: .27, .10), with a 2–3 year delayed effect after the combination of β‐blocker therapy.<xref rid="jch14616-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> Similar findings were reported from the long‐term follow‐up (20 years) of the UKPDS study, where the risk of mortality was lower with a β‐blocker than with an ACEI in patients with diabetes mellitus and hypertension.<xref rid="jch14616-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+</p><p>The observed greater blood pressure lowering effect of β‐blockers add‐on to combination ACEIs/ARBs is noteworthy. Such a combination is not recommended by any current hypertension guidelines, because β‐blockers suppress renin secretion and reduce the plasma levels of angiotensin II and, therefore, perceived to be less additive in antihypertensive efficacy to ACEIs/ARBs.<xref rid="jch14616-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> The additive effect of β‐blockers add‐on to ACEIs/ARBs on blood pressure reduction was indeed less than the add on to diuretics or CCBs, but still appreciable in size, at 2–4 mm Hg greater than antihypertensive therapy with non‐β‐blockers. Of note, combination therapy with ACEIs/ARBs and a β‐blocker is recommended as first‐line therapy in patients with heart failure or myocardial infarction.<xref rid="jch14616-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="jch14616-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="jch14616-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>, <xref rid="jch14616-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> While the majority of these patients also have hypertension, the recommendations are not solely based on the blood pressure lowering effects of β‐blockers, but rather on their cardioprotective effects. The efficacy of β‐blockers with ACEI/ARBs combination therapy in hypertension remains unexplored and should be further investigated in randomized controlled trials.</p><p>The present meta‐analysis should be interpreted within the context of its limitations. First, the analysis was based on summary statistics instead of individual patient data, hence reaching less standardization. Second, the number of trials and study patients were relatively small for some of the subgroup analyses, for example, the combination of β‐blockers and ACEIs/ARBs and the metoprolol versus non‐metoprolol subgroup analyses. The pooled estimates on the subgroup analyses require confirmation in further randomized controlled trials. In addition, the dose of the study drugs varied across studies. However, sensitivity analyses did not show any excessive influence of any individual study on the pooled estimates. Finally, the duration of the included studies was relatively short (ranged from 4 to 36 weeks). The study results cannot be extrapolated to longer‐term duration. Nonetheless, metoprolol demonstrated sustained blood pressure lowering effects in the long‐term MAPHY trial with a median follow‐up of 4.2 years.<xref rid="jch14616-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="jch14616-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+</p><p>In conclusion, this meta‐analysis showed that β‐blockers (excluding atenolol) as add‐on to several other classes of antihypertensive drugs, such as diuretics, CCBs and even ACEIs/ARBs, were efficacious in further lowering blood pressure and that combination therapy with β‐blockers is as effective as non‐β‐blocker combination therapy. Thus, in line with the current guideline recommendations, β‐blockers can and should be used in combination with other classes of antihypertensive drugs at any stage of treatment.</p></sec><sec id="jch14616-sec-0140"><title>AUTHOR CONTRIBUTIONS</title><p>All authors contributed to the meta‐analysis design and data analysis, and to the drafting, review and final approval of the manuscript.</p></sec><sec sec-type="COI-statement" id="jch14616-sec-0160"><title>CONFLICT OF INTEREST</title><p>Qian‐Hui Guo and Ji‐Guang Wang were financially supported by grants from the National Natural Science Foundation of China (91639203, 82070435, and 82000394) and the Ministry of Science and Technology (2018YFC1704902), Beijing; the Shanghai Commissions of Science and Technology (19DZ2340200) and Health (“Three‐year Action Program of Shanghai Municipality for Strengthening the Construction of Public Health System”, GWV‐10.1‐XK05, and a special grant for “leading academics”); and the Clinical Research Program, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine (grant number: 2018CR010), Shanghai, China.</p></sec><sec id="jch14616-sec-0170"><p>Zhi‐Ming Zhu, Ying‐Qing Feng, Jin‐Xiu Lin declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jch14616-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media ns1:href="JCH-25-227-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jch14616-sec-0150"><title>ACKNOWLEDGMENTS</title><p>Editorial assistance was provided by Syed Abdul Haseeb (MS Pharm, CMPP; MediTech Media, Asia Pacific), and funded by AstraZeneca in accordance with Good Publication Practice (GPP3) guidelines.</p></ack><ref-list id="jch14616-bibl-0001"><title>REFERENCES</title><ref id="jch14616-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jch14616-cit-0001">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Highlights of the 2018 Chinese hypertension guidelines</article-title>. <source>Clin Hypertens</source>. <year>2020</year>;<volume>26</volume>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40885-020-00141-3</pub-id><pub-id pub-id-type="pmcid">PMC7193361</pub-id><pub-id pub-id-type="pmid">32377372</pub-id></mixed-citation></ref><ref id="jch14616-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jch14616-cit-0002">
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mancia</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spiering</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>ESC/ESH guidelines for the management of arterial hypertension</article-title>. <source>Eur Heart J</source>. <year>2018</year>;<volume>39</volume>:<fpage>3021</fpage>‐<lpage>3104</lpage>.<pub-id pub-id-type="pmid">30165516</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehy339</pub-id></mixed-citation></ref><ref id="jch14616-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jch14616-cit-0003">
+<string-name name-style="western">
+<surname>Unger</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borghi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charchar</surname>
+<given-names>F</given-names>
+</string-name>, <italic toggle="yes">et al.</italic>
+<article-title>2020 International Society of Hypertension global hypertension practice guidelines</article-title>. <source>Hypertension</source>. <year>2020</year>;<volume>75</volume>:<fpage>1334</fpage>‐<lpage>1357</lpage>.<pub-id pub-id-type="pmid">32370572</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/HYPERTENSIONAHA.120.15026</pub-id></mixed-citation></ref><ref id="jch14616-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jch14616-cit-0004">
+<string-name name-style="western">
+<surname>Whelton</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carey</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aronow</surname>
+<given-names>WS</given-names>
+</string-name>, et al. <article-title>Guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on clinical practice guidelines</article-title>. <source>Circulation</source>. <volume>138</volume>:<fpage>e484</fpage>‐<lpage>e594</lpage>.<pub-id pub-id-type="pmid">30354654</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIR.0000000000000596</pub-id></mixed-citation></ref><ref id="jch14616-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jch14616-cit-0005">
+<string-name name-style="western">
+<surname>Umemura</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arima</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arima</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The Japanese Society of Hypertension guidelines for the management of hypertension (JSH 2019)</article-title>. <source>Hypertens Res</source>. <volume>42</volume>:<fpage>1235</fpage>‐<lpage>1481</lpage>.<pub-id pub-id-type="pmid">31375757</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41440-019-0284-9</pub-id></mixed-citation></ref><ref id="jch14616-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jch14616-cit-0006">
+<string-name name-style="western">
+<surname>Dahlof</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devereux</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kjeldsen</surname>
+<given-names>SE</given-names>
+</string-name>, et al. <article-title>Cardiovascular morbidity and mortality in the Losartan Intervention For Endpoint reduction in hypertension study (LIFE): a randomised trial against atenolol</article-title>. <source>Lancet</source>. <year>2002</year>;<volume>359</volume>:<fpage>995</fpage>‐<lpage>1003</lpage>.<pub-id pub-id-type="pmid">11937178</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(02)08089-3</pub-id></mixed-citation></ref><ref id="jch14616-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jch14616-cit-0007">
+<string-name name-style="western">
+<surname>Dahlof</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sever</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poulter</surname>
+<given-names>NR</given-names>
+</string-name>, et al. <article-title>Prevention of cardiovascular events with an antihypertensive regimen of amlodipine adding perindopril as required versus atenolol adding bendroflumethiazide as required, in the Anglo‐Scandinavian Cardiac Outcomes Trial‐Blood Pressure Lowering Arm (ASCOT‐BPLA): a multicentre randomised controlled trial</article-title>. <source>Lancet</source>. <year>2005</year>;<volume>366</volume>:<fpage>895</fpage>‐<lpage>906</lpage>.<pub-id pub-id-type="pmid">16154016</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(05)67185-1</pub-id></mixed-citation></ref><ref id="jch14616-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jch14616-cit-0008">
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lacy</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thom</surname>
+<given-names>SM</given-names>
+</string-name>, et al. <article-title>Differential impact of blood pressure‐lowering drugs on central aortic pressure and clinical outcomes: principal results of the Conduit Artery Function Evaluation (CAFE) study</article-title>. <source>Circulation</source>. <year>2006</year>;<volume>113</volume>:<fpage>1213</fpage>‐<lpage>1225</lpage>.<pub-id pub-id-type="pmid">16476843</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.105.595496</pub-id></mixed-citation></ref><ref id="jch14616-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jch14616-cit-0009">
+<string-name name-style="western">
+<surname>Mahmud</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feely</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Beta‐blockers reduce aortic stiffness in hypertension but nebivolol, not atenolol, reduces wave reflection</article-title>. <source>Am J Hypertens</source>. <year>2008</year>;<volume>21</volume>:<fpage>663</fpage>‐<lpage>667</lpage>.<pub-id pub-id-type="pmid">18437130</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ajh.2008.156</pub-id></mixed-citation></ref><ref id="jch14616-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jch14616-cit-0010">
+<string-name name-style="western">
+<surname>Dhakam</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yasmin</surname>
+<given-names>McEnieryCM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burton</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brown</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilkinson</surname>
+<given-names>IB</given-names>
+</string-name>. <article-title>A comparison of atenolol and nebivolol in isolated systolic hypertension</article-title>. <source>J Hypertens</source>. <year>2008</year>;<volume>26</volume>:<fpage>351</fpage>‐<lpage>356</lpage>.<pub-id pub-id-type="pmid">18192850</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/HJH.0b013e3282f283c9</pub-id></mixed-citation></ref><ref id="jch14616-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jch14616-cit-0011">
+<string-name name-style="western">
+<surname>Bonet</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agusti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arnau</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>Beta‐adrenergic blocking agents in heart failure: benefits of vasodilating and non‐vasodilating agents according to patients' characteristics: a meta‐analysis of clinical trials</article-title>. <source>Arch Intern Med</source>. <year>2000</year>;<volume>160</volume>:<fpage>621</fpage>‐<lpage>627</lpage>.<pub-id pub-id-type="pmid">10724047</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archinte.160.5.621</pub-id></mixed-citation></ref><ref id="jch14616-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jch14616-cit-0012">
+<string-name name-style="western">
+<surname>Radchenko</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sirenko</surname>
+<given-names>YM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kushnir</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torbas</surname>
+<given-names>OO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dobrokhod</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Comparative effectiveness of a fixed‐dose combination of losartan + HCTZ versus bisoprolol + HCTZ in patients with moderate‐to‐severe hypertension: results of the 6‐month ELIZA trial</article-title>. <source>Vasc Health Risk Manage</source>. <year>2013</year>;<volume>9</volume>:<fpage>535</fpage>‐<lpage>549</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/VHRM.S44568</pub-id><pub-id pub-id-type="pmcid">PMC3792946</pub-id><pub-id pub-id-type="pmid">24109189</pub-id></mixed-citation></ref><ref id="jch14616-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jch14616-cit-0013">
+<string-name name-style="western">
+<surname>Vitale</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marazzi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iellamo</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Effects of nebivolol or irbesartan in combination with hydrochlorothiazide on vascular functions in newly‐diagnosed hypertensive patients: the NINFE (Nebivololo, Irbesartan Nella Funzione Endoteliale) study</article-title>. <source>Int J Cardiol</source>. <year>2012</year>;<volume>155</volume>:<fpage>279</fpage>‐<lpage>284</lpage>.<pub-id pub-id-type="pmid">22078979</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijcard.2011.10.099</pub-id></mixed-citation></ref><ref id="jch14616-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jch14616-cit-0014">
+<string-name name-style="western">
+<surname>Takase</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takeishi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hirai</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Comparative effects of amlodipine monotherapy and combination therapy with betaxolol on cardiac autonomic nervous activity and health‐related quality of life in patients with poorly controlled hypertension</article-title>. <source>Circ J</source>. <year>2008</year>;<volume>72</volume>:<fpage>764</fpage>‐<lpage>769</lpage>.<pub-id pub-id-type="pmid">18441457</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1253/circj.72.764</pub-id></mixed-citation></ref><ref id="jch14616-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jch14616-cit-0015">
+<string-name name-style="western">
+<surname>Lacourciere</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lefebvre</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poirier</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Archambault</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arnott</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Treatment of ambulatory hypertensives with nebivolol or hydrochlorothiazide alone and in combination. A randomized, double‐blind, placebo‐controlled, factorial‐design trial</article-title>. <source>Am J Hypertens</source>. <year>1994</year>;<volume>7</volume>:<fpage>137</fpage>‐<lpage>145</lpage>.<pub-id pub-id-type="pmid">8179848</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ajh/7.2.137</pub-id></mixed-citation></ref><ref id="jch14616-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jch14616-cit-0016">
+<string-name name-style="western">
+<surname>Lejeune</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gunselmann</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hennies</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Effects of BAY l 5240, a fixed combination of low dose nifedipine and acebutolol on hypertension: comparison with standard dose nifedipine</article-title>. <source>Eur J Clin Pharmacol</source>. <year>1985</year>;<volume>28</volume>:<fpage>17</fpage>‐<lpage>21</lpage>.<pub-id pub-id-type="pmid">3886399</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00635702</pub-id></mixed-citation></ref><ref id="jch14616-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jch14616-cit-0017">
+<string-name name-style="western">
+<surname>Stimpel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koch</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Antihypertensive treatment with moexipril plus HCTZ vs metoprolol plus HCTZ in patients with mild‐to‐moderate hypertension</article-title>. <source>J Hum Hypertens</source>. <year>1997</year>;<volume>11</volume>:<fpage>133</fpage>‐<lpage>137</lpage>.<pub-id pub-id-type="pmid">9140801</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.jhh.1000390</pub-id></mixed-citation></ref><ref id="jch14616-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jch14616-cit-0018">
+<string-name name-style="western">
+<surname>Giles</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weber</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basile</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of nebivolol and valsartan as fixed‐dose combination in hypertension: a randomised, multicentre study</article-title>. <source>Lancet</source>. <year>2014</year>;<volume>383</volume>:<fpage>1889</fpage>‐<lpage>1898</lpage>.<pub-id pub-id-type="pmid">24881993</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(14)60614-0</pub-id></mixed-citation></ref><ref id="jch14616-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jch14616-cit-0019">
+<string-name name-style="western">
+<surname>Deedwania</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shea</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brener</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Effects of add‐on nebivolol on blood pressure and glucose parameters in hypertensive patients with prediabetes</article-title>. <source>J Clin Hypertens (Greenwich)</source>. <year>2013</year>;<volume>15</volume>:<fpage>270</fpage>‐<lpage>278</lpage>.<pub-id pub-id-type="pmid">23551727</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jch.12071</pub-id><pub-id pub-id-type="pmcid">PMC8033886</pub-id></mixed-citation></ref><ref id="jch14616-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jch14616-cit-0020">
+<string-name name-style="western">
+<surname>Weiss</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stapff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Placebo effect and efficacy of nebivolol in patients with hypertension not controlled with lisinopril or losartan: a phase IV, randomized, placebo‐controlled trial</article-title>. <source>Am J Cardiovasc Drugs</source>. <year>2013</year>;<volume>13</volume>:<fpage>129</fpage>‐<lpage>140</lpage>.<pub-id pub-id-type="pmid">23519546</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40256-013-0010-y</pub-id></mixed-citation></ref><ref id="jch14616-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jch14616-cit-0021">
+<string-name name-style="western">
+<surname>Devi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xavier</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sigamani</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Effect of fixed dose combinations of metoprolol and amlodipine in essential hypertension: MARS–a randomized controlled trial</article-title>. <source>Blood Press Suppl</source>. <year>2011</year>;<volume>2</volume>:<fpage>5</fpage>‐<lpage>12</lpage>.<pub-id pub-id-type="pmid">22352120</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/08037051.2011.617040</pub-id></mixed-citation></ref><ref id="jch14616-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jch14616-cit-0022">
+<string-name name-style="western">
+<surname>Frishman</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hainer</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sugg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Group</surname>
+<given-names>M‐FACTStudy</given-names>
+</string-name>. <article-title>A factorial study of combination hypertension treatment with metoprolol succinate extended release and felodipine extended release results of the Metoprolol Succinate‐Felodipine Antihypertension Combination Trial (M‐FACT)</article-title>. <source>Am J Hypertens</source>. <year>2006</year>;<volume>19</volume>:<fpage>388</fpage>‐<lpage>395</lpage>.<pub-id pub-id-type="pmid">16580575</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amjhyper.2005.10.007</pub-id></mixed-citation></ref><ref id="jch14616-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jch14616-cit-0023">
+<string-name name-style="western">
+<surname>Waeber</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Detry</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahlof</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Felodipine‐metoprolol combination tablet: a valuable option to initiate antihypertensive therapy?</article-title>
+<source>Am J Hypertens</source>. <year>1999</year>;<volume>12</volume>:<fpage>915</fpage>‐<lpage>920</lpage>.<pub-id pub-id-type="pmid">10509550</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0895-7061(99)00067-9</pub-id></mixed-citation></ref><ref id="jch14616-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jch14616-cit-0024">
+<string-name name-style="western">
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boivin</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Ambulatory 24‐h blood pressure assessment of the felodipine‐metoprolol combination versus amlodipine in mild to moderate hypertension. Lorraine General Physician Investigators Group</article-title>. <source>J Hypertens</source>. <year>1999</year>;<volume>17</volume>:<fpage>1023</fpage>‐<lpage>1032</lpage>.<pub-id pub-id-type="pmid">10419077</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00004872-199917070-00020</pub-id></mixed-citation></ref><ref id="jch14616-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jch14616-cit-0025">
+<string-name name-style="western">
+<surname>Prisant</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neutel</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Papademetriou</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeQuattro</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hall</surname>
+<given-names>WD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weir</surname>
+<given-names>MR</given-names>
+</string-name>. <article-title>Low‐dose combination treatment for hypertension versus single‐drug treatment‐bisoprolol/hydrochlorothiazide versus amlodipine, enalapril, and placebo: combined analysis of comparative studies</article-title>. <source>Am J Ther</source>. <year>1998</year>;<volume>5</volume>:<fpage>313</fpage>‐<lpage>321</lpage>.<pub-id pub-id-type="pmid">10099075</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00045391-199809000-00007</pub-id></mixed-citation></ref><ref id="jch14616-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jch14616-cit-0026">
+<string-name name-style="western">
+<surname>Andersson</surname>
+<given-names>OK</given-names>
+</string-name>. <article-title>Improved efficacy with maintained tolerability in the treatment of primary hypertension. Comparison between the felodipine‐metoprolol combination tablet and monotherapy with enalapril. Swedish Multicentre Group</article-title>. <source>J Hum Hypertens</source>. <year>1999</year>;<volume>13</volume>:<fpage>55</fpage>‐<lpage>60</lpage>.<pub-id pub-id-type="pmid">9928753</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.jhh.1000724</pub-id></mixed-citation></ref><ref id="jch14616-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jch14616-cit-0027">
+<string-name name-style="western">
+<surname>Frishman</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burris</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mroczek</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>First‐line therapy option with low‐dose bisoprolol fumarate and low‐dose hydrochlorothiazide in patients with stage I and stage II systemic hypertension</article-title>. <source>J Clin Pharmacol</source>. <year>1995</year>;<volume>35</volume>:<fpage>182</fpage>‐<lpage>188</lpage>.<pub-id pub-id-type="pmid">7751430</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/j.1552-4604.1995.tb05009.x</pub-id></mixed-citation></ref><ref id="jch14616-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jch14616-cit-0028">
+<string-name name-style="western">
+<surname>Frishman</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bryzinski</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coulson</surname>
+<given-names>LR</given-names>
+</string-name>, et al. <article-title>A multifactorial trial design to assess combination therapy in hypertension. Treatment with bisoprolol and hydrochlorothiazide</article-title>. <source>Arch Intern Med</source>. <year>1994</year>;<volume>154</volume>:<fpage>1461</fpage>‐<lpage>1468</lpage>.<pub-id pub-id-type="pmid">8018001</pub-id></mixed-citation></ref><ref id="jch14616-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jch14616-cit-0029">
+<string-name name-style="western">
+<surname>Wetzchewald</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klaus</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garanin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lohr</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoffmann</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Regression of left ventricular hypertrophy during long‐term antihypertensive treatment–a comparison between felodipine and the combination of felodipine and metoprolol</article-title>. <source>J Intern Med</source>. <year>1992</year>;<volume>231</volume>:<fpage>303</fpage>‐<lpage>308</lpage>.<pub-id pub-id-type="pmid">1532616</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2796.1992.tb00539.x</pub-id></mixed-citation></ref><ref id="jch14616-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jch14616-cit-0030">
+<string-name name-style="western">
+<surname>Dahlof</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hosie</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Antihypertensive efficacy and tolerability of a fixed combination of metoprolol and felodipine in comparison with the individual substances in monotherapy. The Swedish/United Kingdom Study Group</article-title>. <source>J Cardiovasc Pharmacol</source>. <year>1990</year>;<volume>16</volume>:<fpage>910</fpage>‐<lpage>916</lpage>.<pub-id pub-id-type="pmid">1704983</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00005344-199012000-00008</pub-id></mixed-citation></ref><ref id="jch14616-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jch14616-cit-0031">
+<string-name name-style="western">
+<surname>Bichisao</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merlini</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gambini</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alberti</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pollavini</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Chlorthalidone alone or in fixed combination with slow‐release metoprolol in the management of arterial hypertension: a long‐term study of 545 patients</article-title>. <source>J Int Med Res</source>. <year>1989</year>;<volume>17</volume>:<fpage>339</fpage>‐<lpage>349</lpage>.<pub-id pub-id-type="pmid">2676651</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/030006058901700406</pub-id></mixed-citation></ref><ref id="jch14616-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jch14616-cit-0032">
+<collab collab-type="authors">Labetalol/Hydrochlorothiazide Multicenter Study Group</collab>
+. <article-title>Labetalol and hydrochlorothiazide in hypertension</article-title>. <source>Clin Pharmacol Ther</source>. <year>1985</year>;<volume>38</volume>:<fpage>24</fpage>‐<lpage>27</lpage>.<pub-id pub-id-type="pmid">2860990</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/clpt.1985.128</pub-id></mixed-citation></ref><ref id="jch14616-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jch14616-cit-0033">
+<string-name name-style="western">
+<surname>Farag</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rabea</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahmoud</surname>
+<given-names>HB</given-names>
+</string-name>. <article-title>Effect of amlodipine/valsartan versus nebivolol/valsartan fixed dose combinations on peripheral and central blood pressure</article-title>. <source>High Blood Press Cardiovasc Prev</source>. <year>2018</year>;<volume>25</volume>:<fpage>407</fpage>‐<lpage>413</lpage>.<pub-id pub-id-type="pmid">30390203</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40292-018-0286-8</pub-id></mixed-citation></ref><ref id="jch14616-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jch14616-cit-0034">
+<string-name name-style="western">
+<surname>Grassi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seravalle</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brambilla</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Multicenter randomized double‐blind comparison of nebivolol plus HCTZ and irbesartan plus HCTZ in the treatment of isolated systolic hypertension in elderly patients: results of the NEHIS study</article-title>. <source>Adv Ther</source>. <year>2017</year>;<volume>33</volume>:<fpage>2173</fpage>‐<lpage>2187</lpage>.<pub-id pub-id-type="pmid">27771847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12325-016-0427-1</pub-id></mixed-citation></ref><ref id="jch14616-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jch14616-cit-0035">
+<string-name name-style="western">
+<surname>Pareek</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chandurkar</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tiwari</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>BS</given-names>
+</string-name>. <article-title>Efficacy and tolerability of a fixed‐dose combination of metoprolol extended release/amlodipine in patients with mild‐to‐moderate hypertension: a randomized, parallel‐group, multicentre comparison with losartan plus amlodipine</article-title>. <source>Clin Drug Investig</source>. <year>2010</year>;<volume>30</volume>:<fpage>123</fpage>‐<lpage>131</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.2165/11531770-000000000-00000</pub-id><pub-id pub-id-type="pmid">20067330</pub-id></mixed-citation></ref><ref id="jch14616-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jch14616-cit-0036">
+<string-name name-style="western">
+<surname>Klein</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Combination therapy with felodipine and metoprolol compared with captopril and hydrochlorothiazide</article-title>. <source>Blood Press</source>. <year>1998</year>;<volume>7</volume>:<fpage>308</fpage>‐<lpage>312</lpage>.<pub-id pub-id-type="pmid">10321444</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/080370598437178</pub-id></mixed-citation></ref><ref id="jch14616-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jch14616-cit-0037">
+<string-name name-style="western">
+<surname>Breithaupt‐Grogler</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gerhardt</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lehmann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Notter</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belz</surname>
+<given-names>GG</given-names>
+</string-name>. <article-title>Blood pressure and aortic elastic p ation therapy</article-title>. <source>Int J Clin Pharmacol Ther</source>. <year>1998</year>;<volume>36</volume>:<fpage>425</fpage>‐<lpage>431</lpage>.<pub-id pub-id-type="pmid">9726695</pub-id></mixed-citation></ref><ref id="jch14616-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jch14616-cit-0038">
+<string-name name-style="western">
+<surname>Mancia</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kjeldsen</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kreutz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pathak</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grassi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Esler</surname>
+<given-names>M</given-names>
+</string-name>, <article-title>Individualized beta‐blocker treatment for high blood pressure dictated by medical comorbidities: indications beyond the 2018 European Society of Cardiology/European Society of Hypertension guidelines</article-title>. <source>Hypertension</source>. <year>2022</year>;<volume>79</volume>:<fpage>1153</fpage>‐<lpage>1166</lpage>.<pub-id pub-id-type="pmid">35378981</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/HYPERTENSIONAHA.122.19020</pub-id></mixed-citation></ref><ref id="jch14616-bib-0039"><label>39</label><mixed-citation publication-type="book" id="jch14616-cit-0039">
+<string-name name-style="western">
+<surname>Esler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kjeldsen</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pathak</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grassi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kreutz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mancia</surname>
+<given-names>G</given-names>
+</string-name>. <source>Diverse pharmacological properties, trial results, comorbidity prescribing and neural pathophysiology suggest European hypertension guideline downgrading of beta‐blockers is not justified</source>. <publisher-name>Blood Press</publisher-name>; <year>2022</year>. <fpage>210</fpage>‐<lpage>224</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/08037051.2022.2110858</pub-id><pub-id pub-id-type="pmid">36029011</pub-id></mixed-citation></ref><ref id="jch14616-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jch14616-cit-0040">
+<string-name name-style="western">
+<surname>Wikstrand</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warnold</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olsson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tuomilehto</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elmfeldt</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berglund</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Primary prevention with metoprolol in patients with hypertension. Mortality results from the MAPHY study</article-title>. <source>JAMA</source>. <year>1988</year>;<volume>259</volume>:<fpage>1976</fpage>‐<lpage>1982</lpage>.<pub-id pub-id-type="pmid">3346979</pub-id></mixed-citation></ref><ref id="jch14616-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jch14616-cit-0041">
+<string-name name-style="western">
+<surname>Wikstrand</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warnold</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tuomilehto</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Metoprolol versus thiazide diuretics in hypertension. Morbidity results from the MAPHY Study</article-title>. <source>Hypertension</source>. <year>1991</year>;<volume>17</volume>:<fpage>579</fpage>‐<lpage>588</lpage>.<pub-id pub-id-type="pmid">2013485</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.hyp.17.4.579</pub-id></mixed-citation></ref><ref id="jch14616-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jch14616-cit-0042">
+<string-name name-style="western">
+<surname>Kuyper</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>NA</given-names>
+</string-name>. <article-title>Atenolol vs nonatenolol beta‐blockers for the treatment of hypertension: a meta‐analysis</article-title>. <source>Can J Cardiol</source>. <year>2014</year>;<volume>30</volume>:<fpage>S47</fpage>‐<lpage>53</lpage>. Suppl.<pub-id pub-id-type="pmid">24750981</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cjca.2014.01.006</pub-id></mixed-citation></ref><ref id="jch14616-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jch14616-cit-0043">
+<string-name name-style="western">
+<surname>Holman</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paul</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bethel</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neil</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matthews</surname>
+<given-names>DR</given-names>
+</string-name>. <article-title>Long‐term follow‐up after tight control of blood pressure in type 2 diabetes</article-title>. <source>N Engl J Med</source>. <year>2008</year>;<volume>359</volume>:<fpage>1565</fpage>‐<lpage>1576</lpage>.<pub-id pub-id-type="pmid">18784091</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa0806359</pub-id></mixed-citation></ref><ref id="jch14616-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jch14616-cit-0044">
+<string-name name-style="western">
+<surname>Sabido</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hohenberger</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grassi</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Pharmacological intervention in hypertension using beta‐blockers: real‐world evidence for long‐term effectiveness</article-title>. <source>Pharmacol Res</source>. <year>2018</year>;<volume>130</volume>:<fpage>191</fpage>‐<lpage>197</lpage>.<pub-id pub-id-type="pmid">29366925</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.phrs.2018.01.010</pub-id></mixed-citation></ref><ref id="jch14616-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jch14616-cit-0045">
+<string-name name-style="western">
+<surname>Izzo</surname>
+<given-names>JL</given-names>, <suffix>Jr.</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>SU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saleem</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Osmond</surname>
+<given-names>PJ</given-names>
+</string-name>. <article-title>Ambulatory 24‐hour cardiac oxygen consumption and blood pressure‐heart rate variability: effects of nebivolol and valsartan alone and in combination</article-title>. <source>J Am Soc Hypertens</source>. <year>2015</year>; <volume>9</volume>: <fpage>526</fpage>‐<lpage>535</lpage>.<pub-id pub-id-type="pmid">26116459</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jash.2015.03.009</pub-id><pub-id pub-id-type="pmcid">PMC7457394</pub-id></mixed-citation></ref><ref id="jch14616-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jch14616-cit-0046">
+<string-name name-style="western">
+<surname>Heidenreich</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bozkurt</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aguilar</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>AHA/ACC/HFSA guideline for the management of heart failure: a report of the American College of Cardiology/American Heart Association Joint Committee on clinical practice guidelines</article-title>. <source>Circulation</source>. <year>2022</year>;<volume>145</volume>:<fpage>e895</fpage>‐<lpage>e1032</lpage>. doi:<pub-id pub-id-type="doi">10.1161/CIR.0000000000001063</pub-id>
+<pub-id pub-id-type="pmid">35363499</pub-id></mixed-citation></ref><ref id="jch14616-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jch14616-cit-0047">
+<string-name name-style="western">
+<surname>McDonagh</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Metra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adamo</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>2021 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure</article-title>. <source>Eur Heart J</source>. <year>2021</year>;<volume>42</volume>:<fpage>3599</fpage>‐<lpage>3726</lpage>.<pub-id pub-id-type="pmid">34447992</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehab368</pub-id></mixed-citation></ref><ref id="jch14616-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jch14616-cit-0048">
+<string-name name-style="western">
+<surname>Collet</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thiele</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbato</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>2020 ESC guidelines for the management of acute coronary syndromes in patients presenting without persistent ST‐segment elevation</article-title>. <source>Eur Heart J</source>. <year>2021</year>;<volume>42</volume>:<fpage>1289</fpage>‐<lpage>1367</lpage>.<pub-id pub-id-type="pmid">32860058</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehaa575</pub-id></mixed-citation></ref><ref id="jch14616-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jch14616-cit-0049">
+<string-name name-style="western">
+<surname>Ibanez</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>James</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agewall</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST‐segment elevation: the task force for the management of acute myocardial infarction in patients presenting with ST‐segment elevation of the European Society of Cardiology (ESC)</article-title>. <source>Eur Heart J</source>. <volume>39</volume>:<fpage>119</fpage>‐<lpage>177</lpage>.<pub-id pub-id-type="pmid">28886621</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehx393</pub-id></mixed-citation></ref></ref-list></back></article>

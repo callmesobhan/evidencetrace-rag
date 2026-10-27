@@ -1,0 +1,918 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="ejhf70021" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Heart Fail</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Heart Fail</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">100887595</journal-id><journal-id journal-id-type="publisher-id">EJHF</journal-id><journal-title-group><journal-title>European Journal of Heart Failure</journal-title></journal-title-group><issn pub-type="ppub">1388-9842</issn><issn pub-type="epub">1879-0844</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12765366</article-id><article-id pub-id-type="pmcid-ver">PMC12765366.1</article-id><article-id pub-id-type="pmcaid">12765366</article-id><article-id pub-id-type="pmcaiid">12765366</article-id><article-id pub-id-type="pmid">40956156</article-id><article-id pub-id-type="doi">10.1002/ejhf.70021</article-id><article-id pub-id-type="publisher-id">EJHF70021</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>ATRIAL MYOPATHY AND ARRHYTHMIAS</subject><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Heart failure outcomes and empagliflozin effects in patients with heart failure and reduced ejection fraction in sinus rhythm or atrial fibrillation: Data from <styled-content style="fixed-case" toggle="no">EMPEROR</styled-content>‐Reduced</article-title><alt-title alt-title-type="right-running-head">Empagliflozin, <styled-content style="fixed-case" toggle="no">HF</styled-content> outcomes in <styled-content style="fixed-case" toggle="no">AF</styled-content> or <styled-content style="fixed-case" toggle="no">SR</styled-content>
+</alt-title><alt-title alt-title-type="left-running-head">M. Böhm et al.</alt-title></title-group><contrib-group><contrib id="ejhf70021-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Böhm</surname><given-names initials="M">Michael</given-names></name><xref rid="ejhf70021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>michael.boehm@uks.eu</email></address></contrib><contrib id="ejhf70021-cr-0002" contrib-type="author"><name name-style="western"><surname>Butler</surname><given-names initials="J">Javed</given-names></name><xref rid="ejhf70021-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="ejhf70021-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0003" contrib-type="author"><name name-style="western"><surname>Abdin</surname><given-names initials="A">Amr</given-names></name><xref rid="ejhf70021-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0004" contrib-type="author"><name name-style="western"><surname>Filippatos</surname><given-names initials="G">Gerasimos</given-names></name><xref rid="ejhf70021-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0005" contrib-type="author"><name name-style="western"><surname>Ferreira</surname><given-names initials="JP">João Pedro</given-names></name><xref rid="ejhf70021-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="ejhf70021-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0006" contrib-type="author"><name name-style="western"><surname>Pocock</surname><given-names initials="SJ">Stuart J.</given-names></name><xref rid="ejhf70021-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0007" contrib-type="author"><name name-style="western"><surname>Brueckmann</surname><given-names initials="M">Martina</given-names></name><xref rid="ejhf70021-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="ejhf70021-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0008" contrib-type="author"><name name-style="western"><surname>Ofstad</surname><given-names initials="AP">Anne Pernille</given-names></name><xref rid="ejhf70021-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0009" contrib-type="author"><name name-style="western"><surname>Schueler</surname><given-names initials="E">Elke</given-names></name><xref rid="ejhf70021-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0010" contrib-type="author"><name name-style="western"><surname>Wanner</surname><given-names initials="C">Christoph</given-names></name><xref rid="ejhf70021-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0011" contrib-type="author"><name name-style="western"><surname>Zannad</surname><given-names initials="F">Faiez</given-names></name><xref rid="ejhf70021-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0012" contrib-type="author"><name name-style="western"><surname>Anker</surname><given-names initials="SD">Stefan D.</given-names></name><xref rid="ejhf70021-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0013" contrib-type="author"><name name-style="western"><surname>Packer</surname><given-names initials="M">Milton</given-names></name><xref rid="ejhf70021-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref><xref rid="ejhf70021-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="ejhf70021-cr-0014" contrib-type="author"><collab collab-type="authors"> on behalf of the EMPEROR‐Reduced Trial Committees and Investigators</collab></contrib></contrib-group><aff id="ejhf70021-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Klinik für Innere Medizin III, HOMICAREM (HOMburg Institute for CArdioREnalMetabolic Medicine), Universitätsklinikum des Saarlandes</named-content>
+<institution>Saarland University</institution>
+<city>Homburg/Saar</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf70021-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>University of Mississippi School of Medicine</institution>
+<city>Jackson</city>
+<named-content content-type="country-part">MS</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf70021-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Baylor Scott and White Research Institute</institution>
+<city>Dallas</city>
+<named-content content-type="country-part">TX</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf70021-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>National and Kapodistrian University of Athens School of Medicine, Athens University Hospital Attikon</institution>
+<city>Athens</city>
+<country country="GR">Greece</country>
+</aff><aff id="ejhf70021-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Université de Lorraine, Centre d'Investigation Clinique‐Plurithématique Inserm CIC‐P 1433; Inserm U1116, CHRU Nancy Brabois, F‐CRIN INI‐CRCT (Cardiovascular and Renal Clinical Trialists)</institution>
+<city>Nancy</city>
+<country country="FR">France</country>
+</aff><aff id="ejhf70021-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">RISE‐Health, Department of Surgery and Physiology, Faculty of Medicine</named-content>
+<institution>University of Porto</institution>
+<city>Porto</city>
+<country country="PT">Portugal</country>
+</aff><aff id="ejhf70021-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Statistics</named-content>
+<institution>London School of Hygiene &amp; Tropical Medicine</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf70021-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Boehringer Ingelheim International</institution>
+<city>Ingelheim</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf70021-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">First Department of Medicine, Faculty of Medicine Mannheim</named-content>
+<institution>University of Heidelberg</institution>
+<city>Mannheim</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf70021-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<institution>Oslo Diabetes Research Center and Medical Department Boehringer Ingelheim Norway KS</institution>
+<city>Asker</city>
+<country country="NO">Norway</country>
+</aff><aff id="ejhf70021-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<institution>mainanalytics GmbH</institution>
+<city>Sulzbach/Taunus</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf70021-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Research and Epidemiology</named-content>
+<institution>Comprehensive Heart Failure Center, University Hospital Würzburg</institution>
+<city>Würzburg</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf70021-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology (CVK) and Berlin Institute of Health Center for Regenerative Therapies (BCRT), German Centre for Cardiovascular Research (DZHK) partner site Berlin</named-content>
+<institution>Charité Universitätsmedizin Berlin</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf70021-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<institution>Baylor University Medical Center</institution>
+<city>Dallas</city>
+<named-content content-type="country-part">TX</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf70021-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<institution>Imperial College</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Corresponding author. Universitätsklinikum des Saarlandes, HOMICAREM (HOMburg Institute for CArdioREnalMetabolic Medicine), Klinik für Innere Medizin III, Saarland University, Kardiologie, Angiologie und Internistische Intensivmedizin, Kirrberger Str. 1, 66421 Homburg/Saar, Germany. Tel: +49 6841 1615031, Fax: +49 6841 1615032, Email: <email>michael.boehm@uks.eu</email>
+<break />
+</corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2025</year></pub-date><volume>27</volume><issue seq="280">11</issue><issue-id pub-id-type="pmc-issue-id">503842</issue-id><issue-id pub-id-type="doi">10.1002/ejhf.v27.11</issue-id><fpage>2218</fpage><lpage>2228</lpage><history><date date-type="rev-recd"><day>04</day><month>8</month><year>2025</year></date><date date-type="received"><day>26</day><month>5</month><year>2025</year></date><date date-type="accepted"><day>06</day><month>8</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>05</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-05 10:25:14.403"><day>05</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">European Journal of Heart Failure</italic> published by John Wiley &amp; Sons Ltd on behalf of European Society of Cardiology.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="EJHF-27-2218.pdf" /><self-uri content-type="pdf" ns1:href="file:EJHF-27-2218.pdf" /><abstract><sec id="ejhf70021-sec-0001"><title>Aims</title><p>Empagliflozin reduces cardiovascular death (CVD) or hospitalization for heart failure (HHF), slows estimated glomerular filtration rate (eGFR) decline and improves quality of life (QoL) in heart failure with reduced ejection fraction (HFrEF). Whether the effect of empagliflozin is consistent according to atrial fibrillation (AF) status is worth exploring.</p></sec><sec id="ejhf70021-sec-0002"><title>Methods and results</title><p>The impact of AF versus sinus rhythm (SR) on outcomes as well as on eGFR decline and QoL were studied post‐hoc in EMPEROR‐Reduced. Of patients with available rhythm analyses and after exclusion of patients with missing or paced rhythms, 2785 were included (AF, <italic toggle="no">n</italic> = 928, SR, <italic toggle="no">n</italic> = 1857). Differences were not significant for the primary endpoint (<italic toggle="no">p</italic> = 0.66), first (<italic toggle="no">p</italic> = 0.19) and recurrent HHF (<italic toggle="no">p</italic> = 0.45). On placebo, alcohol consumption (interaction <italic toggle="no">p</italic> = 0.32), body mass index (interaction <italic toggle="no">p</italic> = 0.93), diabetes (interaction <italic toggle="no">p</italic> = 0.52), hypertension (interaction <italic toggle="no">p</italic> = 0.24) were not different between AF and SR. Low ejection fraction and high Kidney Disease: Improving Global Outcomes (KDIGO) class had higher event rates but without interaction between SR and AF, respectively. After a median follow‐up of 20 months, empagliflozin reduced CVD or HHF compared to placebo in AF and SR (hazard ratio [HR] 0.82, 95% confidence interval [CI] 0.63–1.08; and HR 0.69, 95% CI 0.56–0.84; interaction <italic toggle="no">p</italic> = 0.29). The same applied to time to first HHF (interaction <italic toggle="no">p</italic> = 0.20), while there was a borderline but insignificant interaction for first and recurrent HHF (<italic toggle="no">p</italic> = 0.10). The effect on annual eGFR decline and QoL scores was not different. Incident AF was numerically lower but formally not significantly different (HR 0.66, 95% CI 0.40–1.09, <italic toggle="no">p</italic> = 0.11, empagliflozin vs. placebo).</p></sec><sec id="ejhf70021-sec-0003"><title>Conclusions</title><p>In HFrEF, AF did not significantly modify outcomes after adjustment and did not associate with eGFR slopes. Empagliflozin reduced outcomes, eGFR decline and improved QoL regardless of AF or SR and probably reduced incident AF.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ejhf70021-kwd-0001">Atrial fibrillation</kwd><kwd id="ejhf70021-kwd-0002">Cardiovascular outcomes</kwd><kwd id="ejhf70021-kwd-0003">Empagliflozin</kwd><kwd id="ejhf70021-kwd-0004">Heart failure</kwd><kwd id="ejhf70021-kwd-0005">HFrEF</kwd><kwd id="ejhf70021-kwd-0006">Sinus rhythm</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Boehringer Ingelheim</institution><institution-id institution-id-type="doi">10.13039/100019718</institution-id></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="8" /><table-count count="0" /><page-count count="11" /><word-count count="5300" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.6 mode:remove_FC converted:04.01.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="ejhf70021-body-0001"><sec id="ejhf70021-sec-0004"><title>Introduction</title><p>Atrial fibrillation (AF) is the most prevalent sustained arrhythmia associated with heart failure (HF).<xref rid="ejhf70021-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Risk factors such as alcohol consumption,<xref rid="ejhf70021-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> overweight,<xref rid="ejhf70021-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> diabetes,<xref rid="ejhf70021-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> hypertension<xref rid="ejhf70021-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> and chronic kidney disease<xref rid="ejhf70021-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> are associated with high incidence and prevalence of AF. HF and AF are closely linked in their pathophysiology and outcomes and are characterized by a high comorbidity load,<xref rid="ejhf70021-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> but whether AF modifies outcomes in HF with reduced ejection fraction (HFrEF) is less clear. Empagliflozin has been reported to reduce cardiovascular death (CVD) or HF hospitalization in HFrEF<xref rid="ejhf70021-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> and HF with preserved ejection fraction (HFpEF).<xref rid="ejhf70021-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> As some medications such as beta‐blockers act differently in HFrEF in AF versus sinus rhythm (SR),<xref rid="ejhf70021-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> we studied the treatment effects of empagliflozin in patients with AF compared to SR on cardiovascular outcomes, estimated glomerular filtration rate (eGFR) decline and quality of life (QoL) and explored its effects on new‐onset AF in the database of the EMPEROR‐Reduced trial.</p></sec><sec sec-type="methods" id="ejhf70021-sec-0005"><title>Methods</title><sec id="ejhf70021-sec-0006"><title>Study design</title><p>The design, baseline characteristics and results of the EMPEROR‐Reduced trial have been published previously.<xref rid="ejhf70021-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> The ethics committees of each of the 622 participating institutions in 23 countries approved the protocol and all patients gave written informed consent. The registration identifier at ClinicalTrials.gov is <ext-link ext-link-type="pmc:clinical-trial" ns1:href="NCT03057977">NCT03057977</ext-link>.</p></sec><sec id="ejhf70021-sec-0007"><title>Study patients and procedures</title><p>Patients with HF and an ejection fraction of ≤40% were screened and those fulfilling eligibility criteria were randomized double‐blind in a 1:1 fashion to receive placebo or empagliflozin 10 mg daily in addition to their usual therapy. EMPEROR‐Reduced randomized patients with New York Heart Association class II–IV HF. Patients were required to have elevated N‐terminal pro‐B‐type natriuretic peptide (NT‐proBNP) at ≥600 pg/ml, ≥1000 pg/ml or ≥2500 pg/ml in those with an ejection fraction of ≤30%, 31–35% or 36–40%, respectively; these thresholds were doubled in patients with AF. Patients with an ejection fraction &gt;30% could also be included if they had experienced a hospitalization for HF within the previous 12 months, irrespective of NT‐proBNP levels. Patients with or without diabetes were enrolled. During follow‐up, all accompanying treatments could be altered or initiated according to the changes in the clinical status of the patients at the discretion of the investigator. Patients were assessed at study visits for major outcomes, vital signs (eGFR by the Chronic Kidney Disease Epidemiology Collaboration equation), adverse events and changes in medications or clinical status that reflected changes in the course of HF.</p><p>All randomized individuals were followed up for the occurrence of prespecified outcomes for the entire duration of the trial regardless of whether the study participants had taken the study medication or were adherent with the study procedures according to the intention‐to‐treat principle. AF was defined as AF reported in any electrocardiogram before study treatment intake or history of AF reported as medical history. Patients with paced rhythms or unknown baseline rhythms were excluded from this analysis.</p></sec><sec id="ejhf70021-sec-0008"><title>Clinical outcome analyses</title><p>The primary endpoint of the composite of adjudicated CVD or hospitalization for HF was analysed as time‐to‐first event. The first secondary endpoint was the occurrence of all adjudicated hospitalizations for HF and the second secondary outcome was the rate of the decline in eGFR during double‐blind treatment (eGFR slope). Further endpoints assessed were the Kansas City Cardiomyopathy Questionnaire clinical summary score (KCCQ‐CSS) and new‐onset AF. Patients were grouped according to AF or SR. We evaluated the risk of HF events, CVD, eGFR decline and QoL in patients treated with placebo and empagliflozin according to heart rhythm at baseline. Thereafter, we compared the effects of empagliflozin within placebo on the above outcomes according to baseline rhythm. Finally, we compared the effects of empagliflozin versus placebo on the primary composite outcome according to the presence of the risk factors alcohol consumption, high body mass index, diabetes, hypertension, and extent of chronic kidney disease. Finally, we explored rates of incident AF among those with SR at baseline, and adverse events according to baseline rhythm.</p></sec><sec id="ejhf70021-sec-0009"><title>Statistical analyses</title><p>The effect of empagliflozin compared with placebo on the time‐to‐first event analyses was examined using Cox proportional hazard regression models with prespecified covariates of sex, geographical region, diabetes status at baseline, left ventricular ejection fraction, age and eGFR at baseline. The interaction between AF and SR and treatment group on the occurrence of the prespecified outcomes was tested using a treatment‐by‐rhythm interaction trend test. The first secondary outcome of total (first and recurrent) HF hospitalizations was evaluated with the use of the joint frailty model that accounted for informative censoring because of CVD. Between‐group differences in the slope of eGFR were analysed using a random slope model on on‐treatment data. Changes in KCCQ‐CSS were analysed in a mixed model with repeated measures. All models included the same covariates as the Cox model. The impact of individual additional risk factors on the primary endpoint were assessed within placebo patients using the same model with risk factor‐by‐rhythm interaction. Additionally, the impact of risk factors on the primary endpoint was assessed within placebo patients with an extended model using backward selection. The effect of empagliflozin compared to placebo within each category of the risk factors was assessed with the same model with treatment‐by‐rhythm interaction.</p><p>All analyses were performed by the sponsor, after agreeing on a statistical analysis plan using SAS version 9.4 (SAS Institute, Cary, NC, USA). All <italic toggle="yes">p</italic>‐values reported are two‐sided and <italic toggle="yes">p</italic> &lt; 0.05 was considered as statistically significant in all cases. No adjustments for multiple testing were made due to the exploratory nature of the study.</p></sec></sec><sec sec-type="results" id="ejhf70021-sec-0010"><title>Results</title><sec id="ejhf70021-sec-0011"><title>Patient characteristics</title><p>A total of 2785 patients were identified to have a complete analysis of the rhythm at baseline after exclusion of patients with paced rhythm. Among them, 928 were in AF and 1857 patients were in SR at baseline. Patients with unknown rhythm at baseline or paced rhythm were excluded from the analysis. The study flow is depicted in <italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>. More females were in SR than in AF, while more males exhibited AF at baseline. The baseline characteristics are shown in online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf70021-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>. Patients with AF had a slightly different regional distribution with more patients with AF in Europe and less in Latin America. Baseline NT‐proBNP levels, heart rates as well as body weight and body mass index were higher in AF than in SR. Patients in AF had a lower eGFR and more often were in higher Kidney Disease: Improving Global Outcomes (KDIGO) risk categories, while baseline systolic blood pressure and baseline left ventricular ejection fraction were not meaningfully different.</p><fig position="float" fig-type="Figure" id="ejhf70021-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Flow of the predefined secondary analysis.</p></caption><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="EJHF-27-2218-g004.jpg" /></fig></sec><sec id="ejhf70021-sec-0012"><title>Association of baseline rhythm with outcomes</title><p>On placebo, patients with AF had higher event rates of HF outcomes, but the differences were not significant (the primary outcome [<italic toggle="yes">p</italic> = 0.66], first [<italic toggle="yes">p</italic> = 0.19] and recurrent HF hospitalizations [<italic toggle="yes">p</italic> = 0.45]) when comparing within placebo patients. Patients with AF had lower KCCQ‐CSS values and similar declines of eGFR over time. We extended our assessment on patients by analysing the primary endpoint in presence of single risk indicators considering only patients on placebo (<italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0002" ref-type="fig">
+<italic toggle="yes">2</italic>
+</xref>). There was no significant difference in risk by the presence of alcohol consumption (interaction <italic toggle="yes">p</italic> = 0.32, <italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0002" ref-type="fig">
+<italic toggle="yes">2A</italic>
+</xref>), higher body mass index (≥30 kg/m<sup>2</sup>) (interaction <italic toggle="yes">p</italic> = 0.93, <italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0002" ref-type="fig">
+<italic toggle="yes">2B</italic>
+</xref>), diabetes (interaction <italic toggle="yes">p</italic> = 0.52, <italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0002" ref-type="fig">
+<italic toggle="yes">2C</italic>
+</xref>) and history of hypertension (interaction <italic toggle="yes">p</italic> = 0.24, <italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0002" ref-type="fig">
+<italic toggle="yes">2D</italic>
+</xref>). Low ejection fraction and high KDIGO risk class conferred to higher risk but without interaction with AF and SR (interaction <italic toggle="yes">p</italic> = 0.71 for both, <italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0002" ref-type="fig">
+<italic toggle="yes">2E,F</italic>
+</xref>). Using backward selection, only KDIGO risk class and left ventricular ejection fraction showed a significant impact on the risk of the primary outcome without an influence on the difference between AF and SR (data now shown).</p><fig position="float" fig-type="Figure" id="ejhf70021-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Impact of risk factors on time to first hospitalization for heart failure or cardiovascular death for (<italic toggle="yes">A</italic>) alcohol consumption (yes/no), (<italic toggle="yes">B</italic>) body mass index (≥30 or &lt;30 kg/m<sup>2</sup>), (<italic toggle="yes">C</italic>) diabetes (yes/no), (<italic toggle="yes">D</italic>) history of hypertension (yes/no), (<italic toggle="yes">E</italic>) left ventricular ejection fraction (LVEF &gt;30%, &gt;25%–≤30%, ≤25%), (<italic toggle="yes">F</italic>) Kidney Disease: Improving Global Outcomes (KDIGO) risk group (very high, high, moderate, low) in atrial fibrillation and sinus rhythm within placebo patients. Reference group not shown for <italic toggle="yes">A–D</italic>.</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="EJHF-27-2218-g002.jpg" /></fig></sec><sec id="ejhf70021-sec-0013"><title>Effect of empagliflozin on efficacy outcomes according to atrial fibrillation or sinus rhythm</title><p>
+<italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0003" ref-type="fig">
+<italic toggle="yes">3</italic>
+</xref> summarizes cumulative incidence curves for the primary endpoint, time to first hospitalization of HF, first and recurrent hospitalization for HF (mean cumulative incidence) and CVD. The relative risk reduction for the primary outcome by empagliflozin was similar between AF and SR (<italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0003" ref-type="fig">
+<italic toggle="yes">3A</italic>
+</xref>) (primary endpoint interaction <italic toggle="yes">p</italic> = 0.29). Similar results were observed for first adjudicated hospitalization for HF (<italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0004" ref-type="fig">
+<italic toggle="yes">4B</italic>
+</xref>) (interaction <italic toggle="yes">p</italic> = 0.20). A reduction of first and recurrent hospitalization for HF was more clear in SR (hazard ratio [HR] 0.62, 95% confidence interval [CI] 0.46–0.82) than in AF (HR 0.92, 95% CI 0.63–1.34), but formally not significant (interaction <italic toggle="yes">p</italic> = 0.10) (<italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0004" ref-type="fig">
+<italic toggle="yes">4C</italic>
+</xref>). Empagliflozin did not reduce CVD, which also had no interaction between SR and AF (interaction <italic toggle="yes">p</italic> = 0.50) (<italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0004" ref-type="fig">
+<italic toggle="yes">4D</italic>
+</xref>). There was no effect of empagliflozin on all‐cause mortality (not shown).</p><fig position="float" fig-type="Figure" id="ejhf70021-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Cumulative incidence curves for empagliflozin versus placebo by atrial fibrillation or sinus rhythm. Cumulative incidence function of (<italic toggle="yes">A</italic>) the primary outcome (composite of first hospitalization for heart failure [HHF] or cardiovascular [CV] death), (<italic toggle="yes">B</italic>) first HHF, (<italic toggle="yes">C</italic>) first and recurrent HHF (mean cumulative function) and (<italic toggle="yes">D</italic>) CV death. Data adjusted for competing risk by death types, which were not part of the endpoint under investigation (i.e. all‐cause death for HHF).</p></caption><graphic position="anchor" id="jats-graphic-7" orientation="portrait" ns1:href="EJHF-27-2218-g001.jpg" /></fig><fig position="float" fig-type="Figure" id="ejhf70021-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Empagliflozin effects in sinus rhythm and atrial fibrillation for (<italic toggle="yes">A</italic>) time to first event of adjudicated hospitalization for heart failure (HHF) or cardiovascular (CV) death, (<italic toggle="yes">B</italic>) time to first HHF, (<italic toggle="yes">C</italic>) first and recurrent HHF, and (D) CV death. [Correction added on 3 October 2025, after first online publication: Figure 4 has been corrected in this version.]</p></caption><graphic position="anchor" id="jats-graphic-9" orientation="portrait" ns1:href="EJHF-27-2218-g007.jpg" /></fig></sec><sec id="ejhf70021-sec-0014"><title>Effects on estimated glomerular filtration rate decline</title><p>Empagliflozin reduced the slope of eGFR decline from week 4 to the end of follow‐up (<italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0005" ref-type="fig">
+<italic toggle="yes">5</italic>
+</xref>). Overall, the difference of mean slope of decline compared to placebo was similar between AF and SR (interaction <italic toggle="yes">p</italic> = 0.69).</p><fig position="float" fig-type="Figure" id="ejhf70021-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Estimated glomerular filtration rate (eGFR) adjusted mean difference (ml/min/1.73 m<sup>2</sup>) change over time in patients treated with empagliflozin or placebo in patients with (<italic toggle="yes">A</italic>) atrial fibrillation or (<italic toggle="yes">B</italic>) sinus rhythm. eGFR was determined by using the Chronic Kidney Disease Epidemiology Collaboration equation. No corrections for multiple testing were applied. SE, standard error.</p></caption><graphic position="anchor" id="jats-graphic-11" orientation="portrait" ns1:href="EJHF-27-2218-g005.jpg" /></fig></sec><sec id="ejhf70021-sec-0015"><title>Effects on quality of life</title><p>The mean change in KCCQ‐CSS by treatment arms over time is presented in <italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0006" ref-type="fig">
+<italic toggle="yes">6</italic>
+</xref>. Compared to placebo, patients treated with empagliflozin showed a meaningful improvement in mean KCCQ‐CSS with no significant difference between AF and SR (interaction <italic toggle="yes">p</italic>‐value at week 52 = 0.84). The responder analysis showed that patients in the empagliflozin arm were more likely to show an improvement &gt;5 points and were less likely to show a deterioration in both AF and SR (data not shown).</p><fig position="float" fig-type="Figure" id="ejhf70021-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>Effect of empagliflozin and placebo in patients with (<italic toggle="yes">A</italic>) atrial fibrillation and (<italic toggle="yes">B</italic>) sinus rhythm. No corrections for multiple testing were applied. KCCQ‐CSS, Kansas City Cardiomyopathy Questionnaire clinical summary score; SE, standard error.</p></caption><graphic position="anchor" id="jats-graphic-13" orientation="portrait" ns1:href="EJHF-27-2218-g008.jpg" /></fig></sec><sec id="ejhf70021-sec-0016"><title>Time to new‐onset atrial fibrillation</title><p>Time to new‐onset AF was numerically reduced but formally not significantly different (HR 0.66, 95% CI 0.40–1.09, <italic toggle="yes">p</italic> = 0.11 for empagliflozin vs. placebo) (<italic toggle="yes">Figure</italic> <xref rid="ejhf70021-fig-0007" ref-type="fig">
+<italic toggle="yes">7</italic>
+</xref>). Recurrent AF was not assessed.</p><fig position="float" fig-type="Figure" id="ejhf70021-fig-0007" orientation="portrait"><label>Figure 7</label><caption><p>Cumulative incidence curve for the effect of empagliflozin and placebo on incident atrial fibrillation (adjusted for all‐cause mortality as competing risk). HR, hazard ratio.</p></caption><graphic position="anchor" id="jats-graphic-15" orientation="portrait" ns1:href="EJHF-27-2218-g006.jpg" /></fig></sec><sec id="ejhf70021-sec-0017"><title>Safety assessments</title><p>The number of patients with any adverse event or any serious adverse event was in general higher in patients with AF than SR. Whereas the rate of any adverse event was lower in empagliflozin than placebo in those with SR and similar in both treatment groups in those with AF, the rates of any serious adverse event were lower in empagliflozin in both SR and AF patients. Adverse events leading to discontinuation were similarly distributed in empagliflozin and placebo. Symptomatic hypotension was more frequent in AF than in SR with no meaningful difference between empagliflozin and placebo. The same applies to acute renal failure with rather low event numbers (online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf70021-supitem-0002" ref-type="supplementary-material">
+<italic toggle="yes">S2</italic>
+</xref>).</p></sec></sec><sec sec-type="discussion" id="ejhf70021-sec-0018"><title>Discussion</title><p>This analysis of EMPEROR‐Reduced showed no significant differences in risk for HF hospitalization in patients with AF compared to SR. The eGFR decline was similar and baseline KCCQ‐CSS was lower in AF versus SR. There was no difference in the treatment efficacy of empagliflozin between AF and SR concerning the cardiovascular outcomes, speed of decline in eGFR and the improvement of KCCQ‐CSS. There was no significant but a numerical reduction of AF incidence (<italic toggle="yes">Graphical Abstract</italic>). The safety profile of empagliflozin was similar in AF and SR, while patients in AF revealed more adverse events.</p><p>Patients with baseline AF enrolled in EMPEROR‐Reduced had more severe HF outcomes, higher NT‐proBNP concentrations and worse renal function. The HF medication distribution was similar but there was fair treatment intensity with anticoagulants in patients with HF and AF of 85% compared to 11.7% in SR for most likely other indications. This is similar to previous reports (83.6% in AF vs. 13.1% in no AF).<xref rid="ejhf70021-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> AF was not associated with higher event rates for the primary outcome neither when analysed with the prespecified model nor after adjusting for further risk factors. In the COMET trial, there was a positive association with clinical outcomes for patients with AF compared to SR, however, this effect disappeared after adjustment.<xref rid="ejhf70021-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Also in PARADIGM‐HF and ATMOSPHERE,<xref rid="ejhf70021-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> while in the latter report new‐onset AF associated to higher event rates, which was not observed with permanent AF.<xref rid="ejhf70021-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> The V‐HeFT study showed no association of AF with increased morbidity and mortality.<xref rid="ejhf70021-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Similar to our findings, the PRIME‐II study showed an association with overall mortality, which was not robust to multiple adjustments.<xref rid="ejhf70021-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> The findings on clinical outcomes can be extended to the improvement of QoL as there was no interaction between the effects on KCCQ‐CSS and AF and SR. However, patients with AF had lower KCCQ‐CSS levels at baseline indicating that AF has an impact on QoL. Again, this has been shown in patients across age groups.<xref rid="ejhf70021-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> These findings indicate that AF does not independently effect outcome rates in HFrEF but rather, since the associations are not robust after adjustments, may reflect a burden of confounders and factors leading to more complications in HFrEF.</p><p>The finding of the preserved treatment effect of empagliflozin in AF is reassuring as incidence and prevalence over time of AF in HF is high.<xref rid="ejhf70021-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> In an analysis of 41 446 patients, the prevalence of AF increased from 53% to 60% in HFrEF and HF with mildly reduced ejection fraction and further to 65% in HFpEF.<xref rid="ejhf70021-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Consistently, the European Society of Cardiology Heart Failure Long‐Term Registry reports a slightly lower prevalence number in HFrEF with a trend to higher prevalence in HFpEF.<xref rid="ejhf70021-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> In general, a higher age of AF patients compared to SR patients has been observed.<xref rid="ejhf70021-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ejhf70021-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="ejhf70021-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> However, also treatment effects according to age have been reported to be similar in HFrEF<xref rid="ejhf70021-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> and HFpEF.<xref rid="ejhf70021-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Therefore, empagliflozin appears to work across rhythm groups and the age spectrum.</p><p>Impaired kidney function is one predictor of outcomes in HFrEF<xref rid="ejhf70021-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> and treatment intensity and guideline‐directed medical therapy for HF is lower in patients with higher KDIGO classes.<xref rid="ejhf70021-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Empagliflozin reduces risk across all KDIGO risk categories.<xref rid="ejhf70021-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> There was no interaction between the treatment effect of empagliflozin in each rhythm subgroup. This applies also to other risk indicators such as alcohol consumption, history of hypertension and diabetes, all associated with new‐onset AF and higher events rates.<xref rid="ejhf70021-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="ejhf70021-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ejhf70021-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ejhf70021-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+</p><p>In this study as in the previous analysis from DAPA‐HF (14% numerical reduction),<xref rid="ejhf70021-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> there was no significant effect of empagliflozin to reduce incident AF (−34%, <italic toggle="yes">p</italic> = 0.11). In patients with diabetes, a cohort study provided evidence that sodium–glucose co‐transporter 2 (SGLT2) inhibitor treatment was associated with a lower risk of new‐onset AF compared to treatments with dipeptidyl peptidase‐4 inhibitors or glucagon‐like peptide‐1 receptor agonists amounting to 16–26%.<xref rid="ejhf70021-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> This was recently confirmed in a HFrEF population.<xref rid="ejhf70021-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In diabetes patients at high cardiovascular risk undergoing AF catheter ablation, SGLT2 inhibitor treatment was associated with lower AF recurrences, less cardioversions and repeat ablations,<xref rid="ejhf70021-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> which is similar to an analysis on HFrEF patients undergoing cryoballoon ablation with a higher freedom from AF recurrences.<xref rid="ejhf70021-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Incident AF is associated with increasing age<xref rid="ejhf70021-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> and SGLT2 inhibitors exert cardioprotective effects involving cellular ageing pathways and autophagy.<xref rid="ejhf70021-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> A reduction of filling pressure and subsequently less atrial wall stress could also be mechanistically important.<xref rid="ejhf70021-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="ejhf70021-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="ejhf70021-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="ejhf70021-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> In a diabetes model, SGLT2 inhibition reduced AF duration and inducibility by involvement of sirtuin‐1 up‐regulation.<xref rid="ejhf70021-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> The totality of data in diabetes and HF in this study as well as in mechanistic studies<xref rid="ejhf70021-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> suggest an effect on incident AF. Low incidence of new‐onset AF, limited observation periods and the lack of continuous rhythm recordings in large outcome trials might have affected the robustness of this finding. Therefore, larger investigations over longer periods of time with rigorous continuous rhythm monitoring are needed.</p><sec id="ejhf70021-sec-0019"><title>Limitations</title><p>Treatment was not randomized to rhythm groups at baseline and may be subject to invisible confounding. Due to low numbers, different types of AF (permanent, persistent, or intermittent) were not explored. Furthermore, separating this population by SR and AF and further in groups with different risk constellations rendered numbers lower with the consequence of a limited statistical power. Groups are not randomized and might be subject to residual confounding. The data on AF were investigator‐reported as continuous rhythm monitoring was not performed.</p></sec></sec><sec sec-type="conclusions" id="ejhf70021-sec-0020"><title>Conclusion</title><p>Atrial fibrillation was not associated with higher rates of cardiovascular outcomes compared to SR after adjustment. Empagliflozin reduces the risk of HF events, eGFR decline and improves QoL similarly in AF and SR. Although there was a numerical albeit not significant decline in incident AF, this finding needs further exploration as the overall incidence was low (<italic toggle="yes">Graphical Abstract</italic>).</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ejhf70021-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S1.</bold> Baseline characteristics.</p></caption><media ns1:href="EJHF-27-2218-s002.pdf" position="float" orientation="portrait" /></supplementary-material><supplementary-material id="ejhf70021-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S2.</bold> Adverse events by treatment allocation and heart rhythm (AF or SR).</p></caption><media ns1:href="EJHF-27-2218-s001.pdf" position="float" orientation="portrait" /></supplementary-material></sec></body><back><ack id="ejhf70021-sec-0021"><title>Acknowledgements</title><p>We are grateful to Armin Schweitzer and Claudia Ostermann for technical and editorial help as well as artwork. Open Access funding enabled and organized by Projekt DEAL.</p><sec id="ejhf70021-sec-0022"><title>Funding</title><p>The study was supported and funded by Boehringer Ingelheim &amp; Eli Lilly and Company Alliance. Boehringer Ingelheim was given the opportunity to review the manuscript for medical and scientific accuracy as well as intellectual property considerations.</p><p>
+<bold>Conflict of interest</bold>: M.B. is supported by the Deutsche Forschungsgemeinschaft (German Research Foundation; TTR 219, project number 322900939) and reports personal fees from Abbott, Amgen, AstraZeneca, Bayer, Boehringer Ingelheim, Cytokinetics, Medtronic, Novartis, Servier and Vifor during the conduct of the study. J.B. reports consulting fees from Boehringer Ingelheim, Cardior, CVRx, Foundry, G3 Pharma, Imbria, Impulse Dynamics, Innolife, Janssen, LivaNova, Luitpold, Medtronic, Merck, Novartis, NovoNordisk, Relypsa, Roche, Sanofi, Sequana Medical, V‐Wave Ltd., and Vifor; personal fees from Boehringer Ingelheim during the conduct of the study. A.A. has nothing to disclose. G.F. reports Committee Member contributions in trials; personal fees from Boehringer Ingelheim during the conduct of the study. J.P.F. reports consulting fees from Boehringer Ingelheim during the conduct of the study. S.J.P. reports personal fees from Boehringer Ingelheim during the conduct of the study. M.Br. and A.P.O. are employees of Boehringer Ingelheim. E.S. is an employee of mainanalytics, contracted by Boehringer Ingelheim. C.W. reports personal fees from Boehringer Ingelheim during the conduct of the study; personal fees from Akebia, AstraZeneca, Bayer, Eli Lilly, GSK, GILEAD, MSD, Mundipharma, Sanofi‐Genzyme and Vifor Fresenius outside the submitted work. F.Z. has received steering committee or advisory board fees from Amgen, AstraZeneca, Bayer, Boehringer Ingelheim, Boston Scientific, Cardior, CVRx, Janssen, Livanova, Merck, Mundipharma, Novartis, Novo Nordisk, and Vifor Fresenius; personal fees from Boehringer Ingelheim during the conduct of the study. S.D.A. reports grants and personal fees from Vifor Int. and Abbott Vascular, and personal fees from AstraZeneca, Bayer, Brahms, Boehringer Ingelheim, Cardiac Dimensions, Novartis, Occlutech, Servier, and Vifor Int; personal fees from Boehringer Ingelheim during the conduct of the study. M.P. reports consulting fees from Boehringer Ingelheim, during the conduct of the study; consulting fees from Abbvie, Actavis, Altimmune, Amarin, Amgen, AstraZeneca, Boehringer Ingelheim, Caladrius, Casana, CSL Behring, Cytokinetics, Imara, Lilly, Moderna, Novartis, Reata, Relypsa, Salamandra.</p></sec></ack><ref-list id="ejhf70021-bibl-0001" content-type="cited-references"><title>References</title><ref id="ejhf70021-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0001">
+<string-name name-style="western">
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolf</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Agostino</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silbershatz</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kannel</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Impact of atrial fibrillation on the risk of death: The Framingham Heart Study</article-title>. <source>Circulation</source>
+<year>1998</year>;<volume>98</volume>:<fpage>946</fpage>–<lpage>952</lpage>. <pub-id pub-id-type="doi">10.1161/01.cir.98.10.946</pub-id>
+<pub-id pub-id-type="pmid">9737513</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0002">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roh</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoon</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jo</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bae</surname>
+<given-names>DH</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Changes in alcohol consumption habits and risk of atrial fibrillation: A nationwide population‐based study</article-title>. <source>Eur J Prev Cardiol</source>
+<year>2024</year>;<volume>31</volume>:<fpage>49</fpage>–<lpage>58</lpage>. <pub-id pub-id-type="doi">10.1093/eurjpc/zwad270</pub-id>
+<pub-id pub-id-type="pmid">37672594</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0003">
+<string-name name-style="western">
+<surname>Dublin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>French</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glazer</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiggins</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lumley</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Psaty</surname>
+<given-names>BM</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Risk of new‐onset atrial fibrillation in relation to body mass index</article-title>. <source>Arch Intern Med</source>
+<year>2006</year>;<volume>166</volume>:<fpage>2322</fpage>–<lpage>2328</lpage>. <pub-id pub-id-type="doi">10.1001/archinte.166.21.2322</pub-id>
+<pub-id pub-id-type="pmid">17130384</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0004">
+<string-name name-style="western">
+<surname>Seyed Ahmadi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Svensson</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pivodic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosengren</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lind</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Risk of atrial fibrillation in persons with type 2 diabetes and the excess risk in relation to glycaemic control and renal function: A Swedish cohort study</article-title>. <source>Cardiovasc Diabetol</source>
+<year>2020</year>;<volume>19</volume>:<fpage>9</fpage>. <pub-id pub-id-type="doi">10.1186/s12933-019-0983-1</pub-id>
+<pub-id pub-id-type="pmid">31954408</pub-id>
+<pub-id pub-id-type="pmcid">PMC6969407</pub-id></mixed-citation></ref><ref id="ejhf70021-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0005">
+<string-name name-style="western">
+<surname>Kannel</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolf</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Prevalence, incidence, prognosis, and predisposing conditions for atrial fibrillation: Population‐based estimates</article-title>. <source>Am J Cardiol</source>
+<year>1998</year>;<volume>82</volume>:<fpage>2N</fpage>–<lpage>9N</lpage>. <pub-id pub-id-type="doi">10.1016/s0002-9149(98)00583-9</pub-id>
+<pub-id pub-id-type="pmid">9809895</pub-id></mixed-citation></ref><ref id="ejhf70021-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0006">
+<string-name name-style="western">
+<surname>Soliman</surname>
+<given-names>EZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prineas</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Go</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lash</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rahman</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">Chronic Renal Insufficiency Cohort (CRIC) Study Group</collab>
+. <article-title>Chronic kidney disease and prevalent atrial fibrillation: The Chronic Renal Insufficiency Cohort (CRIC)</article-title>. <source>Am Heart J</source>
+<year>2010</year>;<volume>159</volume>:<fpage>1102</fpage>–<lpage>1107</lpage>. <pub-id pub-id-type="doi">10.1016/j.ahj.2010.03.027</pub-id>
+<pub-id pub-id-type="pmid">20569726</pub-id>
+<pub-id pub-id-type="pmcid">PMC2891979</pub-id></mixed-citation></ref><ref id="ejhf70021-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0007">
+<string-name name-style="western">
+<surname>Coats</surname>
+<given-names>AJS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heymans</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farmakis</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Backs</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bauersachs</surname>
+<given-names>J</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Atrial disease and heart failure: The common soil hypothesis proposed by the Heart Failure Association of the European Society of Cardiology</article-title>. <source>Eur Heart J</source>
+<year>2022</year>;<volume>43</volume>:<fpage>863</fpage>–<lpage>867</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehab834</pub-id>
+<pub-id pub-id-type="pmid">34875053</pub-id></mixed-citation></ref><ref id="ejhf70021-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0008">
+<string-name name-style="western">
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filippatos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pocock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carson</surname>
+<given-names>P</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">EMPEROR‐Reduced Trial Investigators</collab>
+. <article-title>Cardiovascular and renal outcomes with empagliflozin in heart failure</article-title>. <source>N Engl J Med</source>
+<year>2020</year>;<volume>383</volume>:<fpage>1413</fpage>–<lpage>1424</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa2022190</pub-id>
+<pub-id pub-id-type="pmid">32865377</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0009">
+<string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filippatos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bocchi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">EMPEROR‐Preserved Trial Investigators</collab>
+. <article-title>Empagliflozin in heart failure with a preserved ejection fraction</article-title>. <source>N Engl J Med</source>
+<year>2021</year>;<volume>385</volume>:<fpage>1451</fpage>–<lpage>1461</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa2107038</pub-id>
+<pub-id pub-id-type="pmid">34449189</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0010">
+<string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flather</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holmes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosano</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wikstrand</surname>
+<given-names>J</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">Beta‐Blockers in Heart Failure Collaborative Group</collab>
+. <article-title>Heart rate and rhythm and the benefit of beta‐blockers in patients with heart failure</article-title>. <source>J Am Coll Cardiol</source>
+<year>2017</year>;<volume>69</volume>:<fpage>2885</fpage>–<lpage>2896</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2017.04.001</pub-id>
+<pub-id pub-id-type="pmid">28467883</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0011">
+<string-name name-style="western">
+<surname>Butt</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Docherty</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Boer</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desai</surname>
+<given-names>AS</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Dapagliflozin and atrial fibrillation in heart failure with reduced ejection fraction: Insights from DAPA‐HF</article-title>. <source>Eur J Heart Fail</source>
+<year>2022</year>;<volume>24</volume>:<fpage>513</fpage>–<lpage>525</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.2381</pub-id>
+<pub-id pub-id-type="pmid">34766424</pub-id>
+<pub-id pub-id-type="pmcid">PMC10234442</pub-id></mixed-citation></ref><ref id="ejhf70021-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0012">
+<string-name name-style="western">
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olsson</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charlesworth</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanrath</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Komajda</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Prognostic relevance of atrial fibrillation in patients with chronic heart failure on long‐term treatment with beta‐blockers: Results from COMET</article-title>. <source>Eur Heart J</source>
+<year>2005</year>;<volume>26</volume>:<fpage>1303</fpage>–<lpage>1308</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehi166</pub-id>
+<pub-id pub-id-type="pmid">15767288</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0013">
+<string-name name-style="western">
+<surname>Mogensen</surname>
+<given-names>UM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abraham</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desai</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickstein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">PARADIGM‐HF and ATMOSPHERE Investigators and Committees</collab>
+. <article-title>Type of atrial fibrillation and outcomes in patients with heart failure and reduced ejection fraction</article-title>. <source>J Am Coll Cardiol</source>
+<year>2017</year>;<volume>70</volume>:<fpage>2490</fpage>–<lpage>2500</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2017.09.027</pub-id>
+<pub-id pub-id-type="pmid">29145948</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0014">
+<string-name name-style="western">
+<surname>Carson</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dunkman</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fletcher</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farrell</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohn</surname>
+<given-names>JN</given-names>
+</string-name>. <article-title>The influence of atrial fibrillation on prognosis in mild to moderate heart failure. The V‐HeFT Studies. The V‐HeFT VA Cooperative Studies Group</article-title>. <source>Circulation</source>
+<year>1993</year>;<volume>87</volume>:<fpage>VI102</fpage>–<lpage>VI110</lpage>.<pub-id pub-id-type="pmid">8500233</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0015">
+<string-name name-style="western">
+<surname>Crijns</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tjeerdsma</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Kam</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boomsma</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Gelder</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van den Berg</surname>
+<given-names>MP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Prognostic value of the presence and development of atrial fibrillation in patients with advanced chronic heart failure</article-title>. <source>Eur Heart J</source>
+<year>2000</year>;<volume>21</volume>:<fpage>1238</fpage>–<lpage>1245</lpage>. <pub-id pub-id-type="doi">10.1053/euhj.1999.2107</pub-id>
+<pub-id pub-id-type="pmid">10924313</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0016">
+<string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filippatos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pocock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdin</surname>
+<given-names>A</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">EMPEROR‐Preserved Trial Committees and Investigators</collab>
+. <article-title>Empagliflozin improves outcomes in patients with heart failure and preserved ejection fraction irrespective of age</article-title>. <source>J Am Coll Cardiol</source>
+<year>2022</year>;<volume>80</volume>:<fpage>1</fpage>–<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2022.04.040</pub-id>
+<pub-id pub-id-type="pmid">35772911</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0017">
+<string-name name-style="western">
+<surname>Van Gelder</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rienstra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bunting</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casado‐Arroyo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caso</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crijns</surname>
+<given-names>HJGM</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">ESC Scientific Document Group</collab>
+. <article-title>2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio‐Thoracic Surgery (EACTS)</article-title>. <source>Eur Heart J</source>
+<year>2024</year>;<volume>45</volume>:<fpage>3314</fpage>–<lpage>3414</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehae176</pub-id>
+<pub-id pub-id-type="pmid">39210723</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0018">
+<string-name name-style="western">
+<surname>Sartipy</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahlström</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lund</surname>
+<given-names>LH</given-names>
+</string-name>. <article-title>Atrial fibrillation in heart failure with preserved, mid‐range, and reduced ejection fraction</article-title>. <source>JACC Heart Fail</source>
+<year>2017</year>;<volume>5</volume>:<fpage>565</fpage>–<lpage>574</lpage>. <pub-id pub-id-type="doi">10.1016/j.jchf.2017.05.001</pub-id>
+<pub-id pub-id-type="pmid">28711451</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0019">
+<string-name name-style="western">
+<surname>Zafrir</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lund</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laroche</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruschitzka</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crespo‐Leiro</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coats</surname>
+<given-names>AJS</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">ESC‐HFA HF Long‐Term Registry Investigators</collab>
+. <article-title>Prognostic implications of atrial fibrillation in heart failure with reduced, mid‐range, and preserved ejection fraction: A report from 14 964 patients in the European Society of Cardiology Heart Failure Long‐Term Registry</article-title>. <source>Eur Heart J</source>
+<year>2018</year>;<volume>39</volume>:<fpage>4277</fpage>–<lpage>4284</lpage>. <pub-id pub-id-type="doi">10.1093/eurheartj/ehy626</pub-id>
+<pub-id pub-id-type="pmid">30325423</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0020">
+<string-name name-style="western">
+<surname>Filippatos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farmakis</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gollop</surname>
+<given-names>ND</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">EMPEROR‐Reduced Trial Committees and Investigators</collab>
+. <article-title>Effects of empagliflozin on cardiovascular and renal outcomes in heart failure with reduced ejection fraction according to age: A secondary analysis of EMPEROR‐Reduced</article-title>. <source>Eur J Heart Fail</source>
+<year>2022</year>;<volume>24</volume>:<fpage>2297</fpage>–<lpage>2304</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.2707</pub-id>
+<pub-id pub-id-type="pmid">36194680</pub-id>
+<pub-id pub-id-type="pmcid">PMC10092219</pub-id></mixed-citation></ref><ref id="ejhf70021-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0021">
+<string-name name-style="western">
+<surname>Patel</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greene</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alhanti</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeVore</surname>
+<given-names>AD</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Kidney function and outcomes in patients hospitalized with heart failure</article-title>. <source>J Am Coll Cardiol</source>
+<year>2021</year>;<volume>78</volume>:<fpage>330</fpage>–<lpage>343</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2021.05.002</pub-id>
+<pub-id pub-id-type="pmid">33989713</pub-id>
+<pub-id pub-id-type="pmcid">PMC8994871</pub-id></mixed-citation></ref><ref id="ejhf70021-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0022">
+<string-name name-style="western">
+<surname>Janse</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahlström</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindholm</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Diepen</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Use of guideline‐recommended medical therapy in patients with heart failure and chronic kidney disease: From physician's prescriptions to patient's dispensations, medication adherence and persistence</article-title>. <source>Eur J Heart Fail</source>
+<year>2022</year>;<volume>24</volume>:<fpage>2185</fpage>–<lpage>2195</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.2620</pub-id>
+<pub-id pub-id-type="pmid">35851740</pub-id>
+<pub-id pub-id-type="pmcid">PMC10087537</pub-id></mixed-citation></ref><ref id="ejhf70021-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0023">
+<string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siddiqi</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brueckmann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Januzzi</surname>
+<given-names>JL</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Efficacy of empagliflozin in patients with heart failure across kidney risk categories</article-title>. <source>J Am Coll Cardiol</source>
+<year>2023</year>;<volume>81</volume>:<fpage>1902</fpage>–<lpage>1914</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacc.2023.03.390</pub-id>
+<pub-id pub-id-type="pmid">37164523</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0024">
+<string-name name-style="western">
+<surname>Chan</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chao</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>HF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>WM</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>The risk of incident atrial fibrillation in patients with type 2 diabetes treated with sodium glucose cotransporter‐2 inhibitors, glucagon‐like peptide‐1 receptor agonists, and dipeptidyl peptidase‐4 inhibitors: A nationwide cohort study</article-title>. <source>Cardiovasc Diabetol</source>
+<year>2022</year>;<volume>21</volume>:<fpage>118</fpage>. <pub-id pub-id-type="doi">10.1186/s12933-022-01549-x</pub-id>
+<pub-id pub-id-type="pmid">35765074</pub-id>
+<pub-id pub-id-type="pmcid">PMC9241240</pub-id></mixed-citation></ref><ref id="ejhf70021-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0025">
+<string-name name-style="western">
+<surname>Kidess</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamza</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goru</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basit</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alraiyes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alraies</surname>
+<given-names>MC</given-names>
+</string-name>. <article-title>The impact of sodium‐glucose cotransporter‐2 inhibitors on atrial fibrillation burden in diabetic patients</article-title>. <source>Am J Cardiol</source>
+<year>2025</year>;<volume>246</volume>:<fpage>65</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1016/j.amjcard.2025.03.002</pub-id>
+<pub-id pub-id-type="pmid">40058622</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0026">
+<string-name name-style="western">
+<surname>Abu‐Qaoud</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tarun</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abraham</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmad</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khadke</surname>
+<given-names>S</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Impact of SGLT2 inhibitors on AF recurrence after catheter ablation in patients with type 2 diabetes</article-title>. <source>JACC Clin Electrophysiol</source>
+<year>2023</year>;<volume>9</volume>:<fpage>2109</fpage>–<lpage>2118</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacep.2023.06.008</pub-id>
+<pub-id pub-id-type="pmid">37565953</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0027">
+<string-name name-style="western">
+<surname>Cetin</surname>
+<given-names>EHO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cetin</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Könte</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ülvan</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Çelik</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arslan</surname>
+<given-names>K</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>The impact of SGLT2 inhibitors on atrial fibrillation recurrence and long‐term clinical outcomes in HFrEF patients undergoing cryoballoon ablation: A new frontier beyond diabetes and heart failure</article-title>. <source>J Cardiovasc Electrophysiol</source>
+<year>2025</year>;<volume>36</volume>:<fpage>952</fpage>–<lpage>960</lpage>. <pub-id pub-id-type="doi">10.1111/jce.16621</pub-id>
+<pub-id pub-id-type="pmid">40033049</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0028">
+<string-name name-style="western">
+<surname>Kornej</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Börschel</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schnabel</surname>
+<given-names>RB</given-names>
+</string-name>. <article-title>Epidemiology of atrial fibrillation in the 21st century: Novel methods and new insights</article-title>. <source>Circ Res</source>
+<year>2020</year>;<volume>127</volume>:<fpage>4</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCRESAHA.120.316340</pub-id>
+<pub-id pub-id-type="pmid">32716709</pub-id>
+<pub-id pub-id-type="pmcid">PMC7577553</pub-id></mixed-citation></ref><ref id="ejhf70021-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0029">
+<string-name name-style="western">
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Cardioprotective effects of sirtuin‐1 and its downstream effectors: Potential role in mediating the heart failure benefits of SGLT2 (sodium‐glucose cotransporter 2) inhibitors</article-title>. <source>Circ Heart Fail</source>
+<year>2020</year>;<volume>13</volume>:<elocation-id>e007197</elocation-id>. <pub-id pub-id-type="doi">10.1161/CIRCHEARTFAILURE.120.007197</pub-id>
+<pub-id pub-id-type="pmid">32894987</pub-id>
+</mixed-citation></ref><ref id="ejhf70021-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ejhf70021-cit-0030">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shih</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>ZC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>
+<given-names>WT</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Dapagliflozin and sirtuin‐1 interaction and mechanism for ameliorating atrial fibrillation in a streptozotocin‐induced rodent diabetic model</article-title>. <source>Biomol Biomed</source>
+<year>2025</year>;<volume>25</volume>:<fpage>608</fpage>–<lpage>622</lpage>. <pub-id pub-id-type="doi">10.17305/bb.2024.11361</pub-id>
+<pub-id pub-id-type="pmid">39636756</pub-id>
+<pub-id pub-id-type="pmcid">PMC12010975</pub-id></mixed-citation></ref></ref-list></back></article>

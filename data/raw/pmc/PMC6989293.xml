@@ -1,0 +1,966 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">ESC Heart Fail</journal-id><journal-id journal-id-type="iso-abbrev">ESC Heart Fail</journal-id><journal-id journal-id-type="pmc-domain-id">3356</journal-id><journal-id journal-id-type="pmc-domain">escheart</journal-id><journal-id journal-id-type="nlm-id">101669191</journal-id><journal-id journal-id-type="publisher-id">EHF2</journal-id><journal-title-group><journal-title>ESC Heart Failure</journal-title></journal-title-group><issn pub-type="epub">2055-5822</issn><publisher><publisher-name>Oxford University Press</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6989293</article-id><article-id pub-id-type="pmcid-ver">PMC6989293.1</article-id><article-id pub-id-type="pmcaid">6989293</article-id><article-id pub-id-type="pmcaiid">6989293</article-id><article-id pub-id-type="pmid">31389157</article-id><article-id pub-id-type="doi">10.1002/ehf2.12498</article-id><article-id pub-id-type="publisher-id">EHF212498</article-id><article-id pub-id-type="other">ESCHF-19-00068</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research Articles</subject></subj-group></article-categories><title-group><article-title>Oral modified release morphine for breathlessness in chronic heart failure: a randomized placebo‐controlled trial</article-title><alt-title alt-title-type="right-running-head">Oral modified release morphine for breathlessness in chronic heart failure</alt-title><alt-title alt-title-type="left-running-head">M.J. Johnson <italic toggle="yes">et al</italic>.</alt-title></title-group><contrib-group><contrib id="ehf212498-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Johnson</surname><given-names initials="MJ">Miriam J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6204-9158</contrib-id><xref ref-type="aff" rid="ehf212498-aff-0001">
+<sup>1</sup>
+</xref><address><email>miriam.johnson@hyms.ac.uk</email></address></contrib><contrib id="ehf212498-cr-0002" contrib-type="author"><name name-style="western"><surname>Cockayne</surname><given-names initials="S">Sarah</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ehf212498-cr-0003" contrib-type="author"><name name-style="western"><surname>Currow</surname><given-names initials="DC">David C.</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ehf212498-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ehf212498-cr-0004" contrib-type="author"><name name-style="western"><surname>Bell</surname><given-names initials="K">Kerry</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ehf212498-cr-0005" contrib-type="author"><name name-style="western"><surname>Hicks</surname><given-names initials="K">Kate</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ehf212498-cr-0006" contrib-type="author"><name name-style="western"><surname>Fairhurst</surname><given-names initials="C">Caroline</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ehf212498-cr-0007" contrib-type="author"><name name-style="western"><surname>Gabe</surname><given-names initials="R">Rhian</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ehf212498-cr-0008" contrib-type="author"><name name-style="western"><surname>Torgerson</surname><given-names initials="D">David</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ehf212498-cr-0009" contrib-type="author"><name name-style="western"><surname>Jefferson</surname><given-names initials="L">Laura</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ehf212498-cr-0010" contrib-type="author"><name name-style="western"><surname>Oxberry</surname><given-names initials="S">Stephen</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ehf212498-cr-0011" contrib-type="author"><name name-style="western"><surname>Ghosh</surname><given-names initials="J">Justin</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="ehf212498-cr-0012" contrib-type="author"><name name-style="western"><surname>Hogg</surname><given-names initials="KJ">Karen J.</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="ehf212498-cr-0013" contrib-type="author"><name name-style="western"><surname>Murphy</surname><given-names initials="J">Jeremy</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="ehf212498-cr-0014" contrib-type="author"><name name-style="western"><surname>Allgar</surname><given-names initials="V">Victoria</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="ehf212498-cr-0015" contrib-type="author"><name name-style="western"><surname>Cleland</surname><given-names initials="JGF">John G.F.</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="ehf212498-cr-0016" contrib-type="author"><name name-style="western"><surname>Clark</surname><given-names initials="AL">Andrew L.</given-names></name><xref ref-type="aff" rid="ehf212498-aff-0011">
+<sup>11</sup>
+</xref></contrib></contrib-group><aff id="ehf212498-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Wolfson Palliative Care Research Centre</named-content>
+<institution>University of Hull</institution>
+<city>Hull</city>
+<postal-code>HU6 7RX</postal-code>
+<country country="GB">UK</country>
+</aff><aff id="ehf212498-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">York Trials Unit</named-content>
+<institution>University of York</institution>
+<city>York</city>
+<country country="GB">UK</country>
+</aff><aff id="ehf212498-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">IMPACCT, Faculty of Health</named-content>
+<institution>University of Technology Sydney</institution>
+<city>Ultimo</city>
+<named-content content-type="country-part">NSW</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="ehf212498-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Hull York Medical School and York Trials Unit</named-content>
+<institution>University of York</institution>
+<city>York</city>
+<country country="GB">UK</country>
+</aff><aff id="ehf212498-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Calderdale &amp; Huddersfield Foundation Trust</named-content>
+<institution>Huddersfield Royal Infirmary</institution>
+<city>Huddersfield</city>
+<country country="GB">UK</country>
+</aff><aff id="ehf212498-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Scarborough Hospital</institution>
+<city>Scarborough</city>
+<country country="GB">UK</country>
+</aff><aff id="ehf212498-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Glasgow Royal Infirmary, University of Glasgow</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><aff id="ehf212498-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Darlington Memorial Hospital</institution>
+<city>Darlington</city>
+<country country="GB">UK</country>
+</aff><aff id="ehf212498-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Hull York Medical School and Department of Health Sciences</named-content>
+<institution>University of York</institution>
+<city>York</city>
+<country country="GB">UK</country>
+</aff><aff id="ehf212498-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Robertson Centre for Biostatistics &amp; Clinical Trials, Institute of Health &amp; Well‐being</named-content>
+<institution>University of Glasgow</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><aff id="ehf212498-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">Hull York Medical School</named-content>
+<institution>Castle Hill Hospital</institution>
+<city>Cottingham</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence to: Miriam J. Johnson, Wolfson Palliative Care Research Centre, University of Hull, Hull HU6 7RX, UK. Tel: 01482 463309.<break />
+Email: <email>miriam.johnson@hyms.ac.uk</email><break /></corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>8</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>6</volume><issue>6</issue><issue-id pub-id-type="pmc-issue-id">351211</issue-id><issue-id pub-id-type="doi">10.1002/ehf2.v6.6</issue-id><fpage>1149</fpage><lpage>1160</lpage><history><date date-type="received"><day>26</day><month>3</month><year>2019</year></date><date date-type="rev-recd"><day>19</day><month>5</month><year>2019</year></date><date date-type="accepted"><day>18</day><month>6</month><year>2019</year></date></history><pub-history><event event-type="pmc-release"><date><day>06</day><month>08</month><year>2019</year></date></event><event event-type="pmc-live"><date><day>03</day><month>02</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-16 17:25:15.530"><day>16</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. ESC Heart Failure published by John Wiley &amp; Sons Ltd on behalf of the European Society of Cardiology.</copyright-statement><license license-type="creativeCommonsBy"><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="EHF2-6-1149.pdf" /><self-uri content-type="pdf" ns1:href="file:EHF2-6-1149.pdf" /><abstract><title>Abstract</title><sec id="ehf212498-sec-0001"><title>Aims</title><p>Morphine is shown to relieve chronic breathlessness in chronic obstructive pulmonary disease. There are no definitive data in people with heart failure. We aimed to determine the effectiveness and cost‐effectiveness of 12 weeks morphine therapy for the relief of chronic breathlessness in people with chronic heart failure compared with placebo.</p></sec><sec id="ehf212498-sec-0002"><title>Methods and results</title><p>Parallel group, double‐blind, randomized, placebo‐controlled, phase III trial of 20 mg daily oral modified release morphine was conducted in 13 sites in England and Scotland: hospital/community cardiology or palliative care outpatients. The primary analysis compared between‐group numerical rating scale average breathlessness/24 hours at week 4 using a covariance pattern linear mixed model. Secondary outcomes included treatment‐emergent harms (worse or new). The trial closed early due to slow recruitment, randomizing 45 participants [average age 72 (range 39–89) years; 84% men; 98% New York Heart Association class III]. For the primary analysis, the adjusted mean difference was 0.26 (95% confidence interval, −0.86 to 1.37) in favour of placebo. All other breathlessness measures improved in both groups (week 4 change‐from‐baseline) but by more in those assigned to morphine. Neither group was excessively drowsy at baseline or week 4. There were no between‐group differences in quality of life (Kansas) or cognition (Montreal) at any time point. There was no exercise‐related desaturation and no change between baseline and week 4 in either group. There was no change in vital signs at week 4. The natriuretic peptide measures fell in both groups but by more in the morphine group [morphine 2169 (1092, 3851) pg/mL vs. placebo 2851 (1694, 5437)] pg/mL. There was no excess serious adverse events in the morphine group. Treatment‐emergent harms during the first week were more common in the morphine group; all apart from 1 were ≤ grade 2.</p></sec><sec id="ehf212498-sec-0003"><title>Conclusions</title><p>We could not answer our primary objectives due to inadequate power. However, we provide novel placebo‐controlled medium‐term benefit and safety data useful for clinical practice and future trial design. Morphine should only be prescribed in this population when other measures are unhelpful and with early management of side effects.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ehf212498-kwd-0001">Heart failure</kwd><kwd id="ehf212498-kwd-0002">Randomized controlled trial</kwd><kwd id="ehf212498-kwd-0003">Morphine</kwd><kwd id="ehf212498-kwd-0004">Breathlessness</kwd><kwd id="ehf212498-kwd-0005">Dyspnoea</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>British Heart Foundation </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000274</institution-id></institution-wrap></funding-source><award-id>CS/13/2/30584</award-id></award-group></funding-group><counts><fig-count count="2" /><table-count count="5" /><page-count count="12" /><word-count count="3847" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:29.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ehf212498-cit-0000">
+<string-name name-style="western">
+<surname>Johnson</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cockayne</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Currow</surname>, <given-names>D. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bell</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hicks</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fairhurst</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gabe</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torgerson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jefferson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oxberry</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghosh</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hogg</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murphy</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allgar</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>, <given-names>J. G. F.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Clark</surname>, <given-names>A. L.</given-names>
+</string-name> (<year>2019</year>) <article-title>Oral modified release morphine for breathlessness in chronic heart failure: a randomized placebo‐controlled trial</article-title>. <source xml:lang="en">ESC Heart Failure</source>, <volume>6</volume>: <fpage>1149</fpage>–<lpage>1160</lpage>. <pub-id pub-id-type="doi">10.1002/ehf2.12498</pub-id>.<pub-id pub-id-type="pmcid">PMC6989293</pub-id><pub-id pub-id-type="pmid">31389157</pub-id></mixed-citation>
+</p></notes></front><body id="ehf212498-body-0001"><sec id="ehf212498-sec-0004"><title>Introduction</title><p>Although modern medical therapy is successful in improving morbidity and mortality in patients with chronic heart failure, for some, breathlessness persists<xref rid="ehf212498-bib-0001" ref-type="ref">1</xref> despite optimal pharmacological therapy. Persisting breathlessness is associated with poorer physical and mental quality of life,<xref rid="ehf212498-bib-0002" ref-type="ref">2</xref> impaired activities of daily living,<xref rid="ehf212498-bib-0003" ref-type="ref">3</xref> increased unplanned hospital attendance<xref rid="ehf212498-bib-0004" ref-type="ref">4</xref> and admissions,<xref rid="ehf212498-bib-0005" ref-type="ref">5</xref> and higher mortality.<xref rid="ehf212498-bib-0003" ref-type="ref">3</xref> Although non‐pharmacological and pharmacological interventions can reduce its impact, its importance to patients is often neglected in guidelines and clinical trials.<xref rid="ehf212498-bib-0006" ref-type="ref">6</xref>, <xref rid="ehf212498-bib-0007" ref-type="ref">7</xref>, <xref rid="ehf212498-bib-0008" ref-type="ref">8</xref>
+</p><p>The perception of breathlessness is processed in brain areas<xref rid="ehf212498-bib-0009" ref-type="ref">9</xref> rich in opioid receptors.<xref rid="ehf212498-bib-0010" ref-type="ref">10</xref> Endogenous opioids reduce breathlessness, whereas the opioid antagonist, naloxone, increases exertion‐induced breathlessness by blocking the effects of endogenous opioids on the brain.<xref rid="ehf212498-bib-0011" ref-type="ref">11</xref>, <xref rid="ehf212498-bib-0012" ref-type="ref">12</xref> In people with chronic breathlessness due to a range of causes, but mainly chronic obstructive pulmonary disease, regular, low dose, modified release morphine is safe and effective in the short term (7 days).<xref rid="ehf212498-bib-0007" ref-type="ref">7</xref>, <xref rid="ehf212498-bib-0013" ref-type="ref">13</xref> However, the evidence is less clear in people with chronic heart failure.<xref rid="ehf212498-bib-0014" ref-type="ref">14</xref>, <xref rid="ehf212498-bib-0015" ref-type="ref">15</xref> Preliminary data suggest that people with chronic heart failure may benefit from morphine given for 3 months.<xref rid="ehf212498-bib-0016" ref-type="ref">16</xref> Despite the lack of definitive data, morphine is used in clinical practice although there is wide variation in willingness to prescribe, dosing, and quality of monitoring. Potential problems are (i) patients may be denied a helpful medication (due to unfounded fears about harms<xref rid="ehf212498-bib-0017" ref-type="ref">17</xref> and addiction);<xref rid="ehf212498-bib-0018" ref-type="ref">18</xref> (ii) they may have a poorly monitored, suboptimal regime; and (iii) there may be no net benefit in the longer term (although there is no evidence of tachyphylaxis to date).</p><p>We therefore designed BreatheMOR‐HF to determine whether morphine therapy given for up to 12 weeks is superior to placebo for the relief of chronic breathlessness in ambulatory patients with chronic heart failure who remained symptomatic despite guideline‐recommended medical therapy. The trial closed early due to poor recruitment but collected important medium‐term placebo‐controlled data especially on toxicity and safety, which we report here.</p></sec><sec id="ehf212498-sec-0005"><title>Methods</title><sec id="ehf212498-sec-0006"><title>Trial design</title><p>BreatheMOR‐HF was a 12 week, parallel group, double‐blind, randomized, placebo‐controlled, fixed dosed, multi‐site, phase III trial of 20 mg daily oral modified release morphine measuring breathlessness intensity in ambulatory patients with symptomatic chronic heart failure.</p></sec><sec id="ehf212498-sec-0007"><title>Participants and setting</title><p>Patients from 13 centres in England and Scotland, attending hospital/community cardiology or palliative care clinics or hospices, were screened by research nurses in conjunction with the patients' usual clinical team. Eligible participants (i) were aged ≥18 years; (ii) had New York Heart Association (NYHA) class III/IV symptoms; (iii) had either left ventricular systolic dysfunction defined as left ventricular ejection fraction &lt;40% or left ventricular ejection fraction &gt;40% and left ventricular hypertrophy, left atrial dilation or abnormal diastolic function; (iv) had N‐terminal‐pro‐B‐type natriuretic peptide ≥1000 pg/mL or B‐type natriuretic peptide ≥250 pg/mL within the last 3 months; (v) were on a guideline‐recommended medical treatment for chronic heart failure and unchanged for ≥2 weeks; (vi) had a glomerular filtration rate ≥30 mL/min(/1.73m<sup>2</sup>) within 2 weeks; and (vii) scored ≥grade 2 on the modified Medical Research Council (mMRC) breathlessness scale.</p><p>Optimal medical management for people with reduced left ventricular function was defined as a maximally tolerated dose of an inhibitor of the renin‐angiotensin system and a beta‐adrenoceptor antagonist and a mineralocorticoid receptor antagonist. People with preserved left ventricular function were required only to receive diuretics and treatment for ventricular rate control for atrial fibrillation. Patients unable to provide written informed consent or complete study questionnaires, had co‐existing relevant neoplasia, had used opioids regularly within the last month at a daily dose ≥ study dose, or had a documented contra‐indication to morphine were excluded.</p></sec><sec id="ehf212498-sec-0008"><title>Randomization</title><p>Random allocations (1:1; stratified block randomization by centre; randomly permuted block sizes of 2 and 4; investigators blinded to block size) were centrally generated by an online secure service (sealed envelope™) following eligibility data entry of consented participants by a site researcher.</p></sec><sec id="ehf212498-sec-0009"><title>Approvals</title><p>The protocol, amendments, and trial documentation were approved by the North West‐Liverpool Central Research Ethics Committee (ref. 14/NW/0277; 7 January 2014). Medicines and Healthcare products Regulatory Agency approval was received (9 November 2014). NHS site approvals were obtained, and the trial was registered (ISRCTN41349358) prior to recruitment.</p></sec><sec id="ehf212498-sec-0010"><title>Intervention and comparator</title><p>Participants were allocated to capsules of 10 mg modified release morphine [MST® CONTINUS® (<ext-link ext-link-type="uri" ns1:href="https://www.medicines.org.uk/emc/product/7666/smpc">https://www.medicines.org.uk/emc/product/7666/smpc</ext-link>)] or placebo that were identical in appearance, taste, and smell. Capsules were to be taken orally twice daily.</p></sec><sec id="ehf212498-sec-0011"><title>Blinding</title><p>Participants, research team members, and clinicians were blind to treatment allocation. Site pharmacists received the capsules unblinded with a tear‐off strip to allow blinding at the time of dispensing. To prevent unblinding due to constipation, a laxative (100 mg docusate) capsule was given twice daily to patients assigned to morphine and an identical placebo to those assigned to the placebo‐control group.</p></sec><sec id="ehf212498-sec-0012"><title>Procedures</title><p>Participants' demographic and clinical details were recorded at baseline prior to randomization. Serum urea, electrolytes, and creatinine were measured within 2 weeks of randomization. Renal clearance was assessed using estimated glomerular filtration rate or calculated using the Cockroft and Gault method.<xref rid="ehf212498-bib-0019" ref-type="ref">19</xref> The Charlson Comorbidity Score<xref rid="ehf212498-bib-0020" ref-type="ref">20</xref> and modified Medical Research Council breathlessness scale<xref rid="ehf212498-bib-0021" ref-type="ref">21</xref> were also recorded at baseline.</p><p>Outcome data were collected at days 2, 4, and 7 and weeks 2, 3, 4, 8, and 12 after randomization during home or clinic visits or by telephone (depending upon the outcomes and patient preference).</p><p>The primary endpoint was measured at week 4. Capsules were dispensed at baseline and at 4 and 8 weeks. Each time, 56 morphine/placebo and 56 placebo/docusate capsules were dispensed. Participants were advised not to drive during the first week and asked to return unused capsules for compliance reconciliation.</p><p>At the end of 12 weeks, participants could choose whether to take open‐label morphine following the same regimen as the trial but prescribed and monitored by their usual‐care clinician. The trial was closed early, due to slow recruitment, in May 2018; the last participant completed follow‐up in August 2018.</p></sec><sec id="ehf212498-sec-0013"><title>Outcomes</title><p>The primary outcome measure was the average numerical rating scale breathlessness intensity score over the previous 24 h<xref rid="ehf212498-bib-0022" ref-type="ref">22</xref> assessed at 4 weeks. <italic toggle="yes">Table</italic>
+<xref rid="ehf212498-tbl-0001" ref-type="table">1</xref> details primary and secondary outcomes.</p><table-wrap id="ehf212498-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Overview of primary and secondary outcomes</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><tbody valign="top"><tr><td rowspan="3" align="left" valign="top" colspan="1">Primary outcome</td><td align="left" valign="top" rowspan="1" colspan="1">Average breathlessness over the previous 24 h [baseline, D2, D4, D7, W2, W3, W4 (primary time point), W8, and W12]</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ 0–10 (11 points) NRS<xref rid="ehf212498-bib-0022" ref-type="ref">22</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ 0 = none to 10 = worst imaginable</td></tr><tr><td rowspan="6" align="left" valign="top" colspan="1">Other breathlessness assessments</td><td align="left" valign="top" rowspan="1" colspan="1">Intensity of worst breathlessness over the previous 24 h; distress due to breathlessness over the previous 24 h; unpleasantness of breathlessness over the previous 24 h (baseline, D2, D4, D7, W2, W3, W4, W8, and W12)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ 0–10 (11 points) NRS<xref rid="ehf212498-bib-0022" ref-type="ref">22</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ 0 = none to 10 = worst imaginable</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Global impression of change (W4)<xref rid="ehf212498-bib-0023" ref-type="ref">23</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Subjective measure of response to treatment</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Participants asked if their breathlessness has changed and by how much using a verbal rating scale</td></tr><tr><td rowspan="8" align="left" valign="top" colspan="1">Related symptoms</td><td align="left" valign="top" rowspan="1" colspan="1">Average pain over previous 24 h (baseline, D2, D4, D7, W2, W3, W4, W8, and W12)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ 0–10 (11 point) NRS<xref rid="ehf212498-bib-0024" ref-type="ref">24</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ 0 = no pain to 10 = worst imaginable pain</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Epworth Sleepiness Scale (ESS; baseline and W4)<xref rid="ehf212498-bib-0025" ref-type="ref">25</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Screening tool for sleep‐disordered breathing</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Specifically distinguishes reports of daytime dozing behaviour from fatigue and drowsiness/sleepiness</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Scores between 0 and 24</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Higher scores indicate excessive sleepiness (11–12 mild; 13–16 moderate; &gt;16 severe)</td></tr><tr><td rowspan="16" align="left" valign="top" colspan="1">Functional and performance status</td><td align="left" valign="top" rowspan="1" colspan="1">6 min walk test (6MWT; baseline and W4)<xref rid="ehf212498-bib-0026" ref-type="ref">26</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Recorded distance walked in metres and O<sub>2</sub> saturation at rest and post‐test</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Physical activity monitoring (activPAL™ step count; baseline and W4)<xref rid="ehf212498-bib-0027" ref-type="ref">27</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ activPAL™ worn for 7 days at baseline prior to randomization and for 7 days prior to week 4</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Discriminates between sedentary, upright, and stepping activities</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Average daily step count documented</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Montreal Cognitive Assessment (MoCA; baseline and W4. Shortened telephone‐based MoCA administered at D4 and D7)<xref rid="ehf212498-bib-0028" ref-type="ref">28</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ 30‐item questionnaire assessing cognitive function</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Scores between 0 and 30; ≥26 implies no cognitive impairment (telephone version scored 0 to 16)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Items that could be administered by phone assessed on Days 4 and 7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">New York Heart Association class (NYHA; baseline, W4, and W12)<xref rid="ehf212498-bib-0029" ref-type="ref">29</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Four classes based on symptoms (I, II, III, and IV)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Class IV denotes worst symptom status</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Australia‐modified Karnofsky Performance Status (AKPS; baseline, W4, and W12)<xref rid="ehf212498-bib-0030" ref-type="ref">30</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Validated variant of Karnofsky Performance Status</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Scored 0 to 100 in increments of 10 assigned to participants based on ability to perform activities of daily living; higher scores imply better function</td></tr><tr><td rowspan="4" align="left" valign="top" colspan="1">Quality of life</td><td align="left" valign="top" rowspan="1" colspan="1">Kansas City Cardiomyopathy Questionnaire‐short form (KCCQ‐12; baseline, W4, and W12)<xref rid="ehf212498-bib-0031" ref-type="ref">31</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ 12‐item, self‐administered instrument quantifying physical function, symptoms (frequency, severity, and recent change), social function, self‐efficacy and knowledge, and quality of life</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Combined single, overall summary score between 0 and 100</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Higher scores indicate better functioning, fewer symptoms, and better disease‐specific quality of life</td></tr><tr><td rowspan="9" align="left" valign="top" colspan="1">Harms<xref ref-type="fn" rid="ehf212498-note-0001">a</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Opioid‐relevant symptoms during each assessment using criteria established by the National Cancer Institute (version 4.03) and graded accordingly (baseline, D2, D4, D7, W2, W3, W4, W8, and W12)<xref rid="ehf212498-bib-0032" ref-type="ref">32</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Constipation</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Confusion</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Nausea</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Vomiting</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Memory impairment</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Cognitive impairment</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Karolinska Sleepiness Scale (KSS; baseline, D2, D4, D7, W2, W3, and W4)<xref rid="ehf212498-bib-0033" ref-type="ref">33</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ 9‐point Likert scale of the patient's level of drowsiness (1 = very alert to 9 = very sleepy)</td></tr><tr><td rowspan="6" align="left" valign="top" colspan="1">Health economic assessment</td><td align="left" valign="top" rowspan="1" colspan="1">EuroQoL EQ‐5D‐5L (baseline, W4, W8, and W12)<xref rid="ehf212498-bib-0034" ref-type="ref">34</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Self‐administered, validated measure of health status</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Five dimensions: mobility, self‐care, usual activities, pain/discomfort, and anxiety/depression</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Five levels [Level 1 = no problems, Level 2 = slight problems, Level 3 = moderate problems, Level 4 = severe problems, Level 5 = unable (or extreme)] and a visual analogue self‐rating scale</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Health service use (baseline, W4, W8, and W12)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Participants recall specified service use over the past 4 weeks</td></tr><tr><td rowspan="8" align="left" valign="top" colspan="1">Clinical assessments</td><td align="left" valign="top" rowspan="1" colspan="1">Standard examination (baseline and W4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Resting pulse rate and blood pressure</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Resting respiratory rate</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Pulse oximetry</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">N‐terminal proBNP (B‐type natriuretic peptide) measurement (baseline and W4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ For sites with access to this test as part of clinical practice</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dose of ‘as required' immediate release opioid for breathlessness (W4 and W12)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">○ Patient diary: if, when, and the dose of any ‘as required' dose of immediate release opioid solution taken for breathlessness</td></tr></tbody></table><table-wrap-foot id="ehf212498-ntgp-0001"><fn id="ehf212498-note-0001"><label>a</label><p>Known opioid‐related adverse events were measured at baseline and during follow‐up.</p></fn></table-wrap-foot></table-wrap></sec><sec id="ehf212498-sec-0014"><title>Sample size</title><p>Based on our previous data,<xref rid="ehf212498-bib-0015" ref-type="ref">15</xref> a 1 point difference on the breathlessness scale was chosen to demonstrate a minimum clinically important difference. In order to detect this difference between the groups at 4 weeks with 90% power at 5% significance (and assuming a standard deviation of 2.55, giving a medium effect size of 0.4), 138 patients were required in each group. Allowing for 20% attrition, we needed 346 patients (173 to each group).</p></sec><sec id="ehf212498-sec-0015"><title>Statistical analysis</title><p>Analyses were conducted in Stata v13 (StataCorp. 2013. Stata Statistical Software: Release 13. College Station, TX: StataCorp LP) on an intention‐to‐treat basis. Statistical tests were two‐sided at 5% significance level. Baseline data are summarized overall and by trial arm both by randomization and separately for participants providing data to the primary endpoint. No statistical comparisons between treatment groups were undertaken on baseline data.</p><p>The primary analysis compared the NRS average breathlessness at week 4 between the morphine and placebo groups using a covariance pattern linear mixed model. The outcomes were numerical rating scale at each post‐randomization time point (≤week 12), nested within patients. Scores at baseline, trial arm, time point, and a time‐by‐trial arm interaction were included as fixed‐effects with participant and site as random‐effects. An independent covariance structure for the repeated measurements was used as this provided the smallest Akaike's information criterion.<xref rid="ehf212498-bib-0035" ref-type="ref">35</xref>
+</p><p>The adjusted mean difference, with its associated 95% confidence interval and <italic toggle="yes">P</italic> value, between the two groups for the week 4 time point was extracted from the model.</p><p>The secondary outcomes of the Australian‐modified Karnofsky Performance Scale, Kansas City Cardiomyopathy Questionnaire‐12, and Karolinska Sleepiness Scale were similarly analysed. The Epworth Sleep Scale, Montreal Cognitive Assessment, 6 min walk test, and activPAL™ were analysed using mixed‐effect linear regression to compare the scores at week 4 adjusting for baseline score and site as a random effect (i.e. repeated measures per participant not required to be included).</p><p>Data on study drug use are described in Supporting Information, <italic toggle="yes">Table</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S5</italic>
+</xref>, with adverse event data presented by trial arm in Supporting Information, <italic toggle="yes">Tables</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S4A</italic>
+</xref> and <xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S4B</italic>
+</xref> and on harms in Supporting Information, <italic toggle="yes">Tables</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S5A</italic>
+</xref> and <xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S5B</italic>
+</xref>.</p><p>A full cost‐effectiveness analysis was originally planned; however, as the study is underpowered, EQ‐5D‐5L and health resource use data are summarized descriptively (Supporting Information, <italic toggle="yes">Tables</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S4A</italic>
+</xref> and <xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S4B</italic>
+</xref>).</p><p>This study report uses the CONSORT framework for reporting randomized clinical trials.<xref rid="ehf212498-bib-0036" ref-type="ref">36</xref>
+</p></sec></sec><sec id="ehf212498-sec-0016"><title>Results</title><p>Thirteen sites opened to recruitment and seven randomized at least one participant. The first participant was randomized in June 2016 and recruitment closed in May 2017; by which time, 45 patients had been recruited and randomized (21 to morphine and 24 to placebo).</p><p>Altogether, 386 patients were screened between December 2015 and May 2017 (median 27 per site, range 0–55), of whom 287 (74%) were ineligible, 53 (14%) declined, and one (0.3%) was eligible but the trial closed prior to their randomization. The most common reasons for ineligibility were the absence of NYHA functional class III or IV (<italic toggle="yes">n</italic> = 59) and natriuretic peptide plasma concentrations below the inclusion criteria (<italic toggle="yes">n</italic> = 34) (<italic toggle="yes">Figure</italic>
+<xref rid="ehf212498-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ehf212498-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>CONSORT flow diagram of participant through the BreatheMOR‐HF trial.</p></caption><graphic id="nlm-graphic-1" position="float" orientation="portrait" ns1:href="EHF2-6-1149-g001.jpg" /></fig><p>The average age of randomized participants was 72 years (range 39–89), and 84% were men (<italic toggle="yes">Table</italic>
+<xref rid="ehf212498-tbl-0002" ref-type="table">2</xref>). All but one had NYHA class III symptoms, and 78% had mMRC breathlessness grade 3 or 4. Baseline characteristics were generally well balanced, but those assigned to placebo had more severe breathlessness on the mMRC scale (<italic toggle="yes">Table</italic>
+<xref rid="ehf212498-tbl-0002" ref-type="table">2</xref>).</p><table-wrap id="ehf212498-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Baseline characteristics by randomized group, as randomized and as included in the primary outcome analysis</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1" /><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">As randomized</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">As analysed</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Characteristic<xref ref-type="fn" rid="ehf212498-note-0002">a</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Morphine (<italic toggle="yes">n</italic> = 21)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 24)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Morphine (<italic toggle="yes">n</italic> = 20)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 23)</th></tr></thead><tbody valign="top"><tr><td colspan="5" align="left" valign="top" rowspan="1">Sex</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="char" valign="top" rowspan="1" colspan="1">18 (85.7)</td><td align="char" valign="top" rowspan="1" colspan="1">20 (83.3)</td><td align="char" valign="top" rowspan="1" colspan="1">17 (85.0)</td><td align="char" valign="top" rowspan="1" colspan="1">20 (87.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="char" valign="top" rowspan="1" colspan="1">3 (14.3)</td><td align="char" valign="top" rowspan="1" colspan="1">4 (16.7)</td><td align="char" valign="top" rowspan="1" colspan="1">3 (15.0)</td><td align="char" valign="top" rowspan="1" colspan="1">3 (13.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, years</td><td align="char" valign="top" rowspan="1" colspan="1">74.4 (6.0)</td><td align="char" valign="top" rowspan="1" colspan="1">70.1 (14.0)</td><td align="char" valign="top" rowspan="1" colspan="1">74.1 (6.0)</td><td align="char" valign="top" rowspan="1" colspan="1">71.5 (12.6)</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Ethnicity</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">White</td><td align="char" valign="top" rowspan="1" colspan="1">21 (100.0)</td><td align="char" valign="top" rowspan="1" colspan="1">24 (100.0)</td><td align="char" valign="top" rowspan="1" colspan="1">21 (100.0)</td><td align="char" valign="top" rowspan="1" colspan="1">24 (100.0)</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">NYHA class</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">III</td><td align="char" valign="top" rowspan="1" colspan="1">20 (95.2)</td><td align="char" valign="top" rowspan="1" colspan="1">24 (100.0)</td><td align="char" valign="top" rowspan="1" colspan="1">19 (95.0)</td><td align="char" valign="top" rowspan="1" colspan="1">23 (100.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">IV</td><td align="char" valign="top" rowspan="1" colspan="1">1 (4.8)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (5.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Resting pulse rate (per min) (radial)</td><td align="char" valign="top" rowspan="1" colspan="1">77.0 (24.0)</td><td align="char" valign="top" rowspan="1" colspan="1">77.0 (11.2)</td><td align="char" valign="top" rowspan="1" colspan="1">76.8 (24.6)</td><td align="char" valign="top" rowspan="1" colspan="1">77.1 (11.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Resting systolic blood pressure, mmHg</td><td align="char" valign="top" rowspan="1" colspan="1">119.8 (24.2)</td><td align="char" valign="top" rowspan="1" colspan="1">116.1 (14.5)</td><td align="char" valign="top" rowspan="1" colspan="1">121.3 (23.8)</td><td align="char" valign="top" rowspan="1" colspan="1">116.4 (14.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Resting diastolic blood pressure, mmHg</td><td align="char" valign="top" rowspan="1" colspan="1">69.4 (12.3)</td><td align="char" valign="top" rowspan="1" colspan="1">68.0 (11.6)</td><td align="char" valign="top" rowspan="1" colspan="1">70.2 (12.1)</td><td align="char" valign="top" rowspan="1" colspan="1">68.7 (11.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Resting respiratory rate (per min)</td><td align="char" valign="top" rowspan="1" colspan="1">17.9 (6.8)</td><td align="char" valign="top" rowspan="1" colspan="1">15.6 (4.4)</td><td align="char" valign="top" rowspan="1" colspan="1">18.2 (6.8)</td><td align="char" valign="top" rowspan="1" colspan="1">15.4 (4.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pulse oximetry, %</td><td align="char" valign="top" rowspan="1" colspan="1">97.1 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">96.7 (1.6)</td><td align="char" valign="top" rowspan="1" colspan="1">97.1 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">96.7 (1.7)</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">mMRC grade<xref ref-type="fn" rid="ehf212498-note-0003">b</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2</td><td align="char" valign="top" rowspan="1" colspan="1">7 (33.3)</td><td align="char" valign="top" rowspan="1" colspan="1">3 (12.5)</td><td align="char" valign="top" rowspan="1" colspan="1">7 (35.0)</td><td align="char" valign="top" rowspan="1" colspan="1">3 (13.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">3</td><td align="char" valign="top" rowspan="1" colspan="1">11 (52.4)</td><td align="char" valign="top" rowspan="1" colspan="1">21 (87.5)</td><td align="char" valign="top" rowspan="1" colspan="1">10 (50.0)</td><td align="char" valign="top" rowspan="1" colspan="1">21 (87.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">4</td><td align="char" valign="top" rowspan="1" colspan="1">3 (14.3)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">3 (15.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">eGFR, mL/min</td><td align="char" valign="top" rowspan="1" colspan="1">53.0 (18.2)</td><td align="char" valign="top" rowspan="1" colspan="1">62.2 (21.4)</td><td align="char" valign="top" rowspan="1" colspan="1">53.9 (18.2)</td><td align="char" valign="top" rowspan="1" colspan="1">61.8 (21.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NTproBNP, pg/mL<xref ref-type="fn" rid="ehf212498-note-0004">c</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 20, 2963 (1883, 4743)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 22, 2587 (1436, 4636)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 19, 2843 (1860, 4230)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 21, 2646 (1761, 4636)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BNP, pg/mL</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 1, 528 (−)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 2, 844 (−)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 1, 528 (−)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> = 2, 844 (−)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Charlson Comorbidity Index</td><td align="char" valign="top" rowspan="1" colspan="1">6.7 (1.4)</td><td align="char" valign="top" rowspan="1" colspan="1">6.2 (2.3)</td><td align="char" valign="top" rowspan="1" colspan="1">6.7 (1.5)</td><td align="char" valign="top" rowspan="1" colspan="1">6.4 (2.0)</td></tr></tbody></table><table-wrap-foot id="ehf212498-ntgp-0002"><fn id="ehf212498-note-0002"><label>a</label><p>Continuous data are presented as mean (SD) and categorical data as <italic toggle="yes">n</italic> (%).</p></fn><fn id="ehf212498-note-0003"><label>b</label><p>0 = not troubled by breathlessness except on strenuous exercise; 1 = short of breath when hurrying or walking up a slight hill; 2 = walks slower than contemporaries on the level because of breathlessness or has to stop for breath when walking at own pace; 3 = stops for breath after about 100 m or after a few minutes on the level; 4 = too breathless to leave the house or breathless when dressing or undressing.</p></fn><fn id="ehf212498-note-0004"><label>c</label><p>NTproBNP conducted by certain sites only; data are presented as median and interquartile range.</p></fn></table-wrap-foot></table-wrap><p>For the primary endpoint, the raw mean (standard deviation) scores were 5.3 (2.3) for those assigned to morphine (<italic toggle="yes">n</italic> = 20) and 4.6 (2.4) for those assigned to placebo (<italic toggle="yes">n</italic> = 23) (<italic toggle="yes">Table</italic>
+<xref rid="ehf212498-tbl-0003" ref-type="table">3</xref>). The adjusted mean difference was 0.26 (95% confidence interval, −0.86 to 1.37, <italic toggle="yes">P</italic> = 0.65) in favour of the placebo group (<italic toggle="yes">Figure</italic>
+<xref rid="ehf212498-fig-0002" ref-type="fig">
+<italic toggle="yes">2</italic>
+</xref>). No adjusted mean difference of 1 point or more (clinically important difference) was observed at 4 weeks between the groups for any NRS item.</p><table-wrap id="ehf212498-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Raw NRS summary scores for breathlessness by randomized group and time point, with adjusted mean difference between the groups at primary time point of 4 weeks</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">NRS [0 (best) to 10 (worst)] <italic toggle="yes">N</italic>, Mean (SD)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Time point</th><th align="center" valign="bottom" rowspan="1" colspan="1">Morphine (<italic toggle="yes">n</italic> = 21)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 24)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Total (<italic toggle="yes">n</italic> = 45)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Adjusted mean difference at W4 (95% CI), <italic toggle="yes">P</italic> value</th></tr></thead><tbody valign="top"><tr><td rowspan="9" align="left" valign="top" colspan="1">How bad has your breathlessness felt on average over the past 24 h?</td><td align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">21, 5.8 (2.0)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 5.0 (1.9)</td><td align="char" valign="top" rowspan="1" colspan="1">45, 5.3 (1.9)</td><td rowspan="9" align="char" char="(" valign="top" colspan="1">0.26 (−0.86 to 1.37), <italic toggle="yes">P</italic> = 0.65</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D2</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.7 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 4.7 (1.6)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 4.7 (1.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D4</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.4 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 4.5 (1.7)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 4.5 (1.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D7</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.6 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 4.7 (1.7)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 4.6 (2.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W2</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.8 (2.4)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 4.7 (2.0)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 4.8 (2.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W3</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.7 (2.4)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 4.0 (2.2)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 4.3 (2.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W4</td><td align="char" valign="top" rowspan="1" colspan="1">20, 5.3 (2.3)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 4.6 (2.4)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 4.9 (2.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W8</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.9 (2.4)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 4.9 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 4.9 (2.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W12</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.6 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">22, 5.0 (2.2)</td><td align="char" valign="top" rowspan="1" colspan="1">42, 4.8 (2.4)</td></tr><tr><td rowspan="9" align="left" valign="top" colspan="1">How bad has your breathlessness felt at its worst over the past 24 h?</td><td align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">21, 7.2 (2.4)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 6.2 (1.9)</td><td align="char" valign="top" rowspan="1" colspan="1">45, 6.7 (2.2)</td><td rowspan="9" align="char" char="(" valign="top" colspan="1">0.15 (−1.13 to 1.44), <italic toggle="yes">P</italic> = 0.82</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D2</td><td align="char" valign="top" rowspan="1" colspan="1">20, 5.2 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 5.2 (2.2)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 5.2 (2.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D4</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.5 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 5.1 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 4.8 (2.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D7</td><td align="char" valign="top" rowspan="1" colspan="1">20, 5.2 (2.8)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 5.3 (2.3)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 5.3 (2.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W2</td><td align="char" valign="top" rowspan="1" colspan="1">20, 5.3 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 5.1 (2.0)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 5.2 (2.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W3</td><td align="char" valign="top" rowspan="1" colspan="1">20, 5.0 (2.3)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 4.4 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 4.7 (2.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W4</td><td align="char" valign="top" rowspan="1" colspan="1">20, 5.9 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 5.3 (2.6)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 5.6 (2.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W8</td><td align="char" valign="top" rowspan="1" colspan="1">20, 6.0 (2.8)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 5.3 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 5.6 (2.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W12</td><td align="char" valign="top" rowspan="1" colspan="1">20, 5.1 (2.8)</td><td align="char" valign="top" rowspan="1" colspan="1">22, 5.5 (2.0)</td><td align="char" valign="top" rowspan="1" colspan="1">42, 5.3 (2.4)</td></tr><tr><td rowspan="9" align="left" valign="top" colspan="1">How unpleasant has your breathlessness been on average over the past 24 h?</td><td align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">21, 5.6 (2.4)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 4.5 (2.0)</td><td align="char" valign="top" rowspan="1" colspan="1">45, 5.0 (2.2)</td><td rowspan="9" align="char" char="(" valign="top" colspan="1">−0.15 (−1.48 to 1.17), <italic toggle="yes">P</italic> = 0.82</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D2</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.3 (2.2)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 4.0 (1.8)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 4.1 (2.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D4</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.0 (2.2)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 3.8 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 3.9 (2.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D7</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.4 (2.8)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 3.8 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 4.1 (2.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W2</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.3 (2.7)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 4.4 (2.2)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 4.4 (2.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W3</td><td align="char" valign="top" rowspan="1" colspan="1">19, 3.8 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 2.9 (2.2)</td><td align="char" valign="top" rowspan="1" colspan="1">42, 3.3 (2.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W4</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.7 (2.8)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 4.3 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 4.4 (2.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W8</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.3 (2.6)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 4.1 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 4.2 (2.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W12</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.3 (3.0)</td><td align="char" valign="top" rowspan="1" colspan="1">22, 4.3 (2.6)</td><td align="char" valign="top" rowspan="1" colspan="1">42, 4.3 (2.7)</td></tr><tr><td rowspan="9" align="left" valign="top" colspan="1">How much distress has your breathlessness caused you on average over the past 24 h?</td><td align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">21, 5.7 (2.4)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 4.1 (2.3)</td><td align="char" valign="top" rowspan="1" colspan="1">45, 4.8 (2.5)</td><td rowspan="9" align="char" char="(" valign="top" colspan="1">−0.55 (−1.99 to 0.88), <italic toggle="yes">P</italic> = 0.45</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D2</td><td align="char" valign="top" rowspan="1" colspan="1">20, 3.3 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 3.3 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 3.3 (2.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D4</td><td align="char" valign="top" rowspan="1" colspan="1">20, 2.7 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 3.1 (2.7)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 2.9 (2.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D7</td><td align="char" valign="top" rowspan="1" colspan="1">20, 3.5 (3.0)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 3.3 (2.3)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 3.4 (2.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W2</td><td align="char" valign="top" rowspan="1" colspan="1">20, 3.8 (3.2)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 3.1 (2.6)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 3.4 (2.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W3</td><td align="char" valign="top" rowspan="1" colspan="1">20, 3.3 (2.7)</td><td align="char" valign="top" rowspan="1" colspan="1">22, 2.8 (2.4)</td><td align="char" valign="top" rowspan="1" colspan="1">42, 3.0 (2.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W4</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.2 (3.3)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 3.8 (2.6)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 4.0 (2.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W8</td><td align="char" valign="top" rowspan="1" colspan="1">20, 4.2 (3.1)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 3.6 (2.6)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 3.8 (2.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W12</td><td align="char" valign="top" rowspan="1" colspan="1">20, 3.8 (2.9)</td><td align="char" valign="top" rowspan="1" colspan="1">22, 4.0 (2.4)</td><td align="char" valign="top" rowspan="1" colspan="1">42, 3.9 (2.6)</td></tr><tr><td rowspan="9" align="left" valign="top" colspan="1">How much pain have you had on average over the past 24 h?</td><td align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">21, 1.9 (3.1)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 1.2 (2.1)</td><td align="char" valign="top" rowspan="1" colspan="1">45, 1.5 (2.6)</td><td rowspan="9" align="char" char="(" valign="top" colspan="1">−0.05 (−1.29 to 1.20), <italic toggle="yes">P</italic> = 0.94</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D2</td><td align="char" valign="top" rowspan="1" colspan="1">20, 1.3 (2.4)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 1.3 (2.0)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 1.3 (2.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D4</td><td align="char" valign="top" rowspan="1" colspan="1">20, 1.3 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 0.9 (1.7)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 1.0 (2.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">D7</td><td align="char" valign="top" rowspan="1" colspan="1">18, 0.8 (1.9)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 0.7 (1.6)</td><td align="char" valign="top" rowspan="1" colspan="1">42, 0.8 (1.7)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W2</td><td align="char" valign="top" rowspan="1" colspan="1">20, 1.3 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">24, 0.8 (1.4)</td><td align="char" valign="top" rowspan="1" colspan="1">44, 1.0 (2.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W3</td><td align="char" valign="top" rowspan="1" colspan="1">20, 0.9 (1.9)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 1.0 (1.6)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 0.9 (1.7)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W4</td><td align="char" valign="top" rowspan="1" colspan="1">20, 1.5 (2.8)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 1.1 (1.9)</td><td align="char" valign="top" rowspan="1" colspan="1">43, 1.3 (2.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W8</td><td align="char" valign="top" rowspan="1" colspan="1">19, 1.9 (3.4)</td><td align="char" valign="top" rowspan="1" colspan="1">23, 1.8 (3.0)</td><td align="char" valign="top" rowspan="1" colspan="1">42, 1.8 (3.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">W12</td><td align="char" valign="top" rowspan="1" colspan="1">20, 2.0 (3.3)</td><td align="char" valign="top" rowspan="1" colspan="1">22, 0.9 (2.0)</td><td align="char" valign="top" rowspan="1" colspan="1">42, 1.4 (2.8)</td></tr></tbody></table></table-wrap><fig fig-type="Figure" xml:lang="en" id="ehf212498-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Mean average breathlessness by randomized group and time point as measured on a numerical rating scale from 0 (no breathlessness) to 10 (worst imaginable breathlessness) adjusted for baseline NRS.</p></caption><graphic id="nlm-graphic-3" position="float" orientation="portrait" ns1:href="EHF2-6-1149-g002.jpg" /></fig><p>From baseline to week 4, breathlessness measures, notably unpleasantness of, and distress due to, breathlessness improved in both groups (<italic toggle="yes">Table</italic>
+<xref rid="ehf212498-tbl-0003" ref-type="table">3</xref>). The improvement was greater in those assigned to morphine compared with placebo in all but average intensity. All breathlessness scores increased further during subsequent weeks in those assigned to morphine but not in those assigned to placebo. Subjective global impression of change ratings are presented in Supporting Information, <italic toggle="yes">Table</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>.</p><p>The median Australian‐modified Karnofsky Performance Status was 70 for both groups across all time points (<italic toggle="yes">Table</italic>
+<xref rid="ehf212498-tbl-0004" ref-type="table">4</xref>; secondary outcomes). Neither group was excessively sleepy or drowsy at baseline or week 4. There were no between‐group differences in the quality of life (Kansas) or cognition (Montreal) at any time point. At week 4, there was a raw mean difference of 1113 steps per day favouring the placebo group (activPAL™) but of 7.4 m in the walk test favouring the morphine group. There was no exercise‐related desaturation and no change between baseline and week 4 in either group. There was no change in vital signs at week 4. The natriuretic peptide measures fell in both groups but by more in the morphine group (Supporting Information, <italic toggle="yes">Table</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S2</italic>
+</xref>).</p><table-wrap id="ehf212498-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Other secondary outcome scores by randomized group and time point</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="char" char="." span="1" /><col align="char" char="(" span="1" /><col align="char" char="." span="1" /><col align="char" char="(" span="1" /><col align="char" char="." span="1" /><col align="char" char="(" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Morphine (<italic toggle="yes">n</italic> = 21)</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Placebo (<italic toggle="yes">n</italic> = 24)</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Total (<italic toggle="yes">n</italic> = 45)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Adjusted mean difference at W4 (95% CI), <italic toggle="yes">P</italic> value</th></tr></thead><tbody valign="top"><tr><td colspan="8" align="left" valign="top" rowspan="1">Australian‐modified Karnofsky Performance Status [10 (comatose) to 100 (normal)]</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">21</td><td align="char" valign="top" rowspan="1" colspan="1">70 (60, 80)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">70 (60, 70)</td><td align="char" valign="top" rowspan="1" colspan="1">45</td><td align="char" valign="top" rowspan="1" colspan="1">70 (60, 70)</td><td rowspan="3" align="char" char="(" valign="top" colspan="1">−2.1 (−7.0 to 2.8), <italic toggle="yes">P</italic> = 0.40</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 4</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">70 (60, 75)</td><td align="char" valign="top" rowspan="1" colspan="1">22</td><td align="char" valign="top" rowspan="1" colspan="1">70 (70, 70)</td><td align="char" valign="top" rowspan="1" colspan="1">42</td><td align="char" valign="top" rowspan="1" colspan="1">70 (70, 70)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 12</td><td align="char" valign="top" rowspan="1" colspan="1">22</td><td align="char" valign="top" rowspan="1" colspan="1">70 (60, 80)</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">70 (60, 80)</td><td align="char" valign="top" rowspan="1" colspan="1">42</td><td align="char" valign="top" rowspan="1" colspan="1">70 (60, 80)</td></tr><tr><td colspan="8" align="left" valign="top" rowspan="1">Cardiomyopathy Questionnaire (Kansas City) [1 (extremely limited) to 100 (not limited)]</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">21</td><td align="char" valign="top" rowspan="1" colspan="1">36.6 (14.7)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">40.2 (11.9)</td><td align="char" valign="top" rowspan="1" colspan="1">45</td><td align="char" valign="top" rowspan="1" colspan="1">38.5 (13.2)</td><td rowspan="3" align="char" char="(" valign="top" colspan="1">−2.7 (−9.7 to 4.3), <italic toggle="yes">P</italic> = 0.44</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 4</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">37.2 (16.0)</td><td align="char" valign="top" rowspan="1" colspan="1">22</td><td align="char" valign="top" rowspan="1" colspan="1">44.1 (12.9)</td><td align="char" valign="top" rowspan="1" colspan="1">42</td><td align="char" valign="top" rowspan="1" colspan="1">40.8 (14.7)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 12</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">42.2 (22.0)</td><td align="char" valign="top" rowspan="1" colspan="1">22</td><td align="char" valign="top" rowspan="1" colspan="1">42.3 (17.7)</td><td align="char" valign="top" rowspan="1" colspan="1">42</td><td align="char" valign="top" rowspan="1" colspan="1">42.2 (19.6)</td></tr><tr><td colspan="8" align="left" valign="top" rowspan="1">Epworth Sleepiness Scale (0–24; higher score = greater sleepiness)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">21</td><td align="char" valign="top" rowspan="1" colspan="1">9.6 (4.1)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">9.5 (4.8)</td><td align="char" valign="top" rowspan="1" colspan="1">45</td><td align="char" valign="top" rowspan="1" colspan="1">9.6 (4.5)</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">1.3 (−0.8 to 3.5), <italic toggle="yes">P</italic> = 0.23</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 4</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">10.6 (5.2)</td><td align="char" valign="top" rowspan="1" colspan="1">22</td><td align="char" valign="top" rowspan="1" colspan="1">9.4 (4.3)</td><td align="char" valign="top" rowspan="1" colspan="1">42</td><td align="char" valign="top" rowspan="1" colspan="1">10.0 (4.8)</td></tr><tr><td colspan="8" align="left" valign="top" rowspan="1">Karolinska Sleepiness Scale (1 = very alert to 9 = very sleepy)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">21</td><td align="char" valign="top" rowspan="1" colspan="1">3.0 (1.5)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">3.3 (1.6)</td><td align="char" valign="top" rowspan="1" colspan="1">45</td><td align="char" valign="top" rowspan="1" colspan="1">3.2 (1.5)</td><td rowspan="7" align="char" char="(" valign="top" colspan="1">0.3 (−0.5 to 1.2), <italic toggle="yes">P</italic> = 0.45</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Day 2</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">3.8 (1.7)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">3.4 (1.2)</td><td align="char" valign="top" rowspan="1" colspan="1">44</td><td align="char" valign="top" rowspan="1" colspan="1">3.6 (1.4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Day 4</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">3.8 (1.9)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">3.8 (1.9)</td><td align="char" valign="top" rowspan="1" colspan="1">44</td><td align="char" valign="top" rowspan="1" colspan="1">3.8 (1.8)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Day 7</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">4.6 (2.5)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">3.5 (1.7)</td><td align="char" valign="top" rowspan="1" colspan="1">44</td><td align="char" valign="top" rowspan="1" colspan="1">4.0 (2.2)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 2</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">3.2 (1.4)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">3.5 (1.9)</td><td align="char" valign="top" rowspan="1" colspan="1">44</td><td align="char" valign="top" rowspan="1" colspan="1">3.4 (1.7)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 3</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">3.1 (1.4)</td><td align="char" valign="top" rowspan="1" colspan="1">23</td><td align="char" valign="top" rowspan="1" colspan="1">3.2 (1.8)</td><td align="char" valign="top" rowspan="1" colspan="1">43</td><td align="char" valign="top" rowspan="1" colspan="1">3.1 (1.6)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 4</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">3.3 (1.5)</td><td align="char" valign="top" rowspan="1" colspan="1">23</td><td align="char" valign="top" rowspan="1" colspan="1">3.0 (1.6)</td><td align="char" valign="top" rowspan="1" colspan="1">43</td><td align="char" valign="top" rowspan="1" colspan="1">3.2 (1.5)</td></tr><tr><td colspan="8" align="left" valign="top" rowspan="1">Montreal Cognitive Assessment [0–30 (0–16 phone version); lower scores = greater cognitive impairment]</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">21</td><td align="char" valign="top" rowspan="1" colspan="1">25.1 (1.9)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">25.4 (3.1)</td><td align="char" valign="top" rowspan="1" colspan="1">45</td><td align="char" valign="top" rowspan="1" colspan="1">25.2 (2.6)</td><td rowspan="4" align="char" char="(" valign="top" colspan="1">−0.5 (−2.2 to 1.1), <italic toggle="yes">P</italic> = 0.53</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Day 4 (phone version)</td><td align="char" valign="top" rowspan="1" colspan="1">19</td><td align="char" valign="top" rowspan="1" colspan="1">14.1 (1.3)</td><td align="char" valign="top" rowspan="1" colspan="1">21</td><td align="char" valign="top" rowspan="1" colspan="1">14.3 (1.9)</td><td align="char" valign="top" rowspan="1" colspan="1">40</td><td align="char" valign="top" rowspan="1" colspan="1">14.2 (1.6)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Day 7 (phone version)</td><td align="char" valign="top" rowspan="1" colspan="1">18</td><td align="char" valign="top" rowspan="1" colspan="1">14.2 (1.1)</td><td align="char" valign="top" rowspan="1" colspan="1">23</td><td align="char" valign="top" rowspan="1" colspan="1">14.7 (1.3)</td><td align="char" valign="top" rowspan="1" colspan="1">41</td><td align="char" valign="top" rowspan="1" colspan="1">14.5 (1.2)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 4</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">26.2 (3.3)</td><td align="char" valign="top" rowspan="1" colspan="1">21</td><td align="char" valign="top" rowspan="1" colspan="1">26.8 (2.3)</td><td align="char" valign="top" rowspan="1" colspan="1">41</td><td align="char" valign="top" rowspan="1" colspan="1">26.5 (2.8)</td></tr><tr><td colspan="8" align="left" valign="top" rowspan="1">6 min walk test [distance walked (m)]</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">18</td><td align="char" valign="top" rowspan="1" colspan="1">153 (105, 273)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">179 (133, 255)</td><td align="char" valign="top" rowspan="1" colspan="1">42</td><td align="char" valign="top" rowspan="1" colspan="1">160 (120, 270)</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">18.7 (−48.8 to 86.3), <italic toggle="yes">P</italic> = 0.59</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 4</td><td align="char" valign="top" rowspan="1" colspan="1">13</td><td align="char" valign="top" rowspan="1" colspan="1">169 (120, 250)</td><td align="char" valign="top" rowspan="1" colspan="1">17</td><td align="char" valign="top" rowspan="1" colspan="1">165 (90, 270)</td><td align="char" valign="top" rowspan="1" colspan="1">30</td><td align="char" valign="top" rowspan="1" colspan="1">167 (104, 270)</td></tr><tr><td colspan="8" align="left" valign="top" rowspan="1">O<sub>2</sub> saturation at rest (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">18</td><td align="char" valign="top" rowspan="1" colspan="1">97 (96, 99)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">97 (95, 98)</td><td align="char" valign="top" rowspan="1" colspan="1">42</td><td align="char" valign="top" rowspan="1" colspan="1">97 (96, 98)</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">−0.7 (−1.8 to 0.4), <italic toggle="yes">P</italic> = 0.23</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 4</td><td align="char" valign="top" rowspan="1" colspan="1">13</td><td align="char" valign="top" rowspan="1" colspan="1">96 (95, 98)</td><td align="char" valign="top" rowspan="1" colspan="1">16</td><td align="char" valign="top" rowspan="1" colspan="1">97 (96, 98)</td><td align="char" valign="top" rowspan="1" colspan="1">29</td><td align="char" valign="top" rowspan="1" colspan="1">97 (95, 98)</td></tr><tr><td colspan="8" align="left" valign="top" rowspan="1">O<sub>2</sub> saturation at end (%)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">18</td><td align="char" valign="top" rowspan="1" colspan="1">98 (97, 98)</td><td align="char" valign="top" rowspan="1" colspan="1">24</td><td align="char" valign="top" rowspan="1" colspan="1">97 (96, 99)</td><td align="char" valign="top" rowspan="1" colspan="1">42</td><td align="char" valign="top" rowspan="1" colspan="1">98 (97, 99)</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">−0.2 (−1.3 to 0.9), <italic toggle="yes">P</italic> = 0.74</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 4</td><td align="char" valign="top" rowspan="1" colspan="1">13</td><td align="char" valign="top" rowspan="1" colspan="1">97 (96, 98)</td><td align="char" valign="top" rowspan="1" colspan="1">16</td><td align="char" valign="top" rowspan="1" colspan="1">97 (96, 99)</td><td align="char" valign="top" rowspan="1" colspan="1">29</td><td align="char" valign="top" rowspan="1" colspan="1">97 (96, 98)</td></tr><tr><td colspan="8" align="left" valign="top" rowspan="1">activPAL™ (average steps per day)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">20</td><td align="char" valign="top" rowspan="1" colspan="1">2503 (976, 3700)</td><td align="char" valign="top" rowspan="1" colspan="1">22</td><td align="char" valign="top" rowspan="1" colspan="1">2207 (473, 3183)</td><td align="char" valign="top" rowspan="1" colspan="1">42</td><td align="char" valign="top" rowspan="1" colspan="1">2315 (589, 3445)</td><td rowspan="2" align="char" char="(" valign="top" colspan="1">−728.2 (−1438.5 to −17.8), <italic toggle="yes">P</italic> = 0.05</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Week 4</td><td align="char" valign="top" rowspan="1" colspan="1">19</td><td align="char" valign="top" rowspan="1" colspan="1">1943 (361, 2975)</td><td align="char" valign="top" rowspan="1" colspan="1">17</td><td align="char" valign="top" rowspan="1" colspan="1">2717 (1744, 3143)</td><td align="char" valign="top" rowspan="1" colspan="1">36</td><td align="char" valign="top" rowspan="1" colspan="1">2259 (1061, 3063)</td></tr></tbody></table><table-wrap-foot id="ehf212498-ntgp-0003"><fn id="ehf212498-note-0005"><p>Data are <italic toggle="yes">N</italic>, mean (SD) or <italic toggle="yes">N</italic>, median (IQR).</p></fn></table-wrap-foot></table-wrap><p>Adherence is summarized in Supporting Information, <italic toggle="yes">Table</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S3</italic>
+</xref>. All but one participant took at least one trial capsule. One participant assigned to morphine withdrew the day after randomization. Three participants withdrew fully from the trial (i.e. from treatment and follow‐up, <italic toggle="yes">Figure</italic>
+<xref rid="ehf212498-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>) and 16 participants [11 (52.4%) assigned to morphine and five (20.8%) assigned to placebo] formally withdrew from treatment before the 12 week assessment [median time to treatment withdrawal was 12 (range 4–56) days for morphine and 48 (range 7–57) days for placebo]. All continued to provide outcome data. Participants were asked to take two capsules a day for 84 days, which totalled to 168 tablets. Estimates of the proportion of tablets taken ranged from 39–51% in those assigned to morphine and 64–83% in those assigned to placebo, depending on an assumption that none or all the pills were taken if bottles were not returned.</p><p>There were 12 serious adverse events in the morphine group and 15 in the placebo group (Supporting Information, <italic toggle="yes">Table</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S4A</italic>
+</xref>). One death occurred in the placebo group. One morphine group participant had a marked cognitive decline from baseline at week 4 (25 to 14 MoCA points) that coincided with a decline in renal function. The patient fully recovered after stopping morphine. Non‐serious adverse events (Supporting Information, <italic toggle="yes">Table</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S4B</italic>
+</xref>) were more common in those assigned to morphine (32 events) compared with placebo (22 events), although the excess was mainly due to one individual assigned to morphine who had nine non‐serious events</p><p>After randomization, up to and including week 4, 18 (86%) participants assigned to morphine and 13 (54%) to placebo reported at least one harm of grade 1 or more, and 10 (48%) and 1 (4.2%), respectively, of grade 2 or more (Supporting Information, <italic toggle="yes">Table</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S5A</italic>
+</xref>—up to week 4; Supporting Information, <italic toggle="yes">Table</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S5B</italic>
+</xref>—weeks 8 and 12). Constipation, nausea, and vomiting were more common in those assigned to morphine rather than placebo throughout the trial but were mainly mild (grade 1). Study laxative/placebo was not taken by a substantial number of participants. Treatment‐emergent adverse events during the first week were three times more common in the morphine group and were more common in participants with eGFR &lt;54 mL/min (the mean value) (<italic toggle="yes">Table</italic>
+<xref rid="ehf212498-tbl-0005" ref-type="table">5</xref>), but all apart from one were grade 2 or less. Most presented by day 4 (see Supporting Information, <italic toggle="yes">Figure</italic>
+<xref rid="ehf212498-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>). Harms by grade, treatment group, and time point to week 4 are presented in Supporting Information, <italic toggle="yes">Tables S5A</italic> and <italic toggle="yes">S5B</italic>.</p><table-wrap id="ehf212498-tbl-0005" xml:lang="en" orientation="portrait" position="float"><label>Table 5</label><caption><p>Number of participants experiencing a treatment‐emergent harm within the first week of follow‐up, stratified by median baseline eGFR of 54 mL/min</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="3" style="border-bottom:solid 1px #000000" align="center" valign="bottom" colspan="1" /><th colspan="4" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Grade ≤ 2</th><th colspan="4" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Grade ≥ 3</th></tr><tr style="border-bottom:solid 1px #000000"><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Morphine</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Placebo</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Morphine</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Placebo</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">eGFR ≤ 54 (<italic toggle="yes">n</italic> = 14)</th><th align="center" valign="bottom" rowspan="1" colspan="1">eGFR &gt; 54 (<italic toggle="yes">n</italic> = 7)</th><th align="center" valign="bottom" rowspan="1" colspan="1">eGFR ≤ 54 (<italic toggle="yes">n</italic> = 9)</th><th align="center" valign="bottom" rowspan="1" colspan="1">eGFR &gt; 54 (<italic toggle="yes">n</italic> = 15)</th><th align="center" valign="bottom" rowspan="1" colspan="1">eGFR ≤ 54 (<italic toggle="yes">n</italic> = 14)</th><th align="center" valign="bottom" rowspan="1" colspan="1">eGFR &gt; 54 (<italic toggle="yes">n</italic> = 7)</th><th align="center" valign="bottom" rowspan="1" colspan="1">eGFR ≤ 54 (<italic toggle="yes">n</italic> = 9)</th><th align="center" valign="bottom" rowspan="1" colspan="1">eGFR &gt; 54 (<italic toggle="yes">n</italic> = 15)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Confusion</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (14.3)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (6.7)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Constipation</td><td align="char" valign="top" rowspan="1" colspan="1">9 (64.3)</td><td align="char" valign="top" rowspan="1" colspan="1">5 (71.4)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">2 (13.3)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vomiting</td><td align="char" valign="top" rowspan="1" colspan="1">5 (35.7)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (14.3)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (11.1)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nausea</td><td align="char" valign="top" rowspan="1" colspan="1">9 (64.3)</td><td align="char" valign="top" rowspan="1" colspan="1">3 (42.9)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (11.1)</td><td align="char" valign="top" rowspan="1" colspan="1">2 (13.3)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Memory impairment</td><td align="char" valign="top" rowspan="1" colspan="1">1 (7.1)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (14.3)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (6.7)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cognitive disturbance</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (7.1)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">At least one</td><td align="char" valign="top" rowspan="1" colspan="1">11 (78.6)</td><td align="char" valign="top" rowspan="1" colspan="1">6 (85.7)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (11.1)</td><td align="char" valign="top" rowspan="1" colspan="1">5 (33.3)</td><td align="char" valign="top" rowspan="1" colspan="1">1 (7.1)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="char" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr></tbody></table></table-wrap><p>Health service use and EQ‐5D‐5L measures at baseline and follow‐up are presented in Supporting Information, <italic toggle="yes">Tables S6A and S6B</italic>.</p></sec><sec id="ehf212498-sec-0017"><title>Discussion</title><sec id="ehf212498-sec-0018"><title>Main findings/results of the study</title><p>The BreatheMOR‐HF trial is the first to provide placebo‐controlled data for medium‐duration, modified release, steady state, low dose, oral morphine for people with persistent breathlessness despite guideline‐recommended treatments for chronic heart failure. The trial failed to enrol the planned number of participants but provides valuable insights into the potential rate and severity of morphine‐related harm, particularly pertinent given the recent license extension to chronic breathlessness (including that due to heart failure) for a sustained release oral morphine preparation (Kapanol™) by the Therapeutic Goods Administration in Australia. Constipation, nausea, and vomiting, albeit mainly mild, were more common in the morphine group, as was study drug withdrawal. This highlights the need for early skilful management of morphine‐related side effects and careful clinical decision making regarding prescription of morphine for chronic breathlessness given the persisting lack of robust evidence of benefit in this patient population.</p></sec><sec id="ehf212498-sec-0019"><title>Strengths and limitations</title><p>The major limitation of the study is its early termination and consequent lack of power; data can only be interpreted as preliminary. Recruitment challenges are related to (i) some eligibility criteria, particularly the natriuretic peptide threshold, (ii) the Research Ethics Committee requirement that participants avoided driving for the first week (despite no evidence base<xref rid="ehf212498-bib-0037" ref-type="ref">37</xref>), and (iii) delays in opening recruitment sites. Suboptimal adherence to, and withdrawal from, study drug weakened our findings. Numbers are too small for a per protocol analysis, but inclusion of data from those who stopped study drug may have diluted benefit experienced by those who tolerated morphine.</p><p>The major strength is the double‐blind, placebo‐controlled design and trial duration. Data quality and completion rates (apart from physical activity and exercise tolerance) were very high, with minimal full study withdrawal. In addition, our study recruited the targeted population with advanced disease.</p></sec><sec id="ehf212498-sec-0020"><title>What this study adds</title><p>Although participants had advanced disease, there were no excess serious adverse events in the morphine group. We found no respiratory depression consistent with a recent systematic review and meta‐analysis.<xref rid="ehf212498-bib-0017" ref-type="ref">17</xref>, <xref rid="ehf212498-bib-0018" ref-type="ref">18</xref>
+</p><p>The reports of (mainly mild) constipation, nausea, and vomiting in the morphine group are similar to other published reports of low dose morphine for breathlessness<xref rid="ehf212498-bib-0014" ref-type="ref">14</xref>, <xref rid="ehf212498-bib-0015" ref-type="ref">15</xref>, <xref rid="ehf212498-bib-0038" ref-type="ref">38</xref>, <xref rid="ehf212498-bib-0039" ref-type="ref">39</xref> but are nonetheless important. In this study protocol, anti‐emetics were not co‐prescribed from study drug initiation in the same way as laxatives but given in response to emergent nausea. It is possible that patients with heart failure and renal dysfunction may be susceptible to nausea as blood brain barrier permeability is increased, at least in acute kidney injury,<xref rid="ehf212498-bib-0040" ref-type="ref">40</xref> and initial co‐prescription might be useful. Recommendations for management of morphine‐related side effects are available but may be unfamiliar to non‐palliative care or non‐pain specialists.<xref rid="ehf212498-bib-0041" ref-type="ref">41</xref>
+</p><p>Impaired cognition is cited as a particular fear of morphine treatment by both patients and clinicians,<xref rid="ehf212498-bib-0042" ref-type="ref">42</xref> but we found no excess sleepiness or cognitive impairment in the morphine group apart from one patient with deterioration in renal function. We saw a reduction in daily steps with morphine but no increase in daytime sleepiness. The walk distance increased further in the morphine group, but there was a high proportion of missing data making interpretation difficult. The lack of desaturation on exertion is reassuring and consistent with previous findings.<xref rid="ehf212498-bib-0017" ref-type="ref">17</xref>
+</p><p>In the morphine group, all breathlessness measures, apart from week 4 average breathlessness, had greater improvement from baseline than the placebo group. Improvements in all breathlessness measures were sustained or improved further by weeks 8 and 12 in the morphine group and reached clinically important differences. Further improvement beyond week 4 was not seen in the placebo group in any breathlessness measure, and none reached clinical significance. At baseline, the breathlessness scores were on average worse in the morphine group than control by around a clinically important difference (1 point) for each measure and so may represent a group more likely to respond to morphine.<xref rid="ehf212498-bib-0043" ref-type="ref">43</xref> However, such findings can only be interpreted as a preliminary signal of benefit.</p></sec><sec id="ehf212498-sec-0021"><title>Implications for clinical practice and research</title><p>Morphine should only be prescribed in people with heart failure when other measures have not helped and only with early recourse to management of potential side effects. Fears of serious harm are unsubstantiated.</p><p>The observed pattern of improvement in breathlessness measures in the morphine group suggests that an adequately sized trial would be useful. Lessons learned from recruitment and attrition challenges should be incorporated in a new study. A dose titration step should be included, and an initiation side‐effect management plan should be put in place. The eligibility criterion relating to natriuretic peptide should be removed but included as a secondary outcome in view of the observation that levels reduced by more in the morphine group, a finding seen in previous work and the significance of which is unknown.<xref rid="ehf212498-bib-0014" ref-type="ref">14</xref> The extensive trials unit support required to navigate the complex governance required to open multiple recruitment sites needs to be planned for.</p><p>The observed standard deviation of the primary outcome measure was lower than the anticipated 2.55 in each group at all time points; the correlation between the baseline and week 4 measures of the primary endpoint was 0.67. A recalculated sample size of 150 patients would provide 80% power to detect the same planned difference, assuming a standard deviation of 2.55, 5% significance level, a conservative correlation of 0.65 between the baseline and week 4 measures, and 20% attrition.</p></sec></sec><sec id="ehf212498-sec-0022"><title>Conclusions</title><p>We were unable to answer our primary objectives due to inadequate power. However, we provide novel preliminary placebo‐controlled data relating to the benefit and safety of medium‐term oral modified release morphine that will help inform clinical practice and the design of a future trial.</p></sec><sec sec-type="COI-statement" id="ehf212498-sec-0024"><title>Conflict of interest</title><p>D.C.C. has received an unrestricted research grant from Mundipharma, is an unpaid member of an advisory board for Helsinn Pharmaceuticals, and has consulted Mayne Pharma and received intellectual property payments from them. M.J.J. has received consulting payments from Mayne Pharma. No authors have any conflicting interests with the content of this manuscript.</p></sec><sec id="ehf212498-sec-0025"><title>Author contributions</title><p>M.J., D.C.C., and A.L.C. did the concept and design. Protocol authors were M.J.J., D.C.C., J.C., A.L.C., R.G., K.H., J.M., S.O., G.R., D.T., V.A., and S.C. Trial conduct and data management were performed by S.C., K.B., L.J., and K.H. Data collection was carried out by K.H., S.O., J.G., M.J.J., and A.L.C. C.F., R.G., and V.A. analysed the data. All authors did the data interpretation, revised the manuscript for intellectual content, and approved the final version.</p></sec><sec id="ehf212498-sec-0026"><title>Funding</title><p>This work was supported by the British Heart Foundation (grant number CS/13/2/30584).</p></sec><sec id="ehf212498-sec-0027"><title>Data management and sharing</title><p>Requests to access BreatheMOR‐HF data can be made to the corresponding author. Requests will be considered on a case‐by‐case basis and managed according to the York Trials Unit, University of York processes and procedures. The full protocol can be accessed through the corresponding author.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ehf212498-supitem-0001" position="float" orientation="portrait"><caption><p>
+<bold>Table S1</bold>. Global Impression of Change relating to breathlessness, at week 4 (valid data provided by 41 participants).</p><p>
+<bold>Table S2</bold>. Clinical assessments and NYHA class at week 4 by randomised group.</p><p>
+<bold>Table S3</bold>. Study drug use by randomised group</p><p>
+<bold>Table S4</bold>. (A) Serious adverse events. (B) Non‐serious adverse events.</p><p>
+<bold>Table S5</bold>. (A) Harms by grade, treatment group and time point, up to week 4. (B) Harms by grade, treatment group and time point, weeks 8 and 12.</p><p>
+<bold>Table S6</bold>. (A) EQ‐5D‐5L, and health service use during previous 4 weeks, at baseline and week 4 by randomised group. (B) EQ‐5D‐5L, and health service use during previous 4 weeks, at weeks 8 and 12 by randomised group.</p><p>
+<bold>Figure S1</bold>. Supporting information</p></caption><media ns1:href="EHF2-6-1149-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ehf212498-sec-0023"><title>Acknowledgements</title><p>The authors would like to thank the participants for taking part in the trial; the Principal Investigators (PI) and research nurses at each site for recruiting participants and completing the trial documentation; Prof. G. Richardson for health economic advice; members of the trial steering committee Dr J. McMurray (independent Chair), Dr M. Bennett, Dr J. Warwick, Dr O. Agbaje, and Doreen Edgar (Patient Public Involvement representative) and members of the data monitoring and ethics committee Dr M. Fallon (independent Chair) Dr A. Crook and Dr R Gardner for their advice, overseeing the study and reviewing adverse event data. The BreatheMOR‐HF PIs include Dr C. Boos, Dr A. Clark, Dr J. Cooke, Dr M. Denvir, Dr Gale, Dr B. Gordon, Dr K. Hogg, Dr S. Jenkins, Dr J. Murphy, Dr S. Oxberry, Dr P. Sheridan, Dr H. Thomas, and Dr A. Thorns. The BreatheMOR‐HF research team acknowledges the support of the National Institute of Health Research Clinical Research Network (NIHR CRN).</p></ack><ref-list id="ehf212498-bibl-0001" content-type="cited-references"><title>References</title><ref id="ehf212498-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ehf212498-cit-0002">
+<string-name name-style="western">
+<surname>Nordgren</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sorensen</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Symptoms experienced in the last six months of life in patients with end‐stage heart failure</article-title>. <source xml:lang="en">Eur J Cardiovasc Nurs</source>
+<year>2003</year>; <volume>2</volume>: <fpage>213</fpage>–<lpage>217</lpage>.<pub-id pub-id-type="pmid">14622629</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-5151(03)00059-8</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ehf212498-cit-0003">
+<string-name name-style="western">
+<surname>Currow</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dal</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCaffrey</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ekstrom</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Chronic breathlessness associated with poorer physical and mental health‐related quality of life (SF‐12) across all adult age groups</article-title>. <source xml:lang="en">Thorax</source>
+<year>2017</year>; <volume>72</volume>: <fpage>1151</fpage>–<lpage>1153</lpage>.<pub-id pub-id-type="pmid">28356419</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/thoraxjnl-2016-209908</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ehf212498-cit-0004">
+<string-name name-style="western">
+<surname>Smith</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Currow</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abernethy</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boscardin</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ritchie</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>Prevalence and outcomes of breathlessness in older adults: a national population study</article-title>. <source xml:lang="en">J Am Geriatr Soc</source>
+<year>2016</year>; <volume>64</volume>: <fpage>2035</fpage>–<lpage>2041</lpage>.<pub-id pub-id-type="pmid">27603500</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jgs.14313</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ehf212498-cit-0005">
+<string-name name-style="western">
+<surname>Hutchinson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pickering</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bland</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Breathlessness and presentation to the emergency department: a survey and clinical record review</article-title>. <source xml:lang="en">BMC Pulm Med</source>
+<year>2017</year>; <volume>17</volume>: <fpage>53</fpage>.<pub-id pub-id-type="pmid">28320369</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12890-017-0396-4</pub-id><pub-id pub-id-type="pmcid">PMC5360046</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ehf212498-cit-0006">
+<string-name name-style="western">
+<surname>Parshall</surname>
+<given-names>MB</given-names>
+</string-name>. <article-title>Adult emergency visits for chronic cardiorespiratory disease: does dyspnea matter?</article-title>
+<source xml:lang="en">Nurs Res</source>
+<year>1999</year>; <volume>48</volume>: <fpage>62</fpage>–<lpage>70</lpage>.<pub-id pub-id-type="pmid">10190832</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00006199-199903000-00004</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ehf212498-cit-0007">
+<string-name name-style="western">
+<surname>Farquhar</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prevost</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCrone</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brafman‐Price</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bentley</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Higginson</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Todd</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Booth</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Is a specialist breathlessness service more effective and cost‐effective for patients with advanced cancer and their carers than standard care? Findings of a mixed‐method randomised controlled trial</article-title>. <source xml:lang="en">BMC Med</source>
+<year>2014</year>; <volume>12</volume>: <fpage>194</fpage>.<pub-id pub-id-type="pmid">25358424</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12916-014-0194-2</pub-id><pub-id pub-id-type="pmcid">PMC4222435</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ehf212498-cit-0008">
+<string-name name-style="western">
+<surname>Ekstrom</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bajwah</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bland</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Currow</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hussain</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>One evidence base; three stories: do opioids relieve chronic breathlessness?</article-title>
+<source xml:lang="en">Thorax</source>
+<year>2018</year>; <volume>73</volume>: <fpage>88</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="pmid">28377491</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/thoraxjnl-2016-209868</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ehf212498-cit-0009">
+<string-name name-style="western">
+<surname>Higginson</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bausewein</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reilly</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gysels</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dzingina</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCrone</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Booth</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jolley</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moxham</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>An integrated palliative and respiratory care service for patients with advanced disease and refractory breathlessness: a randomised controlled trial</article-title>. <source xml:lang="en">Lancet Respir Med</source>
+<year>2014</year>; <volume>2</volume>: <fpage>979</fpage>–<lpage>987</lpage>.<pub-id pub-id-type="pmid">25465642</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2213-2600(14)70226-7</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ehf212498-cit-0010">
+<string-name name-style="western">
+<surname>von Leupoldt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sommer</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kegat</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baumann</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klose</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahme</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Büchel</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Dyspnea and pain share emotion‐related brain network</article-title>. <source xml:lang="en">Neuroimage</source>
+<year>2009</year>; <volume>48</volume>: <fpage>200</fpage>–<lpage>206</lpage>.<pub-id pub-id-type="pmid">19527787</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2009.06.015</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ehf212498-cit-0011">
+<string-name name-style="western">
+<surname>Baumgartner</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buchholz</surname>
+<given-names>HG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bellosevich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Magerl</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siessmeier</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rolke</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Höhnemann</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rösch</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wester</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henriksen</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>High opiate receptor binding potential in the human lateral pain system</article-title>. <source xml:lang="en">Neuroimage</source>
+<year>2006</year>; <volume>30</volume>: <fpage>692</fpage>–<lpage>699</lpage>.<pub-id pub-id-type="pmid">16337817</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2005.10.033</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ehf212498-cit-0012">
+<string-name name-style="western">
+<surname>Gifford</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahler</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waterman</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ward</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kraemer</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kupchak</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baird</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Neuromodulatory effect of endogenous opioids on the intensity and unpleasantness of breathlessness during resistive load breathing in COPD</article-title>. <source xml:lang="en">COPD</source>
+<year>2011</year>; <volume>8</volume>: <fpage>160</fpage>–<lpage>166</lpage>.<pub-id pub-id-type="pmid">21513438</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/15412555.2011.560132</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ehf212498-cit-0013">
+<string-name name-style="western">
+<surname>Mahler</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murray</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waterman</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ward</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kraemer</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baird</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Endogenous opioids modify dyspnoea during treadmill exercise in patients with COPD</article-title>. <source xml:lang="en">Eur Respir J</source>
+<year>2009</year>; <volume>33</volume>: <fpage>771</fpage>–<lpage>777</lpage>.<pub-id pub-id-type="pmid">19213787</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/09031936.00145208</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ehf212498-cit-0014">
+<string-name name-style="western">
+<surname>Barnes</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonald</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smallwood</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manser</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Opioids for the palliation of refractory breathlessness in adults with advanced disease and terminal illness</article-title>. <source xml:lang="en">Cochrane Database Syst Rev</source>
+<year>2016</year>; <volume>3</volume>: <elocation-id>CD011008</elocation-id>.<pub-id pub-id-type="pmid">27030166</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/14651858.CD011008.pub2</pub-id><pub-id pub-id-type="pmcid">PMC6485401</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ehf212498-cit-0015">
+<string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonagh</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harkness</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKay</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dargie</surname>
+<given-names>HJ</given-names>
+</string-name>. <article-title>Morphine for the relief of breathlessness in patients with chronic heart failure‐a pilot study</article-title>. <source xml:lang="en">Eur J Heart Fail</source>
+<year>2002</year>; <volume>4</volume>: <fpage>753</fpage>–<lpage>756</lpage>.<pub-id pub-id-type="pmid">12453546</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1388-9842(02)00158-7</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ehf212498-cit-0016">
+<string-name name-style="western">
+<surname>Oxberry</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torgerson</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bland</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Short‐term opioids for breathlessness in stable chronic heart failure: a randomized controlled trial</article-title>. <source xml:lang="en">Eur J Heart Fail</source>
+<year>2011</year>; <volume>13</volume>: <fpage>1006</fpage>–<lpage>1012</lpage>.<pub-id pub-id-type="pmid">21712288</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurjhf/hfr068</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ehf212498-cit-0017">
+<string-name name-style="western">
+<surname>Oxberry</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bland</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Repeat dose opioids may be effective for breathlessness in chronic heart failure if given for long enough</article-title>. <source xml:lang="en">J Palliat Med</source>
+<year>2013</year>; <volume>16</volume>: <fpage>250</fpage>–<lpage>255</lpage>.<pub-id pub-id-type="pmid">23368980</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/jpm.2012.0270</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ehf212498-cit-0018">
+<string-name name-style="western">
+<surname>Verberkt</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van den Beuken‐van Everdingen</surname>
+<given-names>MHJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schols</surname>
+<given-names>JMGA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Datla</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dirksen</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Kuijk</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wouters</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janssen</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Respiratory adverse effects of opioids for breathlessness: a systematic review and meta‐analysis</article-title>. <source xml:lang="en">Eur Respir J</source>
+<year>2017</year>; <volume>50</volume>: <elocation-id>1701153</elocation-id>.<pub-id pub-id-type="pmid">29167300</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/13993003.01153-2017</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0018"><label>18</label><mixed-citation publication-type="miscellaneous" id="ehf212498-cit-0019">
+<string-name name-style="western">
+<surname>Rocker</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Young</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horton</surname>
+<given-names>R.</given-names>
+</string-name>
+<article-title>Using opioids to treat dyspnea in advanced COPD: a survey of Canadian clinicians</article-title>. Chest (accessible at <ext-link ext-link-type="uri" ns1:href="http://chestnet.org">http://chestnet.org</ext-link>). <year>2008</year>. Ref Type: Abstract</mixed-citation></ref><ref id="ehf212498-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ehf212498-cit-0020">
+<string-name name-style="western">
+<surname>Cockcroft</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gault</surname>
+<given-names>MH</given-names>
+</string-name>. <article-title>Prediction of creatinine clearance from serum creatinine</article-title>. <source xml:lang="en">Nephron</source>
+<year>1976</year>; <volume>16</volume>: <fpage>31</fpage>–<lpage>41</lpage>.<pub-id pub-id-type="pmid">1244564</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000180580</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ehf212498-cit-0021">
+<string-name name-style="western">
+<surname>Charlson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szatrowski</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peterson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gold</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Validation of a combined comorbidity index</article-title>. <source xml:lang="en">J Clin Epidemiol</source>
+<year>1994</year>; <volume>47</volume>: <fpage>1245</fpage>–<lpage>1251</lpage>.<pub-id pub-id-type="pmid">7722560</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0895-4356(94)90129-5</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ehf212498-cit-0022">
+<string-name name-style="western">
+<surname>Stenton</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The MRC breathlessness scale</article-title>. <source xml:lang="en">Occup Med (Lond)</source>
+<year>2008</year>; <volume>58</volume>: <fpage>226</fpage>–<lpage>227</lpage>.<pub-id pub-id-type="pmid">18441368</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/occmed/kqm162</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ehf212498-cit-0023">
+<string-name name-style="western">
+<surname>Gift</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Narsavage</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Validity of the numeric rating scale as a measure of dyspnea</article-title>. <source xml:lang="en">Am J Crit Care</source>
+<year>1998</year>; <volume>7</volume>: <fpage>200</fpage>–<lpage>204</lpage>.<pub-id pub-id-type="pmid">9579246</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ehf212498-cit-0024">
+<string-name name-style="western">
+<surname>Jaeschke</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guyatt</surname>
+<given-names>GH</given-names>
+</string-name>. <article-title>Measurement of health status. Ascertaining the minimal clinically important difference</article-title>. <source xml:lang="en">Control Clin Trials</source>
+<year>1989</year>; <volume>10</volume>: <fpage>407</fpage>–<lpage>415</lpage>.<pub-id pub-id-type="pmid">2691207</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0197-2456(89)90005-6</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ehf212498-cit-0025">
+<string-name name-style="western">
+<surname>Breivik</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borchgrevink</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allen</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosseland</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romundstad</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hals</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kvarstein</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stubhaug</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Assessment of pain</article-title>. <source xml:lang="en">Br J Anaesth</source>
+<year>2008</year>; <volume>101</volume>: <fpage>17</fpage>–<lpage>24</lpage>.<pub-id pub-id-type="pmid">18487245</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bja/aen103</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ehf212498-cit-0026">
+<string-name name-style="western">
+<surname>Johns</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>A new method for measuring daytime sleepiness: the Epworth sleepiness scale</article-title>. <source xml:lang="en">Sleep</source>
+<year>1991</year>; <volume>14</volume>: <fpage>540</fpage>–<lpage>545</lpage>.<pub-id pub-id-type="pmid">1798888</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/sleep/14.6.540</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ehf212498-cit-0027">
+<string-name name-style="western">
+<surname>Ingle</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shelton</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rigby</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nabb</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>The reproducibility and sensitivity of the 6‐min walk test in elderly patients with chronic heart failure</article-title>. <source xml:lang="en">Eur Heart J</source>
+<year>2005</year>; <volume>26</volume>: <fpage>1742</fpage>–<lpage>1751</lpage>.<pub-id pub-id-type="pmid">15831556</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehi259</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ehf212498-cit-0028">
+<string-name name-style="western">
+<surname>Grant</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ryan</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tigbe</surname>
+<given-names>WW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Granat</surname>
+<given-names>MH</given-names>
+</string-name>. <article-title>The validation of a novel activity monitor in the measurement of posture and motion during everyday activities</article-title>. <source xml:lang="en">Br J Sports Med</source>
+<year>2006</year>; <volume>40</volume>: <fpage>992</fpage>–<lpage>997</lpage>.<pub-id pub-id-type="pmid">16980531</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bjsm.2006.030262</pub-id><pub-id pub-id-type="pmcid">PMC2577473</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ehf212498-cit-0029">
+<string-name name-style="western">
+<surname>Gallagher</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sullivan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burke</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hales</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gillies</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cameron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saliba</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tofler</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Mild cognitive impairment, screening, and patient perceptions in heart failure patients</article-title>. <source xml:lang="en">J Card Fail</source>
+<year>2013</year>; <volume>19</volume>: <fpage>641</fpage>–<lpage>646</lpage>.<pub-id pub-id-type="pmid">24054341</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cardfail.2013.08.001</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0029"><label>29</label><mixed-citation publication-type="book" id="ehf212498-cit-0030">The 
+<collab collab-type="authors">Criteria Committee of the New York Heart Association</collab>
+. <source xml:lang="en">Nomenclature and criteria for diagnosis of diseases of the heart and great vessels</source>. <edition>6th ed.</edition>
+<publisher-loc>Boston, Mass</publisher-loc>: <publisher-name>Little, Brown &amp; Co</publisher-name>; <year>1994</year>.</mixed-citation></ref><ref id="ehf212498-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ehf212498-cit-0031">
+<string-name name-style="western">
+<surname>Abernethy</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shelby‐James</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fazekas</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woods</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Currow</surname>
+<given-names>DC</given-names>
+</string-name>. <article-title>The Australia‐modified Karnofsky Performance Status (AKPS) scale: a revised scale for contemporary palliative care clinical practice [ISRCTN81117481]</article-title>. <source xml:lang="en">BMC Palliat Care</source>
+<year>2005</year>; <volume>4</volume>: <fpage>7</fpage>.<pub-id pub-id-type="pmid">16283937</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1472-684X-4-7</pub-id><pub-id pub-id-type="pmcid">PMC1308820</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="ehf212498-cit-0032">
+<string-name name-style="western">
+<surname>Jones</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gosch</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reid</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spertus</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The KCCQ‐12: A short version of the Kansas City Cardiomyopathy Questionnaire</article-title>. <source xml:lang="en">Circ Cardiovasc Qual Outcomes</source>
+<year>2013</year>; <volume>6</volume>: <fpage>A248</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCOUTCOMES.115.001958</pub-id><pub-id pub-id-type="pmcid">PMC4885562</pub-id><pub-id pub-id-type="pmid">26307129</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0032"><label>32</label><mixed-citation publication-type="miscellaneous" id="ehf212498-cit-0033">
+<collab collab-type="authors">National Institute for Health, National Cancer Institute</collab>
+. <article-title>Common terminology criteria for adverse events version 4.03. 1‐6‐2010. US Department of Health and Human Services</article-title>. 21‐7‐<year>2018</year>. Ref Type: Report</mixed-citation></ref><ref id="ehf212498-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="ehf212498-cit-0034">
+<string-name name-style="western">
+<surname>Kaida</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takahashi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akerstedt</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakata</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otsuka</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haratani</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fukasawa</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Validation of the Karolinska sleepiness scale against performance and EEG variables</article-title>. <source xml:lang="en">Clin Neurophysiol</source>
+<year>2006</year>; <volume>117</volume>: <fpage>1574</fpage>–<lpage>1581</lpage>.<pub-id pub-id-type="pmid">16679057</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clinph.2006.03.011</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0034"><label>34</label><mixed-citation publication-type="book" id="ehf212498-cit-0035">
+<string-name name-style="western">
+<surname>Kind</surname>
+<given-names>P</given-names>
+</string-name>. <chapter-title>The EuroQoL instrument: an index of health‐related quality of life</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Spilker</surname><given-names>B.</given-names></name></person-group>, ed. <source xml:lang="en">Quality of life and pharmacoeconomics in clinical trials</source>. <publisher-loc>Philadelphia</publisher-loc>: <publisher-name>Lippincott‐Raven</publisher-name>; <year>1996</year>.</mixed-citation></ref><ref id="ehf212498-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="ehf212498-cit-0036">
+<string-name name-style="western">
+<surname>Akaike</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>A new look at the statistical model identification</article-title>. <source xml:lang="en">IEEE Trans Autom Control</source>
+<year>1974</year>; <volume>19</volume>: <fpage>716</fpage>–<lpage>723</lpage>.</mixed-citation></ref><ref id="ehf212498-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="ehf212498-cit-0037">
+<string-name name-style="western">
+<surname>Rennie</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>CONSORT revised—improving the reporting of randomized trials</article-title>. <source xml:lang="en">JAMA</source>
+<year>2001</year>; <volume>285</volume>: <fpage>2006</fpage>–<lpage>2007</lpage>.<pub-id pub-id-type="pmid">11308440</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.285.15.2006</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="ehf212498-cit-0038">
+<string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boland</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phillips</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lam</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Currow</surname>
+<given-names>DC</given-names>
+</string-name>. <article-title>The impact of therapeutic opioid agonists on driving‐related psychomotor skills assessed by a driving simulator or an on‐road driving task: a systematic review</article-title>. <source xml:lang="en">Palliat Med</source>
+<year>2018</year>; <volume>32</volume>: <fpage>786</fpage>–<lpage>803</lpage>.<pub-id pub-id-type="pmid">29299954</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0269216317746583</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="ehf212498-cit-0039">
+<string-name name-style="western">
+<surname>Abernethy</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Currow</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frith</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fazekas</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McHugh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bui</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Randomised, double blind, placebo controlled crossover trial of sustained release morphine for the management of refractory dyspnoea</article-title>. <source xml:lang="en">BMJ</source>
+<year>2003</year>; <volume>327</volume>: <fpage>523</fpage>–<lpage>528</lpage>.<pub-id pub-id-type="pmid">12958109</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.327.7414.523</pub-id><pub-id pub-id-type="pmcid">PMC192892</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="ehf212498-cit-0040">
+<string-name name-style="western">
+<surname>Currow</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDonald</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oaten</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kenny</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allcroft</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frith</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Briffa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abernethy</surname>
+<given-names>AP</given-names>
+</string-name>. <article-title>Once‐daily opioids for chronic dyspnea: a dose increment and pharmacovigilance study</article-title>. <source xml:lang="en">J Pain Symptom Manage</source>
+<year>2011</year>; <volume>42</volume>: <fpage>388</fpage>–<lpage>399</lpage>.<pub-id pub-id-type="pmid">21458217</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpainsymman.2010.11.021</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="ehf212498-cit-0041">
+<string-name name-style="western">
+<surname>Nongnuch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panorchan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davenport</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Brain‐kidney crosstalk</article-title>. <source xml:lang="en">Crit Care</source>
+<year>2014</year>; <volume>18</volume>: <fpage>225</fpage>.<pub-id pub-id-type="pmid">25043644</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/cc13907</pub-id><pub-id pub-id-type="pmcid">PMC4075125</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="ehf212498-cit-0042">
+<string-name name-style="western">
+<surname>Cherny</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ripamonti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pereira</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fallon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McQuay</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mercadante</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pasternak</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ventafridda</surname>
+<given-names>V</given-names>
+</string-name>, 
+<collab collab-type="authors">for the Expert Working Group of the European Association of Palliative Care Network</collab>
+. <article-title>Strategies to manage the adverse effects of oral morphine: an evidence‐based report</article-title>. <source xml:lang="en">J Clin Oncol</source>
+<year>2001</year>; <volume>19</volume>: <fpage>2542</fpage>–<lpage>2554</lpage>.<pub-id pub-id-type="pmid">11331334</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2001.19.9.2542</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="ehf212498-cit-0043">
+<string-name name-style="western">
+<surname>Jacobsen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liubarskiene</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moldrup</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Christrup</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sjogren</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samsanaviciene</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Barriers to cancer pain management: a review of empirical research</article-title>. <source xml:lang="en">Medicina (Kaunas)</source>
+<year>2009</year>; <volume>45</volume>: <fpage>427</fpage>–<lpage>433</lpage>.<pub-id pub-id-type="pmid">19605961</pub-id></mixed-citation></ref><ref id="ehf212498-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="ehf212498-cit-0044">
+<string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bland</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oxberry</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abernethy</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Currow</surname>
+<given-names>DC</given-names>
+</string-name>. <article-title>Opioids for chronic refractory breathlessness: patient predictors of beneficial response</article-title>. <source xml:lang="en">Eur Respir J</source>
+<year>2013</year>; <volume>42</volume>: <fpage>758</fpage>–<lpage>766</lpage>.<pub-id pub-id-type="pmid">23258776</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1183/09031936.00139812</pub-id></mixed-citation></ref></ref-list></back></article>

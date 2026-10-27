@@ -1,0 +1,1119 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="ejhf3763" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Heart Fail</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Heart Fail</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">100887595</journal-id><journal-id journal-id-type="publisher-id">EJHF</journal-id><journal-title-group><journal-title>European Journal of Heart Failure</journal-title></journal-title-group><issn pub-type="ppub">1388-9842</issn><issn pub-type="epub">1879-0844</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12575409</article-id><article-id pub-id-type="pmcid-ver">PMC12575409.1</article-id><article-id pub-id-type="pmcaid">12575409</article-id><article-id pub-id-type="pmcaiid">12575409</article-id><article-id pub-id-type="pmid">40660878</article-id><article-id pub-id-type="doi">10.1002/ejhf.3763</article-id><article-id pub-id-type="publisher-id">EJHF3763</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>DEVICES IN MONITORING AND TREATMENT</subject><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Cardio‐microcurrent device treatment for heart failure with reduced ejection fraction: Results from the C‐<styled-content style="fixed-case" toggle="no">MIC II</styled-content> open‐label randomized controlled trial</article-title><alt-title alt-title-type="right-running-head">Cardio‐microcurrent device treatment for HFrEF</alt-title><alt-title alt-title-type="left-running-head">J.E. Rame et al.</alt-title></title-group><contrib-group><contrib id="ejhf3763-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Rame</surname><given-names initials="JE">Jesus E.</given-names></name><xref rid="ejhf3763-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejhf3763-note-0001" ref-type="author-notes">
+<sup>†</sup>
+</xref><address><email>eduardo.rame@jefferson.edu</email></address></contrib><contrib id="ejhf3763-cr-0002" contrib-type="author"><name name-style="western"><surname>Schmitto</surname><given-names initials="JD">Jan D.</given-names></name><xref rid="ejhf3763-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="ejhf3763-note-0001" ref-type="author-notes">
+<sup>†</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0003" contrib-type="author"><name name-style="western"><surname>Kosevic</surname><given-names initials="DN">Dragana N.</given-names></name><xref rid="ejhf3763-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="ejhf3763-note-0001" ref-type="author-notes">
+<sup>†</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0004" contrib-type="author"><name name-style="western"><surname>Kovacevic‐Preradovic</surname><given-names initials="T">Tamara</given-names></name><xref rid="ejhf3763-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0005" contrib-type="author"><name name-style="western"><surname>Jovev</surname><given-names initials="S">Sasko</given-names></name><xref rid="ejhf3763-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0006" contrib-type="author"><name name-style="western"><surname>Zdravkovic</surname><given-names initials="M">Marija</given-names></name><xref rid="ejhf3763-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0007" contrib-type="author"><name name-style="western"><surname>Granov</surname><given-names initials="N">Nermir</given-names></name><xref rid="ejhf3763-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0008" contrib-type="author"><name name-style="western"><surname>Popov</surname><given-names initials="T">Tanja</given-names></name><xref rid="ejhf3763-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0009" contrib-type="author"><name name-style="western"><surname>Rudez</surname><given-names initials="I">Igor</given-names></name><xref rid="ejhf3763-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0010" contrib-type="author"><name name-style="western"><surname>Vukovic</surname><given-names initials="P">Petar</given-names></name><xref rid="ejhf3763-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0011" contrib-type="author"><name name-style="western"><surname>Ristic</surname><given-names initials="V">Velibor</given-names></name><xref rid="ejhf3763-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0012" contrib-type="author"><name name-style="western"><surname>Neuzil</surname><given-names initials="P">Petr</given-names></name><xref rid="ejhf3763-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0013" contrib-type="author"><name name-style="western"><surname>Holtdirk</surname><given-names initials="A">Annette</given-names></name><xref rid="ejhf3763-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0014" contrib-type="author"><name name-style="western"><surname>Ruhparwar</surname><given-names initials="A">Arjang</given-names></name><xref rid="ejhf3763-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0015" contrib-type="author"><name name-style="western"><surname>Khan</surname><given-names initials="MS">Muhammad Shahzeb</given-names></name><xref rid="ejhf3763-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0016" contrib-type="author"><name name-style="western"><surname>Düngen</surname><given-names initials="HD">Hans‐Dirk</given-names></name><xref rid="ejhf3763-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0017" contrib-type="author"><name name-style="western"><surname>Brandes</surname><given-names initials="K">Kersten</given-names></name><xref rid="ejhf3763-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0018" contrib-type="author"><name name-style="western"><surname>Goettel</surname><given-names initials="P">Peter</given-names></name><xref rid="ejhf3763-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0019" contrib-type="author"><name name-style="western"><surname>Mueller</surname><given-names initials="J">Johannes</given-names></name><xref rid="ejhf3763-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0020" contrib-type="author"><name name-style="western"><surname>Kallel</surname><given-names initials="F">Faouzi</given-names></name><xref rid="ejhf3763-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0021" contrib-type="author"><name name-style="western"><surname>Friede</surname><given-names initials="T">Tim</given-names></name><xref rid="ejhf3763-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0022" contrib-type="author"><name name-style="western"><surname>Peric</surname><given-names initials="M">Miodrag</given-names></name><xref rid="ejhf3763-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0023" contrib-type="author"><name name-style="western"><surname>Fudim</surname><given-names initials="M">Marat</given-names></name><xref rid="ejhf3763-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref><xref rid="ejhf3763-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="ejhf3763-cr-0024" contrib-type="author" corresp="yes"><name name-style="western"><surname>Anker</surname><given-names initials="SD">Stefan D.</given-names></name><xref rid="ejhf3763-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref><address><email>s.anker@cachexia.de</email></address></contrib><contrib id="ejhf3763-cr-0025" contrib-type="author"><collab collab-type="authors">for the C‐MIC II Trial Investigators</collab></contrib></contrib-group><aff id="ejhf3763-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Bruce and Robbi Toll Heart and Vascular Institute</named-content>
+<institution>Thomas Jefferson University</institution>
+<city>Philadelphia</city>
+<named-content content-type="country-part">PA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf3763-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiac, Thoracic, Transplantation and Vascular Surgery</named-content>
+<institution>Hannover Medical School</institution>
+<city>Hannover</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf3763-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Cardiovascular Institute Dedinje</institution>
+<city>Belgrade</city>
+<country country="RS">Serbia</country>
+</aff><aff id="ejhf3763-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Faculty of Medicine</named-content>
+<institution>University of Banja Luka</institution>
+<city>Banja Luka</city>
+<country country="BA">Bosnia and Herzegovina</country>
+</aff><aff id="ejhf3763-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>University Clinic of Cardiology</institution>
+<city>Skopje</city>
+<country country="MK">North Macedonia</country>
+</aff><aff id="ejhf3763-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>University Hospital Medical Center Bezanijska Kosa</institution>
+<city>Belgrade</city>
+<country country="RS">Serbia</country>
+</aff><aff id="ejhf3763-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Center</named-content>
+<institution>University of Sarajevo</institution>
+<city>Sarajevo</city>
+<country country="BA">Bosnia and Herzegovina</country>
+</aff><aff id="ejhf3763-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Institute of Cardiovascular Diseases of Vojvodina</institution>
+<city>Vojvodina</city>
+<country country="RS">Serbia</country>
+</aff><aff id="ejhf3763-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>University Hospital Dubrava</institution>
+<city>Zagreb</city>
+<country country="HR">Croatia</country>
+</aff><aff id="ejhf3763-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Medical School</named-content>
+<institution>University Belgrade</institution>
+<city>Belgrade</city>
+<country country="RS">Serbia</country>
+</aff><aff id="ejhf3763-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Cardiology Clinic</named-content>
+<institution>Medical Faculty of Charles University and Homolka Hospital Prague</institution>
+<city>Prague</city>
+<country country="CZ">Czech Republic</country>
+</aff><aff id="ejhf3763-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<institution>RQM+</institution>
+<city>Frankfurt</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf3763-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>Baylor Scott and White Health‐Heart Hospital Plano and Baylor Scott and White Research Institute</institution>
+<city>Dallas</city>
+<named-content content-type="country-part">TX</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf3763-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<institution>SCIRENT LLC</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf3763-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<institution>Berlin Heals GmbH</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf3763-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Statistics</named-content>
+<institution>University Medical Center Göttingen, and DZHK (German Center for Cardiovascular Research), Partner Site Lower Saxony</institution>
+<city>Göttingen</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf3763-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<institution>Duke University</institution>
+<city>Durham</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf3763-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<institution>Duke Clinical Research Institute</institution>
+<city>Durham</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf3763-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology (CVK) of German Heart Center Charité; German Centre for Cardiovascular Research (DZHK) Partner Site Berlin</named-content>
+<institution>Charité Universitätsmedizin</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Corresponding authors. Jesus E. Rame, Division of Cardiology, Bruce and Robbi Toll Heart and Vascular Institute, Thomas Jefferson University, 925 Chestnut Street, Philadelphia, PA 19107, USA. Email: <email>eduardo.rame@jefferson.edu</email>
+<break />
+Stefan D. Anker, Department of Cardiology (CVK at DHZC), Charité University Medicine Berlin, Augustenburger Platz 1, D‐13353 Berlin, Germany. Email: <email>s.anker@cachexia.de</email>
+<break />
+</corresp><fn fn-type="equal" id="ejhf3763-note-0001"><label>†</label><p>Contributed equally as co‐first authors.</p></fn></author-notes><pub-date pub-type="epub"><day>15</day><month>7</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2025</year></pub-date><volume>27</volume><issue seq="60">10</issue><issue-id pub-id-type="pmc-issue-id">499805</issue-id><issue-id pub-id-type="doi">10.1002/ejhf.v27.10</issue-id><fpage>1837</fpage><lpage>1849</lpage><history><date date-type="rev-recd"><day>12</day><month>6</month><year>2025</year></date><date date-type="received"><day>14</day><month>5</month><year>2025</year></date><date date-type="accepted"><day>26</day><month>6</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>31</day><month>10</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>01</day><month>11</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-11-01 00:25:25.013"><day>01</day><month>11</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">European Journal of Heart Failure</italic> published by John Wiley &amp; Sons Ltd on behalf of European Society of Cardiology.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="EJHF-27-1837.pdf" /><self-uri content-type="pdf" ns1:href="file:EJHF-27-1837.pdf" /><abstract><title>Abstract</title><sec id="ejhf3763-sec-0001"><title>Aims</title><p>In patients with heart failure, alterations in electrical fields generated within the myocardium have been associated with myocardial oedema which can act as a substrate for left ventricular dysfunction. Safety and efficacy of a direct microcurrent therapy using an implanted generator (C‐MIC) remain uncertain.</p></sec><sec id="ejhf3763-sec-0002"><title>Methods and results</title><p>Ambulatory patients with non‐ischaemic dilated cardiomyopathy with left ventricular ejection fraction (LVEF) of 25% to 35% and New York Heart Association (NYHA) class III–IV were randomized to C‐MIC (device) or control group in addition to guideline‐directed medical therapy. The primary endpoint was change in LVEF at 6 months. Pre‐specified secondary endpoints included 6‐min walk distance (6MWD), Kansas City Cardiomyopathy Questionnaire overall summary score (KCCQ‐OSS), and NYHA functional class. Of 70 patients randomized, 65 were included in modified intention‐to‐treat analysis (C‐MIC device: <italic toggle="no">n</italic> = 32; control: <italic toggle="no">n</italic> = 33). At 6 months, treatment with C‐MIC versus control improved LVEF (mean difference: 5.1%; 95% confidence interval [CI] 3.1–7.1%, <italic toggle="no">p</italic> &lt; 0.001). The proportions of patients with improvement in at least one NYHA class (risk difference: 68.9%; 95% CI 50.6–87.2, <italic toggle="no">p</italic> &lt; 0.001), an increase of ≥5 points in KCCQ‐OSS (risk difference: 60.0%; 95% CI 42.3–77.6, <italic toggle="no">p</italic> &lt; 0.001), and an increase of ≥30% in 6MWD (risk difference: 38.3%; 95% CI 14.4–62.2) were substantially higher in the device versus control group (<italic toggle="no">p</italic> &lt; 0.002).</p></sec><sec id="ejhf3763-sec-0003"><title>Conclusions</title><p>In patients with non‐ischaemic chronic heart failure with reduced ejection fraction, the C‐MIC device compared with control improved LVEF, symptoms, functional capacity and quality of life.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ejhf3763-kwd-0001">Heart failure</kwd><kwd id="ejhf3763-kwd-0002">Electrical microcurrent</kwd><kwd id="ejhf3763-kwd-0003">Cardio‐microcurrent device</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Berlin Heals GmbH</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="4" /><table-count count="4" /><page-count count="13" /><word-count count="8500" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:30.10.2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="ejhf3763-body-0001"><sec id="ejhf3763-sec-0004"><title>Introduction</title><p>Chronic heart failure is associated with high morbidity and mortality rates.<xref rid="ejhf3763-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ejhf3763-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Guideline‐directed medical therapy for patients with heart failure with reduced ejection fraction improves clinical outcomes with many patients achieving clinically significant recovery of myocardial function.<xref rid="ejhf3763-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> However, often patients with heart failure with reduced ejection fraction do not achieve myocardial function recovery and continue to have high residual risk with worsening symptoms.<xref rid="ejhf3763-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>Recent advancements have led to the development of various device‐based therapies that could potentially improve clinical outcomes and quality of life for patients with heart failure with reduced ejection fraction.<xref rid="ejhf3763-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ejhf3763-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ejhf3763-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="ejhf3763-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> One such novel device is the C‐MIC device, which delivers a non‐stimulatory direct electrical current (DC; in the μA range; hence microcurrent) directly to the myocardium through a surgical implant.<xref rid="ejhf3763-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="ejhf3763-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="ejhf3763-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> The microcurrent technology applied by the C‐MIC device has been demonstrated to enhance tissue healing based on a premise that maintaining the physiological endogenous steady potential gradient within cells is essential for proper organ function.<xref rid="ejhf3763-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ejhf3763-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="ejhf3763-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="ejhf3763-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> In chronic heart failure, a disruption in cardiac lymphatic drainage and alteration in electrical fields has been associated with myocardial oedema which can act as a substrate for left ventricular dysfunction.<xref rid="ejhf3763-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="ejhf3763-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p><p>The initial feasibility of the C‐MIC device was assessed in a single‐arm, pilot study.<xref rid="ejhf3763-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> After 6 months, 10 patients with heart failure on maximally tolerated medical therapy who had the C‐MIC device implanted had a mean increase of 8% (absolute) in left ventricular ejection fraction (LVEF).<xref rid="ejhf3763-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> These patients also experienced increases in 6‐min walk distance (6MWD) and quality of life. In a subsequent 2‐year follow‐up study of seven out of these 10 patients after C‐MIC deactivation, sustained improvements in LVEF, 6MWD, and quality of life were observed, with only one patient requiring reactivation of the C‐MIC device.<xref rid="ejhf3763-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Herein, we report the results of the first randomized controlled trial to assess the safety and efficacy of the C‐MIC device in patients with refractory ambulatory non‐ischaemic heart failure with a reduced ejection fraction.</p></sec><sec sec-type="methods" id="ejhf3763-sec-0005"><title>Methods</title><sec id="ejhf3763-sec-0006"><title>Trial design and oversight</title><p>C‐MIC II is a multicentre randomized open‐label clinical trial aimed at comparing the safety and efficacy of treating heart failure patients using the C‐MIC system in addition to medical therapy versus medical therapy alone. The trial is registered as <ext-link ns1:href="http://clinicaltrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> Identifier: <ext-link ext-link-type="pmc:clinical-trial" ns1:href="NCT04662034">NCT04662034</ext-link>. The trial protocol was designed by the principal investigators and the financial sponsor. The trial was conducted in accordance with the principles of the Declaration of Helsinki and the Good Clinical Practice Guidelines of the International Council for Harmonization. The protocol was approved by institutional review boards or ethics committees at each participating location. All patients provided written informed consent. An independent data and safety monitoring committee evaluated patient safety during the trial. The steering committee and principal investigators oversaw all aspects of the trial's execution (online supplementary <italic toggle="yes">Appendix</italic>
+<xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>: Section A). The principal investigators had unrestricted access to the data, prepared all drafts of the manuscript, and attest to the completeness and accuracy of the data and analyses. The manuscript was reviewed and edited by all co‐authors. Financial support for the trial was provided by Berlin Heals.</p></sec><sec id="ejhf3763-sec-0007"><title>Patients, randomization, and follow‐up</title><p>Eligibility criteria included ambulatory patients with non‐ischaemic dilated cardiomyopathy who had a LVEF between 25% and 35% and were New York Heart Association (NYHA) class III to IV despite optimal medical therapy. Patients were considered ineligible for the study if they had a known ischaemic disease aetiology of heart failure. Patients with heart failure related to structural abnormalities such as congenital or valvular disease, those who received inotropic support within 30 days prior to enrolment, or patients deemed unsuitable for the C‐MIC system due to anatomical reasons were excluded. The complete list of inclusion and exclusion criteria is shown in online supplementary <italic toggle="yes">Appendix</italic>
+<xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>: Section B.</p><p>Patients were randomly assigned in a 1:1 ratio to either C‐MIC system (device group) or not (control group) in addition to medical therapy. The randomization was carried out using a block randomization method, and was stratified according to site. The C‐MIC system and the implantation procedure have been described previously (see online supplementary <italic toggle="yes">Appendix</italic>
+<xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>: Section C). Following randomization, clinical visits were scheduled at 4 weeks, and 2, 3, 4 and 6 months for both the device and control groups (online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>). Patients in the device group also had a clinical visit at the time of C‐MIC system implantation and a follow‐up visit within 2 weeks after the implantation. An independent blinded echocardiographic core laboratory conducted serial echocardiographic assessments at baseline, 4 weeks, 4 months, and 6 months post‐randomization.</p></sec><sec id="ejhf3763-sec-0008"><title>Trial outcomes</title><p>The primary endpoint was the difference in the change of LVEF between the device and control groups after 6 months, as assessed by the echocardiographic core laboratory. In addition to LVEF, changes in left ventricular size were evaluated by measuring the end‐systolic and end‐diastolic diameters. The three pre‐specified efficacy‐related key secondary endpoints included the proportion of patients with at least a one class improvement in NYHA functional class from baseline to 6 months, the proportion of patients with an increase of at least five points in Kansas City Cardiomyopathy Questionnaire overall summary score (KCCQ‐OSS), and the proportion of patients with at least a 30% improvement in 6MWD. The 6MWD and NYHA class assessments were conducted by individuals who were not blinded to group assignment. The eight pre‐specified safety‐related secondary endpoints included all‐cause and cardiovascular mortality, as well as device‐related deaths, hospitalizations for any reason, for cardiovascular reasons, or device‐related hospitalizations, as well as the incidence and severity of adverse events and device malfunctions.</p><p>Additional outcome assessments related to exercise capacity endpoints, including changes in absolute peak oxygen consumption (VO<sub>2</sub>), in body weight‐adjusted peak VO<sub>2</sub>, and the VO<sub>2</sub> at the anaerobic threshold from baseline to 6 months, as measured by cardiopulmonary exercise testing (CPET), were performed. A comparison of the change in N‐terminal pro‐B‐type natriuretic peptide (NT‐proBNP) from baseline to 6 months between the device and control groups was also conducted.</p></sec><sec id="ejhf3763-sec-0009"><title>Statistical analysis</title><p>The sample size calculation followed a group sequential design using a two‐sample <italic toggle="yes">t</italic>‐test to assess differences in mean LVEF between the two groups. Assuming an expected mean LVEF change of 10 ± 10% in the device group and 4 ± 10% in the control group, with an alpha level of 0.05 and statistical power exceeding 80%, 46 patients were assigned to each group across two stages (interim and final analyses). Critical values for the group sequential test were determined using an O'Brien–Fleming type design. The mixed model repeated measures (MMRM) approach employed in our analyses is more powerful than a comparison of means using a two‐sample <italic toggle="yes">t</italic>‐test; therefore the power calculation is conservative. A pilot study had demonstrated that mean LVEF changes were detectable as early as 14 days post‐implantation and sustained through 6 months.<xref rid="ejhf3763-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Based on these findings, the interim analysis was scheduled for when 46 patients had completed their 4‐month assessment.</p><p>The primary endpoint was analysed using the MMRM approach, incorporating baseline LVEF as a covariate as well as treatment, time, treatment‐by‐time interaction and the randomization stratification variables, specifically site, as factors. To assess whether the treatment effect varied across different patient subgroups, a predefined subgroup analysis was conducted. Interaction testing was performed by including interaction terms in the MMRM model to evaluate whether treatment effects differed significantly across subgroups.</p><p>The primary efficacy and secondary analyses were performed on the modified intention‐to‐treat (mITT) population, which included all patients from the ITT group who had available at least one post‐baseline measurement of the primary endpoint. For the device group, this required successful implantation of a functional system, while for the control group, it required completion of the baseline visit. Per‐protocol (PP) analysis included all mITT patients who adhered to the study protocol and completed the study.</p><p>The Mantel–Haenszel test, stratified by site, was used to compare proportions between groups, with treatment group differences expressed as risk differences with 95% confidence intervals (CI). The MMRM approach was applied for continuous data comparisons between treatment groups. Continuous variables are presented as mean ± standard deviation or median with interquartile range (IQR). All reported <italic toggle="yes">p</italic>‐values are two‐sided. Secondary endpoints will only be tested, if the primary hypothesis could be rejected. As no hierarchy for assessing secondary endpoints was pre‐specified, all 11 secondary endpoints were considered with Bonferroni adjustment. Statistical significance for the 11 secondary endpoints was considered present if <italic toggle="yes">p</italic> &lt; 0.00455. All other analyses were considered exploratory. Statistical analyses were conducted using SAS software, version 9.4 (SAS Institute Inc., Cary, NC, USA).</p></sec></sec><sec sec-type="results" id="ejhf3763-sec-0010"><title>Results</title><sec id="ejhf3763-sec-0011"><title>Patients</title><p>Between January 2021 and May 2024, 70 patients were randomized across nine sites (35 in the device arm and 35 in the control arm). The C‐MIC system was successfully implanted in 32 patients; three patients assigned to the device group withdrew from the trial before any implantation attempt. Additionally, two patients from the control group withdrew after randomization. Subsequently, 65 patients were included in the mITT analysis, as only in these patients at least one assessment of the primary endpoint was available after baseline (online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>). All patients completed the 6‐month clinical visit except for one patient in the control group who was lost to follow‐up.</p><p>The baseline characteristics of patients in the two groups were similar (<italic toggle="yes">Table</italic> <xref rid="ejhf3763-tbl-0001" ref-type="table">
+<italic toggle="yes">1</italic>
+</xref>). The mean age of all patients was 60 ± 10 years, and 71% were men. The mean baseline LVEF was 30.1 ± 3.6% for the device group and 29.5 ± 3.0% for the control group. All patients were NYHA class III, except for one patient in the device group.</p><table-wrap position="float" id="ejhf3763-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Baseline characteristics</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Characteristics</th><th align="left" valign="bottom" rowspan="1" colspan="1">Device group (<italic toggle="yes">n</italic> = 32)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Control group (<italic toggle="yes">n</italic> = 33)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="left" valign="top" rowspan="1" colspan="1">58.0 ± 9.5</td><td align="left" valign="top" rowspan="1" colspan="1">61.9 ± 9.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Women, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">9 (28)</td><td align="left" valign="top" rowspan="1" colspan="1">10 (30)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Body mass index (kg/m<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">28.5 ± 4.5</td><td align="left" valign="top" rowspan="1" colspan="1">29.7 ± 3.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Body surface area (m<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">2.1 ± 0.2</td><td align="left" valign="top" rowspan="1" colspan="1">2.1 ± 0.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Type 2 diabetes mellitus, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (13)</td><td align="left" valign="top" rowspan="1" colspan="1">7 (21)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hypertension, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">24 (75)</td><td align="left" valign="top" rowspan="1" colspan="1">22 (67)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Lung disease, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (9)</td><td align="left" valign="top" rowspan="1" colspan="1">8 (24)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kidney disease, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (9)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">GI disease, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (12)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NYHA class III, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">31 (97)</td><td align="left" valign="top" rowspan="1" colspan="1">33 (100)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NYHA class IV, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (3)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">KCCQ overall score, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">45 ± 20</td><td align="left" valign="top" rowspan="1" colspan="1">40 ± 25</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Family history of HF, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">13 (41)</td><td align="left" valign="top" rowspan="1" colspan="1">11 (33)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SGLT2 inhibitors, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">12 (38)</td><td align="left" valign="top" rowspan="1" colspan="1">14 (42)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Beta‐blockers, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">31 (97)</td><td align="left" valign="top" rowspan="1" colspan="1">32 (97)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RAAS inhibition, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">31 (97)</td><td align="left" valign="top" rowspan="1" colspan="1">33 (100)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Aldosterone antagonists, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">31 (97)</td><td align="left" valign="top" rowspan="1" colspan="1">33 (100)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diuretics, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">32 (100)</td><td align="left" valign="top" rowspan="1" colspan="1">33 (100)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Duration since initial HF diagnosis (years)</td><td align="left" valign="top" rowspan="1" colspan="1">2.7 ± 1.5</td><td align="left" valign="top" rowspan="1" colspan="1">2.8 ± 1.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">QRS duration (ms)</td><td align="left" valign="top" rowspan="1" colspan="1">109 ± 19</td><td align="left" valign="top" rowspan="1" colspan="1">116 ± 27</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AF/atrial flutter, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">12 (38)</td><td align="left" valign="top" rowspan="1" colspan="1">11 (33)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AV block, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (9)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (12)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LVEF (%)</td><td align="left" valign="top" rowspan="1" colspan="1">30.1 ± 3.6</td><td align="left" valign="top" rowspan="1" colspan="1">29.5 ± 3.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LVEDD (mm)</td><td align="left" valign="top" rowspan="1" colspan="1">61.1 ± 6.2</td><td align="left" valign="top" rowspan="1" colspan="1">62.3 ± 6.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LVESD (mm)</td><td align="left" valign="top" rowspan="1" colspan="1">52.5 ± 6.5</td><td align="left" valign="top" rowspan="1" colspan="1">54.2 ± 6.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ICD, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (6)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">eGFR (ml/min/1.73 m<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">78 ± 26</td><td align="left" valign="top" rowspan="1" colspan="1">78 ± 22</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6MWD (m)</td><td align="left" valign="top" rowspan="1" colspan="1">304 ± 63</td><td align="left" valign="top" rowspan="1" colspan="1">279 ± 59</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CPET, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">32 (100)</td><td align="left" valign="top" rowspan="1" colspan="1">29 (88)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Peak VO<sub>2</sub> (ml/kg/min)</td><td align="left" valign="top" rowspan="1" colspan="1">16 ± 5</td><td align="left" valign="top" rowspan="1" colspan="1">15.5 ± 4</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Exercise time (min)</td><td align="left" valign="top" rowspan="1" colspan="1">8 ± 3</td><td align="left" valign="top" rowspan="1" colspan="1">8 ± 3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Blood pressure (mmHg)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Systolic</td><td align="left" valign="top" rowspan="1" colspan="1">122 ± 11</td><td align="left" valign="top" rowspan="1" colspan="1">121 ± 13</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Diastolic</td><td align="left" valign="top" rowspan="1" colspan="1">79 ± 9</td><td align="left" valign="top" rowspan="1" colspan="1">77 ± 8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NT‐proBNP (pg/ml)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1153 ± 1376</p>
+<p>Median (IQR):</p>
+<p>684 (268–1386)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1233 ± 1062</p>
+<p>Median (IQR):</p>
+<p>1048 (404–1626)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Haemoglobin (g/L)</td><td align="left" valign="top" rowspan="1" colspan="1">141 ± 16</td><td align="left" valign="top" rowspan="1" colspan="1">149 ± 13</td></tr></tbody></table><table-wrap-foot id="ejhf3763-ntgp-0002"><fn id="ejhf3763-note-0002"><p>Data are expressed as mean ± standard deviation, unless otherwise indicated.</p></fn><fn id="ejhf3763-note-0003"><p>There were no significant between‐group differences in the characteristics at baseline.</p></fn><fn id="ejhf3763-note-0004"><p>6MWD, 6‐min walk distance; AF, atrial fibrillation; AV, atrioventricular; CPET, cardiopulmonary exercise test; eGFR, estimated glomerular filtration rate; GI, gastrointestinal; HF, heart failure; ICD, implantable cardioverter‐defibrillator; KCCQ, Kansas City Cardiomyopathy Questionnaire; LVEDD, left ventricular end‐diastolic diameter; LVEF, left ventricular ejection fraction; LVESD, left ventricular end‐systolic diameter; NT‐proBNP, N‐terminal pro‐B‐type natriuretic peptide; NYHA, New York Heart Association; RAAS, renin–angiotensin–aldosterone system; SGLT2, sodium–glucose co‐transporter 2; VO<sub>2</sub>, oxygen consumption.</p></fn></table-wrap-foot></table-wrap></sec><sec id="ejhf3763-sec-0012"><title>Primary endpoint</title><p>On 12 October 2023, the sponsor was informed by the independent data monitoring committee that criteria for overwhelming efficacy had been met and stopping the study was recommended. The data monitoring committee had analysed data of 48 patients with at least 4‐month follow‐up. At that time (October 2023), 60 patients had already been randomized. However, enrolment of participants was not stopped immediately in order to conclude co‐medication analyses (to ensure a balanced number of participants using optimal heart failure medications in both groups) as well as to arrange for regulatory discussions, which took place on 22 May 2024. Subsequent to this meeting, all sites were informed that enrolment had ended on 6 June 2024. At that time, a total of 94 patients had been enrolled, of whom 70 had been randomized in the trial (online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>).</p><fig position="float" fig-type="Figure" id="ejhf3763-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Mean and standard errors of (<italic toggle="yes">A</italic>) left ventricular ejection fraction (LVEF), (<italic toggle="yes">B</italic>) 6‐min walk distance (6MWD), (<italic toggle="yes">C</italic>) Kansas City Cardiomyopathy Questionnaire overall summary score (KCCQ‐OSS) at baseline and to various follow‐up intervals, and (<italic toggle="yes">D</italic>) New York Heart Association (NYHA) class at baseline and 6 months (modified intention‐to‐treat population).
+</p></caption><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="EJHF-27-1837-g002.jpg" /></fig><table-wrap position="float" id="ejhf3763-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Primary and secondary efficacy and safety endpoints (modified intention‐to‐treat population)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">End point</th><th align="left" valign="bottom" rowspan="1" colspan="1">Device group (<italic toggle="yes">n</italic> = 32)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Control group (<italic toggle="yes">n</italic> = 33)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Difference (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td colspan="5" align="left" valign="top" rowspan="1">Primary endpoint</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Change in LVEF from baseline to 6 months</td><td align="left" valign="top" rowspan="1" colspan="1">6.6 ± 0.7</td><td align="left" valign="top" rowspan="1" colspan="1">1.5 ± 0.7</td><td align="left" valign="top" rowspan="1" colspan="1">5.1 (3.1, 7.1)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Key (efficacy‐related) secondary endpoints</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Percentage of patients with improvement in NYHA class by more than one class at 6 months<xref rid="ejhf3763-note-0007" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">26 (81.3)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (12.5)</td><td align="left" valign="top" rowspan="1" colspan="1">68.9% (50.6%, 87.2%)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Percentage of patients with change in KCCQ‐OSS by ≥5 points at 6 months</td><td align="left" valign="top" rowspan="1" colspan="1">31 (96.9)</td><td align="left" valign="top" rowspan="1" colspan="1">16 (50.0)</td><td align="left" valign="top" rowspan="1" colspan="1">60.0% (42.3%, 77.6%)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Percentage of patients with increase in 6MWT by at least 30% at 6 months</td><td align="left" valign="top" rowspan="1" colspan="1">20 (64.5)</td><td align="left" valign="top" rowspan="1" colspan="1">9 (29.0)</td><td align="left" valign="top" rowspan="1" colspan="1">38.3% (14.4%, 62.2%)</td><td align="left" valign="top" rowspan="1" colspan="1">0.0017</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Safety‐related secondary endpoints</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">All‐cause death</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">–</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Cardiac‐related death</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">–</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Device‐related death</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">–</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">All‐cause hospitalizations</td><td align="left" valign="top" rowspan="1" colspan="1">5 (15.6)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (3.0)</td><td align="left" valign="top" rowspan="1" colspan="1">12.2% (−1.7%, 26.1%)</td><td align="left" valign="top" rowspan="1" colspan="1">0.085</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Cardiac‐related hospitalizations</td><td align="left" valign="top" rowspan="1" colspan="1">2 (6.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">6.4% (−2.1%, 14.9%)</td><td align="left" valign="top" rowspan="1" colspan="1">0.140</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Device‐related hospitalizations</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">–</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Number of patients with serious adverse events<xref rid="ejhf3763-note-0008" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">5 (15.6)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (3.0)</td><td align="left" valign="top" rowspan="1" colspan="1">12.6% (−1.3%, 26.5%)</td><td align="left" valign="top" rowspan="1" colspan="1">0.079</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Rate and number of device malfunctions associated with clinical events</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">–</td></tr></tbody></table><table-wrap-foot id="ejhf3763-ntgp-0003"><fn id="ejhf3763-note-0005"><p>Data are expressed as least‐squares mean ± standard error, or <italic toggle="yes">n</italic> (%). Efficacy analyses were conducted in the modified intention‐to‐treat population which included all randomized patients who had at least one post‐baseline measurement of the primary endpoint. For the device group, this required successful implantation of a functional system, while for the control group, it required completion of the baseline visit. Comparison between groups was performed using the Cochran–Mantel–Haenszel stratified by study sites.</p></fn><fn id="ejhf3763-note-0006"><p>6MWT, 6‐min walk test; CI, confidence interval; KCCQ‐OSS, Kansas City Cardiomyopathy Questionnaire overall summary score; LVEF, left ventricular ejection fraction; N/A, not available; NYHA, New York Heart Association.</p></fn><fn id="ejhf3763-note-0007"><label>
+<sup>a</sup>
+</label><p>The proportion estimate for the control group is based on 32 patients, as one patient dropped out after the 3‐month visit.</p></fn><fn id="ejhf3763-note-0008"><label>
+<sup>b</sup>
+</label><p>In the device group, serious adverse events included hemothorax in two patients, worsening renal function in one patient, pericardial effusion in one patient, a single episode of hypotension in one patient, and a single episode of ventricular arrhythmia in one patient. In the control group, one patient experienced a leg fracture.</p></fn></table-wrap-foot></table-wrap><p>
+<italic toggle="yes">Figure</italic> <xref rid="ejhf3763-fig-0001" ref-type="fig">
+<italic toggle="yes">1A</italic>
+</xref> shows the mean LVEF with standard error at each follow‐up visit for both the device and control groups, highlighting the temporal pattern of LVEF. The mean change from baseline in LVEF at 6 months was 6.6% (95% CI 5.2–8.0) in the device group and 1.5% (95% CI 0.08–2.9) in the control group (<italic toggle="yes">Table</italic> <xref rid="ejhf3763-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>). The estimated treatment difference was 5.1% (95% CI 3.1–7.1, <italic toggle="yes">p</italic> &lt; 0.001) (<italic toggle="yes">Graphical Abstract</italic>). Sub‐group analyses of the primary endpoint at 6 months showed no heterogeneity of treatment effect in any of the subgroups (<italic toggle="yes">Figure</italic> <xref rid="ejhf3763-fig-0002" ref-type="fig">
+<italic toggle="yes">2</italic>
+</xref>).</p><fig position="float" fig-type="Figure" id="ejhf3763-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Sub‐group analysis of the primary endpoint based on the modified intention‐to‐treat (mITT) analysis. 6MWT, 6‐min walk test; CI, confidence interval; C‐MIC, cardio‐microcurrent device; IVSD, interventricular septal end‐diastole; KCCQ‐OSS, Kansas City Cardiomyopathy Questionnaire overall summary score; LS, least squares; LVEF, left ventricular ejection fraction; Nt‐proBNP, N‐terminal pro‐B‐type natriuretic peptide.
+</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="EJHF-27-1837-g001.jpg" /></fig><p>Of note, at 6 months, the mean change from baseline in left ventricular end‐diastolic diameter was −1.1 mm (95% CI −2.9 to +0.8) in the device group and −1.2 mm (95% CI −3.1 to +0.7) in the control group (<italic toggle="yes">p</italic>&gt;0.4 between groups). The mean change in left ventricular end‐systolic diameter was −2.9 mm (95% CI −5.0 to −0.9) in the device group and −1.7 mm (95% CI −4.7 to +1.1) in the control group (all <italic toggle="yes">p</italic>&gt;0.4 between groups).</p></sec><sec id="ejhf3763-sec-0013"><title>Secondary endpoints</title><p>
+<italic toggle="yes">Figure</italic> <xref rid="ejhf3763-fig-0001" ref-type="fig">
+<italic toggle="yes">1B</italic>
+</xref> presents 6MWD with standard error at each follow‐up visit for both the device and control groups, illustrating functional improvement over time. The mean change in 6MWD at 6 months was 165 ± 18 m in the device group and 20 ± 18 m in the control group (<italic toggle="yes">Table</italic> <xref rid="ejhf3763-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref>). The estimated treatment difference was 144.7 m (95% CI 93.8–195.5, <italic toggle="yes">p</italic> &lt; 0.001) (<italic toggle="yes">Graphical Abstract</italic>). The proportion of patients achieving a 30% increase in 6MWD was higher in the device group compared to the control group, with a risk difference of 38.3% (95% CI 14.4–62.2, <italic toggle="yes">p</italic> = 0.0017) (<italic toggle="yes">Table</italic> <xref rid="ejhf3763-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>). Similarly, the risk difference for patients achieving at least a 30‐m increase in 6MWD was 39.3% (95% CI 13.1–65.5, <italic toggle="yes">p</italic> = 0.0033).</p><table-wrap position="float" id="ejhf3763-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Further endpoints (modified intention‐to‐treat population)<xref rid="ejhf3763-note-0010" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">Device group (<italic toggle="yes">n</italic> = 32)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Control group (<italic toggle="yes">n</italic> = 33)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Risk difference (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Further clinical assessments</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Change in NYHA class from baseline to 6 months<xref rid="ejhf3763-note-0012" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1.15 ± 0.11</td><td align="left" valign="top" rowspan="1" colspan="1">0.003 ± 0.11</td><td align="left" valign="top" rowspan="1" colspan="1">1.14 (0.82 to 1.47)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Change in 6MWD from baseline to 6 months<xref rid="ejhf3763-note-0012" ref-type="table-fn">
+<sup>c</sup>
+</xref> (m)</td><td align="left" valign="top" rowspan="1" colspan="1">165.0 ± 18.1</td><td align="left" valign="top" rowspan="1" colspan="1">20.3 ± 18.0</td><td align="left" valign="top" rowspan="1" colspan="1">144.7 (93.8 to 195.6)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Percentage of patients with 6MWD increase by ≥30 m from baseline to 6 months<xref rid="ejhf3763-note-0011" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">27 (87.1)</td><td align="left" valign="top" rowspan="1" colspan="1">17 (54.8)</td><td align="left" valign="top" rowspan="1" colspan="1">39.3% (13.1%, 65.5%)</td><td align="left" valign="top" rowspan="1" colspan="1">0.0033</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Change in KCCQ‐OSS from baseline to 6 months<xref rid="ejhf3763-note-0012" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">46.4 ± 3.3</td><td align="left" valign="top" rowspan="1" colspan="1">5.7 ± 3.1</td><td align="left" valign="top" rowspan="1" colspan="1">40.7 (31.9 to 49.5)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Percentage of patients with change in KCCQ‐OSS by ≥10 points at 6 months<xref rid="ejhf3763-note-0011" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">29 (90.6)</td><td align="left" valign="top" rowspan="1" colspan="1">13 (40.6)</td><td align="left" valign="top" rowspan="1" colspan="1">57.2% (38.1%, 76.2%)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Percentage of patients with change in KCCQ‐OSS by ≥15 points at 6 months<xref rid="ejhf3763-note-0011" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">28 (87.5)</td><td align="left" valign="top" rowspan="1" colspan="1">9 (28.1)</td><td align="left" valign="top" rowspan="1" colspan="1">61.2% (42.0%, 80.4%)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Exercise testing results</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Change in peak VO<sub>2</sub> from baseline to 6 months<xref rid="ejhf3763-note-0012" ref-type="table-fn">
+<sup>c</sup>
+</xref> (ml/min)</td><td align="left" valign="top" rowspan="1" colspan="1">114.5 ± 63.1</td><td align="left" valign="top" rowspan="1" colspan="1">−17.9 ± 66.2</td><td align="left" valign="top" rowspan="1" colspan="1">132.4 (−49.8 to 314.5)</td><td align="left" valign="top" rowspan="1" colspan="1">0.150</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Change in body weight‐adjusted peak VO<sub>2</sub> from baseline to 6 months<xref rid="ejhf3763-note-0012" ref-type="table-fn">
+<sup>c</sup>
+</xref> (ml/kg/min)</td><td align="left" valign="top" rowspan="1" colspan="1">1.8 ± 0.7</td><td align="left" valign="top" rowspan="1" colspan="1">−0.26 ± 0.76</td><td align="left" valign="top" rowspan="1" colspan="1">2.03 (−0.06 to 4.12)</td><td align="left" valign="top" rowspan="1" colspan="1">0.056</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Change in VO<sub>2</sub> AT from baseline to 6 months<xref rid="ejhf3763-note-0012" ref-type="table-fn">
+<sup>c</sup>
+</xref> (ml/min)</td><td align="left" valign="top" rowspan="1" colspan="1">−4.2 ± 90.9</td><td align="left" valign="top" rowspan="1" colspan="1">−4.2 ± 96.6</td><td align="left" valign="top" rowspan="1" colspan="1">−0.05 (−269.8 to 269.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.99</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Change in body weight‐adjusted VO<sub>2</sub> AT from baseline to 6 months<xref rid="ejhf3763-note-0012" ref-type="table-fn">
+<sup>c</sup>
+</xref> (ml/kg/min)</td><td align="left" valign="top" rowspan="1" colspan="1">0.16 ± 0.96</td><td align="left" valign="top" rowspan="1" colspan="1">−0.30 ± 1.02</td><td align="left" valign="top" rowspan="1" colspan="1">0.46 (−2.39 to 3.30)</td><td align="left" valign="top" rowspan="1" colspan="1">0.71</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Change in exercise duration from baseline to 6 months<xref rid="ejhf3763-note-0012" ref-type="table-fn">
+<sup>c</sup>
+</xref> (min)</td><td align="left" valign="top" rowspan="1" colspan="1">1.56 ± 0.60</td><td align="left" valign="top" rowspan="1" colspan="1">0.51 ± 0.63</td><td align="left" valign="top" rowspan="1" colspan="1">1.05 (−0.69 to 2.79)</td><td align="left" valign="top" rowspan="1" colspan="1">0.23</td></tr></tbody></table><table-wrap-foot id="ejhf3763-ntgp-0004"><fn id="ejhf3763-note-0009"><p>6MWD, 6‐min walk distance; AT, anaerobic threshold; CI, confidence interval; KCCQ‐OSS, Kansas City Cardiomyopathy Questionnaire overall summary score; NYHA, New York Heart Association; VO<sub>2</sub>, oxygen consumption.</p></fn><fn id="ejhf3763-note-0010"><label>
+<sup>a</sup>
+</label><p>Efficacy analyses were conducted in the modified intention‐to‐treat population which included all randomized patients who had at least one post‐baseline measurement of the primary endpoint. For the device group, this required successful implantation of a functional system, while for the control group, it required completion of the baseline visit.</p></fn><fn id="ejhf3763-note-0011"><label>
+<sup>b</sup>
+</label><p>Comparison between groups was performed using the Cochran–Mantel–Haenszel stratified by study sites. The proportion estimate for the control group is based on 32 patients, as one patient dropped out after the 3‐month visit.</p></fn><fn id="ejhf3763-note-0012"><label>
+<sup>c</sup>
+</label><p>Comparison between groups was based on the mixed effect of multiple measurements method. Peak VO<sub>2</sub> data were available for 31 of 32 patients in the device group and 28 of 33 in the control group. VO<sub>2</sub> AT was available for 25 of 32 patients in the device group and 21 of 33 in the control group.</p></fn></table-wrap-foot></table-wrap><p>
+<italic toggle="yes">Figure</italic> <xref rid="ejhf3763-fig-0001" ref-type="fig">
+<italic toggle="yes">1C</italic>
+</xref> depicts the mean KCCQ‐OSS with standard error at each follow‐up visit for both the device and control groups, illustrating the trajectory of patient‐reported health status improvement over time. The mean change in KCCQ‐OSS at 6 months was 46.4 ± 3.3 in the device group compared to 5.7 ± 3.1 in the control group, resulting in a difference of 40.7 points (95% CI 31.9–49.5, <italic toggle="yes">p</italic> &lt; 0.001) (<italic toggle="yes">Graphical Abstract</italic>). The risk differences in the proportion of patients achieving an increase of more than 5, 10, and 15 points from baseline to 6 months were 60.0% (95% CI 42.3–77.6, <italic toggle="yes">p</italic> &lt; 0.001), 57.2% (95% CI 38.1–76.2, <italic toggle="yes">p</italic> &lt; 0.001), and 61.2% (95% CI 42.0–80.4, <italic toggle="yes">p</italic> &lt; 0.001), respectively (<italic toggle="yes">Table</italic> <xref rid="ejhf3763-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref>).</p><p>More patients in the device group (<italic toggle="yes">n</italic> = 26; 81%) improved by at least one NYHA class from baseline, compared to the control group (<italic toggle="yes">n</italic> = 4; 12%) (risk difference: 68.9%, 95% CI 50.6–87.2, <italic toggle="yes">p</italic> &lt; 0.001). At 6 months, 81.2% of patients in the device group were in NYHA class I/II, compared to only 12.5% in the control group (<italic toggle="yes">p</italic> &lt; 0.001) (<italic toggle="yes">Figure</italic> <xref rid="ejhf3763-fig-0001" ref-type="fig">
+<italic toggle="yes">1D</italic>
+</xref>).</p><p>Cardiopulmonary exercise testing results reported in <italic toggle="yes">Table</italic> <xref rid="ejhf3763-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref> show a trend toward a greater increase in peak VO<sub>2</sub> in the device group compared to the control group, with a mean difference of +2.03 ml/kg/min (95% CI −0.06 to 4.12; <italic toggle="yes">p</italic> = 0.056) (online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S2</italic>
+</xref>). While this difference did not reach statistical significance, the directional change was consistent with other functional outcomes. In contrast, there was no observed difference between groups in the change in VO<sub>2</sub> at the anaerobic threshold. Approximately 30% of VO<sub>2</sub> at the anaerobic threshold data were missing in both groups, which may have limited the power to detect a meaningful difference.</p><p>The comparison of changes in NT‐proBNP between the device and control groups is presented in <italic toggle="yes">Figure</italic> <xref rid="ejhf3763-fig-0003" ref-type="fig">
+<italic toggle="yes">3</italic>
+</xref>. Distinct temporal trends were observed; in the device group, NT‐proBNP levels initially rose within the first 4 weeks post‐implantation, then steadily declined over the 6‐month follow‐up. In contrast, the control group exhibited a modest decrease around 2 months post‐enrolment, with levels remaining relatively stable thereafter (<italic toggle="yes">Table</italic> <xref rid="ejhf3763-tbl-0004" ref-type="table">
+<italic toggle="yes">4</italic>
+</xref>).</p><fig position="float" fig-type="Figure" id="ejhf3763-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Change in N‐terminal pro‐B‐type natriuretic peptide (NT‐proBNP) from baseline to 6 months (log scale). Note that a difference on the log scale translates to a ratio on the original scale. For example, a log‐scale difference of −0.0784 between the device and control groups at 6 months corresponds to a 7.5% reduction in NT‐proBNP on the original scale.
+</p></caption><graphic position="anchor" id="jats-graphic-7" orientation="portrait" ns1:href="EJHF-27-1837-g004.jpg" /></fig><table-wrap position="float" id="ejhf3763-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Safety data (per protocol population)<xref rid="ejhf3763-note-0014" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">Device group (<italic toggle="yes">n</italic> = 30)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Control group (<italic toggle="yes">n</italic> = 29)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Risk difference (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">All‐cause death, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">All hospitalization, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (13.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">13.3% (1.2%, 25.5%)</td><td align="left" valign="top" rowspan="1" colspan="1">0.041</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cardiac‐related hospitalization, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (3.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">3.3% (−3.1%, 9.8%)</td><td align="left" valign="top" rowspan="1" colspan="1">0.32</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Device‐related hospitalization, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Surgery‐related hospitalization, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (10)</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Serious adverse events, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (13.3)<xref rid="ejhf3763-note-0017" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">13.3% (1.2%, 25.5%)</td><td align="left" valign="top" rowspan="1" colspan="1">0.041</td></tr></tbody></table><table-wrap-foot id="ejhf3763-ntgp-0005"><fn id="ejhf3763-note-0013"><p>CI, confidence interval; N/A, not available.</p></fn><fn id="ejhf3763-note-0014"><label>
+<sup>a</sup>
+</label><p>Safety analyses were conducted in the per protocol population which included all patients included in the mITT and who adhered to the study protocol without major violations and completed the study. Comparison between groups was performed using the Cochran–Mantel–Haenszel stratified by study sites.</p></fn><fn id="ejhf3763-note-0017"><label>
+<sup>b</sup>
+</label><p>Hemothorax in two patients, worsening of renal function in one patient, pericardial effusion in one patient, and one episode of hypotension in one patient.</p></fn></table-wrap-foot></table-wrap><p>Blood pressure was adequately controlled in both the device and control groups throughout the study period. Systolic and diastolic blood pressure values remained stable over time in both arms (online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S3</italic>
+</xref>). A mixed model for repeated measures analysis confirmed that there were no significant differences in the changes in either systolic or diastolic blood pressure from baseline to 6 months between the two groups.</p></sec><sec id="ejhf3763-sec-0014"><title>Safety</title><p>The C‐MIC system was successfully implanted in all patients, with a mean skin‐to‐skin procedure time of 2.4 ± 0.9 h. According to the surgical notes, the epicardial patch was implanted outside the pericardial space in 30 patients and within the pericardial sac in 2 patients. The median hospital length of stay was 5 days (IQR 5–7). There was no mortality reported. A total of 28 adverse events were reported (6 events in the control group and 22 in the device group). Serious adverse events (SAEs) were seen in six patients (five in the device group vs. one in the control group). SAEs included hemothorax in two patients, pleural effusion in the left hemithorax in another, and a leg fracture in the control group. The rate of all hospitalizations was higher in the device group with a risk difference of 12.2% (95% CI −1.7% to 26.1%). Among all hospitalizations, only two were cardiac related. A detailed list of adverse events is shown in online supplementary <italic toggle="yes">Tables</italic> <xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S2</italic>
+</xref> and <xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S3</italic>
+</xref>. Non‐SAEs were reported in 11 patients in the device group, including wound infection, COVID‐19, knee pain, and dizziness. In the control group, non‐SAEs were reported in five patients and included fatigue, shortness of breath, and respiratory infection (online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S3</italic>
+</xref>). Statistical testing for all safety outcomes of the mITT population showed <italic toggle="yes">p</italic> &gt; 0.05 for all assessments. While device‐related deficiencies were reported, none were linked to clinical adverse events or interruptions in therapy delivery (online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf3763-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S4</italic>
+</xref>).</p></sec></sec><sec sec-type="discussion" id="ejhf3763-sec-0015"><title>Discussion</title><p>In this first randomized trial of cardiac microcurrent device therapy for chronic heart failure, we found that the C‐MIC device compared with the control group provided improvement in LVEF at 6 months. Improvement was also observed in 6MWD, KCCQ‐OSS and NYHA functional class at 6 months in the device group compared with the control group. The device was overall well tolerated and was considered safe within this study with no mortality reported. These findings are important as the C‐MIC device could provide an important treatment option for patients with non‐ischaemic chronic heart failure with reduced ejection fraction who do not achieve myocardial function recovery and continue to have worsening symptoms despite maximally tolerated medical therapy.</p><p>In a prior pilot study, C‐MIC had demonstrated an increase in LVEF as early as 2 weeks after implantation, which was sustained up to 6 months.<xref rid="ejhf3763-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Myocardial recovery is a clinically important, patient centred outcome in patients with chronic dilated cardiomyopathy.<xref rid="ejhf3763-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Long‐term outcomes of patients who have demonstrated some degree of restoration of cardiac function, transitioning to heart failure with recovered ejection fraction are significantly better.<xref rid="ejhf3763-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="ejhf3763-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Given that the improvement in LVEF was not associated with significant changes in left ventricular dimensions in our study, we consider this to be suggestive of improved left ventricular contractility during the 6‐month treatment period. Along with the observation of early improvement in LVEF (within 4 weeks) the absence during this period of left ventricular reverse remodelling, which is often observed in months, suggests a novel yet to be determined mechanism of microcurrent delivery to the myocardium. Whether longer‐term therapy would result in reverse remodelling, remains to be studied. The results from this study prompt further investigation not only into the mechanisms which subtend the early and sustained changes in myocardial function, but also into the application of microcurrent device therapy to a broader population of patients with heart failure, including with ischaemic disease aetiology and those with devices.</p><p>While the enrolled patients demonstrated key indicators of advanced heart failure—including NYHA class III symptoms, LVEF &lt;35%, elevated NT‐proBNP levels, and reduced 6MWD—the limited use of implantable cardioverter‐defibrillators (ICD) in this cohort reflects the specific clinical profile of the study population. All participants had non‐ischaemic dilated cardiomyopathy, for which the European Society of Cardiology guidelines provide a Class IIa recommendation for ICD implantation, as opposed to the stronger Class I recommendation in ischaemic heart failure. Moreover, most patients had narrow QRS durations, limiting eligibility for cardiac resynchronization therapy (CRT)‐based device therapies. Consequently, only two patients in each arm had received an ICD. The observed preservation of kidney function and relatively low event rates likely stem from careful patient selection, early‐stage disease in a subset of participants, and the structured follow‐up inherent to a clinical trial setting. This is also consistent with the known lower prevalence of chronic kidney disease in non‐ischaemic versus ischaemic heart failure populations.</p><p>Patients with heart failure often have poor quality of life and functional status despite medical therapy.<xref rid="ejhf3763-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="ejhf3763-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> This trial showed that the C‐MIC device leads to improvement in 6MWD and KCCQ‐OSS on top of medical therapy. Improvement in NYHA functional class was also observed at 6 months in the device group. The observed improvements in symptoms, functional capacity, and health status with the C‐MIC device are larger compared with other existing heart failure devices or medical therapy.<xref rid="ejhf3763-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="ejhf3763-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="ejhf3763-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> An observed improvement in KCCQ‐OSS approaching 90 in some patients may reflect, at least in part, a substantial placebo effect, which is commonly seen in heart failure trials involving device‐based interventions. However, this marked improvement in health status may also be attributable to the immediate and sustained enhancement in LVEF following C‐MIC therapy. The observed concordance between objective improvements in cardiac function and patient‐reported outcomes suggests that the clinical benefit may extend beyond placebo response alone. Considering that improving quality of life and functional status in patients with heart failure is the top most priority for many physicians and patients alike,<xref rid="ejhf3763-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> C‐MIC may be an important future therapeutic option for a subset of patients with heart failure.</p><p>Both the device and control groups were well balanced at baseline and received optimal guideline‐directed medical therapy as detailed in <italic toggle="yes">Table</italic> <xref rid="ejhf3763-tbl-0001" ref-type="table">
+<italic toggle="yes">1</italic>
+</xref>. Changes in heart failure medication during the 6‐month study period were minimal and comparable between groups. While the overall use of sodium–glucose co‐transporter 2 inhibitors was relatively low (~40%), this reflects the slower adoption and limited availability of these agents in several East European countries during the study period. Given the consistent use of standard heart failure therapies across both groups and the minimal changes observed over time, it is unlikely that differences in pharmacologic treatment explain the observed differences in clinical outcomes.</p><p>The observed changes in peak VO<sub>2</sub> offer additional insight into the functional impact of C‐MIC therapy. Patients in the device group demonstrated a trend toward a greater increase in peak VO<sub>2</sub> from baseline to 6 months compared to controls, with a borderline <italic toggle="yes">p</italic>‐value of 0.056. However, the absence of a centralized core laboratory and the lack of a standardized CPET protocol across sites may have introduced variability and limited the precision of these measurements. Importantly, while CPET provides an objective, quantitative assessment of maximal cardiorespiratory fitness, it differs in scope from other functional endpoints such as the 6‐min walk test and the KCCQ, which reflect submaximal effort and patient‐reported quality of life. The combination of these complementary measures may offer a more comprehensive view of treatment response, capturing both physiological capacity and real‐world functional improvement.</p><p>While NT‐proBNP is a well‐established biomarker of heart failure severity and prognosis, its response to microcurrent therapy has been inconsistent. In this study, despite clear and sustained improvements in symptoms, functional capacity, and echocardiographic parameters, NT‐proBNP levels did not show significant decline. One possible explanation is that myocardial wall stress remained elevated during the 6‐month observation period, which aligns with the lack of significant left ventricular end‐diastolic diameter reduction observed in this study. This suggests that microcurrent therapy may exert its benefits through mechanisms not directly associated with reductions in wall stress—particularly during the initial 6‐month treatment phase, which NT‐proBNP primarily reflects. Potential pathways may include anti‐inflammatory effects, bioelectrical modulation, or cellular remodelling, which are not adequately captured by traditional heart failure biomarkers. Additionally, variability among patients and assay limitations may contribute to the observed inconsistency. Future studies incorporating serial blood sampling and <italic toggle="yes">in vitro</italic> proteomic analyses are planned to further elucidate the therapy's mechanism of action and to help identify more specific and responsive biomarkers.</p><p>Microcurrent therapy has been successfully applied in various clinical settings, including wound healing, where it has demonstrated benefits in promoting tissue repair, reducing inflammation, and enhancing cellular regeneration.<xref rid="ejhf3763-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="ejhf3763-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Building on these principles, C‐MIC therapy applies low‐level direct microcurrents to myocardial tissue through an implantable device with the aim of promoting left ventricular recovery in chronic heart failure. While the precise mechanisms remain under investigation, preclinical studies suggest several plausible pathways.<xref rid="ejhf3763-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="ejhf3763-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Microcurrents may restore impaired bioelectric signaling, stabilize cardiomyocyte membrane potentials, and improve myocardial synchronization. Sustained effects may be driven by enhanced ATP production, increased protein synthesis, and the upregulation of angiogenic and reparative growth factors such as vascular endothelial growth factor and insulin‐like growth factor‐1.<xref rid="ejhf3763-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> These actions may reduce fibrosis, support capillary density, and promote cardiomyocyte survival in diseased myocardium. Additionally, microcurrent‐induced electroosmosis may reduce myocardial oedema by mobilizing interstitial fluid—an effect previously linked to functional improvements in other tissues and a potentially underappreciated contributor to systolic dysfunction in dilated cardiomyopathy.<xref rid="ejhf3763-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Future trials incorporating advanced imaging and biomarker endpoints will be critical to confirm these mechanistic effects and refine patient selection strategies for C‐MIC therapy.</p><p>The surgical implant was well tolerated with most patients in the device group discharged between 5 and 7 days of implantation. Significant adverse events included hemothorax in two patients while there was no perioperative mortality in the device group and none of the patients required any temporary, mechanical circulatory support pre‐or post‐device implantation. The nominally higher incidence of SAEs in the device group compared to the control group was primarily related to procedural complications from the surgical placement of the epicardial patch via thoracotomy. Events such as hemothorax (occurring twice), pericardial effusion (occurring once), and transient hypotension (occurring once) are recognized risks associated with this surgical approach. These findings align with previously published data, including a study by Haight <italic toggle="yes">et al</italic>.,<xref rid="ejhf3763-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> which reported a 5% incidence of bleeding complications following epicardial pacemaker implantation via lateral thoracotomy. Notably, none of the adverse events in our study resulted in lasting clinical harm or interfered with therapy delivery, indicating that while the procedure carries known risks, they are generally manageable with appropriate perioperative support.</p><p>It is important to highlight that in the 6‐month period of follow‐up for the pre‐specified primary endpoint there were no hospitalizations due to heart failure in the device and control groups. This period of follow‐up fell within the high prevalence interval of the COVID‐19 pandemic, which makes the results difficult to interpret as the patients and their providers in both groups may have identified alternate strategies to address heart failure decompensation.</p><p>Although the C‐MIC device is activated for only 6 months, the decision to explant the epicardial patch should be carefully weighed against the surgical risks associated with reoperation. In general, it is recommended to leave the patch in place, as device abandonment is considered a safe and common practice for inactive implantable components. The long‐term safety of leaving the C‐MIC device in situ will be further evaluated in the ongoing 2‐year follow‐up of the C‐MIC II study. The 6‐month therapy duration was informed by years of preclinical work—including cellular, small animal and large animal studies—that indicated sustained benefits from several months of treatment. However, as pioneers in this form of therapy, we have not yet conducted a detailed dose duration across multiple timeframes. Our ability to explore longer duration has also been limited by current battery capacity. In the C‐MIC I follow‐up study, we included an option to reactivate therapy during the 2‐year follow‐up period following the initial 6‐month treatment. This reactivation occurred in only one patient, but it highlights an important area for future investigation (Rame J.E., unpublished data).</p><sec id="ejhf3763-sec-0016"><title>Limitations</title><p>A key limitation of this study is the potential for bias in outcome assessment. Although the echocardiographic core lab was blinded to treatment assignment, the C‐MIC lead may have been visible on some images, potentially revealing group allocation. Additionally, the assessments of 6MWD and NYHA class were conducted by personnel who were not blinded, which may have introduced observer bias. Furthermore, the notable improvements observed in patient‐reported KCCQ scores may, in part, reflect a placebo effect, which is commonly seen in device‐based trials and could have influenced patients' perception of symptom improvement. These factors should be considered when interpreting the functional, echocardiographic, and quality‐of‐life outcomes. Future trial designs will incorporate strategies to mitigate these potential sources of bias and better account for placebo effects.</p><p>Another important limitation of this study is the early termination of enrolment, which may introduce bias and potentially overestimate the treatment effect—an issue that has been documented in trials stopped early for efficacy benefit. Although the protocol and statistical analysis plan did not include provisions for stopping the trial based on efficacy, an interim analysis was pre‐specified to assess outcomes in the control group and confirm that the study remained adequately powered to meet its primary endpoint. Upon review of the unblinded data, the independent data monitoring committee observed a highly significant improvement in the primary endpoint (<italic toggle="yes">p</italic> &lt; 0.0001), along with favourable trends across multiple secondary endpoints, and recommended stopping the study in October 2023. Recognizing the deviation from the original trial plan, the sponsor consulted the German Notified Body. During this review period, enrolment continued—from 60 patients randomized at the time of the interim analysis to 70 by trial closure. The Notified Body did not oppose the data monitoring committee recommendation, and enrolment was formally stopped on 6 June 2024. While this decision was made with careful ethical consideration and appropriate oversight, the early termination of the study may limit the generalizability of the findings and increases the risk of bias, particularly in subjective secondary endpoints.</p><p>An additional limitation is that patients with implanted cardiac devices—such as ICDs, CRTs, pacemakers, and cardiac contractility modulation systems—were excluded from this study (with the exception of ICDs with single‐coil leads) due to the potential for electrical interaction with the continuous direct microcurrent delivered by the C‐MIC system. As a result, the findings may not be generalizable to the broader heart failure population with such devices, and further testing is needed to confirm safety and compatibility.</p><p>The study population consisted of patients with a relatively short history of heart failure (1–5 years), which may have contributed to the favourable treatment response. Patients in earlier stages of disease may retain greater myocardial adaptability, allowing for more pronounced restorative effects. As such, these findings may not fully extend to patients with longer standing or more advanced heart failure, underscoring the need for further studies in broader populations.</p><p>Additionally, the trial was not powered to determine if the C‐MIC device would reduce morbidity and mortality events. However, data from recent ambulatory registry cohorts have shown improvements in LVEF in heart failure with reduced ejection fraction patients are associated with better outcomes,<xref rid="ejhf3763-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="ejhf3763-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="ejhf3763-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="ejhf3763-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> which support the rationale for larger, event‐driven studies in the future.<xref rid="ejhf3763-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Furthermore long‐term data to confirm durability of the C‐MIC device are currently lacking. A 2‐year follow‐up study is currently underway (<ext-link ext-link-type="pmc:clinical-trial" ns1:href="NCT05189860">NCT05189860</ext-link>).</p><p>Another limitation is the absence of core laboratory analysis for CPET data which may have introduced variability in data acquisition and interpretation across sites. Data on exercise capacity at the anaerobic threshold were missing in approximately one‐third of patients, further limiting the robustness of conclusions drawn from this parameter. Dedicated studies on CPET are better suited for such outcomes than larger‐scale clinical trial focusing on general outcomes.</p><p>Finally, the trial was conducted exclusively at sites in Eastern Europe. While this may raise questions about the broader applicability of the findings, current evidence does not clearly demonstrate significant differences in heart failure phenotypes or treatment responses between Eastern and Western European populations. Nonetheless, we acknowledge that geographic, genetic, and healthcare system‐related factors may influence outcomes. Further studies involving more diverse populations are therefore needed to confirm the generalizability of these results.</p></sec></sec><sec sec-type="conclusions" id="ejhf3763-sec-0017"><title>Conclusion</title><p>In conclusion, in patients with non‐ischaemic chronic heart failure with reduced ejection fraction, the C‐MIC device compared with control improved LVEF, NYHA functional class, self‐reported health status, and quality of life.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ejhf3763-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Appendix S1.</bold> Supporting Information.</p></caption><media ns1:href="EJHF-27-1837-s001.docx" position="float" orientation="portrait" /></supplementary-material></sec></body><back><ack id="EJHF3763-sec-1001"><title>Acknowledgement</title><p>Open Access funding enabled and organized by Projekt DEAL.</p><sec id="ejhf3763-sec-0018"><title>Funding</title><p>The C‐MIC II trial was funded by Berlin Heals GmbH.</p><p>
+<bold>Conflict of interest</bold>: Dr Rame reports receiving consulting fees from Berlin Heals and Abbott Laboratories. Dr Friede reports receiving consulting fees from Actimed, Apellis, Argenx, Bayer, Boehringer Ingelheim, Biogen, BMS, CSL Behring, Daiichi Sankyo, Galapagos, Novartis, Recardio, Relaxera, Roche, UpstreamBio, Viatris and Vifor. Dr Fudim reports receiving consulting fees from Berlin Heals. Dr Anker reports receiving research support from Abbott Vascular and Vifor Pharma, and personal fees from Abbott Vascular, Berlin Heals, Bayer, BRAHMS, Boehringer Ingelheim, Cardiac Dimensions, Impulse Dynamics, Novartis, Servier, and Vifor Pharma. Drs Goettel, Brandes, Kallel and Mueller are Berlin Heals employees.</p></sec></ack><ref-list content-type="cited-references" id="ejhf3763-bibl-0001"><title>References</title><ref id="ejhf3763-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0001">
+<string-name name-style="western">
+<surname>Tromp</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bamadhaj</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JGF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Angermann</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahlstrom</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ouwerkerk</surname>
+<given-names>W</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Post‐discharge prognosis of patients admitted to hospital for heart failure by world region, and national level of income and income disparity (REPORT‐HF): A cohort study</article-title>. <source>Lancet Glob Health</source>
+<year>2020</year>;<volume>8</volume>:<elocation-id>e411‐e422</elocation-id>. <pub-id pub-id-type="doi">10.1016/S2214-109X(20)30004-8</pub-id>
+<pub-id pub-id-type="pmid">32087174</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0002">
+<string-name name-style="western">
+<surname>Rosano</surname>
+<given-names>GMC</given-names>
+</string-name>. <article-title>Clinical trial design, endpoints and regulatory considerations in heart failure</article-title>. <source>Glob Cardiol</source>
+<year>2024</year>;<volume>2</volume>. <pub-id pub-id-type="doi">10.4081/cardio.2024.18</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0003">
+<string-name name-style="western">
+<surname>Yan</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snipelisky</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Velez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baran</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Estep</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bauerlein</surname>
+<given-names>EJ</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Protocol‐driven approach to guideline‐directed medical therapy optimization for heart failure: A real‐world application to recovery</article-title>. <source>Am Heart J Plus</source>
+<year>2024</year>;<volume>45</volume>:<elocation-id>100438</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.ahjo.2024.100438</pub-id>
+<pub-id pub-id-type="pmid">39220718</pub-id>
+<pub-id pub-id-type="pmcid">PMC11362780</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0004">
+<string-name name-style="western">
+<surname>Wilcox</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ardehali</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonow</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sauer</surname>
+<given-names>AJ</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. “<article-title>Targeting the heart” in heart failure: Myocardial recovery in heart failure with reduced ejection fraction</article-title>. <source>JACC Heart Fail</source>
+<year>2015</year>;<volume>3</volume>:<fpage>661</fpage>–<lpage>669</lpage>. <pub-id pub-id-type="doi">10.1016/j.jchf.2015.04.011</pub-id>
+<pub-id pub-id-type="pmid">26362444</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0005">
+<string-name name-style="western">
+<surname>Mody</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nee Sheth</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dash</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mody</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agrawal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monga</surname>
+<given-names>IS</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Device therapies for heart failure with reduced ejection fraction: A new era</article-title>. <source>Front Cardiovasc Med</source>
+<year>2024</year>;<volume>11</volume>:<elocation-id>1388232</elocation-id>. <pub-id pub-id-type="doi">10.3389/fcvm.2024.1388232</pub-id>
+<pub-id pub-id-type="pmid">39494238</pub-id>
+<pub-id pub-id-type="pmcid">PMC11527719</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0006">
+<string-name name-style="western">
+<surname>Bazoukis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saplaouras</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Efthymiou</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yiannikourides</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Letsas</surname>
+<given-names>KP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Cardiac contractility modulation in patients with heart failure – a review of the literature</article-title>. <source>Heart Fail Rev</source>
+<year>2024</year>;<volume>29</volume>:<fpage>689</fpage>–<lpage>705</lpage>. <pub-id pub-id-type="doi">10.1007/s10741-024-10390-1</pub-id>
+<pub-id pub-id-type="pmid">38393423</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0007">
+<string-name name-style="western">
+<surname>Palmiero</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Florio</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rubino</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nesti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marchel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Russo</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Cardiac resynchronization therapy in patients with heart failure: What is new?</article-title>
+<source>Heart Fail Clin</source>
+<year>2021</year>;<volume>17</volume>:<fpage>289</fpage>–<lpage>301</lpage>. <pub-id pub-id-type="doi">10.1016/j.hfc.2021.01.010</pub-id>
+<pub-id pub-id-type="pmid">33673953</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0008">
+<string-name name-style="western">
+<surname>Antoniadis</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sieniewicz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gould</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porter</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Webb</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claridge</surname>
+<given-names>S</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Updates in cardiac resynchronization therapy for chronic heart failure: Review of multisite pacing</article-title>. <source>Curr Heart Fail Rep</source>
+<year>2017</year>;<volume>14</volume>:<fpage>376</fpage>–<lpage>383</lpage>. <pub-id pub-id-type="doi">10.1007/s11897-017-0350-z</pub-id>
+<pub-id pub-id-type="pmid">28779280</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0009">
+<string-name name-style="western">
+<surname>Kapeller</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mueller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Losert</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Podesser</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Macfelda</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Microcurrent stimulation promotes reverse remodelling in cardiomyocytes</article-title>. <source>ESC Heart Fail.</source>
+<year>2016</year>;<volume>3</volume>:<fpage>122</fpage>–<lpage>130</lpage>. <pub-id pub-id-type="doi">10.1002/ehf2.12080</pub-id>
+<pub-id pub-id-type="pmid">27774272</pub-id>
+<pub-id pub-id-type="pmcid">PMC5064659</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0010">
+<string-name name-style="western">
+<surname>Schmitto</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Napp</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mariani</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanke</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogel‐Claussen</surname>
+<given-names>J</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>First‐in‐man implantation of a cardiac microcurrent device for chronic systolic heart failure</article-title>. <source>ASAIO J</source>
+<year>2022</year>;<volume>68</volume>:<fpage>e121</fpage>–<lpage>e123</lpage>. <pub-id pub-id-type="doi">10.1097/MAT.0000000000001537</pub-id>
+<pub-id pub-id-type="pmid">34324448</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0011">
+<string-name name-style="western">
+<surname>Kosevic</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiedemann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vukovic</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ristic</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riebandt</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Radak</surname>
+<given-names>U</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Cardio‐microcurrent device for chronic heart failure: First‐in‐human clinical study</article-title>. <source>ESC Heart Fail</source>
+<year>2021</year>;<volume>8</volume>:<fpage>962</fpage>–<lpage>970</lpage>. <pub-id pub-id-type="doi">10.1002/ehf2.13242</pub-id>
+<pub-id pub-id-type="pmid">33559358</pub-id>
+<pub-id pub-id-type="pmcid">PMC8006737</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0012">
+<string-name name-style="western">
+<surname>Bachamanda Somesh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jürchott</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giesel</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Töllner</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prehn</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richters</surname>
+<given-names>JP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Microcurrent‐mediated modulation of myofibroblasts for cardiac repair and regeneration</article-title>. <source>Int J Mol Sci</source>
+<year>2024</year>;<volume>25</volume>:<elocation-id>3268</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijms25063268</pub-id>
+<pub-id pub-id-type="pmid">38542242</pub-id>
+<pub-id pub-id-type="pmcid">PMC10970173</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0013">
+<string-name name-style="western">
+<surname>Rouabhia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Derbali</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Electrical stimulation promotes wound healing by enhancing dermal fibroblast activity and promoting myofibroblast transdifferentiation</article-title>. <source>PLoS One</source>
+<year>2013</year>;<volume>8</volume>:<elocation-id>e71660</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0071660</pub-id>
+<pub-id pub-id-type="pmid">23990967</pub-id>
+<pub-id pub-id-type="pmcid">PMC3747189</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0014">
+<string-name name-style="western">
+<surname>Avendaño‐Coy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López‐Muñoz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serrano‐Muñoz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Comino‐Suárez</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Avendaño‐López</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin‐Espinosa</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Electrical microcurrent stimulation therapy for wound healing: A meta‐analysis of randomized clinical trials</article-title>. <source>J Tissue Viability</source>
+<year>2022</year>;<volume>31</volume>:<fpage>268</fpage>–<lpage>277</lpage>. <pub-id pub-id-type="doi">10.1016/j.jtv.2021.12.002</pub-id>
+<pub-id pub-id-type="pmid">34903470</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0015">
+<string-name name-style="western">
+<surname>Pu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shimizu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayashi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Che</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suzuki</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsuzuki</surname>
+<given-names>K</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Cardiac lymphatic insufficiency leads to diastolic dysfunction via myocardial morphologic change</article-title>. <source>JACC Basic Transl Sci</source>
+<year>2023</year>;<volume>8</volume>:<fpage>958</fpage>–<lpage>972</lpage>. <pub-id pub-id-type="doi">10.1016/j.jacbts.2023.01.008</pub-id>
+<pub-id pub-id-type="pmid">37719433</pub-id>
+<pub-id pub-id-type="pmcid">PMC10504400</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0016">
+<string-name name-style="western">
+<surname>Kiseleva</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirichenko</surname>
+<given-names>TV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Markina</surname>
+<given-names>YV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cherednichenko</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gugueva</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Markin</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Mechanisms of myocardial edema development in CVD pathophysiology</article-title>. <source>Biomedicines</source>
+<year>2024</year>;<volume>12</volume>:<elocation-id>465</elocation-id>. <pub-id pub-id-type="doi">10.3390/biomedicines12020465</pub-id>
+<pub-id pub-id-type="pmid">38398066</pub-id>
+<pub-id pub-id-type="pmcid">PMC10887157</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0017">
+<string-name name-style="western">
+<surname>Kosevic</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Radak</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vukovic</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmitto</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brandes</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goettel</surname>
+<given-names>P</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Two‐year outcomes of a cardiac microcurrent device in chronic heart failure: A first‐in‐human pilot study</article-title>. <source>ESC Heart Fail</source>
+<year>2025</year>. <pub-id pub-id-type="doi">10.1002/ehf2.15369</pub-id>
+<pub-id pub-id-type="pmcid">PMC12450836</pub-id><pub-id pub-id-type="pmid">40634236</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0018">
+<string-name name-style="western">
+<surname>Pensa</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harap</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilcox</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Clinical perspective of myocardial recovery and improvement: Definitions, prevalence, and relevance</article-title>. <source>Methodist Debakey Cardiovasc J</source>
+<year>2024</year>;<volume>20</volume>:<fpage>6</fpage>–<lpage>15</lpage>. <pub-id pub-id-type="doi">10.14797/mdcvj.1441</pub-id>
+<pub-id pub-id-type="pmcid">PMC11342833</pub-id><pub-id pub-id-type="pmid">39184164</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0019">
+<string-name name-style="western">
+<surname>Park</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mebazaa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oh</surname>
+<given-names>IY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>HJ</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Characteristics, outcomes, and treatment of heart failure with improved ejection fraction</article-title>. <source>J Am Heart Assoc</source>
+<year>2019</year>;<volume>8</volume>:<elocation-id>e011077</elocation-id>. <pub-id pub-id-type="doi">10.1161/JAHA.118.011077</pub-id>
+<pub-id pub-id-type="pmid">30845873</pub-id>
+<pub-id pub-id-type="pmcid">PMC6475046</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0020">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Si</surname>
+<given-names>J</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Reverse atrial remodeling in heart failure with recovered ejection fraction</article-title>. <source>J Am Heart Assoc</source>
+<year>2023</year>;<volume>12</volume>:<elocation-id>e026891</elocation-id>. <pub-id pub-id-type="doi">10.1161/JAHA.122.026891</pub-id>
+<pub-id pub-id-type="pmid">36645090</pub-id>
+<pub-id pub-id-type="pmcid">PMC9939067</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0021">
+<string-name name-style="western">
+<surname>Khan</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Friede</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>. <article-title>To clip or not to clip moderate‐to‐severe functional mitral regurgitation in patients with heart failure</article-title>. <source>Glob Cardiol</source>
+<year>2024</year>;<volume>2</volume>. <pub-id pub-id-type="doi">10.4081/cardio.2024.44</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0022">
+<string-name name-style="western">
+<surname>Oskouie</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pandey</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sauer</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greene</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mullens</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>MS</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>From hospital to home: Evidence‐based care for worsening heart failure</article-title>. <source>JACC Adv</source>
+<year>2024</year>;<volume>3</volume>:<elocation-id>101131</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.jacadv.2024.101131</pub-id>
+<pub-id pub-id-type="pmid">39184855</pub-id>
+<pub-id pub-id-type="pmcid">PMC11342447</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0023">
+<string-name name-style="western">
+<surname>Khariton</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arnold</surname>
+<given-names>SV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hellkamp</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nassif</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>PP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Association between sacubitril/valsartan initiation and health status outcomes in heart failure with reduced ejection fraction</article-title>. <source>JACC Heart Fail</source>
+<year>2019</year>;<volume>7</volume>:<fpage>933</fpage>–<lpage>941</lpage>. <pub-id pub-id-type="doi">10.1016/j.jchf.2019.05.016</pub-id>
+<pub-id pub-id-type="pmid">31521679</pub-id>
+<pub-id pub-id-type="pmcid">PMC7122134</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0024">
+<string-name name-style="western">
+<surname>Akhtar</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnston</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>YD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amil</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ford</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindenfeld</surname>
+<given-names>J</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Meta‐analysis analyzing the effect of therapies on 6‐min walk distance in heart failure with reduced ejection fraction</article-title>. <source>Am J Cardiol</source>
+<year>2022</year>;<volume>178</volume>:<fpage>72</fpage>–<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1016/j.amjcard.2022.05.023</pub-id>
+<pub-id pub-id-type="pmid">35773043</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0025">
+<string-name name-style="western">
+<surname>Usman</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamid</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qazi</surname>
+<given-names>SU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosiborod</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shahzeb Khan</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>The effect of SGLT2 inhibitors on health status in patients with heart failure: A systematic review and meta‐analysis</article-title>. <source>Glob Cardiol</source>
+<year>2024</year>;<volume>2</volume>. <pub-id pub-id-type="doi">10.4081/cardio.2024.35</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0026">
+<string-name name-style="western">
+<surname>Johansson</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joseph</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balasubramanian</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lund</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ezekowitz</surname>
+<given-names>JA</given-names>
+</string-name>, <italic toggle="yes">et al</italic>.; <collab collab-type="authors">G‐CHF Investigators</collab>
+. <article-title>Health‐related quality of life and mortality in heart failure: The Global Congestive Heart Failure study of 23 000 patients from 40 countries</article-title>. <source>Circulation</source>
+<year>2021</year>;<volume>143</volume>:<fpage>2129</fpage>–<lpage>2142</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.120.050850</pub-id>
+<pub-id pub-id-type="pmid">33906372</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0027">
+<string-name name-style="western">
+<surname>Yu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>ZQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>
+<given-names>RY</given-names>
+</string-name>. <article-title>Effects and mechanisms of a microcurrent dressing on skin wound healing: A review</article-title>. <source>Mil Med Res</source>
+<year>2014</year>;<volume>1</volume>:<elocation-id>24</elocation-id>. <pub-id pub-id-type="doi">10.1186/2054-9369-1-24</pub-id>
+<pub-id pub-id-type="pmid">26000170</pub-id>
+<pub-id pub-id-type="pmcid">PMC4440595</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0028">
+<string-name name-style="western">
+<surname>Rame</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Müller</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Myocardial edema revisited in a new paradigm of cardiac electrical microcurrent application in heart failure</article-title>. <source>Bioelectricity</source>
+<year>2021</year>;<volume>3</volume>:<fpage>171</fpage>–<lpage>175</lpage>. <pub-id pub-id-type="doi">10.1089/bioe.2021.0021</pub-id>
+<pub-id pub-id-type="pmid">34729463</pub-id>
+<pub-id pub-id-type="pmcid">PMC8558069</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0029">
+<string-name name-style="western">
+<surname>Robich</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oyamada</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sodha</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sellke</surname>
+<given-names>FW</given-names>
+</string-name>. <article-title>Myocardial therapeutic angiogenesis: A review of the state of development and future obstacles</article-title>. <source>Expert Rev Cardiovasc Ther</source>
+<year>2011</year>;<volume>9</volume>:<fpage>1469</fpage>–<lpage>1479</lpage>. <pub-id pub-id-type="doi">10.1586/erc.11.148</pub-id>
+<pub-id pub-id-type="pmid">22059795</pub-id>
+<pub-id pub-id-type="pmcid">PMC4839193</pub-id></mixed-citation></ref><ref id="ejhf3763-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0030">
+<string-name name-style="western">
+<surname>Haight</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saarel</surname>
+<given-names>EV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pettersson</surname>
+<given-names>GB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Najm</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aziz</surname>
+<given-names>PF</given-names>
+</string-name>. <article-title>Lateral thoracotomy for epicardial pacemaker placement in patients with congenital heart disease</article-title>. <source>Interact Cardiovasc Thorac Surg</source>
+<year>2018</year>;<volume>26</volume>:<fpage>845</fpage>–<lpage>851</lpage>. <pub-id pub-id-type="doi">10.1093/icvts/ivx379</pub-id>
+<pub-id pub-id-type="pmid">29300890</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0031">
+<string-name name-style="western">
+<surname>Kalogeropoulos</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Georgiopoulou</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burkman</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siwamogsatham</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>A</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Characteristics and outcomes of adult outpatients with heart failure and improved or recovered ejection fraction</article-title>. <source>JAMA Cardiol</source>
+<year>2016</year>;<volume>1</volume>:<fpage>510</fpage>–<lpage>518</lpage>. <pub-id pub-id-type="doi">10.1001/jamacardio.2016.1325</pub-id>
+<pub-id pub-id-type="pmid">27434402</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0032">
+<string-name name-style="western">
+<surname>DeVore</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hellkamp</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albert</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patterson</surname>
+<given-names>JH</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>The association of improvement in left ventricular ejection fraction with outcomes in patients with heart failure with reduced ejection fraction: Data from CHAMP‐HF</article-title>. <source>Eur J Heart Fail</source>
+<year>2022</year>;<volume>24</volume>:<fpage>762</fpage>–<lpage>770</lpage>. <pub-id pub-id-type="doi">10.1002/ejhf.2486</pub-id>
+<pub-id pub-id-type="pmid">35293088</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0033">
+<string-name name-style="western">
+<surname>Savarese</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vedin</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Amario</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uijl</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahlström</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosano</surname>
+<given-names>G</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Prevalence and prognostic implications of longitudinal ejection fraction change in heart failure</article-title>. <source>JACC Heart Fail</source>
+<year>2019</year>;<volume>7</volume>:<fpage>306</fpage>–<lpage>317</lpage>. <pub-id pub-id-type="doi">10.1016/j.jchf.2018.11.019</pub-id>
+<pub-id pub-id-type="pmid">30852236</pub-id>
+</mixed-citation></ref><ref id="ejhf3763-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="ejhf3763-cit-0034">
+<string-name name-style="western">
+<surname>Breathett</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allen</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Udelson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bristow</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Changes in left ventricular ejection fraction predict survival and hospitalization in heart failure with reduced ejection fraction</article-title>. <source>Circ Heart Fail</source>
+<year>2016</year>;<volume>9</volume>:<elocation-id>e002962</elocation-id>. <pub-id pub-id-type="doi">10.1161/CIRCHEARTFAILURE.115.002962</pub-id>
+<pub-id pub-id-type="pmid">27656000</pub-id>
+<pub-id pub-id-type="pmcid">PMC5082710</pub-id></mixed-citation></ref></ref-list></back></article>

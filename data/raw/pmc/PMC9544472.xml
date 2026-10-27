@@ -1,0 +1,688 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="jper10957" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Periodontol</journal-id><journal-id journal-id-type="iso-abbrev">J Periodontol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">8000345</journal-id><journal-id journal-id-type="publisher-id">JPER</journal-id><journal-title-group><journal-title>Journal of Periodontology</journal-title></journal-title-group><issn pub-type="ppub">0022-3492</issn><issn pub-type="epub">1943-3670</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9544472</article-id><article-id pub-id-type="pmcid-ver">PMC9544472.1</article-id><article-id pub-id-type="pmcaid">9544472</article-id><article-id pub-id-type="pmcaiid">9544472</article-id><article-id pub-id-type="pmid">35460076</article-id><article-id pub-id-type="doi">10.1002/JPER.21-0621</article-id><article-id pub-id-type="publisher-id">JPER10957</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Translational Periodontology</subject></subj-group></article-categories><title-group><article-title>The additive effect of periodontitis with hypertension on risk of systemic disease and mortality</article-title><alt-title alt-title-type="left-running-head">Larvin et al.</alt-title></title-group><contrib-group><contrib id="jper10957-cr-0001" contrib-type="author"><name name-style="western"><surname>Larvin</surname><given-names initials="H">Harriet</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7263-4182</contrib-id><xref rid="jper10957-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jper10957-cr-0002" contrib-type="author"><name name-style="western"><surname>Kang</surname><given-names initials="J">Jing</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2770-1099</contrib-id><xref rid="jper10957-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jper10957-cr-0003" contrib-type="author"><name name-style="western"><surname>Aggarwal</surname><given-names initials="VR">Vishal R.</given-names></name><xref rid="jper10957-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jper10957-cr-0004" contrib-type="author"><name name-style="western"><surname>Pavitt</surname><given-names initials="S">Sue</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7447-440X</contrib-id><xref rid="jper10957-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jper10957-cr-0005" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wu</surname><given-names initials="J">Jianhua</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6093-599X</contrib-id><xref rid="jper10957-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jper10957-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>j.h.wu@leeds.ac.uk</email></address></contrib></contrib-group><aff id="jper10957-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Dentistry</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="jper10957-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Oral Biology, School of Dentistry</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><aff id="jper10957-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Leeds Institute for Data Analytics</named-content>
+<institution>University of Leeds</institution>
+<city>Leeds</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break />Jianhua Wu, Worsley Building, Level 6, Clarendon Way, University of Leeds, Leeds LS2 9LU, UK.<break />Email: <email>j.h.wu@leeds.ac.uk</email>
+<break />
+</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>5</month><year>2022</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2022</year></pub-date><volume>93</volume><issue seq="90">7</issue><issue-id pub-id-type="pmc-issue-id">418734</issue-id><issue-id pub-id-type="doi">10.1002/jper.v93.7</issue-id><fpage>1024</fpage><lpage>1035</lpage><history><date date-type="rev-recd"><day>24</day><month>1</month><year>2022</year></date><date date-type="received"><day>29</day><month>10</month><year>2021</year></date><date date-type="accepted"><day>10</day><month>4</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>07</day><month>10</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>14</day><month>10</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-08-22 04:25:20.083"><day>22</day><month>08</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Journal of Periodontology</italic> published by Wiley Periodicals LLC on behalf of American Academy of Periodontology.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="JPER-93-1024.pdf" /><self-uri content-type="pdf" ns1:href="file:JPER-93-1024.pdf" /><abstract><title>Abstract</title><sec id="jper10957-sec-0010"><title>Background</title><p>Recent evidence suggests that periodontitis (PD) causes hypertension, which is a precursor to development of other systemic diseases. The aim of this study was to examine the effect of hypertension and PD on the risk of subsequent systemic disease.</p></sec><sec id="jper10957-sec-0020"><title>Methods</title><p>This longitudinal cohort study included 244,393 UK Biobank participants who were free of systemic disease other than hypertension at baseline. Self‐reported responses of painful gums or loose teeth were surrogates for PD. Hypertensives were identified by clinical diagnosis, or elevated blood pressure (≥140/90 mmHg). Systemic diseases including cancer, cardiovascular disease (CVD), and diabetes were identified from linked diagnostic codes. Multivariable Cox proportional hazard models were used to quantify the risk of systemic diseases and all‐cause mortality, stratified by hypertensive and PD status.</p></sec><sec id="jper10957-sec-0030"><title>Results</title><p>The average age of the study population was 55.4 years (standard deviation [SD:] 8.1 years), and 130,220 (53.3%) participants were female. At baseline, 131,566 (53.8%) participants were hypertensive and 4.5% reported PD. The incidence rates of all systemic diseases were higher in hypertensive than non‐hypertensive participants of the same PD status. In hypertensives, an additive effect was observed for PD on the risks of CVD (adjusted hazard ratio [HR]: 1.35, 95% confidence interval [CI]: 1.21–1.53) and respiratory disease (HR: 1.11, 95% CI: 0.95–1.30) compared to hypertensive healthy controls.</p></sec><sec id="jper10957-sec-0040"><title>Conclusions</title><p>Hypertensives with PD have exacerbated risks of several systemic diseases. Future interventional studies should consider the effect of periodontal treatment on systemic outcomes in targeted hypertensive populations.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jper10957-kwd-0001">hypertension</kwd><kwd id="jper10957-kwd-0002">mortality</kwd><kwd id="jper10957-kwd-0003">noncommunicable diseases</kwd><kwd id="jper10957-kwd-0004">oral health</kwd><kwd id="jper10957-kwd-0005">periodontitis</kwd><kwd id="jper10957-kwd-0006">risk factors</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Hopper Scholarship at the University of Leeds</funding-source></award-group><award-group id="funding-0002"><funding-source>National Institute for Health and Care Research (NIHR)</funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Department of Health and Social Care
+</institution><institution-id institution-id-type="doi">10.13039/501100000276</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="3" /><table-count count="3" /><page-count count="12" /><word-count count="5741" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.0 mode:remove_FC converted:07.10.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jper10957-cit-0034">
+<string-name name-style="western">
+<surname>Larvin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aggarwal</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavitt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The additive effect of periodontitis with hypertension on risk of systemic disease and mortality</article-title>. <source>J Periodontol</source>. <year>2022</year>;<volume>93</volume>:<fpage>1024</fpage>–<lpage>1035</lpage>. <pub-id pub-id-type="doi">10.1002/JPER.21-0621</pub-id>
+<pub-id pub-id-type="pmid">35460076</pub-id><pub-id pub-id-type="pmcid">PMC9544472</pub-id></mixed-citation>
+</p></notes></front><body><sec id="jper10957-sec-0050"><label>1</label><title>INTRODUCTION</title><p>Prevalence of periodontitis (PD) is widespread; as a chronic oral condition, it is ranked as the sixth most prevalent disease worldwide.<xref rid="jper10957-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> PD is a multifactorial disease, linked to poor oral hygiene and a number of risk factors including older age, being male, and smoking.<xref rid="jper10957-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="jper10957-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jper10957-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> PD induces systemic inflammation and eventual tooth loss as the condition develops into its most severe form.<xref rid="jper10957-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> There is growing evidence that PD is associated to an increased risk of systemic diseases, including diabetes, cardiovascular disease (CVD), and even adverse coronavirus disease 2019 (COVID‐19) outcomes, which is likely caused by shared inflammatory pathways.<xref rid="jper10957-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="jper10957-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="jper10957-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="jper10957-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> With the advancement of precision/personalized medicine, identification of the individual and combined factors that increase one's susceptibility to systemic disease development is becoming increasingly important.</p><p>Systemic disease diagnoses such as CVD, diabetes, and depression frequently occur in the common disease trajectories of PD. A recent study has shown that a hypertension diagnosis is also central to a number of the multimorbid trajectories<xref rid="jper10957-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>; while hypertension is also independently associated with multimorbidity.<xref rid="jper10957-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> High levels of inflammatory markers such as C‐reactive protein (CRP) are associated with both hypertension and PD,<xref rid="jper10957-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> and there is evidence to suggest that the link between PD and subsequent hypertension is causal.<xref rid="jper10957-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> As yet, the combined effect of hypertension and PD on the subsequent systemic disease development is unclear.</p><p>The UK Biobank is a national resource with over half a million participants; it incorporates demographic and lifestyle variables, baseline oral health status, and linked health outcomes data.<xref rid="jper10957-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The data from the UK Biobank cohort have enabled study of oral health on several health outcomes including cancer, CVD, diabetes, depression, and COVID‐19.<xref rid="jper10957-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="jper10957-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="jper10957-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="jper10957-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The burden of hypertension affects up to 50% of the UK Biobank cohort<xref rid="jper10957-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>; therefore the UK Biobank provides a demonstratable setting for an epidemiological study comparing outcomes in hypertensive and non‐hypertensive populations. The aim of this study was to examine the effect of hypertension and PD on risk of subsequent systemic diseases.</p></sec><sec id="jper10957-sec-0060"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jper10957-sec-0070"><label>2.1</label><title>Dataset</title><p>This prospective longitudinal study used the UK Biobank dataset, a national resource open to researchers with an approved protocol (ref: 54633). The core UK Biobank dataset contains demographic, biomarker, and lifestyle information on more than 500,000 participants aged between 49 and 60 years old at baseline (2006–2010). Self‐reported oral health status (painful gums, loose teeth, or none of the aforementioned) was measured at baseline via responses to an online questionnaire and is contained in the core UK Biobank dataset. Health outcomes data from hospital episode statistics (HES), general practitioner (GP) and prescription records, as well as the cancer and death registries are linked to the core dataset via a unique participant identifier number. The additional health outcomes data provide information including international classification of diseases—10th edition (ICD‐10) codes, Read (version 2) codes, prescriptions, mortality, and the associated entry dates. Updates of HES, GP, and death data were made available for download until November 2020, September 2019, and December 2020, respectively. All participant information is fully anonymized by UK Biobank before being made available to researchers in the data portal. UK Biobank data collection and research were carried out in accordance with the Declaration of Helsinki. Participants provided informed written consent and may withdraw at any time.<xref rid="jper10957-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p></sec><sec id="jper10957-sec-0080"><label>2.2</label><title>Study population</title><p>All UK Biobank participants with oral health status available and who were free of systemic disease at baseline other than hypertension and PD were included in the study. Systemic diseases included cancers, CVD, depression, diabetes mellitus (diabetes), inflammatory disease, liver disease, neurological disease, renal disease, and respiratory disease and were identified through self‐report at baseline, or by the presence of the ICD‐10 or Read (version 2) codes in health outcomes data prior to study recruitment (for full list see Supplementary Table <xref rid="jper10957-supitem-0001" ref-type="supplementary-material">S1</xref> in the online <italic toggle="yes">Journal of Periodontology</italic>).<xref rid="jper10957-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Figure <xref rid="jper10957-fig-0001" ref-type="fig">1</xref> demonstrates the study inclusion flow chart.</p><fig position="float" fig-type="FIGURE" id="jper10957-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Flow chart showing delivery of exclusion criteria to study population. CVD, cardiovascular disease; PD, periodontitis</p></caption><graphic position="anchor" id="jats-graphic-1" orientation="portrait" ns1:href="JPER-93-1024-g001.jpg" /></fig></sec><sec id="jper10957-sec-0090"><label>2.3</label><title>Study outcomes and exposures</title><p>The primary outcome was incident systemic disease diagnosis using codes identified in linked HES or primary care records during follow‐up, and mortality status using civil registration of deaths from Office for National Statistics.</p><p>The study exposures were PD and hypertensive status at baseline. Participants were asked “Do you have any of the following?”, where PD was defined by the self‐reported painful gums, or loose teeth, and healthy controls did not report the aforementioned oral health indicators. Painful gums were surrogates of moderate PD while loose teeth suggested more severe PD. Hypertension was confirmed through ICD‐10 or Read (version 2) code identification in health records, or by abnormal blood pressure reading at baseline (above 140/90 mm/Hg). During the baseline visit, two blood pressure readings were measured using automated Omron device 0–255 and mean measurement calculated; where an automated reading was not available, a manual sphyogmometer was used.</p></sec><sec id="jper10957-sec-0100"><label>2.4</label><title>Study variables</title><p>Baseline information including demographics (age, sex, ethnicity, household income), biomarkers (body mass index (BMI), blood pressure, CRP level), and smoking status was collected at the baseline visit. Self‐reported baseline antihypertensive drug prescriptions were available from interview responses in the core dataset, and prescription codes (Dictionary of Medicines + Devices, Read (version 2) and British National Formulary) were extracted from primary care data (see Supplementary Table <xref rid="jper10957-supitem-0002" ref-type="supplementary-material">S2</xref> in online <italic toggle="yes">Journal of Periodontology</italic>).</p></sec><sec id="jper10957-sec-0110"><label>2.5</label><title>Statistical analysis</title><p>Baseline characteristics for study participants were summarized using frequency (%) for categorical variables and mean (standard deviation [SD]) for continuous variables, respectively. Subsequent systemic disease during follow‐up was quantified by incidence rate; the number of new cases per 1000 person years, stratified by PD and hypertensive status. Multivariable Cox proportional hazard models were used to quantify the risk of systemic disease development. The models were adjusted for age, sex, BMI, CRP level, household income, history of smoking, time from hypertension diagnosis (years), and antihypertensive prescription. We compared the risk of systemic diseases in non‐hypertensive and hypertensive participants with and without PD (healthy control). We also investigated the risk of systemic disease stratified by PD and hypertension category, respectively. The interaction of hypertension and PD on the overall rate of follow‐up systemic disease was explored in interaction plots.</p><p>We assessed the proportional hazard assumptions using Schoenfeld residuals tests. Missing covariate information was handled via multiple imputation by chained equations, and coefficients were combined using Rubin's rule,<xref rid="jper10957-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> using the “mice” package in R.<xref rid="jper10957-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Sensitivity analyses were conducted to account for the impact of missing data and to assess the effect of antihypertensive prescriptions in hypertensive participants. Significance levels were set to 0.05, and all data processing and analyses were performed in R version 4.0.0.<xref rid="jper10957-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> The study report was written in accordance with STROBE guidelines.</p></sec></sec><sec id="jper10957-sec-0120"><label>3</label><title>RESULTS</title><p>Overall, there were 244,393 participants included in the final study population; 131,566 (53.8%) participants were hypertensive at baseline and 10,633 (4.4%) participants had self‐reported PD (Figure <xref rid="jper10957-fig-0001" ref-type="fig">1</xref>). PD was present 4.5% of hypertensives. The mean age of participants was 55.4 years (SD: 8.1) and 53.3% of participants were female. The average CRP level in the study cohort was 2.20 (SD: 3.71). The mean BMI in the overall study cohort was 26.80 (SD: 4.35) (Table <xref rid="jper10957-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="jper10957-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Summary table of UK Biobank participants stratified by hypertension category and periodontitis indicator</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><thead><tr><th align="left" rowspan="1" colspan="1" /><th align="char" rowspan="1" colspan="1" /><th align="left" style="border-bottom:solid 1px #000000" colspan="3" rowspan="1">Non‐hypertensive<xref rid="jper10957-tbl1-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+<italic toggle="yes">n</italic> = (112,827)</th><th align="left" style="border-bottom:solid 1px #000000" colspan="3" rowspan="1">Hypertensive<xref rid="jper10957-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+<italic toggle="yes">n</italic> = (131,566)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Demographic</th><th align="left" rowspan="1" colspan="1">Overall (<italic toggle="yes">n</italic> = 244,393)</th><th align="left" rowspan="1" colspan="1">Healthy (<italic toggle="yes">n</italic> = 108,074)</th><th align="left" rowspan="1" colspan="1">Painful gums (<italic toggle="yes">n</italic> = 2369)</th><th align="left" rowspan="1" colspan="1">Loose teeth (<italic toggle="yes">n</italic> = 2384)</th><th align="left" rowspan="1" colspan="1">Healthy (<italic toggle="yes">n</italic> = 125,686)</th><th align="left" rowspan="1" colspan="1">Painful gums (<italic toggle="yes">n</italic> = 2382)</th><th align="left" rowspan="1" colspan="1">Loose teeth (<italic toggle="yes">n</italic> = 3498)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, mean (SD)</td><td align="char" rowspan="1" colspan="1">55.41 (8.13)</td><td align="char" rowspan="1" colspan="1">52.85 (7.91)</td><td align="char" rowspan="1" colspan="1">52.51 (7.69)</td><td align="char" rowspan="1" colspan="1">55.11 (7.84)</td><td align="char" rowspan="1" colspan="1">57.55 (7.69)</td><td align="char" rowspan="1" colspan="1">56.97 (7.59)</td><td align="char" rowspan="1" colspan="1">58.73 (7.05)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, female (%)</td><td align="char" rowspan="1" colspan="1">130,220 (53.3)</td><td align="char" rowspan="1" colspan="1">65,249 (60.4)</td><td align="char" rowspan="1" colspan="1">1587 (67.0)</td><td align="char" rowspan="1" colspan="1">1254 (52.6)</td><td align="char" rowspan="1" colspan="1">592,27 (47.1)</td><td align="char" rowspan="1" colspan="1">1397 (58.6)</td><td align="char" rowspan="1" colspan="1">1506 (43.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Ethnicity, white (%)</td><td align="char" rowspan="1" colspan="1">230,025 (94.4)</td><td align="char" rowspan="1" colspan="1">101,718 (94.4)</td><td align="char" rowspan="1" colspan="1">2040 (86.3)</td><td align="char" rowspan="1" colspan="1">2026 (85.3)</td><td align="char" rowspan="1" colspan="1">119,112 (95.1)</td><td align="char" rowspan="1" colspan="1">2052 (86.4)</td><td align="char" rowspan="1" colspan="1">3077 (88.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Annual household income/£<xref rid="jper10957-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref> (%)</td><td align="char" rowspan="1" colspan="1" /><td align="char" rowspan="1" colspan="1" /><td align="char" rowspan="1" colspan="1" /><td align="char" rowspan="1" colspan="1" /><td align="char" rowspan="1" colspan="1" /><td align="char" rowspan="1" colspan="1" /><td align="char" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Less than 18,000</td><td align="char" rowspan="1" colspan="1">37,245 (17.6)</td><td align="char" rowspan="1" colspan="1">13,381 (14.1)</td><td align="char" rowspan="1" colspan="1">409 (19.9)</td><td align="char" rowspan="1" colspan="1">562 (28.1)</td><td align="char" rowspan="1" colspan="1">37,245 (17.6)</td><td align="char" rowspan="1" colspan="1">21,513 (20.1)</td><td align="char" rowspan="1" colspan="1">500 (25.5)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">18,000–30,999</td><td align="char" rowspan="1" colspan="1">51,517 (24.4)</td><td align="char" rowspan="1" colspan="1">20,489 (21.5)</td><td align="char" rowspan="1" colspan="1">516 (25.0)</td><td align="char" rowspan="1" colspan="1">532 (26.6)</td><td align="char" rowspan="1" colspan="1">51,517 (24.4)</td><td align="char" rowspan="1" colspan="1">28,520 (26.6)</td><td align="char" rowspan="1" colspan="1">578 (29.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">31,000–51,999</td><td align="char" rowspan="1" colspan="1">58,906 (27.9)</td><td align="char" rowspan="1" colspan="1">27,435 (28.8)</td><td align="char" rowspan="1" colspan="1">545 (26.5)</td><td align="char" rowspan="1" colspan="1">478 (23.9)</td><td align="char" rowspan="1" colspan="1">58,906 (27.9)</td><td align="char" rowspan="1" colspan="1">29,282 (27.3)</td><td align="char" rowspan="1" colspan="1">487 (24.8)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">52,000–100,000</td><td align="char" rowspan="1" colspan="1">49,757 (23.5)</td><td align="char" rowspan="1" colspan="1">25,876 (27.2)</td><td align="char" rowspan="1" colspan="1">478 (23.2)</td><td align="char" rowspan="1" colspan="1">364 (18.2)</td><td align="char" rowspan="1" colspan="1">49,757 (23.5)</td><td align="char" rowspan="1" colspan="1">22,307 (20.8)</td><td align="char" rowspan="1" colspan="1">334 (17.0)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Greater than 100,000</td><td align="char" rowspan="1" colspan="1">13,884 (6.6)</td><td align="char" rowspan="1" colspan="1">7962 (8.4)</td><td align="char" rowspan="1" colspan="1">112 (5.4)</td><td align="char" rowspan="1" colspan="1">64 (3.2)</td><td align="char" rowspan="1" colspan="1">13,884 (6.6)</td><td align="char" rowspan="1" colspan="1">5616 (5.2)</td><td align="char" rowspan="1" colspan="1">65 (3.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">CRP/mg/L, mean (SD)</td><td align="char" rowspan="1" colspan="1">2.20 (3.71)</td><td align="char" rowspan="1" colspan="1">1.87 (3.45)</td><td align="char" rowspan="1" colspan="1">2.05 (3.33)</td><td align="char" rowspan="1" colspan="1">2.44 (3.93)</td><td align="char" rowspan="1" colspan="1">2.20 (3.71)</td><td align="char" rowspan="1" colspan="1">2.45 (3.83)</td><td align="char" rowspan="1" colspan="1">3.01 (4.97)</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI/kg/m2, mean (SD)</td><td align="char" rowspan="1" colspan="1">26.80 (4.35)</td><td align="char" rowspan="1" colspan="1">25.69 (3.91)</td><td align="char" rowspan="1" colspan="1">25.92 (4.31)</td><td align="char" rowspan="1" colspan="1">26.27 (4.25)</td><td align="char" rowspan="1" colspan="1">26.80 (4.35)</td><td align="char" rowspan="1" colspan="1">27.71 (4.45)</td><td align="char" rowspan="1" colspan="1">27.81 (4.72)</td></tr><tr><td align="left" rowspan="1" colspan="1">History of smoking (%)</td><td align="char" rowspan="1" colspan="1">139,952 (57.3)</td><td align="char" rowspan="1" colspan="1">60,701 (56.2)</td><td align="char" rowspan="1" colspan="1">1442 (60.9)</td><td align="char" rowspan="1" colspan="1">1736 (72.8)</td><td align="char" rowspan="1" colspan="1">139,952 (57.3)</td><td align="char" rowspan="1" colspan="1">72,066 (57.3)</td><td align="char" rowspan="1" colspan="1">1447 (60.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Antihypertensive prescription</td><td align="char" rowspan="1" colspan="1">28,014 (11.5)</td><td align="char" rowspan="1" colspan="1">11,698 (10.8)</td><td align="char" rowspan="1" colspan="1">245 (10.3)</td><td align="char" rowspan="1" colspan="1">240 (10.1)</td><td align="char" rowspan="1" colspan="1">15,122 (12.0)</td><td align="char" rowspan="1" colspan="1">309 (13.0)</td><td align="char" rowspan="1" colspan="1">400 (11.4)</td></tr></tbody></table><table-wrap-foot><fn id="jper10957-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: Means, medians, and percentages are calculated for variables excluding missing data. There were missing data in the following variables: ethnicity (0.3%), CRP (5.8%), household income (13.5%), and BMI (0.4%).</p></fn><fn id="jper10957-tbl1-note-0002"><p>Abbreviations: BMI, body mass index; CRP, c‐reactive protein; n, number of participants; PD, periodontitis; SD, standard deviation.</p></fn><fn id="jper10957-tbl1-note-0003"><label>
+<sup>a</sup>
+</label><p>Non‐hypertensive: no history of hypertension and blood pressure within the normal range at baseline.</p></fn><fn id="jper10957-tbl1-note-0004"><label>
+<sup>b</sup>
+</label><p>Hypertensive: history of hypertension or abnormal blood pressure reading at baseline.</p></fn><fn id="jper10957-tbl1-note-0005"><label>
+<sup>c</sup>
+</label><p>The exchange rate of GBP to USD at time of writing was £1.00 = $1.36.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><sec id="jper10957-sec-0130"><label>3.1</label><title>Overall risks of systemic diseases</title><p>The overall median time to the development of any systemic disease was 6.36 years (interquartile range [IQR] = 5.71). Average time to systemic disease development in hypertensive and non‐hypertensive participants was similar (hypertensive: median = 6.45 years, IQR = 5.73; non‐hypertensive: median = 6.18, IQR = 5.66). The rates of all systemic diseases were higher in hypertensive participants than non‐hypertensive, except for depression where the difference was marginal. Interactions between PD and the hypertension category were observed in cancer, depression, and respiratory disease (Figure <xref rid="jper10957-fig-0002" ref-type="fig">2</xref>). The overall incidence for neurological disease and liver disease was low (Figure <xref rid="jper10957-fig-0002" ref-type="fig">2</xref> and Table <xref rid="jper10957-tbl-0002" ref-type="table">2</xref>). After adjustments, both hypertensive and non‐hypertensive participants with PD had an increased risk of all examined systemic disease outcomes compared to non‐hypertensive healthy controls, except for cancer, inflammatory disease, and neurological disease (Table <xref rid="jper10957-tbl-0003" ref-type="table">3</xref>).</p><fig position="float" fig-type="FIGURE" id="jper10957-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Overall event rate of follow‐up systemic disease or all‐cause mortality by periodontitis status and hypertension category. CVD, cardiovascular disease; PD, periodontitis</p></caption><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="JPER-93-1024-g002.jpg" /></fig><table-wrap position="float" id="jper10957-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Incidence rates of follow‐up systemic disease in study participants per 1000 person years, stratified by hypertension category and periodontitis indicator</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><thead><tr><th align="left" rowspan="1" colspan="1" /><th align="left" rowspan="1" colspan="1" /><th align="left" style="border-bottom:solid 1px #000000" colspan="6" rowspan="1">Hypertensive/periodontitis indicator</th></tr><tr><th align="left" rowspan="1" colspan="1" /><th align="left" rowspan="1" colspan="1" /><th align="left" style="border-bottom:solid 1px #000000" colspan="3" rowspan="1">Non‐hypertensive</th><th align="left" style="border-bottom:solid 1px #000000" colspan="3" rowspan="1">Hypertensive</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Systemic disease outcome</th><th align="left" rowspan="1" colspan="1">Cases</th><th align="left" rowspan="1" colspan="1">Healthy (<italic toggle="yes">n</italic> = 125,686)</th><th align="left" rowspan="1" colspan="1">Painful gums (<italic toggle="yes">n</italic> = 2382)</th><th align="left" rowspan="1" colspan="1">Loose teeth (<italic toggle="yes">n</italic> = 3498)</th><th align="left" rowspan="1" colspan="1">Healthy (<italic toggle="yes">n</italic> = 108,074)</th><th align="left" rowspan="1" colspan="1">Painful gums (<italic toggle="yes">n</italic> = 2369)</th><th align="left" rowspan="1" colspan="1">Loose teeth (<italic toggle="yes">n</italic> = 2384)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Cancer</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">13291</td><td align="char" rowspan="1" colspan="1">297</td><td align="char" rowspan="1" colspan="1">341</td><td align="char" rowspan="1" colspan="1">20,439</td><td align="char" rowspan="1" colspan="1">345</td><td align="char" rowspan="1" colspan="1">592</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">IR (95% CI)</td><td align="char" rowspan="1" colspan="1">10.55 (10.37–10.73)</td><td align="char" rowspan="1" colspan="1">10.83 (9.63–12.13)</td><td align="char" rowspan="1" colspan="1">12.42 (11.14–13.82)</td><td align="char" rowspan="1" colspan="1">14.13 (13.93–14.32)</td><td align="char" rowspan="1" colspan="1">12.61 (11.32–14.02)</td><td align="char" rowspan="1" colspan="1">14.89 (13.72–16.14)</td></tr><tr><td align="left" rowspan="1" colspan="1">CVD</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">7995</td><td align="char" rowspan="1" colspan="1">211</td><td align="char" rowspan="1" colspan="1">253</td><td align="char" rowspan="1" colspan="1">18,088</td><td align="char" rowspan="1" colspan="1">403</td><td align="char" rowspan="1" colspan="1">632</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">IR (95% CI)</td><td align="char" rowspan="1" colspan="1">6.34 (6.21–6.48)</td><td align="char" rowspan="1" colspan="1">7.69 (6.69–8.81)</td><td align="char" rowspan="1" colspan="1">9.22 (8.12–10.43)</td><td align="char" rowspan="1" colspan="1">12.50 (12.32–12.68)</td><td align="char" rowspan="1" colspan="1">14.73 (13.33–16.24)</td><td align="char" rowspan="1" colspan="1">15.90 (14.69–17.19)</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">2742</td><td align="char" rowspan="1" colspan="1">84</td><td align="char" rowspan="1" colspan="1">87</td><td align="char" rowspan="1" colspan="1">3247</td><td align="char" rowspan="1" colspan="1">94</td><td align="char" rowspan="1" colspan="1">102</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">IR (95% CI)</td><td align="char" rowspan="1" colspan="1">2.18 (2.10–2.26)</td><td align="char" rowspan="1" colspan="1">3.06 (2.44–3.79)</td><td align="char" rowspan="1" colspan="1">3.17 (2.54–3.91)</td><td align="char" rowspan="1" colspan="1">2.24 (2.17–2.32)</td><td align="char" rowspan="1" colspan="1">3.44 (2.78–4.21)</td><td align="char" rowspan="1" colspan="1">2.57 (2.09–3.12)</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">7367</td><td align="char" rowspan="1" colspan="1">239</td><td align="char" rowspan="1" colspan="1">216</td><td align="char" rowspan="1" colspan="1">12,182</td><td align="char" rowspan="1" colspan="1">289</td><td align="char" rowspan="1" colspan="1">437</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">IR (95% CI)</td><td align="char" rowspan="1" colspan="1">5.85 (5.71–5.98)</td><td align="char" rowspan="1" colspan="1">8.72 (7.65–9.89)</td><td align="char" rowspan="1" colspan="1">7.87 (6.86–8.99)</td><td align="char" rowspan="1" colspan="1">8.42 (8.27–8.57)</td><td align="char" rowspan="1" colspan="1">10.57 (9.38–11.86)</td><td align="char" rowspan="1" colspan="1">10.99 (9.99–12.08)</td></tr><tr><td rowspan="2" align="left" colspan="1">Inflammatory disease</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">13,069</td><td align="char" rowspan="1" colspan="1">317</td><td align="char" rowspan="1" colspan="1">336</td><td align="char" rowspan="1" colspan="1">21,189</td><td align="char" rowspan="1" colspan="1">419</td><td align="char" rowspan="1" colspan="1">653</td></tr><tr><td align="left" rowspan="1" colspan="1">IR (95% CI)</td><td align="char" rowspan="1" colspan="1">10.37 (10.19–10.55)</td><td align="char" rowspan="1" colspan="1">11.56 (10.32–12.90)</td><td align="char" rowspan="1" colspan="1">12.24 (10.97–13.62)</td><td align="char" rowspan="1" colspan="1">14.64 (14.45–14.84)</td><td align="char" rowspan="1" colspan="1">15.32 (13.89–16.86)</td><td align="char" rowspan="1" colspan="1">16.43 (15.19–17.74)</td></tr><tr><td align="left" rowspan="1" colspan="1">Liver disease</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">326</td><td align="char" rowspan="1" colspan="1">11</td><td align="char" rowspan="1" colspan="1">14</td><td align="char" rowspan="1" colspan="1">703</td><td align="char" rowspan="1" colspan="1">20</td><td align="char" rowspan="1" colspan="1">27</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">IR (95% CI)</td><td align="char" rowspan="1" colspan="1">0.26 (0.23–0.29)</td><td align="char" rowspan="1" colspan="1">0.40 (0.20–0.72)</td><td align="char" rowspan="1" colspan="1">0.51 (0.29–0.86)</td><td align="char" rowspan="1" colspan="1">0.49 (0.451–0.523)</td><td align="char" rowspan="1" colspan="1">0.73 (0.447–1.13)</td><td align="char" rowspan="1" colspan="1">0.68 (0.45–0.99)</td></tr><tr><td rowspan="2" align="left" colspan="1">Neurological disease</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">806</td><td align="char" rowspan="1" colspan="1">15</td><td align="char" rowspan="1" colspan="1">25</td><td align="char" rowspan="1" colspan="1">1746</td><td align="char" rowspan="1" colspan="1">29</td><td align="char" rowspan="1" colspan="1">54</td></tr><tr><td align="left" rowspan="1" colspan="1">IR (95% CI)</td><td align="char" rowspan="1" colspan="1">0.64 (0.60–0.69)</td><td align="char" rowspan="1" colspan="1">0.547 (0.31–0.90)</td><td align="char" rowspan="1" colspan="1">0.911 (0.59–1.34)</td><td align="char" rowspan="1" colspan="1">1.21 (1.15–1.26)</td><td align="char" rowspan="1" colspan="1">1.06 (0.71–1.52)</td><td align="char" rowspan="1" colspan="1">1.36 (1.02–1.77)</td></tr><tr><td align="left" rowspan="1" colspan="1">Renal disease</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">2588</td><td align="char" rowspan="1" colspan="1">75</td><td align="char" rowspan="1" colspan="1">96</td><td align="char" rowspan="1" colspan="1">7338</td><td align="char" rowspan="1" colspan="1">161</td><td align="char" rowspan="1" colspan="1">258</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">IR (95% CI)</td><td align="char" rowspan="1" colspan="1">2.05 (1.98–2.13)</td><td align="char" rowspan="1" colspan="1">2.73 (2.15–3.43)</td><td align="char" rowspan="1" colspan="1">3.50 (2.83–4.27)</td><td align="char" rowspan="1" colspan="1">5.07 (4.96–5.19)</td><td align="char" rowspan="1" colspan="1">5.89 (5.01–6.87)</td><td align="char" rowspan="1" colspan="1">6.49 (5.72–7.33)</td></tr><tr><td align="left" rowspan="1" colspan="1">Respiratory disease</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">5043</td><td align="char" rowspan="1" colspan="1">144</td><td align="char" rowspan="1" colspan="1">172</td><td align="char" rowspan="1" colspan="1">7573</td><td align="char" rowspan="1" colspan="1">197</td><td align="char" rowspan="1" colspan="1">327</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">IR (95% CI)</td><td align="char" rowspan="1" colspan="1">4.00 (3.89–4.11)</td><td align="char" rowspan="1" colspan="1">5.25 (4.43–6.18)</td><td align="char" rowspan="1" colspan="1">6.27 (5.37–7.28)</td><td align="char" rowspan="1" colspan="1">5.23 (5.12–5.35)</td><td align="char" rowspan="1" colspan="1">7.20 (6.23–8.28)</td><td align="char" rowspan="1" colspan="1">8.23 (7.36–9.17)</td></tr><tr><td align="left" rowspan="1" colspan="1">All‐cause mortality</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</td><td align="char" rowspan="1" colspan="1">3261</td><td align="char" rowspan="1" colspan="1">88</td><td align="char" rowspan="1" colspan="1">133</td><td align="char" rowspan="1" colspan="1">6645</td><td align="char" rowspan="1" colspan="1">138</td><td align="char" rowspan="1" colspan="1">298</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">IR (95% CI)</td><td align="char" rowspan="1" colspan="1">2.59 (2.50–2.68)</td><td align="char" rowspan="1" colspan="1">3.21 (2.57–3.95)</td><td align="char" rowspan="1" colspan="1">4.85 (4.06–5.74)</td><td align="char" rowspan="1" colspan="1">4.59 (4.48–4.70)</td><td align="char" rowspan="1" colspan="1">5.05 (4.24–5.96)</td><td align="char" rowspan="1" colspan="1">7.50 (6.67–8.40)</td></tr></tbody></table><table-wrap-foot><fn id="jper10957-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: Incidence rates are out of participants within the same oral health status and hypertension category.</p></fn><fn id="jper10957-tbl2-note-0002"><p>Abbreviations: CI, confidence interval; CVD, cardiovascular disease; IR, incidence per 1000 person years; n, number of cases; PD, periodontitis.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="jper10957-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Association between periodontitis and risk of subsequent systemic disease compared to healthy controls, stratified by hypertension category</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><col align="char" char="(" span="1" /><thead><tr><th align="left" rowspan="1" colspan="1" /><th align="left" rowspan="1" colspan="1" /><th align="left" style="border-bottom:solid 1px #000000" colspan="3" rowspan="1">Non‐hypertensive</th><th align="left" style="border-bottom:solid 1px #000000" colspan="3" rowspan="1">Hypertensive</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Systemic disease/all‐cause mortality</th><th align="left" rowspan="1" colspan="1">Hazard ratio (95%CI)</th><th align="left" rowspan="1" colspan="1">Healthy</th><th align="left" rowspan="1" colspan="1">Painful gums</th><th align="left" rowspan="1" colspan="1">Loose teeth</th><th align="left" rowspan="1" colspan="1">Healthy</th><th align="left" rowspan="1" colspan="1">Painful gums</th><th align="left" rowspan="1" colspan="1">Loose teeth</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Cancer</td><td align="left" rowspan="1" colspan="1">Crude</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.03 (0.92–1.15)</td><td align="char" rowspan="1" colspan="1">1.18 (1.06–1.31)</td><td align="char" rowspan="1" colspan="1">1.36 (1.33–1.39)</td><td align="char" rowspan="1" colspan="1">1.20 (1.08–1.33)</td><td align="char" rowspan="1" colspan="1">1.43 (1.31–1.55)</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">Adjusted</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.04 (0.93–1.17)</td><td align="char" rowspan="1" colspan="1">1.00 (0.90–1.11)</td><td align="char" rowspan="1" colspan="1">1.01 (0.98–1.03)</td><td align="char" rowspan="1" colspan="1">0.92 (0.83–1.03)</td><td align="char" rowspan="1" colspan="1">0.94 (0.86–1.02)</td></tr><tr><td align="left" rowspan="1" colspan="1">CVD</td><td align="left" rowspan="1" colspan="1">Crude</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.22 (1.07–1.40)</td><td align="char" rowspan="1" colspan="1">1.46 (1.29–1.66)</td><td align="char" rowspan="1" colspan="1">2.03 (1.98–2.09)</td><td align="char" rowspan="1" colspan="1">2.43 (2.20–2.68)</td><td align="char" rowspan="1" colspan="1">2.60 (2.40–2.82)</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">Adjusted</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.26 (1.10–1.45)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.17 (1.03–1.33)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.30 (1.26–1.34)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.63 (1.47–1.80)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.43 (1.32–1.55)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes</td><td align="left" rowspan="1" colspan="1">Crude</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.54 (1.36–1.75)</td><td align="char" rowspan="1" colspan="1">1.36 (1.19–1.55)</td><td align="char" rowspan="1" colspan="1">1.47 (1.43–1.51)</td><td align="char" rowspan="1" colspan="1">1.84 (1.64–2.07)</td><td align="char" rowspan="1" colspan="1">1.91 (1.74–2.11)</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">Adjusted</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.43 (1.26–1.63)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.12 (0.98–1.29)</td><td align="char" rowspan="1" colspan="1">1.19 (1.15–1.23)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.42 (1.26–1.60)</td><td align="char" rowspan="1" colspan="1">1.34 (1.21–1.48)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression</td><td align="left" rowspan="1" colspan="1">Crude</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.41 (1.14–1.76)</td><td align="char" rowspan="1" colspan="1">1.45 (1.17–1.80)</td><td align="char" rowspan="1" colspan="1">1.03 (0.98–1.08)</td><td align="char" rowspan="1" colspan="1">1.58 (1.29–1.94)</td><td align="char" rowspan="1" colspan="1">1.16 (0.95–1.42)</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">Adjusted</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.30 (1.05–1.62)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.33 (1.07–1.65)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.97 (0.92–1.03)</td><td align="char" rowspan="1" colspan="1">1.36 (1.11–1.67)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.00 (0.82–1.22)</td></tr><tr><td align="left" rowspan="1" colspan="1">Inflammatory disease</td><td align="left" rowspan="1" colspan="1">Crude</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.12 (1.00–1.25)</td><td align="char" rowspan="1" colspan="1">1.19 (1.06–1.32)</td><td align="char" rowspan="1" colspan="1">1.44 (1.41–1.47)</td><td align="char" rowspan="1" colspan="1">1.50 (1.36–1.65)</td><td align="char" rowspan="1" colspan="1">1.61 (1.49–1.75)</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">Adjusted</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.10 (0.98–1.22)</td><td align="char" rowspan="1" colspan="1">1.00 (0.89–1.11)</td><td align="char" rowspan="1" colspan="1">1.00 (0.97–1.02)</td><td align="char" rowspan="1" colspan="1">1.03 (0.93–1.14)</td><td align="char" rowspan="1" colspan="1">1.00 (0.92–1.08)</td></tr><tr><td align="left" rowspan="1" colspan="1">Liver disease</td><td align="left" rowspan="1" colspan="1">Crude</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.56 (0.85–2.84)</td><td align="char" rowspan="1" colspan="1">1.96 (1.15–3.35)</td><td align="char" rowspan="1" colspan="1">1.88 (1.65–2.14)</td><td align="char" rowspan="1" colspan="1">2.82 (1.79–4.42)</td><td align="char" rowspan="1" colspan="1">2.60 (1.76–3.85)</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">Adjusted</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.43 (0.79–2.62)</td><td align="char" rowspan="1" colspan="1">1.46 (0.85–2.50)</td><td align="char" rowspan="1" colspan="1">1.26 (1.10–1.46)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.73 (1.10–2.73)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.31 (0.88–1.96)</td></tr><tr><td align="left" rowspan="1" colspan="1">Neurological disease</td><td align="left" rowspan="1" colspan="1">Crude</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">0.86 (0.51–1.43)</td><td align="char" rowspan="1" colspan="1">1.42 (0.95–2.11)</td><td align="char" rowspan="1" colspan="1">1.89 (1.74–2.05)</td><td align="char" rowspan="1" colspan="1">1.65 (1.14–2.39)</td><td align="char" rowspan="1" colspan="1">2.11 (1.60–2.78)</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">Adjusted</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">0.85 (0.51–1.42)</td><td align="char" rowspan="1" colspan="1">0.95 (0.64–1.42)</td><td align="char" rowspan="1" colspan="1">1.02 (0.93–1.11)</td><td align="char" rowspan="1" colspan="1">0.95 (0.66–1.38)</td><td align="char" rowspan="1" colspan="1">0.90 (0.68–1.19)</td></tr><tr><td align="left" rowspan="1" colspan="1">Renal disease</td><td align="left" rowspan="1" colspan="1">Crude</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.34 (1.07–1.69)</td><td align="char" rowspan="1" colspan="1">1.70 (1.39–2.09)</td><td align="char" rowspan="1" colspan="1">2.51 (2.40–2.62)</td><td align="char" rowspan="1" colspan="1">2.91 (2.48–3.41)</td><td align="char" rowspan="1" colspan="1">3.21 (2.82–3.64)</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">Adjusted</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.30 (1.04–1.64)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.24 (1.01–1.52)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.37 (1.31–1.44)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.53 (1.30–1.79)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.37 (1.20–1.56)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Respiratory disease</td><td align="left" rowspan="1" colspan="1">Crude</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.33 (1.12–1.57)</td><td align="char" rowspan="1" colspan="1">1.57 (1.35–1.83)</td><td align="char" rowspan="1" colspan="1">1.31 (1.27–1.36)</td><td align="char" rowspan="1" colspan="1">1.81 (1.57–2.09)</td><td align="char" rowspan="1" colspan="1">2.07 (1.85–2.31)</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">Adjusted</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.27 (1.08–1.50)</td><td align="char" rowspan="1" colspan="1">1.30 (1.12–1.52)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.02 (0.99–1.07)</td><td align="char" rowspan="1" colspan="1">1.35 (1.17–1.56)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.40 (1.25–1.57)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">All‐cause mortality</td><td align="left" rowspan="1" colspan="1">Crude</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">1.25 (1.01–1.54)<xref rid="jper10957-tbl3-note-0003" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.89 (1.59–2.24)</td><td align="char" rowspan="1" colspan="1">1.79 (1.72–1.87)</td><td align="char" rowspan="1" colspan="1">1.97 (1.66–2.34)</td><td align="char" rowspan="1" colspan="1">2.95 (2.62–3.32)</td></tr><tr><td align="left" rowspan="1" colspan="1" /><td align="left" rowspan="1" colspan="1">Adjusted</td><td align="char" rowspan="1" colspan="1">1 (ref)</td><td align="char" rowspan="1" colspan="1">0.96 (0.77–1.18)</td><td align="char" rowspan="1" colspan="1">1.07 (0.90–1.27)</td><td align="char" rowspan="1" colspan="1">1.01 (0.97–1.06)</td><td align="char" rowspan="1" colspan="1">1.02 (0.86–1.21)</td><td align="char" rowspan="1" colspan="1">0.92 (0.81–1.04)</td></tr></tbody></table><table-wrap-foot><fn id="jper10957-tbl3-note-0001"><p>
+<italic toggle="yes">Note</italic>: Adjusted by age, sex, BMI, ethnicity, average total household income, C‐reactive protein level, history of smoking, time since hypertension diagnosis, and death and hypertension*PD interaction.</p></fn><fn id="jper10957-tbl3-note-0002"><p>Abbreviations: BMI, body mass index; CI, confidence interval; CVD, cardiovascular disease; HR, hazard ratio; PD, periodontitis; ref, reference value.</p></fn><fn id="jper10957-tbl3-note-0003"><p>Statistical significance at the 0.05, 0.01, and 0.001 levels denoted by: *, **, and ***, respectively.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="jper10957-sec-0140"><label>3.2</label><title>Risk of cancer</title><p>An interaction effect between PD and hypertension was observed for risk of cancer (Figure <xref rid="jper10957-fig-0002" ref-type="fig">2</xref>). The rate of acquiring cancer during follow‐up was higher in hypertensive healthy controls (incidence rate per 1000 person years [IR]: 14.13, 95% confidence interval [CI]: 13.93–14.32) than in non‐hypertensive healthy controls (IR: 10.55, 95% CI: 10.37–10.73) (Table <xref rid="jper10957-tbl-0002" ref-type="table">2</xref>). After adjustments for covariates, the risk of cancer was not changed for hypertensive participants with or without PD (hazard ratio [HR]: 1.00, 95% CI: 0.98–1.03; HR: 0.95, 95% CI: 0.85–1.06) compared to non‐hypertensives (Figure <xref rid="jper10957-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="FIGURE" id="jper10957-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Hazard ratio of systemic disease or all‐cause mortality in hypertensive compared to non‐hypertensive participants, stratified by periodontitis status. CI, confidence interval; CVD, cardiovascular disease; HR, hazard ratio; PD, periodontitis. Adjusted by age, sex, BMI, ethnicity, average total household income, C‐reactive protein level, history of smoking, time since hypertension diagnosis, and antihypertensive prescription. Statistical significance at the 0.05, 0.01, and 0.001 levels denoted by *, **, ***, respectively</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="JPER-93-1024-g003.jpg" /></fig></sec><sec id="jper10957-sec-0150"><label>3.3</label><title>Risk of CVD</title><p>The rate of CVD was approximately halved in non‐hypertensive healthy controls (IR: 6.34, 95% CI: 6.21–6.48) than in hypertensive healthy controls (IR: 12.50, 95% CI: 12.32–12.68). Incidence rates were highest in participants with loose teeth who were both hypertensive (IR: 15.90, 95% CI: 14.69–17.19) and non‐hypertensive (IR: 9.22, 95% CI: 8.12–10.43) (Table <xref rid="jper10957-tbl-0002" ref-type="table">2</xref>). The risk of CVD was increased more in hypertensive participants with PD compared to those without after adjustments (without PD—HR: 1.28, 95% CI: 1.25–1.32; PD – HR: 1.36, 95% CI: 1.21–1.53) (Figure <xref rid="jper10957-fig-0003" ref-type="fig">3</xref>).</p></sec><sec id="jper10957-sec-0160"><label>3.4</label><title>Risk of depression</title><p>The rate of depression was similar in both non‐hypertensive and hypertensive healthy controls (IR: 2.18, 95% CI: 2.10–2.26; IR: 2.24, 95% CI: 2.21–2.32) (Table <xref rid="jper10957-tbl-0002" ref-type="table">2</xref>). Following adjustments, the risk of depression due to hypertension was not increased in healthy controls (HR: 0.96, 95% CI: 0.91–1.02) or participants with PD (HR: 0.95, 95% CI: 0.76–1.20) (Figure <xref rid="jper10957-fig-0003" ref-type="fig">3</xref>).</p></sec><sec id="jper10957-sec-0170"><label>3.5</label><title>Risk of diabetes</title><p>The rate of diabetes in healthy controls was higher in participants who were hypertensive (IR: 8.42, 95% CI: 8.17–9.06) compared to non‐hypertensives (IR: 5.85, 95% CI: 5.71–5.98) (Table <xref rid="jper10957-tbl-0002" ref-type="table">2</xref>). Following adjustments, the risk of diabetes was higher in hypertensive healthy controls (HR: 1.19, 95% CI: 1.15–1.23) and marginally higher hypertensive participants with PD (HR: 1.11, 95% CI: 0.98–1.26) than in respective non‐hypertensives (Figure <xref rid="jper10957-fig-0003" ref-type="fig">3</xref>).</p></sec><sec id="jper10957-sec-0180"><label>3.6</label><title>Risk of inflammatory disease</title><p>The rate of inflammatory disease in healthy controls was higher in participants who were hypertensive (IR: 14.64, 95% CI: 14.45–14.84) compared to non‐hypertensives (IR: 10.37, 95% CI: 10.19–10.55) (Table <xref rid="jper10957-tbl-0002" ref-type="table">2</xref>). After adjustments, hypertension did not increase the risk of inflammatory disease in healthy controls (HR: 0.99, 95% CI: 0.97–1.01) or in participants with PD (HR: 1.01, 95% CI: 0.91–1.13) (Figure <xref rid="jper10957-fig-0003" ref-type="fig">3</xref>).</p></sec><sec id="jper10957-sec-0190"><label>3.7</label><title>Risk of renal disease</title><p>The rate of renal disease was lowest in non‐hypertensive healthy controls (IR: 2.05, 95% CI: 1.98–2.13), and non‐hypertensives with bleeding gums (IR: 1.82, 95% CI: 1.62–2.04) (Table <xref rid="jper10957-tbl-0002" ref-type="table">2</xref>). After adjustments, the risk of renal disease was increased in hypertensives with PD (HR: 1.35, 95% CI: 1.29–1.42) and without PD (HR: 1.24, 95% CI: 1.02–1.50) compared to non‐hypertensive participants (Figure <xref rid="jper10957-fig-0003" ref-type="fig">3</xref>).</p></sec><sec id="jper10957-sec-0200"><label>3.8</label><title>Risk of respiratory disease</title><p>The overall rate of respiratory disease was increased in both hypertensive participants and those with PD (Figure <xref rid="jper10957-fig-0002" ref-type="fig">2</xref>). The risk of respiratory disease was not increased in hypertensive participants without PD (HR: 1.02, 95% CI: 0.98–1.06) compared, although there was a marginal increase in those with PD (HR: 1.11, 95% CI: 0.95–1.30) (Figure <xref rid="jper10957-fig-0003" ref-type="fig">3</xref>).</p></sec><sec id="jper10957-sec-0210"><label>3.9</label><title>All‐cause mortality</title><p>The incidence of all‐cause mortality was highest in participants with loose teeth in both hypertension categories (non‐hypertensive IR: 4.85, 95% CI: 4.06–5.75; hypertensive IR: 7.50, 95% CI: 6.67–8.40) (Table <xref rid="jper10957-tbl-0002" ref-type="table">2</xref>). This risk was not increased in participants with PD when stratified by PD status (Figure <xref rid="jper10957-fig-0003" ref-type="fig">3</xref>).</p><p>Use of complete cases in the sensitivity analysis exhibited similar trends to those in the main analysis (see Supplementary Table <xref rid="jper10957-supitem-0003" ref-type="supplementary-material">S3</xref> in online <italic toggle="yes">Journal of Periodontology</italic>). Removal of hypertensive participants with an antihypertensive prescription at baseline (<italic toggle="yes">n</italic> = 15,831) from the analysis also had similar effect to risk estimates (see Supplementary Table <xref rid="jper10957-supitem-0004" ref-type="supplementary-material">S4</xref> in online <italic toggle="yes">Journal of Periodontology</italic>).</p></sec></sec><sec id="jper10957-sec-0220"><label>4</label><title>DISCUSSION</title><p>Our findings demonstrate that both PD and hypertension are associated with an increased risk of several subsequent systemic diseases. Overall, we found that hypertension as well as loose teeth and painful gums independently increase risk of several subsequent systemic diseases. In particular, hypertension had an additive effect with PD on risks of CVD and respiratory disease.</p><p>The findings show that participants with loose teeth (clinically indicative of severe PD) had the highest incidence of subsequent systemic diseases compared to the other oral health indicators. This reflects the growing evidence from studies that have shown an association of PD with development of a variety of chronic conditions including CVD, diabetes, and depression.<xref rid="jper10957-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="jper10957-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="jper10957-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> The risk of all‐cause mortality was also increased in participants with loose teeth in the present study. Other findings using data from the UK Biobank cohort have shown that severe PD (specifically loose teeth) is associated with an increased risk of COVID‐19 mortality, as well as all‐cause mortality in people who are otherwise systemically healthy.<xref rid="jper10957-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="jper10957-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+</p><p>Our study is the first of its kind to explore the effect of both PD and hypertension on multiple subsequent systemic diseases. We previously identified the most frequent disease trajectories of PD in UK Biobank participants. Hypertension was central to several of the multimorbidity trajectories including other conditions such as CVD, diabetes, and respiratory disease.<xref rid="jper10957-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> The present study found an increased risk of these conditions in participants with PD, with the highest rates observed in those with hypertension and loose teeth (severe PD) at baseline. We also found higher risks of diabetes, renal disease, respiratory disease, and all‐cause mortality in hypertensive participants with PD. This suggests that PD and hypertension have an additive effect on an individual's risk of developing subsequent systemic conditions.</p><p>Our findings indicate that the risk of further systemic disease development in hypertensives may be impacted by the severity of their PD condition. Higher risks of systemic diseases were observed in those that self‐reported loose teeth (clinically indicative of severe PD) than painful gums (moderate–severe PD). This finding is reflected in previous work showing augmented risks of adverse outcomes in loose teeth compared to the other PD indicators.<xref rid="jper10957-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="jper10957-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="jper10957-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> PD can manifest across a spectrum of signs and symptoms; as such, the oral health indicators in the present study were selected to represent different severities of the disease: from painful gums (moderate PD) to loose teeth (severe PD). The intensified risks of systemic disease observed in hypertensive participants with painful gums and loose teeth could be reflective of the transference of inflammation: from localized inflammation in mild‐to‐moderate PD to generalized disease leading to attachment loss and tooth mobility in more severe cases.<xref rid="jper10957-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> The systemic increase of circulating inflammatory cytokines results in global impaired endothelial cell function, thereby increasing arterial pressure.<xref rid="jper10957-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Periodontal inflammation has been linked to high blood pressure.<xref rid="jper10957-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> One Mendelian randomization study has recently confirmed the causal association between PD and subsequent hypertension.<xref rid="jper10957-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> The latter authors suggest that PD treatment may reduce inflammation in hypertensive participants,<xref rid="jper10957-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> although the research regarding CRP as an inflammatory mediator between PD and hypertension is controversial.<xref rid="jper10957-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="jper10957-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> A recent study also found that systemic inflammation only accounts for 10% of the mediating pathway effect that links PD with an increased risk of all‐cause mortality.<xref rid="jper10957-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Other findings suggest that PD treatment may also improve the efficacy of antihypertensive medication; although this study was limited to cross‐sectional data, and the impact to subsequent systemic disease outcomes was not explored.<xref rid="jper10957-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> More robust research is needed to improve understanding of the biological mechanism that underpins the causal association between PD, hypertension, and systemic disease.</p><p>Our results also suggest that PD may independently increase the risk of CVD. People with PD have an increased risk of hypertension itself, suggesting that hypertension may precede further systemic disease diagnoses in this population.<xref rid="jper10957-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="jper10957-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> One explanation is that the participants may have developed hypertension prior to a systemic disease diagnosis, and this diagnosis was not captured by the health outcomes data. Furthermore, we also used blood pressure measurements to determine hypertensive status; an arbitrary cutoff cannot account for participants that may have been borderline hypertensive at baseline and developed hypertension soon after. Complementary research is required to explore the possible mediator effect of raised blood pressure on the risk of subsequent systemic disease outcomes.</p><p>This novel study explored the impact of both hypertension and PD on subsequent systemic disease outcomes and as such has several strengths to note. Much of the previous research demonstrating independent associations of PD with hypertension and systemic diseases is based on cross‐sectional data or studies of smaller samples.<xref rid="jper10957-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="jper10957-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="jper10957-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> The present study used “Big Data” from the UK Biobank longitudinal cohort and linked health outcomes.<xref rid="jper10957-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> This allows for multiple outcomes of interest to be explored in a large cohort, as well as inferences on directionality of the observed associations to be suggested. The UK Biobank core dataset also enabled us to account for a number of risk factors that are independently associated with the conditions such as sex, BMI, and smoking status.<xref rid="jper10957-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jper10957-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Another key strength to our study was the use of systemically healthy (with the exception of hypertension) population at baseline. This reduced possible confounding effects of other conditions and improved the reliability of risk estimates.</p><p>A limitation to our study is that the findings may not be generalizable to the whole population. The UK Biobank cohort consists of older adults, a major portion of which are of white ethnicity. While we are not able to apply our findings to younger people with PD, age is a known risk factor for PD and systemic diseases and has also been shown to be a mediating factor for severe PD and hypertension.<xref rid="jper10957-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Additionally, previous research has shown that PD is also more prevalent in ethnic minorities, and our results may therefore be an underestimate of the true associations in these at‐risk populations.<xref rid="jper10957-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Further research is required in this area to identify populations with PD who are most at risk for adverse systemic outcomes.</p><p>It should also be noted that the present study was limited by the use of self‐reported oral health indicators as surrogates for PD. There have been suggestions that self‐reported responses of loose teeth may also be associated with trauma or ageing, while mild cases of PD in smokers can also be difficult to identify.<xref rid="jper10957-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Of note, one systematic review concluded that self‐reported oral health indicators can be used as accurate case definitions of PD.<xref rid="jper10957-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> The findings complement previous research of the systemic associations in people with PD, which could also suggest loose teeth as a viable case definition for severe cases.<xref rid="jper10957-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="jper10957-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Nonetheless, a clinical case definition of PD would eliminate the potential biases of self‐reported responses and provide more robust conclusions on the associations of PD severity. Furthermore, linked dental and health records would account for the effect of PD severity and subsequent PD treatment to an individual's risk of systemic disease.</p></sec><sec id="jper10957-sec-0230"><label>5</label><title>CONCLUSION</title><p>Our study demonstrates the combined and individual effects of PD and hypertension on the risk of subsequent systemic disease. Overall, the effect of hypertension category was more impactful on estimates than PD status. The risks of CVD and respiratory disease were exacerbated in hypertensive participants with loose teeth (indicative of more severe PD). Shared inflammatory pathways and endothelial dysfunction are the probable cause in this association; however, the understanding of the biological mechanism that underpins the true causal associations between PD, hypertension, and subsequent systemic disease remains controversial and requires further research.</p></sec><sec id="jper10957-sec-0250"><title>FUNDING</title><p>Harriet Larvin was supported by the Hopper Scholarship at the University of Leeds. The research is supported by the National Institute for Health and Care Research (NIHR) infrastructure at Leeds. The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR, or the Department of Health and Social Care.</p></sec><sec sec-type="COI-statement" id="jper10957-sec-0260"><title>CONFLICT OF INTEREST</title><p>The authors report no conflicts of interest related to this study.</p></sec><sec id="jper10957-sec-0270"><title>AUTHOR CONTRIBUTIONS</title><p>All authors have made substantial contributions to conception and design of the study. Harriet Larvin contributed to conception, data analysis, and interpretation, and drafted the manuscript. Jing Kang, Vishal R. Aggarwal, and Sue Pavitt contributed to interpretation and critically revised the manuscript. Jianhua Wu contributed to conception, study design, data acquisition, and interpretation, and critically revised the manuscript. All authors were involved in writing the paper and had final approval of the submitted and published versions.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jper10957-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplemental Table 1</bold>. ICD‐10 and Read (v2) codes used for identifying systemic diseases.</p></caption><media ns1:href="JPER-93-1024-s002.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="jper10957-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplemental Table 2</bold>. Antihypertensive medications.</p></caption><media ns1:href="JPER-93-1024-s004.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="jper10957-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplemental Table 3</bold>. Association between oral health indicators and risk of subsequent systemic disease compared to healthy controls, stratified by hypertension category and using complete cases only.</p></caption><media ns1:href="JPER-93-1024-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="jper10957-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplemental Table 4</bold>. Association between oral health indicators and risk of subsequent systemic disease compared to healthy controls and excluding those on antihypertensive medication, stratified by hypertension category.</p></caption><media ns1:href="JPER-93-1024-s003.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jper10957-sec-0240"><title>ACKNOWLEDGMENT</title><p>This research has been conducted using data from UK Biobank (<ext-link ns1:href="http://www.ukbiobank.ac.uk" ext-link-type="uri">www.ukbiobank.ac.uk</ext-link>), a major biomedical database under protocol reference: 54633.</p></ack><ref-list id="jper10957-bibl-0001"><title>REFERENCES</title><ref id="jper10957-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jper10957-cit-0001">
+<string-name name-style="western">
+<surname>Kassebaum</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bernabe</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahiya</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhandari</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murray</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marcenes</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Global burden of severe periodontitis in 1990‐2010: a systematic review and meta‐regression</article-title>. <source>J Dent Res</source>. <year>2014</year>;<volume>93</volume>:<fpage>1045</fpage>–<lpage>1053</lpage>.<pub-id pub-id-type="pmid">25261053</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034514552491</pub-id><pub-id pub-id-type="pmcid">PMC4293771</pub-id></mixed-citation></ref><ref id="jper10957-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jper10957-cit-0002">
+<string-name name-style="western">
+<surname>De Angelis</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basili</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giovanni</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dan Trifan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Carlo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manzon</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Influence of the oral status on cardiovascular diseases in an older Italian population</article-title>. <source>Int J Immunopathol Pharmacol</source>. <year>2018</year>;<volume>31</volume>:394632017751786.<fpage>1</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0394632017751786</pub-id><pub-id pub-id-type="pmcid">PMC5849242</pub-id><pub-id pub-id-type="pmid">29363361</pub-id></mixed-citation></ref><ref id="jper10957-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jper10957-cit-0003">
+<string-name name-style="western">
+<surname>Grover</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapoor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malhotra</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chahal</surname>
+<given-names>GS</given-names>
+</string-name>. <article-title>The Gender Bender effect in periodontal immune response</article-title>. <source>Endocr Metab Immune Disord Drug Targets</source>. <year>2016</year>;<volume>16</volume>:<fpage>12</fpage>–<lpage>20</lpage>.<pub-id pub-id-type="pmid">26739959</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1871530316666160107111301</pub-id></mixed-citation></ref><ref id="jper10957-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jper10957-cit-0004">
+<string-name name-style="western">
+<surname>Kinane</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chestnutt</surname>
+<given-names>IG</given-names>
+</string-name>. <article-title>Smoking and periodontitis</article-title>. <source>Crit Rev Oral Biol Med</source>. <year>2000</year>;<volume>11</volume>:<fpage>356</fpage>–<lpage>365</lpage>.<pub-id pub-id-type="pmid">11021635</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/10454411000110030501</pub-id></mixed-citation></ref><ref id="jper10957-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jper10957-cit-0005">
+<string-name name-style="western">
+<surname>Linden</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McClean</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Young</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kee</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Persistently raised C‐reactive protein levels are associated with advanced periodontitis</article-title>. <source>J Clin Periodontol</source>. <year>2008</year>;<volume>35</volume>:<fpage>741</fpage>–<lpage>747</lpage>.<pub-id pub-id-type="pmid">18647204</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1600-051X.2008.01288.x</pub-id></mixed-citation></ref><ref id="jper10957-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jper10957-cit-0006">
+<string-name name-style="western">
+<surname>LaMonte</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Genco</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hovey</surname>
+<given-names>KM</given-names>
+</string-name>, et al. <article-title>History of periodontitis diagnosis and edentulism as predictors of cardiovascular disease, stroke, and mortality in postmenopausal women</article-title>. <source>J Am Heart Assoc</source>. <year>2017</year>;<volume>6</volume>:<elocation-id>e004518</elocation-id>.<pub-id pub-id-type="pmid">28356279</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/JAHA.116.004518</pub-id><pub-id pub-id-type="pmcid">PMC5532989</pub-id></mixed-citation></ref><ref id="jper10957-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jper10957-cit-0007">
+<string-name name-style="western">
+<surname>Larvin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aggarwal</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavitt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Risk of incident cardiovascular disease in people with periodontal disease: a systematic review and meta‐analysis</article-title>. <source>Clin Exp Dent Res</source>. <year>2021</year>;<volume>7</volume>(<issue>1</issue>):<fpage>109</fpage>–<lpage>122</lpage>.<pub-id pub-id-type="pmid">33124761</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cre2.336</pub-id><pub-id pub-id-type="pmcid">PMC7853902</pub-id></mixed-citation></ref><ref id="jper10957-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jper10957-cit-0008">
+<string-name name-style="western">
+<surname>Larvin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilmott</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The impact of periodontitis on hospital admission and mortality during COVID‐19 pandemic</article-title>. <source>Front Med</source>. <year>2020</year>;<volume>7</volume>:<fpage>861</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmed.2020.604980</pub-id><pub-id pub-id-type="pmcid">PMC7719810</pub-id><pub-id pub-id-type="pmid">33330570</pub-id></mixed-citation></ref><ref id="jper10957-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jper10957-cit-0009">
+<string-name name-style="western">
+<surname>Winning</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patterson</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neville</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kee</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Linden</surname>
+<given-names>GJ</given-names>
+</string-name>. <article-title>Periodontitis and incident type 2 diabetes: a prospective cohort study</article-title>. <source>J Clin Periodontol</source>. <year>2017</year>;<volume>44</volume>:<fpage>266</fpage>–<lpage>274</lpage>.<pub-id pub-id-type="pmid">28036104</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.12691</pub-id></mixed-citation></ref><ref id="jper10957-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jper10957-cit-0010">
+<string-name name-style="western">
+<surname>Larvin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aggarwal</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavitt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Multimorbid disease trajectories for people with periodontitis</article-title>. <source>J Clin Periodontol</source>. <year>2021</year>;<volume>48</volume>(<issue>12</issue>):<fpage>1587</fpage>–<lpage>1596</lpage>.<pub-id pub-id-type="pmid">34409647</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13536</pub-id></mixed-citation></ref><ref id="jper10957-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jper10957-cit-0011">
+<string-name name-style="western">
+<surname>Barnett</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mercer</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Norbury</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watt</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wyke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guthrie</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Epidemiology of multimorbidity and implications for health care, research, and medical education: a cross‐sectional study</article-title>. <source>Lancet</source>. <year>2012</year>;<volume>380</volume>:<fpage>37</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="pmid">22579043</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(12)60240-2</pub-id></mixed-citation></ref><ref id="jper10957-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jper10957-cit-0012">
+<string-name name-style="western">
+<surname>Muñoz Aguilera</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leira</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miró Catalina</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>Is systemic inflammation a missing link between periodontitis and hypertension? Results from two large population‐based surveys</article-title>. <source>J Intern Med</source>. <year>2021</year>;<volume>289</volume>:<fpage>532</fpage>–<lpage>546</lpage>.<pub-id pub-id-type="pmid">32969093</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/joim.13180</pub-id></mixed-citation></ref><ref id="jper10957-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jper10957-cit-0013">
+<string-name name-style="western">
+<surname>Czesnikiewicz‐Guzik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Osmenda</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siedlinski</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Causal association between periodontitis and hypertension: evidence from Mendelian randomization and a randomized controlled trial of non‐surgical periodontal therapy</article-title>. <source>Eur Heart J</source>. <year>2019</year>;<volume>40</volume>(<issue>42</issue>):<fpage>3459</fpage>–<lpage>3470</lpage>.<pub-id pub-id-type="pmid">31504461</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehz646</pub-id><pub-id pub-id-type="pmcid">PMC6837161</pub-id></mixed-citation></ref><ref id="jper10957-bib-0014"><label>14</label><mixed-citation publication-type="book" id="jper10957-cit-0014">
+<collab collab-type="authors">UK Biobank</collab>
+. <source>Protocol for a Large‐Scale Prospective Epidemiological Resource</source>. <publisher-name>UK Biobank</publisher-name>. <ext-link ns1:href="http://www.ukbiobank.ac.uk/resources/" ext-link-type="uri">www.ukbiobank.ac.uk/resources/</ext-link>
+</mixed-citation></ref><ref id="jper10957-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jper10957-cit-0015">
+<string-name name-style="western">
+<surname>Jordão</surname>
+<given-names>HW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKenna</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMenamin</surname>
+<given-names>ÚC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kunzmann</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murray</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coleman</surname>
+<given-names>HG</given-names>
+</string-name>. <article-title>The association between self‐reported poor oral health and gastrointestinal cancer risk in the UK Biobank: a large prospective cohort study</article-title>. <source>United Eur Gastroenterol J</source>. <year>2019</year>;<volume>7</volume>:<fpage>1241</fpage>–<lpage>1249</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/2050640619858043</pub-id><pub-id pub-id-type="pmcid">PMC6826526</pub-id><pub-id pub-id-type="pmid">31700637</pub-id></mixed-citation></ref><ref id="jper10957-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jper10957-cit-0016">
+<string-name name-style="western">
+<surname>Larvin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilmott</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aggarwal</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavitt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Additive effect of periodontitis and obesity on COVID‐19 outcomes</article-title>. <source>J Dent Res</source>. <year>2021</year>;<volume>100</volume>:<fpage>1228</fpage>–<lpage>1235</lpage>. 00220345211029638.<pub-id pub-id-type="pmid">34271846</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/00220345211029638</pub-id><pub-id pub-id-type="pmcid">PMC8461046</pub-id></mixed-citation></ref><ref id="jper10957-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jper10957-cit-0017">
+<string-name name-style="western">
+<surname>Lewington</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lacey</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clarke</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The burden of hypertension and associated risk for cardiovascular mortality in china</article-title>. <source>JAMA Intern Med</source>. <year>2016</year>;<volume>176</volume>:<fpage>524</fpage>–<lpage>532</lpage>.<pub-id pub-id-type="pmid">26975032</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamainternmed.2016.0190</pub-id></mixed-citation></ref><ref id="jper10957-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jper10957-cit-0018">
+<string-name name-style="western">
+<surname>Denaxas</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>George</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herrett</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Data resource profile: cardiovascular disease research using linked bespoke studies and electronic health records (CALIBER)</article-title>. <source>Int J Epidemiol</source>. <year>2012</year>;<volume>41</volume>:<fpage>1625</fpage>–<lpage>1638</lpage>.<pub-id pub-id-type="pmid">23220717</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ije/dys188</pub-id><pub-id pub-id-type="pmcid">PMC3535749</pub-id></mixed-citation></ref><ref id="jper10957-bib-0019"><label>19</label><mixed-citation publication-type="book" id="jper10957-cit-0019">
+<string-name name-style="western">
+<surname>Rubin</surname>
+<given-names>DB</given-names>
+</string-name>. <source>Multiple Imputation for Nonresponse in Surveys</source>. <publisher-name>John Wiley &amp; Sons</publisher-name>; <year>2004</year>;<fpage>154</fpage>–<lpage>240</lpage>.</mixed-citation></ref><ref id="jper10957-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jper10957-cit-0020">
+<string-name name-style="western">
+<surname>van Buuren</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Groothuis‐Oudshoorn</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Mice: multivariate imputation by chained equations in R</article-title>. <source>J Stat Softw</source>. <year>2011</year>;<volume>45</volume>:<fpage>1</fpage>–<lpage>67</lpage>.</mixed-citation></ref><ref id="jper10957-bib-0021"><label>21</label><mixed-citation publication-type="book" id="jper10957-cit-0021">
+<collab collab-type="authors">R Core Team</collab>
+. <part-title>R: a language and environment for statistical computing</part-title>. In: <source>R Foundation for Statistical Computing</source>. <publisher-loc>Vienna</publisher-loc>: <publisher-name>R Core Team</publisher-name>; <year>2017</year>.</mixed-citation></ref><ref id="jper10957-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jper10957-cit-0022">
+<string-name name-style="western">
+<surname>Borgnakke</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ylostalo</surname>
+<given-names>PV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taylor</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Genco</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Effect of periodontitis on diabetes: systematic review of epidemiologic observational evidence</article-title>. <source>J Clin Periodontol</source>. <year>2013</year>;<volume>40</volume>:<fpage>S135</fpage>–<lpage>S152</lpage>.<pub-id pub-id-type="pmid">23627324</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.12080</pub-id></mixed-citation></ref><ref id="jper10957-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jper10957-cit-0023">
+<string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>DX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>
+<given-names>XN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>YX</given-names>
+</string-name>, et al. <article-title>Periodontitis and emotional disorders: a meta‐analysis</article-title>. <source>J Clin Periodontol</source>. <year>2021</year>;<volume>48</volume>:<fpage>180</fpage>–<lpage>204</lpage>.<pub-id pub-id-type="pmid">33103263</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13395</pub-id></mixed-citation></ref><ref id="jper10957-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jper10957-cit-0024">
+<string-name name-style="western">
+<surname>Elter</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hinderliter</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Offenbacher</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The effects of periodontal therapy on vascular endothelial function: a pilot trial</article-title>. <source>Am Heart J</source>. <year>2006</year>;<volume>151</volume>:<fpage>47</fpage>.<pub-id pub-id-type="pmid">16368290</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ahj.2005.10.002</pub-id></mixed-citation></ref><ref id="jper10957-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jper10957-cit-0025">
+<string-name name-style="western">
+<surname>Pietropaoli</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Pinto</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferri</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Association between periodontal inflammation and hypertension using periodontal inflamed surface area and bleeding on probing</article-title>. <source>J Clin Periodontol</source>. <year>2020</year>;<volume>47</volume>:<fpage>160</fpage>–<lpage>172</lpage>.<pub-id pub-id-type="pmid">31680283</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13216</pub-id></mixed-citation></ref><ref id="jper10957-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jper10957-cit-0026">
+<string-name name-style="western">
+<surname>Muñoz Aguilera</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suvan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orlandi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miró Catalina</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nart</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Aiuto</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Association between periodontitis and blood pressure highlighted in systemically healthy individuals: results from a Nested Case‐Control Study</article-title>. <source>Hypertension</source>. <year>2021</year>;<volume>77</volume>:<fpage>1765</fpage>–<lpage>1774</lpage>.<pub-id pub-id-type="pmid">33775115</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/HYPERTENSIONAHA.120.16790</pub-id></mixed-citation></ref><ref id="jper10957-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jper10957-cit-0027">
+<string-name name-style="western">
+<surname>Winning</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patterson</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Linden</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cullen</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kee</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Linden</surname>
+<given-names>GJ</given-names>
+</string-name>. <article-title>Systemic inflammation and the relationship between periodontitis, edentulism and all‐cause mortality: a 17‐year prospective cohort study</article-title>. <source>J Clin Periodontol</source>. <year>2021</year>;<volume>48</volume>(<issue>9</issue>):<fpage>1260</fpage>–<lpage>1269</lpage>.<pub-id pub-id-type="pmid">34109647</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13510</pub-id></mixed-citation></ref><ref id="jper10957-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jper10957-cit-0028">
+<string-name name-style="western">
+<surname>Pietropaoli</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Pinto</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferri</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Poor oral health and blood pressure control among US hypertensive adults</article-title>. <source>Hypertension</source>. <year>2018</year>;<volume>72</volume>:<fpage>1365</fpage>–<lpage>1373</lpage>.<pub-id pub-id-type="pmid">30540406</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/HYPERTENSIONAHA.118.11528</pub-id></mixed-citation></ref><ref id="jper10957-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jper10957-cit-0029">
+<string-name name-style="western">
+<surname>Muñoz Aguilera</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suvan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buti</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Periodontitis is associated with hypertension: a systematic review and meta‐analysis</article-title>. <source>Cardiovasc Res</source>. <year>2019</year>;<volume>116</volume>:<fpage>28</fpage>–<lpage>39</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cvr/cvz201</pub-id><pub-id pub-id-type="pmid">31549149</pub-id></mixed-citation></ref><ref id="jper10957-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jper10957-cit-0030">
+<string-name name-style="western">
+<surname>Linden</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lyons</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scannapieco</surname>
+<given-names>FA</given-names>
+</string-name>. <article-title>Periodontal systemic associations: review of the evidence</article-title>. <source>J Clin Periodontol</source>. <year>2013</year>;<volume>40</volume>(Suppl <issue>14</issue>):<fpage>S8</fpage>–<lpage>S19</lpage>.<pub-id pub-id-type="pmid">23627336</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.12064</pub-id></mixed-citation></ref><ref id="jper10957-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jper10957-cit-0031">
+<string-name name-style="western">
+<surname>Mendes</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Viana</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cruz</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Blood pressure and tooth loss: a large cross‐sectional study with age mediation analysis</article-title>. <source>Int J Environ Res Public Health</source>. <year>2021</year>;<volume>18</volume>:<fpage>285</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph18010285</pub-id><pub-id pub-id-type="pmcid">PMC7795250</pub-id><pub-id pub-id-type="pmid">33401662</pub-id></mixed-citation></ref><ref id="jper10957-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jper10957-cit-0032">
+<string-name name-style="western">
+<surname>Eke</surname>
+<given-names>PI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borgnakke</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Genco</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Recent epidemiologic trends in periodontitis in the USA</article-title>. <source>Periodontol 2000</source>. <year>2020</year>;<volume>82</volume>:<fpage>257</fpage>–<lpage>267</lpage>.<pub-id pub-id-type="pmid">31850640</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/prd.12323</pub-id></mixed-citation></ref><ref id="jper10957-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jper10957-cit-0033">
+<string-name name-style="western">
+<surname>Abbood</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hinz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cherukara</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Macfarlane</surname>
+<given-names>TV</given-names>
+</string-name>. <article-title>Validity of self‐reported periodontitis: a systematic review and meta‐Analysis</article-title>. <source>J Periodontol</source>. <year>2016</year>;<volume>87</volume>:<fpage>1474</fpage>–<lpage>1483</lpage>.<pub-id pub-id-type="pmid">27523519</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1902/jop.2016.160196</pub-id></mixed-citation></ref></ref-list></back></article>

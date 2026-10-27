@@ -1,0 +1,459 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="jcmm70925" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J Cell Mol Med</journal-id><journal-id journal-id-type="pmc-domain-id">2233</journal-id><journal-id journal-id-type="pmc-domain">jcmmopen</journal-id><journal-id journal-id-type="nlm-id">101083777</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12573475</article-id><article-id pub-id-type="pmcid-ver">PMC12573475.1</article-id><article-id pub-id-type="pmcaid">12573475</article-id><article-id pub-id-type="pmcaiid">12573475</article-id><article-id pub-id-type="pmid">41165399</article-id><article-id pub-id-type="doi">10.1111/jcmm.70925</article-id><article-id pub-id-type="publisher-id">JCMM70925</article-id><article-id pub-id-type="other">JCMM-03-2025-231.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Association of Triglyceride–Glucose Index With Different Cardiovascular Diseases in Non‐Diabetic Hypertension</article-title></title-group><contrib-group><contrib id="jcmm70925-cr-0001" contrib-type="author"><name name-style="western"><surname>Xiao</surname><given-names initials="Q">Qiyu</given-names></name><xref rid="jcmm70925-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm70925-cr-0002" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="X">Xiaoying</given-names></name><xref rid="jcmm70925-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm70925-cr-0003" contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="X">Xi</given-names></name><xref rid="jcmm70925-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm70925-cr-0004" contrib-type="author"><name name-style="western"><surname>Yao</surname><given-names initials="Z">Zhengbin</given-names></name><xref rid="jcmm70925-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm70925-cr-0005" contrib-type="author" corresp="yes"><name name-style="western"><surname>He</surname><given-names initials="R">Rui</given-names></name><xref rid="jcmm70925-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>512569242@qq.com</email></address></contrib><contrib id="jcmm70925-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Long</surname><given-names initials="Y">Yong</given-names></name><xref rid="jcmm70925-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>longyong070@sina.com</email><email>2018050489@usc.edu.cn</email></address></contrib><contrib id="jcmm70925-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Su</surname><given-names initials="Y">Yingjie</given-names></name><xref rid="jcmm70925-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>doctorsuyingjie@sina.com</email><email>2018050812@usc.edu.cn</email></address></contrib></contrib-group><aff id="jcmm70925-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nuclear Medicine, The Affiliated Cancer Hospital of Xiangya School of Medicine</named-content>
+<institution>Central South University/Hunan Cancer Hospital</institution>
+<city>Changsha</city>
+<named-content content-type="country-part">Hunan</named-content>
+<country country="CN">China</country>
+</aff><aff id="jcmm70925-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Emergency Medicine, The Affiliated Changsha Central Hospital, Hengyang Medical School</named-content>
+<institution>University of South China</institution>
+<city>Changsha</city>
+<named-content content-type="country-part">Hunan</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break />
+Rui He (<email>512569242@qq.com</email>)<break />
+Yong Long (<email>longyong070@sina.com</email>; <email>2018050489@usc.edu.cn</email>)<break />
+Yingjie Su (<email>doctorsuyingjie@sina.com</email>; <email>2018050812@usc.edu.cn</email>)<break />
+</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>10</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2025</year></pub-date><volume>29</volume><issue seq="380">21</issue><issue-id pub-id-type="pmc-issue-id">499710</issue-id><issue-id pub-id-type="doi">10.1111/jcmm.v29.21</issue-id><elocation-id>e70925</elocation-id><history><date date-type="rev-recd"><day>14</day><month>9</month><year>2025</year></date><date date-type="received"><day>25</day><month>3</month><year>2025</year></date><date date-type="accepted"><day>17</day><month>10</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>30</day><month>10</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>31</day><month>10</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-09-25 20:10:49.380"><day>25</day><month>09</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Journal of Cellular and Molecular Medicine</italic> published by Foundation for Cellular and Molecular Medicine and John Wiley &amp; Sons Ltd.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="JCMM-29-e70925.pdf" /><self-uri content-type="pdf" ns1:href="file:JCMM-29-e70925.pdf" /><abstract><title>ABSTRACT</title><p>This research intends to explore the association of the triglyceride‐glucose (TyG) index with cardiovascular disease (CVD) death, stroke, myocardial infarction (MI), heart failure (HF) and peripheral arterial disease (PAD) in non‐diabetic hypertension. This post hoc analysis uses data from a large‐scale randomised controlled trial (RCT) study—Systolic Blood Pressure Intervention Trial (SPRINT), and we used Cox proportional hazards regression to explore the relationship between TyG and different CVDs. This longitudinal analysis of 9323 participants revealed a significant positive association between the TyG index and CVD death (HR 1.91, 95% CI 1.34, 2.73), HF (HR 1.43, 95% CI 1.05, 1.94), MI (HR 1.30, 95% CI 1.00, 1.69), stroke (HR 1.60, 95% CI 1.16, 2.21) and PAD (HR 1.78, 95% CI 1.30, 2.44). This positive correlation was consistently observed across different subgroups. Trend tests were significant for CVD death, heart failure, MI, stroke and PAD (<italic toggle="no">p</italic> &lt; 0.05). In non‐diabetic hypertensive patients, a higher TyG index was associated with a higher risk of CVD (CVD death, stroke, HF, MI, PAD).</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jcmm70925-kwd-0001">cardiovascular disease</kwd><kwd id="jcmm70925-kwd-0002">hypertension</kwd><kwd id="jcmm70925-kwd-0003">peripheral arterial disease</kwd><kwd id="jcmm70925-kwd-0004">stroke</kwd><kwd id="jcmm70925-kwd-0005">triglyceride–glucose index</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Health Research Project of Hunan Provincial Health Commission</institution></institution-wrap>
+</funding-source><award-id>20254719</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Scientific Research Project of Changsha Health Commission</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="4" /><table-count count="1" /><page-count count="10" /><word-count count="4700" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.4 mode:remove_FC converted:30.10.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm70925-cit-1001">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, et al., “<article-title>Association of Triglyceride–Glucose Index With Different Cardiovascular Diseases in Non‐Diabetic Hypertension</article-title>,” <source>Journal of Cellular and Molecular Medicine</source>
+<volume>29</volume>, no. <issue>21</issue> (<year>2025</year>): <elocation-id>e70925</elocation-id>, <pub-id pub-id-type="doi">10.1111/jcmm.70925</pub-id>.<pub-id pub-id-type="pmcid">PMC12573475</pub-id><pub-id pub-id-type="pmid">41165399</pub-id></mixed-citation>
+</p><fn-group id="jcmm70925-ntgp-0001"><fn fn-type="funding" id="jcmm70925-note-0001"><p>
+<bold>Funding:</bold> This research was supported by Health Research Project of Hunan Provincial Health Commission (grant number：20254719), Scientific Research Project of Changsha Health Commission (KJ‐202527).</p></fn><fn fn-type="generalState" id="jcmm70925-note-0002"><p>Rui He, Yong Long and Yingjie Su are co‐authors for correspondence.</p></fn><fn fn-type="equal" id="jcmm70925-note-0003"><p>Qiyu Xiao, Xiaoying Li, Xi Zhou and Zhengbin Yao contributed equally to this article.</p></fn></fn-group></notes></front><body id="jcmm70925-body-0001"><sec id="jcmm70925-sec-0001"><label>1</label><title>Introduction</title><p>Globally, cardiovascular disorders (CVD) represent the primary aetiology of both incidence and mortality rates across populations, presenting a significant population wellness concern and placing an economic strain on affected individuals [<xref rid="jcmm70925-bib-0001" ref-type="bibr">1</xref>, <xref rid="jcmm70925-bib-0002" ref-type="bibr">2</xref>, <xref rid="jcmm70925-bib-0003" ref-type="bibr">3</xref>, <xref rid="jcmm70925-bib-0004" ref-type="bibr">4</xref>]. The contributing factors to CVD, including dyslipidaemia, smoking, hypertension, obesity and type 2 diabetes mellitus (T2DM), are well‐established and clinically managed [<xref rid="jcmm70925-bib-0005" ref-type="bibr">5</xref>, <xref rid="jcmm70925-bib-0006" ref-type="bibr">6</xref>]. Notably, T2DM and prediabetes are prevalent in patients diagnosed with CVD and are associated with poor prognosis [<xref rid="jcmm70925-bib-0007" ref-type="bibr">7</xref>, <xref rid="jcmm70925-bib-0008" ref-type="bibr">8</xref>, <xref rid="jcmm70925-bib-0009" ref-type="bibr">9</xref>]. However, research has found that some individuals still develop CVD, even when these risk factors are well managed or in the absence of these common risk factors [<xref rid="jcmm70925-bib-0010" ref-type="bibr">10</xref>, <xref rid="jcmm70925-bib-0011" ref-type="bibr">11</xref>]. Therefore, identifying residual cardiovascular risk factors is crucial for controlling the occurrence and progression of cardiovascular diseases.</p><p>Insulin resistance (IR), which refers to an impaired ability of cells to respond normally to insulin and utilise it for metabolic processes, is considered a key feature of T2DM, often present even before diabetes is clinically diagnosed [<xref rid="jcmm70925-bib-0012" ref-type="bibr">12</xref>, <xref rid="jcmm70925-bib-0013" ref-type="bibr">13</xref>, <xref rid="jcmm70925-bib-0014" ref-type="bibr">14</xref>]. Accumulating evidence suggests that IR and related conditions are crucial for the onset and progression of CVD in both individuals with diabetes and those without diabetes. It is widely recognised that IR predisposes individuals to various metabolic disturbances, ranging from hyperglycaemia to dyslipidaemia and hypertension, all of which are closely linked to adverse cardiovascular outcomes [<xref rid="jcmm70925-bib-0014" ref-type="bibr">14</xref>, <xref rid="jcmm70925-bib-0015" ref-type="bibr">15</xref>]. The TyG index—a mathematical function based on fasting triglyceride and glucose levels (Ln[TG × Glu/2] in mg/dL)—serves as a composite biomarker for assessing IR [<xref rid="jcmm70925-bib-0016" ref-type="bibr">16</xref>]. Although previous studies have linked the TyG index to CVD, evidence in non‐diabetic hypertensive adults remains scarce. Therefore, this study will use baseline and follow‐up data from the Systolic Blood Pressure Intervention Trial (SPRINT) to comprehensively examine the independent effect of the TyG index on CVD death, heart failure (HF), stroke, peripheral arterial disease (PAD) and myocardial infarction (MI) in this population.</p></sec><sec sec-type="materials-and-methods" id="jcmm70925-sec-0002"><label>2</label><title>Materials and Methods</title><sec id="jcmm70925-sec-0003"><label>2.1</label><title>Data Source and Study Participants</title><p>The SPRINT study is a large‐scale randomised controlled trial (RCT) that evaluated the comparative clinical benefits of a stringent (&lt; 120 mmHg) versus a standard (&lt; 140 mmHg) systolic blood pressure target in a large cohort of hypertensive patients without diabetes. Data from this study are available through the Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC) of the National Heart, Lung and Blood Institute (NHLBI) at <ext-link ns1:href="https://biolincc.nhlbi.nih.gov/home" ext-link-type="uri">https://biolincc.nhlbi.nih.gov/home</ext-link>. A comprehensive account of the study's execution, prespecified clinical objectives and pertinent results has been provided in prior publications [<xref rid="jcmm70925-bib-0017" ref-type="bibr">17</xref>, <xref rid="jcmm70925-bib-0018" ref-type="bibr">18</xref>]. The current analysis was conducted on data obtained from the aforementioned large‐scale RCT, following a post hoc analytical framework. The study initially enrolled 9361 participants, with 38 excluded due to missing baseline TyG index data, resulting in a final cohort of 9323 individuals.</p></sec><sec id="jcmm70925-sec-0004"><label>2.2</label><title>Definitions of Triglyceride–Glucose Index and Clinical Outcomes</title><p>We chose the TyG index as the exposure variable and computed it using the formula: Ln [fasting triglycerides (mg/dL) × fasting glucose (mg/dL)]/2 [<xref rid="jcmm70925-bib-0019" ref-type="bibr">19</xref>, <xref rid="jcmm70925-bib-0020" ref-type="bibr">20</xref>]. Quantification of serum triglyceride and glucose concentrations was performed via enzymatic assays utilising a fully automated biochemistry platform. Clinical events during follow‐up will be ascertained by collecting participant‐reported episodes, protocol‐mandated laboratory and ECG data, and classifying them blind to treatment assignment by the Morbidity and Mortality subcommittee; supplemental linkage to the National Death Index (NDI) will complete the data set. This study collected a total of five clinical outcome measures, which are CVD death, HF, stroke, PAD and MI. CVD death was defined as death due to fatal coronary heart disease, HF, stroke (ischemic or haemorrhagic) or other non‐coronary cardiovascular events such as aortic aneurysm rupture and arrhythmia. HF is defined as definite or suspected acute decompensated HF presenting with multiple signs/symptoms of cardiac decompensation/inadequate pump function, requiring hospitalisation or an emergency department visit with intravenous therapy. Stroke encompasses cerebral infarction, subarachnoid haemorrhage, intraparenchymal haemorrhage, other haemorrhages and unknown types. PAD events are defined as carotid or peripheral revascularisation, abdominal aortic aneurysm repair and other objectively documented PAD. MI is defined as myocardial necrosis resulting from coronary occlusion due to spasm, embolism, thrombus, plaque rupture. A detailed description of the definitions can be found in Table <xref rid="jcmm70925-supitem-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="jcmm70925-sec-0005"><label>2.3</label><title>Covariates</title><p>The covariates included in this research were gender, age, race, smoking status, alcohol consumption status, vigorous physical activity, Framingham risk score, body mass index (BMI), medication use (aspirin, statins), comorbidities (CVD, chronic kidney disease, hyperlipidaemia) and anti‐hypertensive strategies. The specific definitions and criteria are detailed in Table <xref rid="jcmm70925-supitem-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="jcmm70925-sec-0006"><label>2.4</label><title>Statistical Analysis</title><p>Individuals were segmented into four subsets corresponding to the quartiles (Q1–Q4) of the TyG index. We employed frequency counts (percentages) for categorical variables and applied the mean ± standard deviation for continuous variables. Differences in categorical data were assessed using <italic toggle="yes">χ</italic>
+<sup>2</sup> or Fisher's exact tests. <italic toggle="yes">T</italic>‐tests were applied to compare continuous variables across groups. Missing continuous variables (BMI and Framingham Risk Score) were imputed using median values, with missing counts of 62 (0.67%) and 5 (0.05%), respectively. Categorical variables with missing values (smoking status [<italic toggle="yes">n</italic> = 11, 0.12%], alcohol consumption [<italic toggle="yes">n</italic> = 72, 0.77%], vigorous physical activity [<italic toggle="yes">n</italic> = 32, 0.34%], aspirin use [<italic toggle="yes">n</italic> = 19, 0.20%], statin use [<italic toggle="yes">n</italic> = 61, 0.65%]) were assigned to a distinct category within the model. We established a multivariable Cox proportional hazards regression model, and by constructing two models with stepwise adjustment for confounding factors, the proportional hazards assumption is evaluated using the Schoenfeld residuals test. We examined the relationship between the TyG index and a spectrum of cardiovascular disorders. Model I adjusted for none. Model II adjusted for gender, age (continuous variables), race, smoking status, alcohol consumption, vigorous physical activity, BMI (continuous variables), CKD, aspirin use, statin use, hyperlipidaemia, CVD, Framingham risk score (continuous variables). TyG index quartiles were grouped to perform trend tests to explore the non‐linear relationship between the independent and dependent variables. Subgroup analyses were stratified by age (&lt; 75 and ≥ 75), gender (male and female), race (white and non‐white), vigorous physical activity (&lt; 1 time/week and ≥ 1 time/week), alcohol consumption (yes and no), smoking status (yes and no), CVD (yes and no), CKD (yes and no), hyperlipidaemia (yes and no). The R project (version 4.5.1) and EmpowerStats (<ext-link ns1:href="http://www.empowerstats.com" ext-link-type="uri">www.empowerstats.com</ext-link>) were utilised for all statistical computations. Statistical significance was set at a <italic toggle="yes">p</italic>‐value &lt; 0.05.</p></sec></sec><sec sec-type="results" id="jcmm70925-sec-0007"><label>3</label><title>Results</title><p>Stratified by TyG index quartiles, the baseline demographic and clinical profiles of the study cohort were evaluated and reported (Table <xref rid="jcmm70925-tbl-0001" ref-type="table">1</xref>). A total of 9323 participants were included in our study. Among the participants, the mean age, BMI and Framingham risk score were 67.87 years, 29.85 kg/m<sup>2</sup> and 17.38%, respectively. 57.77% were white, 13.28% were current smokers, 51.69% were alcohol consumers, 56.48% engaged in vigorous physical activity ≥ 1 time/week. The proportions of individuals using aspirin, statins, having CVD, hyperlipidaemia, CKD and assignment to intensive anti‐hypertensive therapy stood at 50.92%, 43.40%, 20.05%, 57.77%, 28.36%, 50.01%, respectively.</p><table-wrap position="float" id="jcmm70925-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Baseline characteristics of participants in the study by quartiles of the triglyceride–glucose index.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="center" span="1" /><col align="center" span="1" /><col align="center" span="1" /><col align="center" span="1" /><col align="center" span="1" /><col align="center" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="center" valign="bottom" rowspan="1" colspan="1">Total</th><th align="center" valign="bottom" rowspan="1" colspan="1">Q1 (<italic toggle="yes">n</italic> = 2330)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Q2 (<italic toggle="yes">n</italic> = 2327)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Q3 (<italic toggle="yes">n</italic> = 2335)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Q4 (<italic toggle="yes">n</italic> = 2331)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="7" valign="top" rowspan="1">Gender</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">6016 (64.53%)</td><td align="center" valign="top" rowspan="1" colspan="1">1443 (61.93%)</td><td align="center" valign="top" rowspan="1" colspan="1">1454 (62.48%)</td><td align="center" valign="top" rowspan="1" colspan="1">1525 (65.31%)</td><td align="center" valign="top" rowspan="1" colspan="1">1594 (68.38%)</td><td align="center" rowspan="2" valign="top" colspan="1">&lt; 0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">3307 (35.47%)</td><td align="center" valign="top" rowspan="1" colspan="1">887 (38.07%)</td><td align="center" valign="top" rowspan="1" colspan="1">873 (37.52%)</td><td align="center" valign="top" rowspan="1" colspan="1">810 (34.69%)</td><td align="center" valign="top" rowspan="1" colspan="1">737 (31.62%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="center" valign="top" rowspan="1" colspan="1">67.87 ± 9.41</td><td align="center" valign="top" rowspan="1" colspan="1">69.31 ± 9.61</td><td align="center" valign="top" rowspan="1" colspan="1">68.43 ± 9.57</td><td align="center" valign="top" rowspan="1" colspan="1">67.94 ± 9.15</td><td align="center" valign="top" rowspan="1" colspan="1">65.81 ± 8.92</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Race</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">White</td><td align="center" valign="top" rowspan="1" colspan="1">5386 (57.77%)</td><td align="center" valign="top" rowspan="1" colspan="1">1174 (50.39%)</td><td align="center" valign="top" rowspan="1" colspan="1">1313 (56.42%)</td><td align="center" valign="top" rowspan="1" colspan="1">1433 (61.37%)</td><td align="center" valign="top" rowspan="1" colspan="1">1466 (62.89%)</td><td align="center" rowspan="4" valign="top" colspan="1">&lt; 0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Hispanic</td><td align="center" valign="top" rowspan="1" colspan="1">978 (10.49%)</td><td align="center" valign="top" rowspan="1" colspan="1">153 (6.57%)</td><td align="center" valign="top" rowspan="1" colspan="1">212 (9.11%)</td><td align="center" valign="top" rowspan="1" colspan="1">274 (11.73%)</td><td align="center" valign="top" rowspan="1" colspan="1">339 (14.54%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Black</td><td align="center" valign="top" rowspan="1" colspan="1">2785 (29.87%)</td><td align="center" valign="top" rowspan="1" colspan="1">960 (41.20%)</td><td align="center" valign="top" rowspan="1" colspan="1">769 (33.05%)</td><td align="center" valign="top" rowspan="1" colspan="1">582 (24.93%)</td><td align="center" valign="top" rowspan="1" colspan="1">474 (20.33%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Other</td><td align="center" valign="top" rowspan="1" colspan="1">174 (1.87%)</td><td align="center" valign="top" rowspan="1" colspan="1">43 (1.85%)</td><td align="center" valign="top" rowspan="1" colspan="1">33 (1.42%)</td><td align="center" valign="top" rowspan="1" colspan="1">46 (1.97%)</td><td align="center" valign="top" rowspan="1" colspan="1">52 (2.23%)</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Smoking status</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Never smoked</td><td align="center" valign="top" rowspan="1" colspan="1">4111 (44.10%)</td><td align="center" valign="top" rowspan="1" colspan="1">1054 (45.24%)</td><td align="center" valign="top" rowspan="1" colspan="1">1042 (44.78%)</td><td align="center" valign="top" rowspan="1" colspan="1">1037 (44.41%)</td><td align="center" valign="top" rowspan="1" colspan="1">978 (41.96%)</td><td align="center" rowspan="4" valign="top" colspan="1">0.358</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Former smoker</td><td align="center" valign="top" rowspan="1" colspan="1">3963 (42.51%)</td><td align="center" valign="top" rowspan="1" colspan="1">965 (41.42%)</td><td align="center" valign="top" rowspan="1" colspan="1">988 (42.46%)</td><td align="center" valign="top" rowspan="1" colspan="1">999 (42.78%)</td><td align="center" valign="top" rowspan="1" colspan="1">1011 (43.37%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Current smoker</td><td align="center" valign="top" rowspan="1" colspan="1">1238 (13.28%)</td><td align="center" valign="top" rowspan="1" colspan="1">308 (13.22%)</td><td align="center" valign="top" rowspan="1" colspan="1">293 (12.59%)</td><td align="center" valign="top" rowspan="1" colspan="1">297 (12.72%)</td><td align="center" valign="top" rowspan="1" colspan="1">340 (14.59%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Not recorded</td><td align="center" valign="top" rowspan="1" colspan="1">11 (0.12%)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (0.13%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (0.17%)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (0.09%)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (0.09%)</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Alcohol consumption</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No drinking</td><td align="center" valign="top" rowspan="1" colspan="1">4432 (47.54%)</td><td align="center" valign="top" rowspan="1" colspan="1">1113 (47.77%)</td><td align="center" valign="top" rowspan="1" colspan="1">1134 (48.73%)</td><td align="center" valign="top" rowspan="1" colspan="1">1129 (48.35%)</td><td align="center" valign="top" rowspan="1" colspan="1">1056 (45.30%)</td><td align="center" rowspan="3" valign="top" colspan="1">0.023</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Drinking</td><td align="center" valign="top" rowspan="1" colspan="1">4819 (51.69%)</td><td align="center" valign="top" rowspan="1" colspan="1">1197 (51.37%)</td><td align="center" valign="top" rowspan="1" colspan="1">1169 (50.24%)</td><td align="center" valign="top" rowspan="1" colspan="1">1187 (50.84%)</td><td align="center" valign="top" rowspan="1" colspan="1">1266 (54.31%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Not recorded</td><td align="center" valign="top" rowspan="1" colspan="1">72 (0.77%)</td><td align="center" valign="top" rowspan="1" colspan="1">20 (0.86%)</td><td align="center" valign="top" rowspan="1" colspan="1">24 (1.03%)</td><td align="center" valign="top" rowspan="1" colspan="1">19 (0.81%)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (0.39%)</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Vigorous physical activity</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">&lt; 1 time/week</td><td align="center" valign="top" rowspan="1" colspan="1">4025 (43.17%)</td><td align="center" valign="top" rowspan="1" colspan="1">975 (41.85%)</td><td align="center" valign="top" rowspan="1" colspan="1">997 (42.84%)</td><td align="center" valign="top" rowspan="1" colspan="1">1011 (43.30%)</td><td align="center" valign="top" rowspan="1" colspan="1">1042 (44.70%)</td><td align="center" rowspan="3" valign="top" colspan="1">0.177</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">≥ 1 time/week</td><td align="center" valign="top" rowspan="1" colspan="1">5266 (56.48%)</td><td align="center" valign="top" rowspan="1" colspan="1">1347 (57.81%)</td><td align="center" valign="top" rowspan="1" colspan="1">1320 (56.73%)</td><td align="center" valign="top" rowspan="1" colspan="1">1321 (56.57%)</td><td align="center" valign="top" rowspan="1" colspan="1">1278 (54.83%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Not recorded</td><td align="center" valign="top" rowspan="1" colspan="1">32 (0.34%)</td><td align="center" valign="top" rowspan="1" colspan="1">8 (0.34%)</td><td align="center" valign="top" rowspan="1" colspan="1">10 (0.43%)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (0.13%)</td><td align="center" valign="top" rowspan="1" colspan="1">11 (0.47%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Body mass index (kg/m<sup>2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">29.85 ± 5.76</td><td align="center" valign="top" rowspan="1" colspan="1">28.43 ± 5.91</td><td align="center" valign="top" rowspan="1" colspan="1">29.47 ± 5.80</td><td align="center" valign="top" rowspan="1" colspan="1">30.38 ± 5.72</td><td align="center" valign="top" rowspan="1" colspan="1">31.13 ± 5.24</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Aspirin use</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">4557 (48.88%)</td><td align="center" valign="top" rowspan="1" colspan="1">1148 (49.27%)</td><td align="center" valign="top" rowspan="1" colspan="1">1121 (48.17%)</td><td align="center" valign="top" rowspan="1" colspan="1">1099 (47.07%)</td><td align="center" valign="top" rowspan="1" colspan="1">1189 (51.01%)</td><td align="center" rowspan="3" valign="top" colspan="1">0.166</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">4747 (50.92%)</td><td align="center" valign="top" rowspan="1" colspan="1">1176 (50.47%)</td><td align="center" valign="top" rowspan="1" colspan="1">1202 (51.65%)</td><td align="center" valign="top" rowspan="1" colspan="1">1230 (52.68%)</td><td align="center" valign="top" rowspan="1" colspan="1">1139 (48.86%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Not recorded</td><td align="center" valign="top" rowspan="1" colspan="1">19 (0.20%)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (0.26%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (0.17%)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (0.26%)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (0.13%)</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Statin use</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">5216 (55.95%)</td><td align="center" valign="top" rowspan="1" colspan="1">1369 (58.76%)</td><td align="center" valign="top" rowspan="1" colspan="1">1301 (55.91%)</td><td align="center" valign="top" rowspan="1" colspan="1">1250 (53.53%)</td><td align="center" valign="top" rowspan="1" colspan="1">1296 (55.60%)</td><td align="center" rowspan="3" valign="top" colspan="1">0.007</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">4046 (43.40%)</td><td align="center" valign="top" rowspan="1" colspan="1">942 (40.43%)</td><td align="center" valign="top" rowspan="1" colspan="1">1008 (43.32%)</td><td align="center" valign="top" rowspan="1" colspan="1">1070 (45.82%)</td><td align="center" valign="top" rowspan="1" colspan="1">1026 (44.02%)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Not recorded</td><td align="center" valign="top" rowspan="1" colspan="1">61 (0.65%)</td><td align="center" valign="top" rowspan="1" colspan="1">19 (0.82%)</td><td align="center" valign="top" rowspan="1" colspan="1">18 (0.77%)</td><td align="center" valign="top" rowspan="1" colspan="1">15 (0.64%)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (0.39%)</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Cardiovascular disease</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">7454 (79.95%)</td><td align="center" valign="top" rowspan="1" colspan="1">1867 (80.13%)</td><td align="center" valign="top" rowspan="1" colspan="1">1862 (80.02%)</td><td align="center" valign="top" rowspan="1" colspan="1">1857 (79.53%)</td><td align="center" valign="top" rowspan="1" colspan="1">1868 (80.14%)</td><td align="center" rowspan="2" valign="top" colspan="1">0.948</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">1869 (20.05%)</td><td align="center" valign="top" rowspan="1" colspan="1">463 (19.87%)</td><td align="center" valign="top" rowspan="1" colspan="1">465 (19.98%)</td><td align="center" valign="top" rowspan="1" colspan="1">478 (20.47%)</td><td align="center" valign="top" rowspan="1" colspan="1">463 (19.86%)</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Hyperlipidaemia</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">3937 (42.23%)</td><td align="center" valign="top" rowspan="1" colspan="1">1539 (66.05%)</td><td align="center" valign="top" rowspan="1" colspan="1">1222 (52.51%)</td><td align="center" valign="top" rowspan="1" colspan="1">941 (40.30%)</td><td align="center" valign="top" rowspan="1" colspan="1">235 (10.08%)</td><td align="center" rowspan="2" valign="top" colspan="1">&lt; 0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">5386 (57.77%)</td><td align="center" valign="top" rowspan="1" colspan="1">791 (33.95%)</td><td align="center" valign="top" rowspan="1" colspan="1">1105 (47.49%)</td><td align="center" valign="top" rowspan="1" colspan="1">1394 (59.70%)</td><td align="center" valign="top" rowspan="1" colspan="1">2096 (89.92%)</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Chronic kidney disease</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">6679 (71.64%)</td><td align="center" valign="top" rowspan="1" colspan="1">1738 (74.59%)</td><td align="center" valign="top" rowspan="1" colspan="1">1662 (71.42%)</td><td align="center" valign="top" rowspan="1" colspan="1">1646 (70.49%)</td><td align="center" valign="top" rowspan="1" colspan="1">1633 (70.06%)</td><td align="center" rowspan="2" valign="top" colspan="1">0.002</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">2644 (28.36%)</td><td align="center" valign="top" rowspan="1" colspan="1">592 (25.41%)</td><td align="center" valign="top" rowspan="1" colspan="1">665 (28.58%)</td><td align="center" valign="top" rowspan="1" colspan="1">689 (29.51%)</td><td align="center" valign="top" rowspan="1" colspan="1">698 (29.94%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Framingham risk score</td><td align="center" valign="top" rowspan="1" colspan="1">17.38 ± 2.49</td><td align="center" valign="top" rowspan="1" colspan="1">16.94 ± 2.38</td><td align="center" valign="top" rowspan="1" colspan="1">17.18 ± 2.43</td><td align="center" valign="top" rowspan="1" colspan="1">17.54 ± 2.53</td><td align="center" valign="top" rowspan="1" colspan="1">17.87 ± 2.54</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" colspan="7" valign="top" rowspan="1">Antihypertensive strategies</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Standard treatment</td><td align="center" valign="top" rowspan="1" colspan="1">4661 (49.99%)</td><td align="center" valign="top" rowspan="1" colspan="1">1147 (49.23%)</td><td align="center" valign="top" rowspan="1" colspan="1">1179 (50.67%)</td><td align="center" valign="top" rowspan="1" colspan="1">1141 (48.87%)</td><td align="center" valign="top" rowspan="1" colspan="1">1194 (51.22%)</td><td align="center" rowspan="2" valign="top" colspan="1">0.312</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Intensive treatment</td><td align="center" valign="top" rowspan="1" colspan="1">4662 (50.01%)</td><td align="center" valign="top" rowspan="1" colspan="1">1183 (50.77%)</td><td align="center" valign="top" rowspan="1" colspan="1">1148 (49.33%)</td><td align="center" valign="top" rowspan="1" colspan="1">1194 (51.13%)</td><td align="center" valign="top" rowspan="1" colspan="1">1137 (48.78%)</td></tr></tbody></table><table-wrap-foot id="jcmm70925-ntgp-0002"><fn id="jcmm70925-note-0004"><p>
+<italic toggle="yes">Note:</italic> Continuous variables are expressed as mean ± standard deviation and <italic toggle="yes">p</italic> values were calculated using <italic toggle="yes">t</italic>‐test. Categorical variables are expressed as frequencies (percentages) and <italic toggle="yes">p</italic> values were calculated using <italic toggle="yes">χ</italic>
+<sup>2</sup> or Fisher's exact tests.</p></fn></table-wrap-foot></table-wrap><p>In this research, to determine whether the TyG index is correlated with diverse forms of CVD, two models were developed by us, with Model I being unadjusted (Figure <xref rid="jcmm70925-fig-0001" ref-type="fig">1</xref>). A significant positive correlation was observed for both stroke (HR 1.37, 95% CI 1.05, 1.79) and PAD (HR 1.51, 95% CI 1.17, 1.96) when the TyG index was treated as a continuous variable. Subsequently, we performed trend tests after dividing the subjects into quartiles based on the TyG index, and significant trends were observed in MI, stroke and PAD (all <italic toggle="yes">p</italic> &lt; 0.05). In Model II (Figure <xref rid="jcmm70925-fig-0002" ref-type="fig">2</xref>), we adjusted for the following variables related to socio‐demographics, lifestyle, medication use, comorbidities: gender, age, race, smoking status, alcohol consumption, vigorous physical activity, BMI, CKD, aspirin use, statin use, hyperlipidaemia, CVD, Framingham risk score. When using the TyG index in continuous form for regression analysis, it exhibited a significant and positive correlation with several cardiovascular outcomes, including CVD death (HR 1.91, 95% CI 1.34–2.73), HF (HR 1.43, 95% CI 1.05–1.94), MI (HR 1.30, 95% CI 1.00–1.69), stroke (HR 1.60, 95% CI 1.16–2.21) and PAD (HR 1.78, 95% CI 1.30–2.44). Additionally, trend tests revealed significant linear associations for CVD mortality, heart failure, MI, stroke, PAD (all <italic toggle="yes">p</italic> &lt; 0.05). We next turned to subgroup analyses to investigate heterogeneity in the TyG–CVD associations (Figure <xref rid="jcmm70925-fig-0003" ref-type="fig">3</xref>). In different subgroups, TyG was positively correlated with the outcome indicators, except in the subgroup of HF aged &lt; 75 years, the female subgroup of MI, the CVD (yes) subgroup of stroke.</p><fig position="float" fig-type="FIGURE" id="jcmm70925-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>The association between TyG index and different CVD in non‐diabetic hypertension in model I. CI, confidence interval; CKD, chronic kidney disease; CVD, cardiovascular disease; HR, hazard ratio; MI, myocardial infarction; PAD, peripheral arterial disease; Ref, reference; TYG, triglyceride glucose. Adjusted for: None.</p></caption><graphic position="anchor" id="jats-graphic-1" orientation="portrait" ns1:href="JCMM-29-e70925-g002.jpg" /></fig><fig position="float" fig-type="FIGURE" id="jcmm70925-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>The association between TyG index and different CVD in non‐diabetic hypertension in model II. BMI, body mass index; CI, confidence interval; CKD, chronic kidney disease; CVD, cardiovascular disease; HR, hazard ratio; MI, myocardial infarction; PAD, peripheral arterial disease; Ref, reference; TYG, triglyceride glucose. Adjusted for: Gender, age, race, smoking status, alcohol consumption, vigorous physical activity, BMI, CKD, aspirin use, statin use, hyperlipidaemia, CVD, Framingham risk score.</p></caption><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="JCMM-29-e70925-g003.jpg" /></fig><fig position="float" fig-type="FIGURE" id="jcmm70925-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>The association between TyG index and different CVD deaths in different subgroups. BMI, body mass index; CI, confidence interval; CKD, chronic kidney disease; CVD, cardiovascular disease; HR, hazard ratio; MI, myocardial infarction; PAD, peripheral arterial disease; TYG, triglyceride‐glucose. Adjusted for: Gender, age, race, smoking status, alcohol consumption, vigorous physical activity, BMI, CKD, aspirin use, statin use, hyperlipidaemia, CVD, Framingham risk score except the subgroup's variable.</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="JCMM-29-e70925-g004.jpg" /></fig><p>To assess the robustness of our findings, we performed comprehensive sensitivity testing: (1) Since the SPRINT study confirmed that intensive blood pressure‐lowering therapy reduces CVD risk, we further adjusted for the anti‐hypertensive strategies variable in the model (Figure <xref rid="jcmm70925-fig-0004" ref-type="fig">4</xref>). (2) To more accurately reflect the true level of TyG, TyG uses an average based on baseline values and re‐measurement over 2 years (Table <xref rid="jcmm70925-supitem-0002" ref-type="supplementary-material">S2</xref>). (3) To avoid reverse causality, we excluded individuals who experienced the outcome indicators within the first year (Table <xref rid="jcmm70925-supitem-0003" ref-type="supplementary-material">S3</xref>). We found that TyG was positively correlated with various CVD outcomes under different sensitivity analysis strategies.</p><fig position="float" fig-type="FIGURE" id="jcmm70925-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>The association between TyG index and different CVD in non‐diabetic hypertension (<italic toggle="yes">n</italic> = 9323). BMI, body mass index; CI, confidence interval; CKD, chronic kidney disease; CVD, cardiovascular disease; HR, hazard ratio; MI, myocardial infarction; PAD, peripheral arterial disease; Ref, reference; TYG, triglyceride‐glucose. Adjusted for: Gender, age, race, smoking status, alcohol consumption, vigorous physical activity, BMI, CKD, aspirin use, statin use, hyperlipidaemia, CVD, Framingham risk score, antihypertensive strategies.</p></caption><graphic position="anchor" id="jats-graphic-7" orientation="portrait" ns1:href="JCMM-29-e70925-g001.jpg" /></fig></sec><sec sec-type="discussion" id="jcmm70925-sec-0008"><label>4</label><title>Discussion</title><p>By conducting a secondary analysis of a major RCT's data set, we found that TyG is positively correlated with various cardiovascular outcome indicators (CVD death, stroke, HF, MI and PAD) in non‐diabetic hypertension. Moreover, as the level of TyG increases, the hazard of developing relevant CVD in the future is higher.</p><p>Currently, the gold standard for evaluating insulin resistance is the HOMA‐IR, derived from the homeostatic model assessment. However, its application value is limited in patients receiving insulin therapy or with pancreatic beta‐cell dysfunction [<xref rid="jcmm70925-bib-0021" ref-type="bibr">21</xref>]. In contrast, evidence suggests that the TyG index outperforms HOMA‐IR in detecting IR across individuals with or without diabetes [<xref rid="jcmm70925-bib-0022" ref-type="bibr">22</xref>]. Mechanistic and observational studies consistently suggest that the TyG index elevation may serve as a predictor for adverse cardiovascular events. Wang et al. revealed the capacity of TyG to serve as a significant indicator of CVD severity, especially in people with prediabetes [<xref rid="jcmm70925-bib-0023" ref-type="bibr">23</xref>]. Moreover, an analysis of 35,455 high‐risk CVD patients revealed an association between elevated TyG index levels and increased risk of all‐cause as well as cardiovascular mortality [<xref rid="jcmm70925-bib-0024" ref-type="bibr">24</xref>]. Notably, for future CVD risk, the TyG index has predictive value in patients with diabetes and those without diabetes [<xref rid="jcmm70925-bib-0025" ref-type="bibr">25</xref>, <xref rid="jcmm70925-bib-0026" ref-type="bibr">26</xref>, <xref rid="jcmm70925-bib-0027" ref-type="bibr">27</xref>]. A large‐scale cohort study enrolling approximately 100,000 Chinese participants (median follow‐up: 11.03 years) demonstrated that elevated baseline TyG levels and their long‐term persistence were associated with heightened MI risk [<xref rid="jcmm70925-bib-0028" ref-type="bibr">28</xref>]. In a prospective cohort of 12,374 individuals free of baseline HF or coronary heart disease (CHD), elevated TyG index levels were prospectively linked to incident heart failure and adverse cardiac remodelling [<xref rid="jcmm70925-bib-0029" ref-type="bibr">29</xref>].</p><p>Currently unclear is the precise mechanism by which TyG is linked to CVD. However, as an index composed of two cardiovascular risk factors (triglycerides and glucose), it reflects the level of an individual's IR. First, IR induces dyslipidaemia, marked by elevated low‐density lipoprotein cholesterol (LDL‐C) and reduced high‐density lipoprotein cholesterol (HDL‐C), along with impaired glucose metabolism (hyperglycaemia). These alterations, in turn, trigger inflammatory and oxidative stress responses, ultimately resulting in atherosclerosis [<xref rid="jcmm70925-bib-0030" ref-type="bibr">30</xref>]. Second, IR promotes aberrant nitric oxide (NO) signalling and triggers mitochondrial dysfunction via electron transport chain overstimulation, a key source of reactive oxygen species (ROS). The excessive levels of NO and ROS collectively drive endothelial dysfunction [<xref rid="jcmm70925-bib-0031" ref-type="bibr">31</xref>, <xref rid="jcmm70925-bib-0032" ref-type="bibr">32</xref>]. Third, IR can lead to excessive platelet activation and simultaneously trigger the occurrence of thrombotic and inflammatory events by induction of platelet‐derived tissue factor via adhesion and thromboxane A2 (T × A2) signalling pathways [<xref rid="jcmm70925-bib-0033" ref-type="bibr">33</xref>]. Finally, IR promotes the proliferation of smooth muscle cells, collagen cross‐linking and collagen accumulation. These pathological changes can lead to cardiac diastolic dysfunction, myocardial fibrosis and ultimately result in HF [<xref rid="jcmm70925-bib-0026" ref-type="bibr">26</xref>]. Therefore, the TyG index can function as an alternative indicator for identifying IR or assessing high‐risk populations for diabetes in large‐scale studies. Moreover, it has good predictive power for CVD. Further research into its underlying mechanisms is warranted in the future. The current research on TyG also has certain limitations. First, most research indicators are based on TyG measured in the fasting state, while postprandial measurements of triglycerides and glucose levels are abnormal responses to IR. The potential clinical value of postprandial TyG remains unclear. Second, patients with CVD often present with elevated triglyceride levels and hyperglycaemia, and the causal relationship between TyG and CVD remains unclear. Third, the current study populations are mainly focused on middle‐aged and elderly patients, and current research exhibits a paucity of evidence regarding CVD risk prediction in younger populations.</p><p>The focus of our study is that this is a large, well‐conducted randomised controlled trial. This study included a cohort of 9323 participants, providing robust statistical power to advance understanding in this research domain. Furthermore, we mitigated confounding through comprehensive adjustment for covariates, enhancing result validity and generalisability across heterogeneous populations. Finally, to enhance the robustness of the TyG index–CVD association assessment, sensitivity analyses and subgroup stratification were systematically implemented. Although statistical significance varied for some endpoints (HF, MI, stroke) across sensitivity analyses, the direction of effect remained consistently positive (HR &gt; 1) or trend tests were significant. So it still partially reflects the association between them. Despite the advantages of our study, there are some potential limitations that cannot be ignored. First of all, the TyG index is influenced by multiple factors such as lifestyle, diet and medications, leading to intra‐individual variability. Although a single baseline measurement has demonstrated predictive value in cohort studies, it may still misclassify an individual's long‐term metabolic status and potentially attenuate the observed associations. Second, because the study population comprised hypertensive patients without diabetes, our findings may not be generalisable to other groups. Third, the absence of data on fasting insulin levels precludes the current comparison of the TyG index with other gold‐standard measures of insulin resistance. Fourth, the Cox proportional hazards model used in this study does not account for competing risks from non‐CVD deaths. Therefore, our conclusions may have overestimated the true cause‐specific risk.</p></sec><sec sec-type="conclusions" id="jcmm70925-sec-0009"><label>5</label><title>Conclusion</title><p>In conclusion, our study revealed that the risk of different cardiovascular diseases (CVD death, stroke, HF, MI, PAD) is higher in non‐diabetic hypertension with a higher TyG index.</p></sec><sec id="jcmm70925-sec-0016"><title>Author Contributions</title><p>
+<bold>Qiyu Xiao:</bold> conceptualization (equal), data curation (equal), writing – original draft (equal). <bold>Xiaoying Li:</bold> conceptualization (equal), formal analysis (equal), writing – original draft (equal). <bold>Xi Zhou:</bold> conceptualization (equal), investigation (equal), project administration (equal). <bold>Zhengbin Yao:</bold> formal analysis (equal), resources (equal), software (equal). <bold>Rui He:</bold> investigation (equal), methodology (equal), visualization (equal), writing – review and editing (equal). <bold>Yong Long:</bold> project administration (equal), validation (equal), visualization (equal). <bold>Yingjie Su:</bold> conceptualization (equal), writing – review and editing (equal).</p></sec><sec id="jcmm70925-sec-0013"><title>Ethics Statement</title><p>The SPRINT study was approved by the institutional review boards of the participating study sites, and all participants signed an informed consent form.</p></sec><sec sec-type="conclusions" id="jcmm70925-sec-0014"><title>Consent</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="jcmm70925-sec-0015"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jcmm70925-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S1:</bold> The definition of outcomes and covariates.</p></caption><media ns1:href="JCMM-29-e70925-s003.docx" position="float" orientation="portrait" /></supplementary-material><supplementary-material id="jcmm70925-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S2:</bold> The association between TYG and different CVD in non‐diabetic hypertension (<italic toggle="yes">n</italic> = 8109).</p></caption><media ns1:href="JCMM-29-e70925-s002.docx" position="float" orientation="portrait" /></supplementary-material><supplementary-material id="jcmm70925-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S3:</bold> The association between TYG and different CVD in non‐diabetic hypertension.</p></caption><media ns1:href="JCMM-29-e70925-s001.docx" position="float" orientation="portrait" /></supplementary-material></sec></body><back><ack id="jcmm70925-sec-0010"><title>Acknowledgements</title><p>The authors have nothing to report.</p></ack><sec sec-type="data-availability" id="jcmm70925-sec-0012"><title>Data Availability Statement</title><p>The data sets used and/or analysed during the present study were availed by the corresponding author (Yingjie su) on reasonable request. The data can be downloaded from “<ext-link ns1:href="https://biolincc.nhlbi.nih.gov/home" ext-link-type="uri" specific-use="software is-supplemented-by">https://biolincc.nhlbi.nih.gov/home</ext-link>”.</p></sec><ref-list content-type="cited-references" id="jcmm70925-bibl-0001"><title>References</title><ref id="jcmm70925-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0001">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ferroni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Basili</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Falco</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Davì</surname>
+</string-name>, “<article-title>Inflammation, Insulin Resistance, and Obesity</article-title>,” <source>Current Atherosclerosis Reports</source>
+<volume>6</volume>, no. <issue>6</issue> (<year>2004</year>): <fpage>424</fpage>–<lpage>431</lpage>.<pub-id pub-id-type="pmid">15485587</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11883-004-0082-x</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0002">
+<string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Virani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Alonso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Benjamin</surname>
+</string-name>, et al., “<article-title>Heart Disease and Stroke Statistics‐2020 Update: A Report From the American Heart Association</article-title>,” <source>Circulation</source>
+<volume>141</volume>, no. <issue>9</issue> (<year>2020</year>): <fpage>e139</fpage>–<lpage>e596</lpage>.<pub-id pub-id-type="pmid">31992061</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIR.0000000000000757</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0003">
+<collab collab-type="authors">GBD 2019 Diseases and Injuries Collaborators</collab>
+, “<article-title>Global Burden of 369 Diseases and Injuries in 204 Countries and Territories, 1990–2019: A Systematic Analysis for the Global Burden of Disease Study 2019</article-title>,” <source>Lancet</source>
+<volume>396</volume>, no. <issue>10258</issue> (<year>2020</year>): <fpage>1204</fpage>–<lpage>1222</lpage>.<pub-id pub-id-type="pmid">33069326</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(20)30925-9</pub-id><pub-id pub-id-type="pmcid">PMC7567026</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0004">
+<string-name name-style="western">
+<given-names>S. I.</given-names>
+<surname>McFarlane</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Banerji</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Sowers</surname>
+</string-name>, “<article-title>Insulin Resistance and Cardiovascular Disease</article-title>,” <source>Journal of Clinical Endocrinology and Metabolism</source>
+<volume>86</volume>, no. <issue>2</issue> (<year>2001</year>): <fpage>713</fpage>–<lpage>718</lpage>.<pub-id pub-id-type="pmid">11158035</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/jcem.86.2.7202</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0005">
+<string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>Teo</surname>
+</string-name> and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Rafiq</surname>
+</string-name>, “<article-title>Cardiovascular Risk Factors and Prevention: A Perspective From Developing Countries</article-title>,” <source>Canadian Journal of Cardiology</source>
+<volume>37</volume>, no. <issue>5</issue> (<year>2021</year>): <fpage>733</fpage>–<lpage>743</lpage>.<pub-id pub-id-type="pmid">33610690</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cjca.2021.02.009</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0006">
+<string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Grant</surname>
+</string-name> and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Cosentino</surname>
+</string-name>, “<article-title>The 2019 ESC Guidelines on Diabetes, Pre‐Diabetes, and Cardiovascular Diseases Developed in Collaboration With the EASD: New Features and the ‘Ten Commandments’ of the 2019 Guidelines Are Discussed by Professor Peter J. Grant and Professor Francesco Cosentino, the Task Force Chairmen</article-title>,” <source>European Heart Journal</source>
+<volume>40</volume>, no. <issue>39</issue> (<year>2019</year>): <fpage>3215</fpage>–<lpage>3217</lpage>.<pub-id pub-id-type="pmid">31608951</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehz687</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0007">
+<string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Creager</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. F.</given-names>
+<surname>Lüscher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Cosentino</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Beckman</surname>
+</string-name>, “<article-title>Diabetes and Vascular Disease: Pathophysiology, Clinical Consequences, and Medical Therapy: Part I</article-title>,” <source>Circulation</source>
+<volume>108</volume>, no. <issue>12</issue> (<year>2003</year>): <fpage>1527</fpage>–<lpage>1532</lpage>.<pub-id pub-id-type="pmid">14504252</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.CIR.0000091257.27563.32</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0008">
+<string-name name-style="western">
+<given-names>J. K.</given-names>
+<surname>Beverly</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Budoff</surname>
+</string-name>, “<article-title>Atherosclerosis: Pathophysiology of Insulin Resistance, Hyperglycemia, Hyperlipidemia, and Inflammation</article-title>,” <source>Journal of Diabetes</source>
+<volume>12</volume>, no. <issue>2</issue> (<year>2020</year>): <fpage>102</fpage>–<lpage>104</lpage>.<pub-id pub-id-type="pmid">31411812</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/1753-0407.12970</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0009">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Demir</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. P.</given-names>
+<surname>Nawroth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Herzig</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Ekim Üstünel</surname>
+</string-name>, “<article-title>Emerging Targets in Type 2 Diabetes and Diabetic Complications</article-title>,” <source>Advanced Science</source>
+<volume>8</volume>, no. <issue>18</issue> (<year>2021</year>): <elocation-id>e2100275</elocation-id>.<pub-id pub-id-type="pmid">34319011</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/advs.202100275</pub-id><pub-id pub-id-type="pmcid">PMC8456215</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0010">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Choi</surname>
+</string-name>, “<article-title>The Potential Role of Biomarkers Associated With ASCVD Risk: Risk‐Enhancing Biomarkers</article-title>,” <source>Journal of Lipid and Atherosclerosis</source>
+<volume>8</volume>, no. <issue>2</issue> (<year>2019</year>): <fpage>173</fpage>–<lpage>182</lpage>.<pub-id pub-id-type="pmid">32821707</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.12997/jla.2019.8.2.173</pub-id><pub-id pub-id-type="pmcid">PMC7379121</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0011">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zhou</surname>
+</string-name>, “<article-title>Epidemiology of Cardiovascular Disease in China: Current Features and Implications</article-title>,” <source>Nature Reviews Cardiology</source>
+<volume>16</volume>, no. <issue>4</issue> (<year>2019</year>): <fpage>203</fpage>–<lpage>212</lpage>.<pub-id pub-id-type="pmid">30467329</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41569-018-0119-4</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0012">
+<string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Defronzo</surname>
+</string-name>, “<article-title>Banting Lecture. From the Triumvirate to the Ominous Octet: A New Paradigm for the Treatment of Type 2 Diabetes Mellitus</article-title>,” <source>Diabetes</source>
+<volume>58</volume>, no. <issue>4</issue> (<year>2009</year>): <fpage>773</fpage>–<lpage>795</lpage>.<pub-id pub-id-type="pmid">19336687</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/db09-9028</pub-id><pub-id pub-id-type="pmcid">PMC2661582</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0013">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Guerrero‐Romero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. E.</given-names>
+<surname>Simental‐Mendía</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>González‐Ortiz</surname>
+</string-name>, et al., “<article-title>The Product of Triglycerides and Glucose, a Simple Measure of Insulin Sensitivity. Comparison With the Euglycemic‐Hyperinsulinemic Clamp</article-title>,” <source>Journal of Clinical Endocrinology and Metabolism</source>
+<volume>95</volume>, no. <issue>7</issue> (<year>2010</year>): <fpage>3347</fpage>–<lpage>3351</lpage>.<pub-id pub-id-type="pmid">20484475</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/jc.2010-0288</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0014">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Ashraf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Ghouri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Someshwar</surname>
+</string-name>, et al., “<article-title>Insulin Resistance and Coronary Artery Disease: Untangling the Web of Endocrine‐Cardiac Connections</article-title>,” <source>Cureus</source>
+<volume>15</volume>, no. <issue>12</issue> (<year>2023</year>): <elocation-id>e51066</elocation-id>.<pub-id pub-id-type="pmid">38269234</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7759/cureus.51066</pub-id><pub-id pub-id-type="pmcid">PMC10806385</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0015">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Mancusi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>de Simone</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Best</surname>
+</string-name>, et al., “<article-title>Myocardial Mechano‐Energetic Efficiency and Insulin Resistance in Non‐Diabetic Members of the Strong Heart Study Cohort</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>18</volume>, no. <issue>1</issue> (<year>2019</year>): <fpage>56</fpage>.<pub-id pub-id-type="pmid">31039789</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-019-0862-9</pub-id><pub-id pub-id-type="pmcid">PMC6492323</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0016">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Geloneze</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Tambascia</surname>
+</string-name>, “<article-title>Laboratorial Evaluation and Diagnosis of Insulin Resistance</article-title>,” <source>Arquivos Brasileiros de Endocrinologia e Metabologia</source>
+<volume>50</volume>, no. <issue>2</issue> (<year>2006</year>): <fpage>208</fpage>–<lpage>215</lpage>.<pub-id pub-id-type="pmid">16767287</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/s0004-27302006000200007</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0017">
+<string-name name-style="western">
+<given-names>W. T.</given-names>
+<surname>Ambrosius</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Sink</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. G.</given-names>
+<surname>Foy</surname>
+</string-name>, et al., “<article-title>The Design and Rationale of a Multicenter Clinical Trial Comparing Two Strategies for Control of Systolic Blood Pressure: The Systolic Blood Pressure Intervention Trial (SPRINT)</article-title>,” <source>Clinical Trials</source>
+<volume>11</volume>, no. <issue>5</issue> (<year>2014</year>): <fpage>532</fpage>–<lpage>546</lpage>.<pub-id pub-id-type="pmid">24902920</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1740774514537404</pub-id><pub-id pub-id-type="pmcid">PMC4156910</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0018">
+<collab collab-type="authors">SPRINT Research Group</collab>
+, <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Wright</surname>, <suffix>Jr.</suffix>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Williamson</surname>
+</string-name>, et al., “<article-title>A Randomized Trial of Intensive Versus Standard Blood‐Pressure Control</article-title>,” <source>New England Journal of Medicine</source>
+<volume>373</volume>, no. <issue>22</issue> (<year>2015</year>): <fpage>2103</fpage>–<lpage>2116</lpage>.<pub-id pub-id-type="pmid">26551272</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1511939</pub-id><pub-id pub-id-type="pmcid">PMC4689591</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0019">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Jiao</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, “<article-title>The Triglyceride‐Glucose Index Is a Predictor for Cardiovascular and All‐Cause Mortality in CVD Patients With Diabetes or Pre‐Diabetes: Evidence From NHANES 2001–2018</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>22</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>279</fpage>.<pub-id pub-id-type="pmid">37848879</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-023-02030-z</pub-id><pub-id pub-id-type="pmcid">PMC10583314</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0020">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Geng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Liao</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Su</surname>
+</string-name>, “<article-title>Higher Triglyceride‐Glucose Index Is Associated With Increased Likelihood of Kidney Stones</article-title>,” <source>Frontiers in Endocrinology</source>
+<volume>12</volume> (<year>2021</year>): <elocation-id>774567</elocation-id>.<pub-id pub-id-type="pmid">34912299</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fendo.2021.774567</pub-id><pub-id pub-id-type="pmcid">PMC8667164</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0021">
+<string-name name-style="western">
+<given-names>H. V.</given-names>
+<surname>Minh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. A.</given-names>
+<surname>Tien</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. T.</given-names>
+<surname>Sinh</surname>
+</string-name>, et al., “<article-title>Assessment of Preferred Methods to Measure Insulin Resistance in Asian Patients With Hypertension</article-title>,” <source>Journal of Clinical Hypertension (Greenwich, Conn.)</source>
+<volume>23</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>529</fpage>–<lpage>537</lpage>.<pub-id pub-id-type="pmid">33415834</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jch.14155</pub-id><pub-id pub-id-type="pmcid">PMC8029536</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0022">
+<string-name name-style="western">
+<given-names>L. E.</given-names>
+<surname>Simental‐Mendía</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rodríguez‐Morán</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Guerrero‐Romero</surname>
+</string-name>, “<article-title>The Product of Fasting Glucose and Triglycerides as Surrogate for Identifying Insulin Resistance in Apparently Healthy Subjects</article-title>,” <source>Metabolic Syndrome and Related Disorders</source>
+<volume>6</volume>, no. <issue>4</issue> (<year>2008</year>): <fpage>299</fpage>–<lpage>304</lpage>.<pub-id pub-id-type="pmid">19067533</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/met.2008.0034</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0023">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wu</surname>
+</string-name>, et al., “<article-title>Association of Triglyceride‐Glucose Index With Coronary Severity and Mortality in Patients on Dialysis With Coronary Artery Disease</article-title>,” <source>European Journal of Medical Research</source>
+<volume>28</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>437</fpage>.<pub-id pub-id-type="pmid">37848993</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40001-023-01410-1</pub-id><pub-id pub-id-type="pmcid">PMC10580538</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0024">
+<string-name name-style="western">
+<given-names>X. L.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. F.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. F.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>Prognostic Value of Triglyceride Glucose Index in Population at High Cardiovascular Disease Risk</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>22</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>198</fpage>.<pub-id pub-id-type="pmid">37537553</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-023-01924-2</pub-id><pub-id pub-id-type="pmcid">PMC10398968</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0025">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Xue</surname>
+</string-name>, et al., “<article-title>Association Between the Triglyceride‐Glucose Index and Impaired Cardiovascular Fitness in Non‐Diabetic Young Population</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>23</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>39</fpage>.<pub-id pub-id-type="pmid">38245734</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-023-02089-8</pub-id><pub-id pub-id-type="pmcid">PMC10800072</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0026">
+<string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Hill</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Insulin Resistance, Cardiovascular Stiffening and Cardiovascular Disease</article-title>,” <source>Metabolism</source>
+<volume>119</volume> (<year>2021</year>): <elocation-id>154766</elocation-id>.<pub-id pub-id-type="pmid">33766485</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.metabol.2021.154766</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0027">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. L.</given-names>
+<surname>Cong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. X.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Triglyceride‐Glucose Index Predicts Adverse Cardiovascular Events in Patients With Diabetes and Acute Coronary Syndrome</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>19</volume>, no. <issue>1</issue> (<year>2020</year>): <fpage>80</fpage>.<pub-id pub-id-type="pmid">32534586</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-020-01054-z</pub-id><pub-id pub-id-type="pmcid">PMC7293784</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0028">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Tian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zuo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>Triglyceride‐Glucose Index Is Associated With the Risk of Myocardial Infarction: An 11‐Year Prospective Study in the Kailuan Cohort</article-title>,” <source>Cardiovascular Diabetology</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>19</fpage>.<pub-id pub-id-type="pmid">33435964</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12933-020-01210-5</pub-id><pub-id pub-id-type="pmcid">PMC7802156</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0029">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Ye</surname>
+</string-name>, et al., “<article-title>Triglyceride‐Glucose Index in the Development of Heart Failure and Left Ventricular Dysfunction: Analysis of the ARIC Study</article-title>,” <source>European Journal of Preventive Cardiology</source>
+<volume>29</volume>, no. <issue>11</issue> (<year>2022</year>): <fpage>1531</fpage>–<lpage>1541</lpage>.<pub-id pub-id-type="pmid">35512245</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurjpc/zwac058</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0030">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vijayakumar</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. B.</given-names>
+<surname>Kahn</surname>
+</string-name>, “<article-title>Metabolites as Regulators of Insulin Sensitivity and Metabolism</article-title>,” <source>Nature Reviews Molecular Cell Biology</source>
+<volume>19</volume>, no. <issue>10</issue> (<year>2018</year>): <fpage>654</fpage>–<lpage>672</lpage>.<pub-id pub-id-type="pmid">30104701</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41580-018-0044-8</pub-id><pub-id pub-id-type="pmcid">PMC6380503</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0031">
+<string-name name-style="western">
+<given-names>M. N.</given-names>
+<surname>Molina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Ferder</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Manucha</surname>
+</string-name>, “<article-title>Emerging Role of Nitric Oxide and Heat Shock Proteins in Insulin Resistance</article-title>,” <source>Current Hypertension Reports</source>
+<volume>18</volume>, no. <issue>1</issue> (<year>2016</year>): <fpage>1</fpage>.<pub-id pub-id-type="pmid">26694820</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11906-015-0615-4</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0032">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Nishikawa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Kukidome</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Sonoda</surname>
+</string-name>, et al., “<article-title>Impact of Mitochondrial ROS Production in the Pathogenesis of Insulin Resistance</article-title>,” <source>Diabetes Research and Clinical Practice</source>
+<volume>77 Suppl 1</volume> (<year>2007</year>): <fpage>S161</fpage>–<lpage>S164</lpage>.<pub-id pub-id-type="pmid">17481767</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.diabres.2007.01.071</pub-id></mixed-citation></ref><ref id="jcmm70925-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm70925-cit-0033">
+<string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Gerrits</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Koekman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. W.</given-names>
+<surname>van Haeften</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Akkerman</surname>
+</string-name>, “<article-title>Platelet Tissue Factor Synthesis in Type 2 Diabetic Patients Is Resistant to Inhibition by Insulin</article-title>,” <source>Diabetes</source>
+<volume>59</volume>, no. <issue>6</issue> (<year>2010</year>): <fpage>1487</fpage>–<lpage>1495</lpage>.<pub-id pub-id-type="pmid">20200314</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/db09-1008</pub-id><pub-id pub-id-type="pmcid">PMC2874710</pub-id></mixed-citation></ref></ref-list></back></article>

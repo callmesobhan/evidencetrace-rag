@@ -1,0 +1,637 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="jdb70020" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Diabetes</journal-id><journal-id journal-id-type="iso-abbrev">J Diabetes</journal-id><journal-id journal-id-type="pmc-domain-id">4201</journal-id><journal-id journal-id-type="pmc-domain">jdiabetes</journal-id><journal-id journal-id-type="nlm-id">101504326</journal-id><journal-id journal-id-type="publisher-id">JDB</journal-id><journal-title-group><journal-title>Journal of Diabetes</journal-title></journal-title-group><issn pub-type="ppub">1753-0393</issn><issn pub-type="epub">1753-0407</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11519988</article-id><article-id pub-id-type="pmcid-ver">PMC11519988.1</article-id><article-id pub-id-type="pmcaid">11519988</article-id><article-id pub-id-type="pmcaiid">11519988</article-id><article-id pub-id-type="pmid">39470149</article-id><article-id pub-id-type="doi">10.1111/1753-0407.70020</article-id><article-id pub-id-type="publisher-id">JDB70020</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Association of systolic blood pressure variability with cognitive decline in type 2 diabetes: A post hoc analysis of a randomized clinical trial</article-title><alt-title alt-title-type="left-running-head">Chen et al.</alt-title></title-group><contrib-group><contrib id="jdb70020-cr-0001" contrib-type="author"><name name-style="western"><surname>Chen</surname><given-names initials="J">Junmin</given-names></name><xref rid="jdb70020-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jdb70020-cr-0002" contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="X">Xuan</given-names></name><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jdb70020-cr-0003" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="H">Huidan</given-names></name><xref rid="jdb70020-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jdb70020-cr-0004" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="K">Kan</given-names></name><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jdb70020-cr-0005" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="X">Xiaoli</given-names></name><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jdb70020-cr-0006" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="S">Siyu</given-names></name><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jdb70020-cr-0007" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="M">Mian</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6514-2729</contrib-id><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jdb70020-cr-0008" contrib-type="author"><name name-style="western"><surname>Zheng</surname><given-names initials="R">Ruizhi</given-names></name><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jdb70020-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Zhou</surname><given-names initials="L">Libin</given-names></name><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>libinzhou99@hotmail.com</email></address></contrib><contrib id="jdb70020-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>Bi</surname><given-names initials="Y">Yufang</given-names></name><xref rid="jdb70020-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>byf10784@rjh.com.cn</email></address></contrib><contrib id="jdb70020-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Xu</surname><given-names initials="Y">Yu</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1045-8309</contrib-id><xref rid="jdb70020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jdb70020-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>jane.yuxu@gmail.com</email></address></contrib></contrib-group><aff id="jdb70020-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">School of Integrative Medicine</named-content>
+<institution>Shanghai University of Traditional Chinese Medicine</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><aff id="jdb70020-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Endocrine and Metabolic Diseases, Shanghai Institute of Endocrine and Metabolic Diseases, Ruijin Hospital</named-content>
+<institution>Shanghai Jiaotong University School of Medicine</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><aff id="jdb70020-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">National Clinical Research Center for Metabolic Diseases (Shanghai), Key Laboratory for Endocrine and Metabolic Diseases of the National Health Commission, National Research Center for Translational Medicine, State Key Laboratory of Medical Genomics, Ruijin Hospital</named-content>
+<institution>Shanghai Jiaotong University School of Medicine</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break />
+Yu Xu, Yufang Bi, and Libin Zhou, National Clinical Research Center for Metabolic Diseases (Shanghai), Ruijin Hospital, Shanghai Jiaotong University School of Medicine, 197 Ruijin 2nd Road, Shanghai 200025, China.<break />
+Email: <email>jane.yuxu@gmail.com</email>, <email>byf10784@rjh.com.cn</email>, and <email>libinzhou99@hotmail.com</email>
+<break />
+</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>10</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2024</year></pub-date><volume>16</volume><issue seq="260">10</issue><issue-id pub-id-type="pmc-issue-id">472169</issue-id><issue-id pub-id-type="doi">10.1111/jdb.v16.10</issue-id><elocation-id>e70020</elocation-id><history><date date-type="rev-recd"><day>16</day><month>9</month><year>2024</year></date><date date-type="received"><day>28</day><month>3</month><year>2024</year></date><date date-type="accepted"><day>09</day><month>10</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>29</day><month>10</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>29</day><month>10</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-10-30 12:25:41.373"><day>30</day><month>10</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Journal of Diabetes</italic> published by Ruijin Hospital, Shanghai Jiaotong University School of Medicine and John Wiley &amp; Sons Australia, Ltd.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="JDB-16-e70020.pdf" /><self-uri content-type="pdf" ns1:href="file:JDB-16-e70020.pdf" /><abstract><title>Abstract</title><sec id="jdb70020-sec-0001"><title>Background</title><p>We aimed to explore the association between visit‐to‐visit systolic blood pressure variability (BPV) and cognitive function in individuals with type 2 diabetes.</p></sec><sec id="jdb70020-sec-0002"><title>Methods</title><p>We performed a post hoc analysis of the Action to Control Cardiovascular Risk in Diabetes Memory in Diabetes (ACCORD‐MIND) substudy. A total of 2867 diabetes patients with ≥3 BP measurements between the 4‐ and 20‐month visits were included. Visit‐to‐visit systolic BPV was calculated. Cognitive decline was defined as a Mini‐Mental State Exam (MMSE), Digit Symbol Substitution Test (DSST), or Rey Auditory Verbal Learning Test (RAVLT) score greater than 1 standard deviation (SD) below the baseline mean, or a Stroop test score more than 1 SD above the baseline mean. The associations of systolic BPV with risks of cognitive decline were examined using Cox proportional hazards models, and with changes in brain magnetic resonance imaging parameters were evaluated using mixed models.</p></sec><sec id="jdb70020-sec-0003"><title>Results</title><p>The risk of cognitive decline defined by the DSST score (but not by other scores) increased significantly with systolic BPV quartiles (<italic toggle="no">p</italic> for trend = 0.008), and there was a 55% increased risk for BPV quartile 4 versus quartile 1 (hazard ratio = 1.55, 95% confidence interval 1.10–2.19). Furthermore, a positive correlation was observed between systolic BPV and change in white matter lesion volume (<italic toggle="no">β</italic> = 0.07, 95% CI 0.01–0.13).</p></sec><sec id="jdb70020-sec-0004"><title>Conclusions</title><p>A greater visit‐to‐visit systolic BPV was significantly associated with an increased risk of cognitive decline measured by DSST and an increase in white matter lesion volume in patients with type 2 diabetes.</p><p>
+<boxed-text position="anchor" content-type="graphic" id="jdb70020-blkfxd-0001" orientation="portrait"><graphic position="anchor" id="jats-graphic-1" orientation="portrait" ns1:href="JDB-16-e70020-g002.jpg" /></boxed-text>
+</p></sec></abstract><abstract abstract-type="graphical"><p>
+Highlights
+</p><p>
+<list list-type="bullet" id="jdb70020-list-0001"><list-item id="jdb70020-li-0001"><p>This post hoc analysis of the Action to Control Cardiovascular Risk in Diabetes Memory in Diabetes (ACCORD‐MIND) substudy showed that high visit‐to‐visit systolic blood pressure variability (BPV) was associated with an increased risk of cognitive decline defined by the Digit Symbol Substitution Test (DSST) score.</p></list-item><list-item id="jdb70020-li-0002"><p>Further, visit‐to‐visit systolic BPV was positively associated with change in white matter lesion volume evaluated by brain magnetic resonance imaging.</p></list-item><list-item id="jdb70020-li-0003"><p>Visit‐to‐visit systolic BPV might play a role in the decline of cognitive function in individuals with type 2 diabetes.</p></list-item></list>
+<boxed-text position="anchor" content-type="graphic" id="jdb70020-blkfxd-0002" orientation="portrait"><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="JDB-16-e70020-g004.jpg" /></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jdb70020-kwd-0001">blood pressure variability</kwd><kwd id="jdb70020-kwd-0002">cognitive function</kwd><kwd id="jdb70020-kwd-0003">type 2 diabetes</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Key R&amp;D Program of China
+</institution><institution-id institution-id-type="doi">10.13039/501100012166</institution-id></institution-wrap></funding-source><award-id>2023YFC2506700</award-id><award-id>2021YFC2501600</award-id><award-id>2021YFA1301100</award-id></award-group><award-group id="funding-0002"><funding-source>Shanghai Clinical Research Center for Metabolic Diseases</funding-source><award-id>19MC1910100</award-id></award-group><award-group id="funding-0003"><funding-source>National Top Young Talents Program</funding-source></award-group><award-group id="funding-0004"><funding-source>Innovative Research Team of High‐Level Local Universities in Shanghai</funding-source></award-group></funding-group><counts><fig-count count="4" /><table-count count="4" /><page-count count="10" /><word-count count="5500" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.9 mode:remove_FC converted:29.10.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jdb70020-cit-9001">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Association of systolic blood pressure variability with cognitive decline in type 2 diabetes: A post hoc analysis of a randomized clinical trial</article-title>. <source>Journal of Diabetes</source>. <year>2024</year>;<volume>16</volume>(<issue>10</issue>):<elocation-id>e70020</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/1753-0407.70020</pub-id>
+<pub-id pub-id-type="pmid">39470149</pub-id></mixed-citation>
+</p><fn-group id="jdb70020-ntgp-0001"><fn id="jdb70020-note-0001"><p>Junmin Chen, Xuan Zhao, and Huidan Liu contributed equally to this study.</p></fn></fn-group></notes></front><body id="jdb70020-body-0001"><sec id="jdb70020-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Approximately 35 million people around the world are living with dementia, and the number is expected to be doubled by 2030 and tripled by 2050, posing a significant concern on public health.<xref rid="jdb70020-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="jdb70020-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> There are currently no effective treatments available to reverse cognitive decline and dementia. Therefore, measures to prevent or slow down its progression are urgently needed.<xref rid="jdb70020-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+</p><p>During the last 20 years, there has been an increasing body of evidence connecting elevated blood pressure (BP) and cognitive decline.<xref rid="jdb70020-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="jdb70020-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jdb70020-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="jdb70020-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> In addition to traditional risk factors such as hypertension, diabetes, dyslipidemia, and arterial fibrillation, variabilities in BP from visit to visit are also related to cerebrovascular damage, independent of mean BP levels.<xref rid="jdb70020-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Cerebrovascular disease is an important cause of cognitive decline.<xref rid="jdb70020-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Cognitive impairment associated with cerebrovascular disease may range from “focal” deficits, such as aphasia, visual agnosia, or neglect, to more general impairments including mild impairment to severe dementia. Therefore, BP variability (BPV) may also affect cognitive function. A prospective cohort study found that higher visit‐to‐visit BPV, independent of mean BP, was associated with structural brain damage and impaired cognitive function among elderly adults.<xref rid="jdb70020-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+</p><p>The rate of whole brain atrophy as an indicator of cognitive decline progression has been demonstrated,<xref rid="jdb70020-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> with notable distinctions observed between individuals with and without diabetes.<xref rid="jdb70020-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="jdb70020-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Smaller total brain volumes (TBV) predicted future cognitive disorders.<xref rid="jdb70020-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> The magnetic resonance imaging (MRI) results indicated an abnormal volume of white matter tissue, which signifies the presence of diffuse and focal ischemic, demyelinating, and inflammatory processes that contribute to small vessel disease. This condition is commonly associated with diabetes and cognitive impairment.<xref rid="jdb70020-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="jdb70020-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Furthermore, brain microvascular disease may also result in gray matter atrophy.<xref rid="jdb70020-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>It is known that diabetes may increase BPV through microvascular dysfunction,<xref rid="jdb70020-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> which is independently associated with cognitive decline and dementia.<xref rid="jdb70020-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The associations between BPV and cognitive decline in patients with diabetes remain unknown.</p></sec><sec sec-type="methods" id="jdb70020-sec-0006"><label>2</label><title>METHODS</title><sec id="jdb70020-sec-0007"><label>2.1</label><title>Study design and participants</title><p>This is a post hoc analysis of the Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial. There have been previously published reports on the rationale and design of the trial.<xref rid="jdb70020-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> It was a multicenter clinical trial that enrolled individuals who had type 2 diabetes with a glycated hemoglobin level of 7.5% or higher and who also exhibited evidence of cardiovascular disease (CVD) or significant atherosclerosis, albuminuria, left ventricular hypertrophy, or at least two additional risk factors for CVD (dyslipidemia, hypertension, smoking, or obesity). A total of 10 251 patients were randomly assigned to intensive glucose‐lowering therapy (targeting a glycated hemoglobin level &lt;6.0%) or standard glucose‐lowering therapy (targeting a glycated hemoglobin level of 7.0% to 7.9%). Among them, 4733 patients were also randomly assigned to intensive BP‐lowering treatment to reduce systolic BP to &lt;120 mmHg or standard BP‐lowering treatment to reduce systolic BP to &lt;140 mmHg. BP levels were measured at baseline and every 4 months thereafter in the standard treatment group, and every 2 months in the intensive treatment group. The study protocol received approval from the institutional review boards of all participating sites, in addition to a review panel at the National Heart, Lung, and Blood Institute. Written informed consent was obtained from all patients. The current study adhered to the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guideline specifically designed for cohort studies.</p><p>The current post hoc analysis was conducted using data from the Memory in Diabetes (MIND) substudy of the ACCORD trial,<xref rid="jdb70020-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> which examined the effect of intensive glucose‐lowering therapy on cognitive decline compared with standard glucose‐lowering therapy. A total of 2977 ACCORD participants participated in the ACCORD‐MIND substudy, of which 614 underwent MRI of the brain that provided useful scans.<xref rid="jdb70020-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Cognitive function was measured at baseline, after 20 months, and 40 months. MRI was completed at baseline and after 40 months. We included 2867 participants who had undergone at least three BP measurements at study visits from 4 to 20 months, among whom 2792 participants completed both baseline and at least 1 follow‐up measurement of the Mini‐Mental State Exam (MMSE); 2765 participants completed both baseline and at least 1 follow‐up measurement of the Digit Symbol Substitution Test (DSST); 2788 participants completed both baseline and at least 1 follow‐up measurement of the Rey Auditory Verbal Learning Test (RAVLT); and 2744 participants completed both baseline and at least 1 follow‐up measurement of the Stroop test. Additionally, 499 participants completed both baseline and 40‐month MRI scans (Figure <xref rid="jdb70020-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="FIGURE" id="jdb70020-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Flowchart of study participants. Prevalent cognitive decline at baseline was defined as an individual baseline MMSE, DSST, or RAVLT score greater than 1 SD below the baseline mean, or an individual baseline Stroop score more than 1 SD above the baseline mean. ACCORD‐MIND, Action to Control Cardiovascular Risk in Diabetes Memory in Diabetes; DSST, Digit Symbol Substitution Test; MMSE, Mini‐Mental State Examination; MRI, magnetic resonance imaging; RAVLT, Rey Auditory Verbal Learning Test; SD, standard deviation.</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="JDB-16-e70020-g003.jpg" /></fig></sec><sec id="jdb70020-sec-0008"><label>2.2</label><title>Assessments of <styled-content style="fixed-case" toggle="no">BPV</styled-content> and cognitive function</title><p>The visit‐to‐visit systolic BPV was defined as the coefficient of variance in systolic BP levels at each study visit between 4 and 20 months. It was calculated as (intra‐individual standard deviation [SD] of systolic BP divided by the mean systolic BP) × 100. Systolic BP levels at the baseline visit and visits of the first 3 months were not included to exclude the impact of a rapid BP reduction during BP level titration.</p><p>The ACCORD‐MIND substudy evaluated participants' cognitive function using four scales including the MMSE, the DSST, the RAVLT, and a modified Stroop color and word test. The MMSE was used to assess an individual's global cognitive function.<xref rid="jdb70020-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> The DSST was used to examine psychomotor function and working memory speed.<xref rid="jdb70020-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The RAVLT was used to evaluate verbal memory<xref rid="jdb70020-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> and the Stroop test was used to measure executive functioning.<xref rid="jdb70020-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> A higher score indicates better cognitive performance in the MMSE, DSST, and RAVLT tests while a higher score indicates poorer cognitive performance in the Stroop test.</p><p>In addition, MRI outcomes, including TBV, gray matter volume, white matter volume, and white matter lesion volume (reflecting both diffuse small vessel disease and the hyperintensities that surround focal lesions), were used to evaluate participants' brain structure characteristics. MRI scan protocol, image analysis, and quality control (QC) procedures have been described in detail previously.<xref rid="jdb70020-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="jdb70020-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="jdb70020-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="jdb70020-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Briefly, the standardized MRI scan protocol was run on 1.5‐T scanners, and an automated multi‐spectral computer program was performed to classify the brain into cerebrospinal fluid, gray matter, and white matter. White matter lesions were identified using a previously validated algorithm called white matter lesion segmentation, which is a support vector machine classifier trained on expert‐defined white matter lesions. Monthly MRI QC was managed by the MRI Reading Center following the American College of Radiology's (ACR) MRI QC Program.<xref rid="jdb70020-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p></sec><sec id="jdb70020-sec-0009"><label>2.3</label><title>Statistical analysis</title><p>General characteristics, cognitive test scores, and brain MRI imaging parameters were presented by systolic BPV quartiles. Continuous variables were presented as means ± SDs, and categorical variables were presented as numbers and percentages. The percentage of participants with missing covariates was only 1.8%; therefore, we imputed missing covariates using the mean or median. We calculated the mean and SD of baseline scores for the MMSE, the DSST, the RAVLT, and the Stroop test among 2977 participants in the ACCORD‐MIND substudy. Cognitive decline in each cognitive domain was defined as a MMSE, DSST, or RAVLT score greater than 1 SD below the baseline mean, or a Stroop score more than 1 SD above the baseline mean.<xref rid="jdb70020-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>We excluded participants with baseline cognitive decline for the examination of associations between systolic BPV and subsequent cognitive decline at the 20‐ or 40‐month follow‐up visits. After excluding individuals with cognitive decline at baseline, the survival analyses included 2435, 2371, 2334, and 2409 participants for the MMSE, the DSST, the RAVLT, and the Stroop test, respectively (Figure <xref rid="jdb70020-fig-0001" ref-type="fig">1</xref>). Time to first event survival curves were plotted with the Kaplan–Meier method and compared between systolic BPV quartile groups with the log‐rank test. The association between systolic BPV and the occurrence of cognitive decline was analyzed by the Cox proportional hazards model with adjustment for age, sex, race, education, current smoking status, alcohol drinking status, history of CVD, body mass index (BMI), mean systolic blood pressure (SBP) of visits between 4 and 20 months, diabetes duration, hemoglobin A1c (HbA1c), total cholesterol, use of anti‐hypertensive medications, statin, and intensive glucose‐lowering therapy. The lowest systolic BPV quartile was used as the reference group. Results were presented as hazard ratios (HRs) and 95% confidence intervals (95% CIs). We also evaluated the associations of systolic BPV with changes in four MRI measures (TBV, gray matter volume, white matter volume, and white matter lesion volume) between baseline and the 40‐month follow‐up using mixed effects models. Model 1 was adjusted for age, sex, and days since randomization, with random effects for participant. Model 2 was additionally adjusted for race, education, current smoking status, alcohol drinking status, history of CVD, BMI, mean SBP of visits between 4 and 20 months, diabetes duration, HbA1c, total cholesterol, use of anti‐hypertensive medications, statin, and intensive glucose‐lowering therapy. Results were presented as <italic toggle="yes">β</italic> (95% CI).</p><p>Statistical analysis was conducted using R software version 4.3.1. A two‐sided <italic toggle="yes">p</italic> value &lt;0.05 was considered statistically significant.</p></sec></sec><sec sec-type="results" id="jdb70020-sec-0010"><label>3</label><title>RESULTS</title><sec id="jdb70020-sec-0011"><label>3.1</label><title>Baseline characteristics of study participants</title><p>Characteristics of participants by quartiles of systolic BPV are described in Table <xref rid="jdb70020-tbl-0001" ref-type="table">1</xref>. Participants in higher quartiles of systolic BPV were older, more likely to be male, and had higher levels of mean systolic BP and HbA1c, longer durations of diabetes, and a higher percentage of CVD history (<italic toggle="yes">p</italic> values for trend &lt; 0.01). Baseline MMSE, DSST, and RAVLT scores decreased and Stroop test score increased significantly with increasing systolic BPV quartiles (<italic toggle="yes">p</italic> values for trend &lt; 0.05). In addition, participants in higher quartiles of systolic BPV had lower baseline TBV, gray matter volume, and white matter volume but potentially higher white matter lesion volume than lower quartiles of systolic BPV (Table <xref rid="jdb70020-tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="jdb70020-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Baseline characteristics of study participants.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="bottom" colspan="1">Characteristics</th><th colspan="4" align="left" valign="bottom" rowspan="1">Systolic BPV categories (<italic toggle="yes">n</italic> = 2867)</th><th rowspan="2" align="left" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic> for trend</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 1 (<italic toggle="yes">n</italic> = 717)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 2 (<italic toggle="yes">n</italic> = 716)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 3 (<italic toggle="yes">n</italic> = 717)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 4 (<italic toggle="yes">n</italic> = 717)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="left" valign="top" rowspan="1" colspan="1">62.4 ± 5.6</td><td align="left" valign="top" rowspan="1" colspan="1">62.7 ± 5.8</td><td align="left" valign="top" rowspan="1" colspan="1">63.2 ± 5.9</td><td align="left" valign="top" rowspan="1" colspan="1">63.4 ± 5.8</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Female, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">417 (58.2)</td><td align="left" valign="top" rowspan="1" colspan="1">417 (58.2)</td><td align="left" valign="top" rowspan="1" colspan="1">368 (51.3)</td><td align="left" valign="top" rowspan="1" colspan="1">334 (46.6)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Race, <italic toggle="yes">n</italic> (%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.009</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">517 (72.1)</td><td align="left" valign="top" rowspan="1" colspan="1">506 (70.7)</td><td align="left" valign="top" rowspan="1" colspan="1">514 (71.7)</td><td align="left" valign="top" rowspan="1" colspan="1">467 (65.1)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Non‐White</td><td align="left" valign="top" rowspan="1" colspan="1">200 (27.9)</td><td align="left" valign="top" rowspan="1" colspan="1">210 (29.3)</td><td align="left" valign="top" rowspan="1" colspan="1">203 (28.3)</td><td align="left" valign="top" rowspan="1" colspan="1">250 (34.9)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Education, <italic toggle="yes">n</italic> (%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.005</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Less than college</td><td align="left" valign="top" rowspan="1" colspan="1">261 (36.4)</td><td align="left" valign="top" rowspan="1" colspan="1">275 (38.4)</td><td align="left" valign="top" rowspan="1" colspan="1">276 (38.5)</td><td align="left" valign="top" rowspan="1" colspan="1">300 (41.8)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Some college/technical school</td><td align="left" valign="top" rowspan="1" colspan="1">255 (35.6)</td><td align="left" valign="top" rowspan="1" colspan="1">227 (31.7)</td><td align="left" valign="top" rowspan="1" colspan="1">257 (35.8)</td><td align="left" valign="top" rowspan="1" colspan="1">257 (35.8)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">College graduate or more</td><td align="left" valign="top" rowspan="1" colspan="1">201 (28.0)</td><td align="left" valign="top" rowspan="1" colspan="1">214 (29.9)</td><td align="left" valign="top" rowspan="1" colspan="1">184 (25.7)</td><td align="left" valign="top" rowspan="1" colspan="1">160 (22.3)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Current smoking, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">62 (8.6)</td><td align="left" valign="top" rowspan="1" colspan="1">79 (11.0)</td><td align="left" valign="top" rowspan="1" colspan="1">67 (9.3)</td><td align="left" valign="top" rowspan="1" colspan="1">78 (10.9)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.317</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Alcohol consumption, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">169 (23.6)</td><td align="left" valign="top" rowspan="1" colspan="1">176 (24.6)</td><td align="left" valign="top" rowspan="1" colspan="1">155 (21.6)</td><td align="left" valign="top" rowspan="1" colspan="1">148 (20.6)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.093</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">History of CVD, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">182 (25.4)</td><td align="left" valign="top" rowspan="1" colspan="1">184 (25.7)</td><td align="left" valign="top" rowspan="1" colspan="1">215 (30.0)</td><td align="left" valign="top" rowspan="1" colspan="1">247 (34.4)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">33.0 ± 5.2</td><td align="left" valign="top" rowspan="1" colspan="1">32.7 ± 5.1</td><td align="left" valign="top" rowspan="1" colspan="1">33.0 ± 5.3</td><td align="left" valign="top" rowspan="1" colspan="1">33.2 ± 5.7</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.284</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean SBP<xref rid="jdb70020-note-0004" ref-type="table-fn">
+<sup>a</sup>
+</xref> (mmHg)</td><td align="left" valign="top" rowspan="1" colspan="1">125.6 ± 11.4</td><td align="left" valign="top" rowspan="1" colspan="1">126.5 ± 12.5</td><td align="left" valign="top" rowspan="1" colspan="1">127.8 ± 12.8</td><td align="left" valign="top" rowspan="1" colspan="1">129.4 ± 14.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean DBP<sup>a</sup> (mmHg)</td><td align="left" valign="top" rowspan="1" colspan="1">70.0 ± 7.9</td><td align="left" valign="top" rowspan="1" colspan="1">70.2 ± 8.4</td><td align="left" valign="top" rowspan="1" colspan="1">70.1 ± 8.9</td><td align="left" valign="top" rowspan="1" colspan="1">69.8 ± 8.9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.630</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Duration of diabetes (years)</td><td align="left" valign="top" rowspan="1" colspan="1">9.7 ± 7.1</td><td align="left" valign="top" rowspan="1" colspan="1">10.2 ± 6.8</td><td align="left" valign="top" rowspan="1" colspan="1">10.4 ± 7.1</td><td align="left" valign="top" rowspan="1" colspan="1">11.0 ± 7.7</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HbA1c (%)</td><td align="left" valign="top" rowspan="1" colspan="1">8.2 ± 1.0</td><td align="left" valign="top" rowspan="1" colspan="1">8.3 ± 1.0</td><td align="left" valign="top" rowspan="1" colspan="1">8.2 ± 1.0</td><td align="left" valign="top" rowspan="1" colspan="1">8.4 ± 1.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.006</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total cholesterol (mmol/L)</td><td align="left" valign="top" rowspan="1" colspan="1">4.7 ± 1.1</td><td align="left" valign="top" rowspan="1" colspan="1">4.7 ± 1.1</td><td align="left" valign="top" rowspan="1" colspan="1">4.8 ± 1.1</td><td align="left" valign="top" rowspan="1" colspan="1">4.7 ± 1.1</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.302</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Anti‐hypertensive medications, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">565 (78.8)</td><td align="left" valign="top" rowspan="1" colspan="1">575 (80.3)</td><td align="left" valign="top" rowspan="1" colspan="1">594 (82.8)</td><td align="left" valign="top" rowspan="1" colspan="1">630 (87.9)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Statin, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">480 (66.9)</td><td align="left" valign="top" rowspan="1" colspan="1">469 (65.5)</td><td align="left" valign="top" rowspan="1" colspan="1">456 (63.6)</td><td align="left" valign="top" rowspan="1" colspan="1">483 (67.4)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.935</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Intensive glucose‐lowering therapy, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">354 (49.4)</td><td align="left" valign="top" rowspan="1" colspan="1">338 (47.2)</td><td align="left" valign="top" rowspan="1" colspan="1">352 (49.1)</td><td align="left" valign="top" rowspan="1" colspan="1">362 (50.5)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.531</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MMSE</td><td align="left" valign="top" rowspan="1" colspan="1">27.5 ± 2.4</td><td align="left" valign="top" rowspan="1" colspan="1">27.5 ± 2.5</td><td align="left" valign="top" rowspan="1" colspan="1">27.5 ± 2.5</td><td align="left" valign="top" rowspan="1" colspan="1">27.2 ± 2.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.049</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DSST</td><td align="left" valign="top" rowspan="1" colspan="1">54.1 ± 15.1</td><td align="left" valign="top" rowspan="1" colspan="1">53.1 ± 15.8</td><td align="left" valign="top" rowspan="1" colspan="1">53.1 ± 15.8</td><td align="left" valign="top" rowspan="1" colspan="1">50.5 ± 15.8</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RAVLT</td><td align="left" valign="top" rowspan="1" colspan="1">7.6 ± 2.5</td><td align="left" valign="top" rowspan="1" colspan="1">7.6 ± 2.5</td><td align="left" valign="top" rowspan="1" colspan="1">7.5 ± 2.6</td><td align="left" valign="top" rowspan="1" colspan="1">7.4 ± 2.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.029</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stroop</td><td align="left" valign="top" rowspan="1" colspan="1">30.8 ± 14.9</td><td align="left" valign="top" rowspan="1" colspan="1">31.4 ± 15.7</td><td align="left" valign="top" rowspan="1" colspan="1">32.1 ± 16.1</td><td align="left" valign="top" rowspan="1" colspan="1">32.7 ± 15.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.014</td></tr></tbody></table><table-wrap-foot id="jdb70020-ntgp-0002"><fn id="jdb70020-note-0002"><p>
+<italic toggle="yes">Note</italic>: Data are means ± standard deviations or numbers (percentages).</p></fn><fn id="jdb70020-note-0003"><p>Abbreviations: BMI, body mass index; BPV, blood pressure variability; CVD, cardiovascular disease; DBP, diastolic blood pressure; DSST, Digit Symbol Substitution Test; HbA1c, glycosylated hemoglobin A1c; MMSE, Mini‐Mental State Examination; RAVLT, Rey Auditory Verbal Learning Test; SBP, systolic blood pressure.</p></fn><fn id="jdb70020-note-0004"><label>
+<sup>a</sup>
+</label><p>Mean blood pressure of visits between 4 and 20 months.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="jdb70020-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Brain magnetic resonance imaging parameters at baseline and 40 months.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="char" char="±" span="1" /><col align="char" char="±" span="1" /><col align="char" char="±" span="1" /><col align="char" char="±" span="1" /><col align="char" char="±" span="1" /><col align="char" char="±" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="bottom" colspan="1" /><th rowspan="2" align="left" valign="bottom" colspan="1">Total (<italic toggle="yes">n</italic> = 499)</th><th colspan="4" align="left" valign="bottom" rowspan="1">Systolic BPV categories (<italic toggle="yes">n</italic> = 499)</th><th rowspan="2" align="left" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic> for trend</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 1 (<italic toggle="yes">n</italic> = 104)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 2 (<italic toggle="yes">n</italic> = 135)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 3 (<italic toggle="yes">n</italic> = 137)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 4 (<italic toggle="yes">n</italic> = 123)</th></tr></thead><tbody valign="top"><tr><td colspan="7" align="left" valign="top" rowspan="1">Total brain volume, cm<sup>3</sup>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">925.0 ± 88.8</td><td align="char" valign="top" rowspan="1" colspan="1">943.5 ± 92.4</td><td align="char" valign="top" rowspan="1" colspan="1">925.2 ± 84.3</td><td align="char" valign="top" rowspan="1" colspan="1">926.1 ± 88.4</td><td align="char" valign="top" rowspan="1" colspan="1">908.0 ± 88.7</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.004</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">40 months</td><td align="char" valign="top" rowspan="1" colspan="1">911.6 ± 87.8</td><td align="char" valign="top" rowspan="1" colspan="1">928.4 ± 90.6</td><td align="char" valign="top" rowspan="1" colspan="1">911.6 ± 83.9</td><td align="char" valign="top" rowspan="1" colspan="1">912.2 ± 88.2</td><td align="char" valign="top" rowspan="1" colspan="1">896.8 ± 87.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.010</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">40‐month change</td><td align="char" valign="top" rowspan="1" colspan="1">−13.4 ± 16.0</td><td align="char" valign="top" rowspan="1" colspan="1">−15.0 ± 16.0</td><td align="char" valign="top" rowspan="1" colspan="1">−13.6 ± 16.3</td><td align="char" valign="top" rowspan="1" colspan="1">−13.9 ± 15.8</td><td align="char" valign="top" rowspan="1" colspan="1">−11.1 ± 15.8</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.091</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> for 40‐month change</td><td align="char" valign="top" rowspan="1" colspan="1">0.017</td><td align="char" valign="top" rowspan="1" colspan="1">0.238</td><td align="char" valign="top" rowspan="1" colspan="1">0.003</td><td align="char" valign="top" rowspan="1" colspan="1">0.569</td><td align="char" valign="top" rowspan="1" colspan="1">0.027</td><td align="char" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="7" align="left" valign="top" rowspan="1">Gray matter volume, cm<sup>3</sup>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">462.9 ± 43.9</td><td align="char" valign="top" rowspan="1" colspan="1">472.3 ± 45.4</td><td align="char" valign="top" rowspan="1" colspan="1">463.5 ± 43.4</td><td align="char" valign="top" rowspan="1" colspan="1">463.4 ± 43.8</td><td align="char" valign="top" rowspan="1" colspan="1">454.0 ± 42.0</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.003</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">40 months</td><td align="char" valign="top" rowspan="1" colspan="1">445.8 ± 44.1</td><td align="char" valign="top" rowspan="1" colspan="1">453.4 ± 45.9</td><td align="char" valign="top" rowspan="1" colspan="1">446.9 ± 43.8</td><td align="char" valign="top" rowspan="1" colspan="1">445.1 ± 45.1</td><td align="char" valign="top" rowspan="1" colspan="1">439.1 ± 41.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.015</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">40‐month change</td><td align="char" valign="top" rowspan="1" colspan="1">−17.1 ± 17.4</td><td align="char" valign="top" rowspan="1" colspan="1">−18.9 ± 15.9</td><td align="char" valign="top" rowspan="1" colspan="1">−16.6 ± 17.0</td><td align="char" valign="top" rowspan="1" colspan="1">−18.4 ± 18.7</td><td align="char" valign="top" rowspan="1" colspan="1">−14.9 ± 17.4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.166</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> for 40‐month change</td><td align="char" valign="top" rowspan="1" colspan="1">&lt;0.001</td><td align="char" valign="top" rowspan="1" colspan="1">0.187</td><td align="char" valign="top" rowspan="1" colspan="1">0.002</td><td align="char" valign="top" rowspan="1" colspan="1">0.630</td><td align="char" valign="top" rowspan="1" colspan="1">0.005</td><td align="char" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="7" align="left" valign="top" rowspan="1">White matter volume, cm<sup>3</sup>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">462.1 ± 53.4</td><td align="char" valign="top" rowspan="1" colspan="1">470.5 ± 55.8</td><td align="char" valign="top" rowspan="1" colspan="1">461.5 ± 50.4</td><td align="char" valign="top" rowspan="1" colspan="1">462.6 ± 54.0</td><td align="char" valign="top" rowspan="1" colspan="1">454.9 ± 53.4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.041</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">40 months</td><td align="char" valign="top" rowspan="1" colspan="1">465.9 ± 54.0</td><td align="char" valign="top" rowspan="1" colspan="1">474.9 ± 56.0</td><td align="char" valign="top" rowspan="1" colspan="1">464.4 ± 49.4</td><td align="char" valign="top" rowspan="1" colspan="1">467.2 ± 55.4</td><td align="char" valign="top" rowspan="1" colspan="1">458.7 ± 54.8</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.042</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">40‐month change</td><td align="char" valign="top" rowspan="1" colspan="1">3.9 ± 18.2</td><td align="char" valign="top" rowspan="1" colspan="1">4.4 ± 17.0</td><td align="char" valign="top" rowspan="1" colspan="1">2.9 ± 18.3</td><td align="char" valign="top" rowspan="1" colspan="1">4.5 ± 18.0</td><td align="char" valign="top" rowspan="1" colspan="1">3.8 ± 19.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.959</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> for 40‐month change</td><td align="char" valign="top" rowspan="1" colspan="1">0.253</td><td align="char" valign="top" rowspan="1" colspan="1">0.193</td><td align="char" valign="top" rowspan="1" colspan="1">&lt;0.001</td><td align="char" valign="top" rowspan="1" colspan="1">0.493</td><td align="char" valign="top" rowspan="1" colspan="1">0.010</td><td align="char" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="7" align="left" valign="top" rowspan="1">White matter lesion volume, cm<sup>3</sup>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline</td><td align="char" valign="top" rowspan="1" colspan="1">1.8 ± 2.5</td><td align="char" valign="top" rowspan="1" colspan="1">1.6 ± 2.8</td><td align="char" valign="top" rowspan="1" colspan="1">1.5 ± 2.2</td><td align="char" valign="top" rowspan="1" colspan="1">1.9 ± 2.4</td><td align="char" valign="top" rowspan="1" colspan="1">2.0 ± 2.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.111</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">40 months</td><td align="char" valign="top" rowspan="1" colspan="1">2.7 ± 3.0</td><td align="char" valign="top" rowspan="1" colspan="1">2.5 ± 3.3</td><td align="char" valign="top" rowspan="1" colspan="1">2.3 ± 2.5</td><td align="char" valign="top" rowspan="1" colspan="1">2.7 ± 2.9</td><td align="char" valign="top" rowspan="1" colspan="1">3.1 ± 3.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.071</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">40‐month change</td><td align="char" valign="top" rowspan="1" colspan="1">0.9 ± 1.2</td><td align="char" valign="top" rowspan="1" colspan="1">0.9 ± 1.3</td><td align="char" valign="top" rowspan="1" colspan="1">0.8 ± 0.9</td><td align="char" valign="top" rowspan="1" colspan="1">0.8 ± 1.1</td><td align="char" valign="top" rowspan="1" colspan="1">1.1 ± 1.5</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.264</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> for 40‐month change</td><td align="char" valign="top" rowspan="1" colspan="1">&lt;0.001</td><td align="char" valign="top" rowspan="1" colspan="1">0.322</td><td align="char" valign="top" rowspan="1" colspan="1">0.005</td><td align="char" valign="top" rowspan="1" colspan="1">0.587</td><td align="char" valign="top" rowspan="1" colspan="1">0.002</td><td align="char" valign="top" rowspan="1" colspan="1" /></tr></tbody></table><table-wrap-foot id="jdb70020-ntgp-0003"><fn id="jdb70020-note-0005"><p>
+<italic toggle="yes">Note</italic>: Data are means ± standard deviations.</p></fn><fn id="jdb70020-note-0006"><p>Abbreviation: BPV, blood pressure variability.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jdb70020-sec-0012"><label>3.2</label><title>Association of systolic <styled-content style="fixed-case" toggle="no">BPV</styled-content> with cognitive decline</title><p>Kaplan–Meier curves of the cumulative incidence of cognitive decline were plotted by quartiles of systolic BPV. There were significant differences among systolic BPV groups in cognitive decline defined by any of the four cognitive test scores (all log‐rank <italic toggle="yes">p</italic> values &lt;0.05; Figure <xref rid="jdb70020-fig-0002" ref-type="fig">2</xref>). The associations between systolic BPV and cognitive decline are shown in Table <xref rid="jdb70020-tbl-0003" ref-type="table">3</xref>. The occurrence of cognitive decline defined by the DSST score increased with systolic BPV quartiles (<italic toggle="yes">p</italic> for trend = 0.008), and quartile 4 of the systolic BPV was significantly associated with an increased risk of cognitive decline defined by the DSST score (HR = 1.55, 95% CI 1.10–2.19) compared with quartile 1 of the systolic BPV after a full adjustment. No significant associations were found for systolic BPV quartiles and cognitive decline defined by the other cognitive scores after a full adjustment.</p><fig position="float" fig-type="FIGURE" id="jdb70020-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Kaplan–Meier curves for cumulative incidence of cognitive decline according to systolic BPV quartiles. BPV, blood pressure variability; DSST, Digit Symbol Substitution Test; MMSE, Mini‐Mental State Examination; RAVLT, Rey Auditory Verbal Learning Test.</p></caption><graphic position="anchor" id="jats-graphic-7" orientation="portrait" ns1:href="JDB-16-e70020-g001.jpg" /></fig><table-wrap position="float" id="jdb70020-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Associations of systolic blood pressure variability (BPV) quartiles with risks of cognitive decline.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="bottom" colspan="1" /><th colspan="4" align="left" valign="bottom" rowspan="1">Systolic BPV categories</th><th rowspan="2" align="left" valign="bottom" colspan="1">
+<italic toggle="yes">p</italic> for trend</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 1</th><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 2</th><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 3</th><th align="left" valign="bottom" rowspan="1" colspan="1">Quartile 4</th></tr></thead><tbody valign="top"><tr><td colspan="6" align="left" valign="top" rowspan="1">MMSE<xref rid="jdb70020-note-0009" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No. of cases/no. of participants (%)</td><td align="left" valign="top" rowspan="1" colspan="1">60/613 (9.8)</td><td align="left" valign="top" rowspan="1" colspan="1">67/614 (10.9)</td><td align="left" valign="top" rowspan="1" colspan="1">72/611 (11.8)</td><td align="left" valign="top" rowspan="1" colspan="1">92/597 (15.4)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Model 1 HR (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref)</td><td align="left" valign="top" rowspan="1" colspan="1">1.06 (0.75–1.50)</td><td align="left" valign="top" rowspan="1" colspan="1">1.12 (0.80–1.59)</td><td align="left" valign="top" rowspan="1" colspan="1">1.43 (1.03–1.98)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.027</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Model 2 HR (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref)</td><td align="left" valign="top" rowspan="1" colspan="1">1.03 (0.72–1.46)</td><td align="left" valign="top" rowspan="1" colspan="1">1.11 (0.79–1.57)</td><td align="left" valign="top" rowspan="1" colspan="1">1.27 (0.92–1.77)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.120</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">DSST<xref rid="jdb70020-note-0009" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No. of cases/no. of participants (%)</td><td align="left" valign="top" rowspan="1" colspan="1">54/612 (8.8)</td><td align="left" valign="top" rowspan="1" colspan="1">51/594 (8.6)</td><td align="left" valign="top" rowspan="1" colspan="1">57/598 (9.5)</td><td align="left" valign="top" rowspan="1" colspan="1">89/567 (15.7)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Model 1 HR (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref)</td><td align="left" valign="top" rowspan="1" colspan="1">0.93 (0.64–1.37)</td><td align="left" valign="top" rowspan="1" colspan="1">1.03 (0.71–1.50)</td><td align="left" valign="top" rowspan="1" colspan="1">1.74 (1.24–2.44)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Model 2 HR (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref)</td><td align="left" valign="top" rowspan="1" colspan="1">0.95 (0.65–1.39)</td><td align="left" valign="top" rowspan="1" colspan="1">1.05 (0.72–1.53)</td><td align="left" valign="top" rowspan="1" colspan="1">1.55 (1.10–2.19)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.008</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">RAVLT<xref rid="jdb70020-note-0009" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No. of cases/no. of participants (%)</td><td align="left" valign="top" rowspan="1" colspan="1">59/599 (9.8)</td><td align="left" valign="top" rowspan="1" colspan="1">44/593 (7.4)</td><td align="left" valign="top" rowspan="1" colspan="1">61/580 (10.5)</td><td align="left" valign="top" rowspan="1" colspan="1">73/562 (13.0)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.028</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Model 1 HR (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref)</td><td align="left" valign="top" rowspan="1" colspan="1">0.71 (0.48–1.04)</td><td align="left" valign="top" rowspan="1" colspan="1">1.05 (0.73–1.50)</td><td align="left" valign="top" rowspan="1" colspan="1">1.30 (0.92–1.83)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.040</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Model 2 HR (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref)</td><td align="left" valign="top" rowspan="1" colspan="1">0.71 (0.48–1.06)</td><td align="left" valign="top" rowspan="1" colspan="1">1.04 (0.73–1.49)</td><td align="left" valign="top" rowspan="1" colspan="1">1.17 (0.83–1.66)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.145</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">Stroop<xref rid="jdb70020-note-0010" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">No. of cases/no. of participants (%)</td><td align="left" valign="top" rowspan="1" colspan="1">56/607 (9.2)</td><td align="left" valign="top" rowspan="1" colspan="1">60/611 (9.8)</td><td align="left" valign="top" rowspan="1" colspan="1">60/605 (9.9)</td><td align="left" valign="top" rowspan="1" colspan="1">84/586 (14.3)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.007</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Model 1 HR (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref)</td><td align="left" valign="top" rowspan="1" colspan="1">1.01 (0.70–1.46)</td><td align="left" valign="top" rowspan="1" colspan="1">1.03 (0.71–1.48)</td><td align="left" valign="top" rowspan="1" colspan="1">1.44 (1.02–2.02)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.030</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Model 2 HR (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref)</td><td align="left" valign="top" rowspan="1" colspan="1">1.03 (0.71–1.49)</td><td align="left" valign="top" rowspan="1" colspan="1">1.02 (0.70–1.47)</td><td align="left" valign="top" rowspan="1" colspan="1">1.36 (0.96–1.92)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.089</td></tr></tbody></table><table-wrap-foot id="jdb70020-ntgp-0004"><fn id="jdb70020-note-0007"><p>
+<italic toggle="yes">Note</italic>: Model 1 was adjusted for age and sex. Model 2 was additionally adjusted for race, education, current smoking status, alcohol drinking status, history of cardiovascular disease, body mass index, mean systolic blood pressure of visits between 4 and 20 months, diabetes duration, hemoglobin A1c, total cholesterol, use of anti‐hypertensive medications, statin, and intensive glucose‐lowering therapy.</p></fn><fn id="jdb70020-note-0008"><p>Abbreviations: CI, confidence interval; DSST, Digit Symbol Substitution Test; HR, hazard ratio; MMSE, Mini‐Mental State Examination; RAVLT, Rey Auditory Verbal Learning Test.</p></fn><fn id="jdb70020-note-0009"><label>
+<sup>a</sup>
+</label><p>A score at the 20‐month or 40‐month follow‐up greater than 1 standard deviation (SD) below the baseline mean indicates cognitive decline.</p></fn><fn id="jdb70020-note-0010"><label>
+<sup>b</sup>
+</label><p>A score at the 20‐month or 40‐month follow‐up more than 1 SD above the baseline mean indicates cognitive decline.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jdb70020-sec-0013"><label>3.3</label><title>Associations of systolic <styled-content style="fixed-case" toggle="no">BPV</styled-content> with change in <styled-content style="fixed-case" toggle="no">MRI</styled-content> parameters</title><p>At 40 months, participants showed a significant decrease in TBV, gray matter volume, and a significant increase in white matter lesion volume (Table <xref rid="jdb70020-tbl-0002" ref-type="table">2</xref>). There was a significant and positive correlation between systolic BPV and change in white matter lesion volume over 40 months after adjustment for age, sex, and days since randomization (<italic toggle="yes">β</italic> = 0.09, 95% CI 0.03–0.15; Table <xref rid="jdb70020-tbl-0004" ref-type="table">4</xref>). It remained significant after further adjustment for an additional number of confounding factors (<italic toggle="yes">β</italic> = 0.07, 95% CI 0.01–0.13). No significant associations were observed between systolic BPV and changes in TBV, gray matter volume, or white matter volume over 40 months.</p><table-wrap position="float" id="jdb70020-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Associations of systolic blood pressure variability levels with changes in brain magnetic resonance imaging parameters.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="bottom" colspan="1" /><th colspan="2" align="left" valign="bottom" rowspan="1">Model 1</th><th colspan="2" align="left" valign="bottom" rowspan="1">Model 2</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic> (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> Value</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic> (95% CI)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> Value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Change in total brain volume</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">−0.68 (−2.38, 1.02)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.436</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">−0.30 (−1.95, 1.35)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.727</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Change in gray matter volume</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">−0.51 (−1.40, 0.38)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.263</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">−0.26 (−1.13, 0.62)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.572</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Change in white matter volume</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">−0.02 (−1.03, 0.99)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.968</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.09 (−0.90, 1.07)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.865</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Change in white matter lesion volume</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.09 (0.03, 0.15)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.003</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.07 (0.01, 0.13)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.020</td></tr></tbody></table><table-wrap-foot id="jdb70020-ntgp-0005"><fn id="jdb70020-note-0011"><p>
+<italic toggle="yes">Note</italic>: Model 1 was adjusted for age, sex, and days since randomization, with random effects for participant. Model 2 was adjusted for age, sex, race, education, current smoking status, alcohol drinking status, history of cardiovascular disease, body mass index, mean systolic blood pressure of visits between 4 and 20 months, diabetes duration, hemoglobin A1c, total cholesterol, use of anti‐hypertensive medications, statin, intensive glucose‐lowering therapy, and days since randomization, with random effects for participant.</p></fn><fn id="jdb70020-note-0012"><p>Abbreviation: CI, confidence interval.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec sec-type="discussion" id="jdb70020-sec-0014"><label>4</label><title>DISCUSSION</title><p>The current study provided new evidence that a higher visit‐to‐visit systolic BPV was associated with future cognitive decline in persons with type 2 diabetes. We found that higher levels of systolic BPV, independent of mean systolic BP, were associated with a greater decline in psychomotor function and working memory speed evaluated by the DSST. Additionally, higher levels of systolic BPV were associated with the progression of white matter lesion over 40 months evaluated by the brain MRI in patients with type 2 diabetes.</p><p>Previous studies have revealed systolic BPV as a risk factor for cognitive decline in the general population.<xref rid="jdb70020-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="jdb70020-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="jdb70020-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> However, less is known in patients with diabetes. In addition, previous studies did not report findings for a specific cognitive domain. The mechanism connecting systolic BPV with cognitive decline is not well understood. Cognitive decline can be affected by vascular and degenerative mechanisms.<xref rid="jdb70020-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Increased BPV can cause hemodynamic instability, resulting in an elevated shear stress. This elevated stress may directly contribute to the development of small vessel disease and cerebral hypoperfusion,<xref rid="jdb70020-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> ultimately leading to neuronal cell injury.<xref rid="jdb70020-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Furthermore, an elevated BPV might also indicate arterial stiffness, a condition associated with cognitive decline. The association arises from arterial stiffness amplifying sporadic fluctuations in BP.<xref rid="jdb70020-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Accordingly, neuronal damage and cellular death may affect sections of the brain that are vulnerable, such as the subcortical white matter and the hippocampal region.<xref rid="jdb70020-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Studies have shown that BPV may be responsible for cerebral small vessel diseases, including white matter lesions, microbleeds, silent infarctions, and brain atrophy, which contribute to cognitive impairment and dementia.<xref rid="jdb70020-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="jdb70020-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="jdb70020-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> A study in an elderly population cohort without dementia reported that increases in BP fluctuations across three visits over a 24‐month period were correlated with a greater extent of white matter hyperintensities and a higher incidence of silent infarcts.<xref rid="jdb70020-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> BPV may be a causative factor of the alterations in brain structure and function, which in turn might lead to cognitive decline. Further studies are needed to elucidate the pathogenesis of increased BPV in the development of cognitive decline in patients with type 2 diabetes.</p><p>Recent studies have shown that calcium channel blockers and non‐loop diuretics can reduce variability in BP from visit to visit in addition to BP level reduction.<xref rid="jdb70020-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Furthermore, it has been demonstrated in experimental animals that antihypertensive treatment leads to a reduction in BPV, which independently contributes to the protection of organs.<xref rid="jdb70020-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> However, it is currently lacking empirical evidence to support the notion that BPV reduction enhances cardiovascular risk mitigation or cognitive function in human participants. Additional research is warranted to investigate the efficacy of interventions aimed at mitigating BPV in individuals diagnosed with type 2 diabetes, with regard to their potential to diminish the likelihood of cognitive decline and the onset of dementia.</p><p>This study utilized high‐quality data from the ACCORD‐MIND substudy with a large sample size. However, it has several limitations. First, cognitive decline is a slow process, and 40 months of follow‐up may be an inadequate duration of time to ascertain subtle differences in cognitive function.<xref rid="jdb70020-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Second, individuals with HbA1c below 7.5%, and individuals with HbA1c above 7.5% but without history of or risk factors for CVD were excluded from ACCORD. Third, because patients volunteered to participate in MRI, there may be a selection bias in the analysis of associations between systolic BPV and brain MRI imaging parameters.</p></sec><sec sec-type="conclusions" id="jdb70020-sec-0015"><label>5</label><title>CONCLUSIONS</title><p>This post hoc analysis of data from the ACCORD‐MIND substudy highlights the increased risk of cognitive decline and the increased white matter lesion volume in association with increased systolic BPV in individuals with type 2 diabetes. To reduce systolic BPV during BP management in diabetes patients might be important in the prevention of cognitive decline. Additional studies are needed to explore effective strategies to reduce systolic BPV and to determine whether this can effectively lower the risk of cognitive decline in individuals with type 2 diabetes.</p></sec><sec id="jdb70020-sec-0016"><title>AUTHOR CONTRIBUTIONS</title><p>
+<italic toggle="yes">Conceptualization, formal analysis, methodology and writing—original draft</italic>: Junmin Chen, Xuan Zhao, and Huidan Liu. <italic toggle="yes">Investigation and writing—review and editing</italic>: Kan Wang, Xiaoli Xu, Siyu Wang, Mian Li, and Ruizhi Zheng. <italic toggle="yes">Conceptualization, supervision and writing—review and editing</italic>: Libin Zhou, Yufang Bi, and Yu Xu. All authors contributed to the article and approved the submitted version.</p></sec><sec sec-type="COI-statement" id="jdb70020-sec-0018"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest. Yufang Bi is an Editorial Board member of Journal of Diabetes and a co‐author of this article. To minimize bias, she was excluded from all editorial decision‐making related to the acceptance of this article for publication.</p></sec></body><back><ack id="jdb70020-sec-0017"><title>ACKNOWLEDGEMENTS</title><p>This work was supported by grants from the National Key R&amp;D Program of China (2023YFC2506700, 2021YFC2501600, 2021YFA1301100), the Shanghai Clinical Research Center for Metabolic Diseases (19MC1910100), and the Innovative Research Team of High‐Level Local Universities in Shanghai. Dr. Yu Xu is supported by the National Top Young Talents Program. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></ack><ref-list id="jdb70020-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="jdb70020-bib-0001"><label>1</label><mixed-citation publication-type="book" id="jdb70020-cit-0001">
+<string-name name-style="western">
+<surname>Prince</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guerchet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prina</surname>
+<given-names>M.</given-names>
+</string-name>
+<source>The Global Impact of Dementia 2013–2050</source>. <publisher-name>Alzheimer's Disease International</publisher-name>; <year>2013</year>.</mixed-citation></ref><ref id="jdb70020-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jdb70020-cit-0002">
+<string-name name-style="western">
+<surname>Kalaria</surname>
+<given-names>RN</given-names>
+</string-name>. <article-title>Cerebrovascular disease and mechanisms of cognitive impairment: evidence from clinicopathological studies in humans</article-title>. <source>Stroke</source>. <year>2012</year>;<volume>43</volume>(<issue>9</issue>):<fpage>2526</fpage>‐<lpage>2534</lpage>.<pub-id pub-id-type="pmid">22879100</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/STROKEAHA.112.655803</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jdb70020-cit-0003">
+<string-name name-style="western">
+<surname>Lattanzi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luzzi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Provinciali</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silvestrini</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Blood pressure variability in Alzheimer's disease and frontotemporal dementia: the effect on the rate of cognitive decline</article-title>. <source>J Alzheimers Dis</source>. <year>2015</year>;<volume>45</volume>(<issue>2</issue>):<fpage>387</fpage>‐<lpage>394</lpage>.<pub-id pub-id-type="pmid">25790932</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-142532</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jdb70020-cit-0004">
+<string-name name-style="western">
+<surname>Havlik</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foley</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sayer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masaki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Launer</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Variability in midlife systolic blood pressure is related to late‐life brain white matter lesions: the Honolulu‐Asia Aging study</article-title>. <source>Stroke</source>. <year>2002</year>;<volume>33</volume>(<issue>1</issue>):<fpage>26</fpage>‐<lpage>30</lpage>.<pub-id pub-id-type="pmid">11779884</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/hs0102.101890</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jdb70020-cit-0005">
+<string-name name-style="western">
+<surname>Rothwell</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howard</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dolan</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Prognostic significance of visit‐to‐visit variability, maximum systolic blood pressure, and episodic hypertension</article-title>. <source>Lancet</source>. <year>2010</year>;<volume>375</volume>(<issue>9718</issue>):<fpage>895</fpage>‐<lpage>905</lpage>.<pub-id pub-id-type="pmid">20226988</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(10)60308-X</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jdb70020-cit-0006">
+<string-name name-style="western">
+<surname>Sabayan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wijsman</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foster‐Dingley</surname>
+<given-names>JC</given-names>
+</string-name>, et al. <article-title>Association of visit‐to‐visit variability in blood pressure with cognitive function in old age: prospective cohort study</article-title>. <source>BMJ</source>. <year>2013</year>;<volume>347</volume>:<elocation-id>f4600</elocation-id>.<pub-id pub-id-type="pmid">23900315</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.f4600</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jdb70020-cit-0007">
+<string-name name-style="western">
+<surname>Frisoni</surname>
+<given-names>GB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fox</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scheltens</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>PM</given-names>
+</string-name>. <article-title>The clinical use of structural MRI in Alzheimer disease</article-title>. <source>Nat Rev Neurol</source>. <year>2010</year>;<volume>6</volume>(<issue>2</issue>):<fpage>67</fpage>‐<lpage>77</lpage>.<pub-id pub-id-type="pmid">20139996</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrneurol.2009.215</pub-id><pub-id pub-id-type="pmcid">PMC2938772</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jdb70020-cit-0008">
+<string-name name-style="western">
+<surname>Saczynski</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siggurdsson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jonsson</surname>
+<given-names>PV</given-names>
+</string-name>, et al. <article-title>Glycemic status and brain injury in older individuals: the age gene/environment susceptibility‐Reykjavik study</article-title>. <source>Diabetes Care</source>. <year>2009</year>;<volume>32</volume>(<issue>9</issue>):<fpage>1608</fpage>‐<lpage>1613</lpage>.<pub-id pub-id-type="pmid">19509008</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/dc08-2300</pub-id><pub-id pub-id-type="pmcid">PMC2732166</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jdb70020-cit-0009">
+<string-name name-style="western">
+<surname>van Harten</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Leeuw</surname>
+<given-names>F‐E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weinstein</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scheltens</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Biessels</surname>
+<given-names>GJ</given-names>
+</string-name>. <article-title>Brain imaging in patients with diabetes: a systematic review</article-title>. <source>Diabetes Care</source>. <year>2006</year>;<volume>29</volume>(<issue>11</issue>):<fpage>2539</fpage>‐<lpage>2548</lpage>.<pub-id pub-id-type="pmid">17065699</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/dc06-1637</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jdb70020-cit-0010">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiste</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vemuri</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Brain beta‐amyloid measures and magnetic resonance imaging atrophy both predict time‐to‐progression from mild cognitive impairment to Alzheimer's disease</article-title>. <source>Brain</source>. <year>2010</year>;<volume>133</volume>(<issue>11</issue>):<fpage>3336</fpage>‐<lpage>3348</lpage>.<pub-id pub-id-type="pmid">20935035</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awq277</pub-id><pub-id pub-id-type="pmcid">PMC2965425</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jdb70020-cit-0011">
+<string-name name-style="western">
+<surname>Debette</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Markus</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>The clinical importance of white matter hyperintensities on brain magnetic resonance imaging: systematic review and meta‐analysis</article-title>. <source>BMJ</source>. <year>2010</year>;<volume>341</volume>:<elocation-id>c3666</elocation-id>.<pub-id pub-id-type="pmid">20660506</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.c3666</pub-id><pub-id pub-id-type="pmcid">PMC2910261</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jdb70020-cit-0012">
+<string-name name-style="western">
+<surname>Manschot</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Biessels</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Valk</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Metabolic and vascular determinants of impaired cognitive performance and abnormalities on brain magnetic resonance imaging in patients with type 2 diabetes</article-title>. <source>Diabetologia</source>. <year>2007</year>;<volume>50</volume>(<issue>11</issue>):<fpage>2388</fpage>‐<lpage>2397</lpage>.<pub-id pub-id-type="pmid">17764005</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00125-007-0792-z</pub-id><pub-id pub-id-type="pmcid">PMC2039826</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jdb70020-cit-0013">
+<string-name name-style="western">
+<surname>Bencivenga</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Souto Barreto</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rolland</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Blood pressure variability: a potential marker of aging</article-title>. <source>Ageing Res Rev</source>. <year>2022</year>;<volume>80</volume>:<elocation-id>101677</elocation-id>.<pub-id pub-id-type="pmid">35738476</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.arr.2022.101677</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jdb70020-cit-0014">
+<string-name name-style="western">
+<surname>Luo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Type 2 diabetes mellitus‐associated cognitive dysfunction: advances in potential mechanisms and therapies</article-title>. <source>Neurosci Biobehav Rev</source>. <year>2022</year>;<volume>137</volume>:<elocation-id>104642</elocation-id>.<pub-id pub-id-type="pmid">35367221</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neubiorev.2022.104642</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jdb70020-cit-0015">
+<string-name name-style="western">
+<surname>Goff</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gerstein</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ginsberg</surname>
+<given-names>HN</given-names>
+</string-name>, et al. <article-title>Prevention of cardiovascular disease in persons with type 2 diabetes mellitus: current knowledge and rationale for the action to control cardiovascular risk in diabetes (ACCORD) trial</article-title>. <source>Am J Cardiol</source>. <year>2007</year>;<volume>99</volume>(<issue>12A</issue>):<fpage>S4</fpage>‐<lpage>S20</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amjcard.2007.03.002</pub-id><pub-id pub-id-type="pmid">17599424</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jdb70020-cit-0016">
+<string-name name-style="western">
+<surname>Williamson</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bryan</surname>
+<given-names>RN</given-names>
+</string-name>, et al. <article-title>The action to control cardiovascular risk in diabetes memory in diabetes study (ACCORD‐MIND): rationale, design, and methods</article-title>. <source>Am J Cardiol</source>. <year>2007</year>;<volume>99</volume>(<issue>12A</issue>):<fpage>112i</fpage>‐<lpage>122i</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amjcard.2007.03.029</pub-id><pub-id pub-id-type="pmid">17599421</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jdb70020-cit-0017">
+<string-name name-style="western">
+<surname>Launer</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williamson</surname>
+<given-names>JD</given-names>
+</string-name>, et al. <article-title>Effects of intensive glucose lowering on brain structure and function in people with type 2 diabetes (ACCORD MIND): a randomised open‐label substudy</article-title>. <source>Lancet Neurol</source>. <year>2011</year>;<volume>10</volume>(<issue>11</issue>):<fpage>969</fpage>‐<lpage>977</lpage>.<pub-id pub-id-type="pmid">21958949</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(11)70188-0</pub-id><pub-id pub-id-type="pmcid">PMC3333485</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jdb70020-cit-0019">
+<string-name name-style="western">
+<surname>Folstein</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Folstein</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McHugh</surname>
+<given-names>PR</given-names>
+</string-name>. <article-title>“Mini‐mental state”: a practical method for grading the cognitive state of patients for the clinician</article-title>. <source>J Psychiatr Res</source>. <year>1975</year>;<volume>12</volume>(<issue>3</issue>):<fpage>189</fpage>‐<lpage>198</lpage>.<pub-id pub-id-type="pmid">1202204</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-3956(75)90026-6</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0019"><label>19</label><mixed-citation publication-type="miscellaneous" id="jdb70020-cit-0020">Wechsler D, ed. <italic toggle="yes">Wechsler Adult Intelligence Scale‐Revised</italic>. Psychological Corporation; 1988.</mixed-citation></ref><ref id="jdb70020-bib-0020"><label>20</label><mixed-citation publication-type="book" id="jdb70020-cit-0021">
+<string-name name-style="western">
+<surname>Lezak</surname>
+<given-names>MD</given-names>
+</string-name>. <source>Neuropsychological Assessment</source>. <publisher-name>Oxford University Press</publisher-name>; <year>2004</year>.</mixed-citation></ref><ref id="jdb70020-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jdb70020-cit-0022">
+<string-name name-style="western">
+<surname>Houx</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jolles</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vreeling</surname>
+<given-names>FW</given-names>
+</string-name>. <article-title>Stroop interference: aging effects assessed with the Stroop Color‐Word Test</article-title>. <source>Exp Aging Res</source>. <year>1993</year>;<volume>19</volume>(<issue>3</issue>):<fpage>209</fpage>‐<lpage>224</lpage>.<pub-id pub-id-type="pmid">8223823</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/03610739308253934</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jdb70020-cit-0023">
+<string-name name-style="western">
+<surname>Goldszal</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davatzikos</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pham</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>MXH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bryan</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Resnick</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>An image‐processing system for qualitative and quantitative volumetric analysis of brain images</article-title>. <source>J Comput Assist Tomogr</source>. <year>1998</year>;<volume>22</volume>(<issue>5</issue>):<fpage>827</fpage>‐<lpage>837</lpage>.<pub-id pub-id-type="pmid">9754125</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00004728-199809000-00030</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jdb70020-cit-0024">
+<string-name name-style="western">
+<surname>Lao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Computer‐assisted segmentation of white matter lesions in 3D MR images using support vector machine</article-title>. <source>Acad Radiol</source>. <year>2008</year>;<volume>15</volume>(<issue>3</issue>):<fpage>300</fpage>‐<lpage>313</lpage>.<pub-id pub-id-type="pmid">18280928</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.acra.2007.10.012</pub-id><pub-id pub-id-type="pmcid">PMC2528894</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0024"><label>24</label><mixed-citation publication-type="miscellaneous" id="jdb70020-cit-0025">
+<string-name name-style="western">
+<surname>Price</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allison</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clarke</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Magnetic resonance imaging quality control manual</article-title>. <year>2015</year>. Accessed September 13, 2024. <ext-link ns1:href="https://www.acr.org/-/media/ACR/Files/Clinical-Resources/QC-Manuals/MR_QCManual.pdf" ext-link-type="uri">https://www.acr.org/‐/media/ACR/Files/Clinical‐Resources/QC‐Manuals/MR_QCManual.pdf</ext-link>
+</mixed-citation></ref><ref id="jdb70020-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jdb70020-cit-0026">
+<string-name name-style="western">
+<surname>Anand</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Friedrich</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>DS</given-names>
+</string-name>, et al. <article-title>Evaluation of adiposity and cognitive function in adults</article-title>. <source>JAMA Netw Open</source>. <year>2022</year>;<volume>5</volume>(<issue>2</issue>):<elocation-id>e2146324</elocation-id>.<pub-id pub-id-type="pmid">35103790</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamanetworkopen.2021.46324</pub-id><pub-id pub-id-type="pmcid">PMC8808326</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jdb70020-cit-0027">
+<string-name name-style="western">
+<surname>Jia</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>HWY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>
+<given-names>JYC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yiu</surname>
+<given-names>KKL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsoi</surname>
+<given-names>KKF</given-names>
+</string-name>. <article-title>Long‐term blood pressure variability increases risks of dementia and cognitive decline: a meta‐analysis of longitudinal studies</article-title>. <source>Hypertension</source>. <year>2021</year>;<volume>78</volume>(<issue>4</issue>):<fpage>996</fpage>‐<lpage>1004</lpage>.<pub-id pub-id-type="pmid">34397274</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/HYPERTENSIONAHA.121.17788</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jdb70020-cit-0028">
+<string-name name-style="western">
+<surname>Mahinrad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sorond</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gorelick</surname>
+<given-names>PB</given-names>
+</string-name>. <article-title>Blood pressure variability, dementia, and role of antihypertensive medications in older adults</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>7</issue>):<fpage>2966</fpage>‐<lpage>2974</lpage>.<pub-id pub-id-type="pmid">36656086</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12935</pub-id><pub-id pub-id-type="pmcid">PMC10354219</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jdb70020-cit-0029">
+<string-name name-style="western">
+<surname>Ma</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blacker</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Viswanathan</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Visit‐to‐visit blood pressure variability, neuropathology, and cognitive decline</article-title>. <source>Neurology</source>. <year>2021</year>;<volume>96</volume>(<issue>23</issue>):<fpage>e2812</fpage>‐<lpage>e2823</lpage>.<pub-id pub-id-type="pmid">33903194</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0000000000012065</pub-id><pub-id pub-id-type="pmcid">PMC8205457</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jdb70020-cit-0030">
+<string-name name-style="western">
+<surname>Iadecola</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duering</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hachinski</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Vascular cognitive impairment and dementia: JACC scientific expert panel</article-title>. <source>J Am Coll Cardiol</source>. <year>2019</year>;<volume>73</volume>(<issue>25</issue>):<fpage>3326</fpage>‐<lpage>3344</lpage>.<pub-id pub-id-type="pmid">31248555</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2019.04.034</pub-id><pub-id pub-id-type="pmcid">PMC6719789</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jdb70020-cit-0031">
+<string-name name-style="western">
+<surname>Rabkin</surname>
+<given-names>SW</given-names>
+</string-name>. <article-title>Arterial stiffness: detection and consequences in cognitive impairment and dementia of the elderly</article-title>. <source>J Alzheimers Dis</source>. <year>2012</year>;<volume>32</volume>(<issue>3</issue>):<fpage>541</fpage>‐<lpage>549</lpage>.<pub-id pub-id-type="pmid">22886012</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2012-120757</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jdb70020-cit-0032">
+<string-name name-style="western">
+<surname>Iadecola</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Neurovascular regulation in the normal brain and in Alzheimer's disease</article-title>. <source>Nat Rev Neurosci</source>. <year>2004</year>;<volume>5</volume>(<issue>5</issue>):<fpage>347</fpage>‐<lpage>360</lpage>.<pub-id pub-id-type="pmid">15100718</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrn1387</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jdb70020-cit-0033">
+<string-name name-style="western">
+<surname>Brickman</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reitz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luchsinger</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>Long‐term blood pressure fluctuation and cerebrovascular disease in an elderly cohort</article-title>. <source>Arch Neurol</source>. <year>2010</year>;<volume>67</volume>(<issue>5</issue>):<fpage>564</fpage>‐<lpage>569</lpage>.<pub-id pub-id-type="pmid">20457955</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneurol.2010.70</pub-id><pub-id pub-id-type="pmcid">PMC2917204</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jdb70020-cit-0034">
+<string-name name-style="western">
+<surname>Webb</surname>
+<given-names>AJS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fischer</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rothwell</surname>
+<given-names>PM</given-names>
+</string-name>. <article-title>Effects of antihypertensive‐drug class on interindividual variation in blood pressure and risk of stroke: a systematic review and meta‐analysis</article-title>. <source>Lancet</source>. <year>2010</year>;<volume>375</volume>(<issue>9718</issue>):<fpage>906</fpage>‐<lpage>915</lpage>.<pub-id pub-id-type="pmid">20226989</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(10)60235-8</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jdb70020-cit-0035">
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>H‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X‐F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>F‐M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>D‐F</given-names>
+</string-name>. <article-title>Synergism of hydrochlorothiazide and nifedipine on blood pressure variability reduction and organ protection in spontaneously hypertensive rats</article-title>. <source>Hypertens Res</source>. <year>2008</year>;<volume>31</volume>(<issue>4</issue>):<fpage>685</fpage>‐<lpage>691</lpage>.<pub-id pub-id-type="pmid">18633181</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1291/hypres.31.685</pub-id></mixed-citation></ref><ref id="jdb70020-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jdb70020-cit-0036">
+<string-name name-style="western">
+<surname>Bateman</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benzinger</surname>
+<given-names>TLS</given-names>
+</string-name>, et al. <article-title>Clinical and biomarker changes in dominantly inherited Alzheimer's disease</article-title>. <source>N Engl J Med</source>. <year>2012</year>;<volume>367</volume>(<issue>9</issue>):<fpage>795</fpage>‐<lpage>804</lpage>.<pub-id pub-id-type="pmid">22784036</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1202753</pub-id><pub-id pub-id-type="pmcid">PMC3474597</pub-id></mixed-citation></ref></ref-list></back></article>

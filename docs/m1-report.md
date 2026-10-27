@@ -417,5 +417,5 @@ human-in-the-loop (here: LLM) judgements stored in `data/m1/annotation/*_review.
 
 `make fetch-new` discovers *new* papers; PubMed's ranking and PMC's holdings drift, so that path is not reproducible and
 the pinned manifests are what the committed numbers refer to. If PMC changes a paper's XML the pinned SHA-256 no
-longer matches. The fetch then checks the canonical text (`data/m1/canonical_pins.jsonl`): if only PMC's bookkeeping changed, the paper is accepted and logged in `data/m1/drift_log.md`; if the text changed, the fetch reports drift and exits non-zero. Papers are not redistributed;
+longer matches. The fetch then checks the canonical text (`data/m1/canonical_pins.jsonl`): if only PMC's bookkeeping changed, the paper is accepted and logged in `data/m1/drift_log.md`; if the text changed, the fetch reports drift and exits non-zero. 164 of the 166 papers are committed under CC BY 4.0 (`data/raw/NOTICE.md`), the two whose licence terms conflict are fetched;
 [ATTRIBUTION.md](../data/m1/ATTRIBUTION.md) credits all 166 articles whose sentences the data files quote.

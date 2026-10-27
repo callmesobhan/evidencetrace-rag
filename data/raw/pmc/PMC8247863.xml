@@ -1,0 +1,1521 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Heart Fail</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Heart Fail</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">100887595</journal-id><journal-id journal-id-type="publisher-id">EJHF</journal-id><journal-title-group><journal-title>European Journal of Heart Failure</journal-title></journal-title-group><issn pub-type="ppub">1388-9842</issn><issn pub-type="epub">1879-0844</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8247863</article-id><article-id pub-id-type="pmcid-ver">PMC8247863.1</article-id><article-id pub-id-type="pmcaid">8247863</article-id><article-id pub-id-type="pmcaiid">8247863</article-id><article-id pub-id-type="pmid">33368858</article-id><article-id pub-id-type="doi">10.1002/ejhf.2083</article-id><article-id pub-id-type="publisher-id">EJHF2083</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Trials: Dapa‐hf</subject><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Effects of dapagliflozin in heart failure with reduced ejection fraction and chronic obstructive pulmonary disease: an analysis of <styled-content style="fixed-case" toggle="no">DAPA‐HF</styled-content>
+</article-title><alt-title alt-title-type="right-running-head"><styled-content style="fixed-case" toggle="no">DAPA</styled-content><styled-content style="fixed-case" toggle="no">COPD</styled-content></alt-title><alt-title alt-title-type="left-running-head">P. Dewan <italic toggle="yes">et al.</italic></alt-title></title-group><contrib-group><contrib id="ejhf2083-cr-0001" contrib-type="author"><name name-style="western"><surname>Dewan</surname><given-names initials="P">Pooja</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0002" contrib-type="author"><name name-style="western"><surname>Docherty</surname><given-names initials="KF">Kieran F.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0003" contrib-type="author"><name name-style="western"><surname>Bengtsson</surname><given-names initials="O">Olof</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0004" contrib-type="author"><name name-style="western"><surname>de Boer</surname><given-names initials="RA">Rudolf A.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0005" contrib-type="author"><name name-style="western"><surname>Desai</surname><given-names initials="AS">Akshay S.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0006" contrib-type="author"><name name-style="western"><surname>Drozdz</surname><given-names initials="J">Jaroslaw</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0007" contrib-type="author"><name name-style="western"><surname>Hawkins</surname><given-names initials="NM">Nathaniel M.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0008" contrib-type="author"><name name-style="western"><surname>Inzucchi</surname><given-names initials="SE">Silvio E.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0009" contrib-type="author"><name name-style="western"><surname>Kitakaze</surname><given-names initials="M">Masafumi</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0010" contrib-type="author"><name name-style="western"><surname>Køber</surname><given-names initials="L">Lars</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0011" contrib-type="author"><name name-style="western"><surname>Kosiborod</surname><given-names initials="MN">Mikail N.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0012" contrib-type="author"><name name-style="western"><surname>Langkilde</surname><given-names initials="AM">Anna Maria</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0013" contrib-type="author"><name name-style="western"><surname>Lindholm</surname><given-names initials="D">Daniel</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0014" contrib-type="author"><name name-style="western"><surname>Martinez</surname><given-names initials="FA">Felipe A.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0015" contrib-type="author"><name name-style="western"><surname>Merkely</surname><given-names initials="B">Béla</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0016" contrib-type="author"><name name-style="western"><surname>Petrie</surname><given-names initials="MC">Mark C.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0017" contrib-type="author"><name name-style="western"><surname>Ponikowski</surname><given-names initials="P">Piotr</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0013">
+<sup>13</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0018" contrib-type="author"><name name-style="western"><surname>Sabatine</surname><given-names initials="MS">Marc S.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0019" contrib-type="author"><name name-style="western"><surname>Schou</surname><given-names initials="M">Morten</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0015">
+<sup>15</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0020" contrib-type="author"><name name-style="western"><surname>Sjöstrand</surname><given-names initials="M">Mikaela</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0021" contrib-type="author"><name name-style="western"><surname>Solomon</surname><given-names initials="SD">Scott D.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0022" contrib-type="author"><name name-style="western"><surname>Verma</surname><given-names initials="S">Subodh</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0016">
+<sup>16</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0023" contrib-type="author"><name name-style="western"><surname>Jhund</surname><given-names initials="PS">Pardeep S.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf2083-cr-0024" contrib-type="author" corresp="yes"><name name-style="western"><surname>McMurray</surname><given-names initials="JJV">John J.V.</given-names></name><xref ref-type="aff" rid="ejhf2083-aff-0001">
+<sup>1</sup>
+</xref><address><email>john.mcmurray@glasgow.ac.uk</email></address></contrib></contrib-group><aff id="ejhf2083-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">BHF Cardiovascular Research Centre</named-content>
+<institution>University of Glasgow</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf2083-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Late Stage Development, Cardiovascular, Renal, and Metabolism, BioPharmaceuticals R&amp;D</named-content>
+<institution>AstraZeneca</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="ejhf2083-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>University Medical Centre and University of Groningen</institution>
+<city>Groningen</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="ejhf2083-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Division of Cardiovascular Medicine</named-content>
+<institution>Brigham and Women's Hospital</institution>
+<city>Boston</city>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf2083-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Medical University of Lodz</institution>
+<city>Lodz</city>
+<country country="PL">Poland</country>
+</aff><aff id="ejhf2083-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Division of Cardiology</named-content>
+<institution>University of British Columbia</institution>
+<city>Vancouver</city>
+<country country="CA">Canada</country>
+</aff><aff id="ejhf2083-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Section of Endocrinology</named-content>
+<institution>Yale University School of Medicine</institution>
+<city>New Haven</city>
+<named-content content-type="country-part">CT</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf2083-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Cardiovascular Division of Medicine</named-content>
+<institution>National Cerebral and Cardiovascular Centre</institution>
+<city>Osaka</city>
+<country country="JP">Japan</country>
+</aff><aff id="ejhf2083-aff-0009">
+<label><sup>9</sup></label>
+<institution>Rigshospitalet Copenhagen University Hospital</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff id="ejhf2083-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Saint Luke's Mid America Heart Institute</named-content>
+<institution>University of Missouri</institution>
+<city>Kansas City</city>
+<named-content content-type="country-part">MO</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf2083-aff-0011">
+<label><sup>11</sup></label>
+<institution>National University of Cordoba</institution>
+<city>Cordoba</city>
+<country country="AR">Argentina</country>
+</aff><aff id="ejhf2083-aff-0012">
+<label><sup>12</sup></label>
+<named-content content-type="organisation-division">Heart and Vascular Centre</named-content>
+<institution>Semmelweis University</institution>
+<city>Budapest</city>
+<country country="HU">Hungary</country>
+</aff><aff id="ejhf2083-aff-0013">
+<label><sup>13</sup></label>
+<institution>Wroclaw Medical University</institution>
+<city>Wroclaw</city>
+<country country="PL">Poland</country>
+</aff><aff id="ejhf2083-aff-0014">
+<label><sup>14</sup></label>
+<named-content content-type="organisation-division">TIMI Study Group</named-content>
+<institution>Brigham and Women's Hospital and Harvard Medical School</institution>
+<city>Boston</city>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf2083-aff-0015">
+<label><sup>15</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Gentofte University Hospital</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff id="ejhf2083-aff-0016">
+<label><sup>16</sup></label>
+<named-content content-type="organisation-division">St Michael's Hospital</named-content>
+<institution>University of Toronto</institution>
+<city>Toronto</city>
+<country country="CA">Canada</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Corresponding author. British Heart Foundation Cardiovascular Research Centre, University of Glasgow, 126 University Place, Glasgow, G12 8TA, UK. Tel: +44 141 3303479, Fax: +44 141 3306955, Email: <email>john.mcmurray@glasgow.ac.uk</email><break /></corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>1</month><year>2021</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2021</year></pub-date><volume>23</volume><issue>4</issue><issue-id pub-id-type="pmc-issue-id">384871</issue-id><issue-id pub-id-type="doi">10.1002/ejhf.v23.4</issue-id><fpage>632</fpage><lpage>643</lpage><history><date date-type="rev-recd"><day>22</day><month>11</month><year>2020</year></date><date date-type="received"><day>19</day><month>10</month><year>2020</year></date><date date-type="accepted"><day>18</day><month>12</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>18</day><month>01</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>02</day><month>07</month><year>2021</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2021-07-04 07:16:37.497"><day>04</day><month>07</month><year>2021</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">European Journal of Heart Failure</italic> published by John Wiley &amp; Sons Ltd on behalf of European Society of Cardiology.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="EJHF-23-632.pdf" /><self-uri content-type="pdf" ns1:href="file:EJHF-23-632.pdf" /><abstract><sec id="ejhf2083-sec-0001"><title>Aims</title><p>Chronic obstructive pulmonary disease (COPD) is an important comorbidity in heart failure (HF) with reduced ejection fraction (HFrEF), associated with worse outcomes and often suboptimal treatment because of under‐prescription of beta‐blockers. Consequently, additional effective therapies are especially relevant in patients with COPD. The aim of this study was to examine outcomes related to COPD in a <italic toggle="yes">post hoc</italic> analysis of the Dapagliflozin And Prevention of Adverse‐outcomes in Heart Failure (DAPA‐HF) trial.</p></sec><sec id="ejhf2083-sec-0002"><title>Methods and results</title><p>We examined whether the effects of dapagliflozin in DAPA‐HF were modified by COPD status. The primary outcome was the composite of an episode of worsening HF or cardiovascular death. Overall, 585 (12.3%) of the 4744 patients randomized had a history of COPD. Patients with COPD were more likely to be older men with a history of smoking, worse renal function, and higher baseline N‐terminal pro B‐type natriuretic peptide, and less likely to be treated with a beta‐blocker or mineralocorticoid receptor antagonist. The incidence of the primary outcome was higher in patients with COPD than in those without [18.9 (95% confidence interval 16.0–22.2) vs. 13.0 (12.1–14.0) per 100 person‐years; hazard ratio (HR) for COPD vs. no COPD 1.44 (1.21–1.72); <italic toggle="yes">P</italic> &lt; 0.001]. The effect of dapagliflozin, compared with placebo, on the primary outcome, was consistent in patients with [HR 0.67 (95% confidence interval 0.48–0.93)] and without COPD [0.76 (0.65–0.87); interaction <italic toggle="yes">P</italic>‐value 0.47].</p></sec><sec id="ejhf2083-sec-0003"><title>Conclusions</title><p>In DAPA‐HF, one in eight patients with HFrEF had concomitant COPD. Participants with COPD had a higher risk of the primary outcome. The benefit of dapagliflozin on all pre‐specified outcomes was consistent in patients with and without COPD.</p><p>Clinical Trial Registration: ClinicalTrials.gov ID <ext-link ext-link-type="pmc:clinical-trial" ns1:href="NCT03036124">NCT03036124</ext-link>.</p></sec></abstract><abstract abstract-type="graphical"><p>Chronic obstructive pulmonary disease (COPD) in the DAPA‐HF trial: patient characteristics and clinical outcomes. AE, adverse event; CI, confidence interval; KCCQ‐TSS, Kansas City Cardiomyopathy Questionnaire total symptom score; MRA, mineralocorticoid receptor antagonist.
+<boxed-text position="anchor" content-type="graphic" id="ejhf2083-blkfxd-0001" orientation="portrait"><graphic position="anchor" id="jats-graphic-1" orientation="portrait" ns1:href="EJHF-23-632-g005.jpg" /></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ejhf2083-kwd-0001">Heart failure</kwd><kwd id="ejhf2083-kwd-0002">Dapagliflozin</kwd><kwd id="ejhf2083-kwd-0003">Chronic obstructive pulmonary disease</kwd></kwd-group><counts><fig-count count="5" /><table-count count="4" /><page-count count="12" /><word-count count="6124" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.2 mode:remove_FC converted:01.07.2021</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="ejhf2083-body-0001"><sec id="ejhf2083-sec-0004"><title>Introduction</title><p>Chronic obstructive pulmonary disease (COPD) has a higher prevalence in patients with heart failure (HF) than in the general population.<xref rid="ejhf2083-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="ejhf2083-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="ejhf2083-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> While this most likely reflects the common aetiological role of smoking in each condition, inflammation and oxidative stress have also been postulated to play a role.<xref rid="ejhf2083-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="ejhf2083-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="ejhf2083-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> COPD is important in HF for two principal reasons. First, HF patients with COPD have worse outcomes, including higher mortality, than HF patients without COPD.<xref rid="ejhf2083-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="ejhf2083-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="ejhf2083-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="ejhf2083-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="ejhf2083-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="ejhf2083-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> Second, concomitant COPD has implications for the use of specific HF therapies.<xref rid="ejhf2083-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="ejhf2083-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="ejhf2083-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="ejhf2083-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> Physicians may be reluctant to use beta‐blockers in HF patients with COPD, because of their bronchospastic effects, even though these drugs are lifesaving in patients with HF with reduced ejection fraction (HFrEF). Although still indicated and generally well tolerated in most patients with COPD, even in high‐risk settings, new evidence also shows that beta‐blockers can increase the risk of respiratory hospitalization in patients with more severe COPD.<xref rid="ejhf2083-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="ejhf2083-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> It is also advised that hydralazine and isosorbide dinitrate are avoided in patients with COPD as this combination may lead to worsening gas exchange and hypoxaemia.<xref rid="ejhf2083-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> Similarly, hypokalaemia induced by beta‐agonists, glucocorticoids and xanthine derivatives may make digoxin use more hazardous in patients with COPD, compared to those without and increase risk of arrhythmias.<xref rid="ejhf2083-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="ejhf2083-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="ejhf2083-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>
+</p><p>Consequently, there is a need for new therapies, both in addition to conventional treatment and, occasionally, as an alternative due to non‐tolerance of standard pharmacotherapies, in these high‐risk individuals with both HFrEF and COPD. Recently, specific sodium–glucose co‐transporter 2 inhibitors have demonstrated reduction in mortality and risk of HF hospitalization in patients with HFrEF.<xref rid="ejhf2083-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="ejhf2083-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="ejhf2083-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> In this <italic toggle="yes">post hoc</italic> analysis, we examined the effects of dapagliflozin in HFrEF patients with and without COPD enrolled in the Dapagliflozin And Prevention of Adverse‐outcomes in Heart Failure (DAPA‐HF) trial.<xref rid="ejhf2083-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="ejhf2083-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="ejhf2083-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>
+</p></sec><sec id="ejhf2083-sec-0005"><title>Methods</title><p>DAPA‐HF was a randomized, double‐blind, placebo‐controlled, event‐driven trial in HFrEF patients.<xref rid="ejhf2083-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="ejhf2083-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="ejhf2083-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> Efficacy and safety of dapagliflozin 10 mg once daily, plus standard care, was compared with matching placebo. The design, baseline characteristics, and primary results are published.<xref rid="ejhf2083-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="ejhf2083-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="ejhf2083-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> The Ethics Committee of the 410 participating institutions (20 countries) approved the protocol, and all patients gave written informed consent. The investigation conforms with the principles outlined in the Declaration of Helsinki.<xref rid="ejhf2083-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>
+</p><sec id="ejhf2083-sec-0006"><title>Study patients</title><p>Enrolment criteria included HF with left ventricular ejection fraction (LVEF) ≤40%, age ≥18 years, New York Heart Association (NYHA) functional class II–IV, elevated N‐terminal pro B‐type natriuretic peptide (NT‐proBNP), and optimal pharmacological and device therapy. The protocol required guideline‐recommended medications, including beta‐blocker, unless contraindicated/not tolerated. Key exclusion criteria included: symptomatic hypotension/systolic blood pressure &lt;95 mmHg, estimated glomerular filtration rate (eGFR) &lt;30 mL/min/1.73 m<sup>2</sup>(or rapidly declining renal function), and type 1 diabetes mellitus. No exclusions were related to COPD or asthma.</p></sec><sec id="ejhf2083-sec-0007"><title>Identification of chronic obstructive pulmonary disease and study follow‐up</title><p>An investigator‐reported history of COPD was identified from a check box on the case report form. No specific instructions were given in relation to diagnosis of COPD. Investigators reported diagnosis of asthma similarly. There were no respiratory disease or respiratory treatment‐related exclusions, although investigators were asked to exclude patients with another condition likely to lead to life expectancy of &lt;2 years. After randomization, follow‐up visits occurred at 14, 60, 120, 240, 360 days and every 4 months thereafter.</p></sec><sec id="ejhf2083-sec-0008"><title>Study outcomes</title><p>The primary trial outcome was the composite of worsening HF (HF hospitalization or urgent visit for HF requiring intravenous therapy) or cardiovascular (CV) death, whichever occurred first. Pre‐specified secondary endpoints included HF hospitalization or CV death; HF hospitalizations (first and recurrent) and CV deaths; change from baseline to 8 months in Kansas City Cardiomyopathy Questionnaire total symptom score (KCCQ‐TSS)<xref rid="ejhf2083-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>; incidence of worsening renal function and all‐cause death (because of few renal events overall, this endpoint was not examined in the present analysis). In addition to the pre‐specified outcomes, we also analysed: (i) KCCQ overall summary score (KCCQ‐OSS) and KCCQ clinical summary score (KCCQ‐CSS), and (ii) non‐CV deaths, in view of the potential impact of COPD on quality of life and deaths from respiratory causes and infection. Pre‐specified safety analyses included any serious adverse event (AE), AEs related study drug discontinuation, AEs of interest and laboratory findings of note.</p></sec><sec id="ejhf2083-sec-0009"><title>Statistical analysis</title><p>The primary analysis examined patients with an investigator‐reported history of COPD, including a small number with concurrent asthma; patients with asthma alone were examined in supplementary analyses (online supplementary material).</p><p>Baseline characteristics were summarized as means (standard deviations), median (interquartile ranges), or percentages. Time‐to‐event data were evaluated using Kaplan–Meier estimates and Cox proportional‐hazards models, stratified by diabetes status, and adjusted for history of HF hospitalization (except for non‐CV and all‐cause death) and treatment‐group assignment. We used a semiparametric proportional‐rates model to analyse total (including recurrent) events, as previously described. We also adjusted the effect of COPD status in two additional models: Model 1 included age, sex, region, systolic blood pressure, history of atrial fibrillation, NYHA class III/IV, LVEF, log NT‐proBNP, eGFR and smoking status. Model 2 had additional adjustment for baseline beta‐blocker and mineralocorticoid receptor antagonist (MRA) prescription. We analysed mean change in KCCQ‐TSS from baseline to 8 months. Safety analyses were performed in randomized patients who had received at least one dose of dapagliflozin or placebo (8 of 4744 patients excluded). Interaction between COPD status and treatment effect on the occurrence of the pre‐specified safety outcomes was tested in a logistic regression model with an interaction term between baseline COPD status and treatment.</p><p>All analyses were conducted using Stata version 16.1 (Stata Corp., College Station, TX, USA). A <italic toggle="yes">P</italic>‐value &lt;0.05 was considered statistically significant. </p></sec></sec><sec id="ejhf2083-sec-0010"><title>Results</title><p>Overall, 585 (12.3%) of 4744 patients randomized had COPD, 299 (12.6%) in the dapagliflozin group and 286 (12.1%) in the placebo group.</p><sec id="ejhf2083-sec-0011"><title>Patient characteristics</title><p>
+<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0001" ref-type="table">
+<italic toggle="yes">1</italic>
+</xref> shows baseline characteristics of those with and without COPD. Patients with COPD were more often male, older and current or ex‐smokers, compared to those without COPD. Patients with COPD had lower (worse) median KCCQ‐TSS score and a worse NYHA functional class distribution than those without COPD. A similar proportion of patients with and without COPD had a history of coronary heart disease, but patients with COPD had worse renal function, a higher prevalence of atrial fibrillation and higher median NT‐proBNP than those without COPD. Patients with COPD were only slightly less likely to be treated with beta‐blocker but were also less likely to be prescribed MRA. COPD patients treated with beta‐blocker were less likely to be taking a non‐selective antagonist and more likely to have been prescribed beta‐1 adrenoceptor selective agent than those without COPD.</p><table-wrap id="ejhf2083-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline characteristics: all patients and patients with and without chronic obstructive pulmonary disease</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" char="(" span="1" /><col align="left" char="(" span="1" /><col align="left" char="(" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">Total(<italic toggle="yes">n</italic> = 4744)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Without COPD(<italic toggle="yes">n</italic> = 4159)</th><th align="left" valign="bottom" rowspan="1" colspan="1">With COPD(<italic toggle="yes">n</italic> = 585)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">66.3 ± 10.9</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">66.0 ± 11.0</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">69.1 ± 9.4</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Women</td><td align="left" valign="top" rowspan="1" colspan="1">1109 (23.4)</td><td align="left" valign="top" rowspan="1" colspan="1">1002 (24.1)</td><td align="left" valign="top" rowspan="1" colspan="1">107 (18.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Region</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Asia/Pacific</td><td align="left" valign="top" rowspan="1" colspan="1">1096 (23.1)</td><td align="left" valign="top" rowspan="1" colspan="1">1010 (24.3)</td><td align="left" valign="top" rowspan="1" colspan="1">86 (14.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Europe</td><td align="left" valign="top" rowspan="1" colspan="1">2154 (45.4)</td><td align="left" valign="top" rowspan="1" colspan="1">1858 (44.7)</td><td align="left" valign="top" rowspan="1" colspan="1">296 (50.6)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">677 (14.3)</td><td align="left" valign="top" rowspan="1" colspan="1">541 (13.0)</td><td align="left" valign="top" rowspan="1" colspan="1">136 (23.2)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">South America</td><td align="left" valign="top" rowspan="1" colspan="1">817 (17.2)</td><td align="left" valign="top" rowspan="1" colspan="1">750 (18.0)</td><td align="left" valign="top" rowspan="1" colspan="1">67 (11.5)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Race</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">3333 (70.3)</td><td align="left" valign="top" rowspan="1" colspan="1">2864 (68.9)</td><td align="left" valign="top" rowspan="1" colspan="1">469 (80.2)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Black</td><td align="left" valign="top" rowspan="1" colspan="1">226 (4.8)</td><td align="left" valign="top" rowspan="1" colspan="1">202 (4.9)</td><td align="left" valign="top" rowspan="1" colspan="1">24 (4.1)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Asian</td><td align="left" valign="top" rowspan="1" colspan="1">1116 (23.5)</td><td align="left" valign="top" rowspan="1" colspan="1">1028 (24.7)</td><td align="left" valign="top" rowspan="1" colspan="1">88 (15.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td><td align="left" valign="top" rowspan="1" colspan="1">69 (1.5)</td><td align="left" valign="top" rowspan="1" colspan="1">65 (1.6)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (0.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HR (bpm)</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">71.5 ± 11.7</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">71.4 ± 11.7</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">72.0 ± 11.4</td><td align="left" valign="top" rowspan="1" colspan="1">0.24</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SBP (mmHg)</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">121.8 ± 16.3</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">121.5 ± 16.3</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">123.8 ± 16.6</td><td align="left" valign="top" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DBP (mmHg)</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">73.5 ± 10.5</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">73.5 ± 10.5</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">73.2 ± 10.2</td><td align="left" valign="top" rowspan="1" colspan="1">0.42</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">28.2 ± 6.0</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">28.1 ± 5.9</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">28.3 ± 6.4</td><td align="left" valign="top" rowspan="1" colspan="1">0.50</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hypertension</td><td align="left" valign="top" rowspan="1" colspan="1">3523 (74.3)</td><td align="left" valign="top" rowspan="1" colspan="1">3049 (73.3)</td><td align="left" valign="top" rowspan="1" colspan="1">474 (81.0)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diabetes</td><td align="left" valign="top" rowspan="1" colspan="1">2139 (45.1)</td><td align="left" valign="top" rowspan="1" colspan="1">1861 (44.7)</td><td align="left" valign="top" rowspan="1" colspan="1">278 (47.5)</td><td align="left" valign="top" rowspan="1" colspan="1">0.21</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Myocardial infarction</td><td align="left" valign="top" rowspan="1" colspan="1">2092 (44.1)</td><td align="left" valign="top" rowspan="1" colspan="1">1825 (43.9)</td><td align="left" valign="top" rowspan="1" colspan="1">267 (45.6)</td><td align="left" valign="top" rowspan="1" colspan="1">0.42</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Atrial fibrillation</td><td align="left" valign="top" rowspan="1" colspan="1">1818 (38.3)</td><td align="left" valign="top" rowspan="1" colspan="1">1557 (37.4)</td><td align="left" valign="top" rowspan="1" colspan="1">261 (44.6)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Stroke</td><td align="left" valign="top" rowspan="1" colspan="1">466 (9.8)</td><td align="left" valign="top" rowspan="1" colspan="1">405 (9.7)</td><td align="left" valign="top" rowspan="1" colspan="1">61 (10.4)</td><td align="left" valign="top" rowspan="1" colspan="1">0.60</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HF aetiology</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">0.49</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Ischaemic</td><td align="left" valign="top" rowspan="1" colspan="1">2674 (56.4)</td><td align="left" valign="top" rowspan="1" colspan="1">2331 (56.0)</td><td align="left" valign="top" rowspan="1" colspan="1">343 (58.6)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Non‐ischaemic</td><td align="left" valign="top" rowspan="1" colspan="1">1687 (35.6)</td><td align="left" valign="top" rowspan="1" colspan="1">1489 (35.8)</td><td align="left" valign="top" rowspan="1" colspan="1">198 (33.8)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unknown</td><td align="left" valign="top" rowspan="1" colspan="1">383 (8.1)</td><td align="left" valign="top" rowspan="1" colspan="1">339 (8.2)</td><td align="left" valign="top" rowspan="1" colspan="1">44 (7.5)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous HF hospitalization</td><td align="left" valign="top" rowspan="1" colspan="1">2251 (47.4)</td><td align="left" valign="top" rowspan="1" colspan="1">1951 (46.9)</td><td align="left" valign="top" rowspan="1" colspan="1">300 (51.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0.047</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Smoking status</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Never</td><td align="left" valign="top" rowspan="1" colspan="1">1959 (41.3)</td><td align="left" valign="top" rowspan="1" colspan="1">1854 (44.6)</td><td align="left" valign="top" rowspan="1" colspan="1">105 (18.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Former</td><td align="left" valign="top" rowspan="1" colspan="1">2092 (44.1)</td><td align="left" valign="top" rowspan="1" colspan="1">1770 (42.6)</td><td align="left" valign="top" rowspan="1" colspan="1">322 (55.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Current</td><td align="left" valign="top" rowspan="1" colspan="1">693 (14.6)</td><td align="left" valign="top" rowspan="1" colspan="1">535 (12.9)</td><td align="left" valign="top" rowspan="1" colspan="1">158 (27.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">KCCQ‐TSS</td><td align="left" valign="top" rowspan="1" colspan="1">77 (58–92)</td><td align="left" valign="top" rowspan="1" colspan="1">79 (60–93)</td><td align="left" valign="top" rowspan="1" colspan="1">71 (53–85)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NYHA class III/IV</td><td align="left" valign="top" rowspan="1" colspan="1">1541 (32.5)</td><td align="left" valign="top" rowspan="1" colspan="1">1292 (31.1)</td><td align="left" valign="top" rowspan="1" colspan="1">249 (42.6)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LVEF (%)</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">31.1 ± 6.8</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">31.0 ± 6.8</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">31.6 ± 6.8</td><td align="left" valign="top" rowspan="1" colspan="1">0.036</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NT‐proBNP (pg/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">1437 (857–2650)</td><td align="left" valign="top" rowspan="1" colspan="1">1418 (850–2616)</td><td align="left" valign="top" rowspan="1" colspan="1">1574 (893–2807)</td><td align="left" valign="top" rowspan="1" colspan="1">0.021</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No AF</td><td align="left" valign="top" rowspan="1" colspan="1">1254 (744–2341)</td><td align="left" valign="top" rowspan="1" colspan="1">1237 (739–2270)</td><td align="left" valign="top" rowspan="1" colspan="1">1493 (808–2845)</td><td align="left" valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">With AF</td><td align="left" valign="top" rowspan="1" colspan="1">1792 (1107–3056)</td><td align="left" valign="top" rowspan="1" colspan="1">1798 (1114–3097)</td><td align="left" valign="top" rowspan="1" colspan="1">1704 (1044–2765)</td><td align="left" valign="top" rowspan="1" colspan="1">0.18</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">eGFR (mL/min/1.73 m<sup>2</sup>)</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">65.8 ± 19.4</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">66.1 ± 19.4</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">63.4 ± 19.4</td><td align="left" valign="top" rowspan="1" colspan="1">0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">eGFR &lt;60 mL/min/1.73 m<sup>2</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1926 (40.6)</td><td align="left" valign="top" rowspan="1" colspan="1">1652 (39.7)</td><td align="left" valign="top" rowspan="1" colspan="1">274 (46.9)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Creatinine (µmol/L)</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">104.4 ± 30.4</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">104.0 ± 30.0</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">107.6 ± 32.8</td><td align="left" valign="top" rowspan="1" colspan="1">0.007</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Haemoglobin (g/L)</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">135.5 ± 16.2</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">135.5 ± 16.2</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">135.8 ± 16.4</td><td align="left" valign="top" rowspan="1" colspan="1">0.63</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Potassium (mmol/L)</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">4.5 ± 0.5</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">4.5 ± 0.5</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">4.5 ± 0.5</td><td align="left" valign="top" rowspan="1" colspan="1">0.60</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diuretic</td><td align="left" valign="top" rowspan="1" colspan="1">4433 (93.4)</td><td align="left" valign="top" rowspan="1" colspan="1">3885 (93.4)</td><td align="left" valign="top" rowspan="1" colspan="1">548 (93.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.81</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ACEI</td><td align="left" valign="top" rowspan="1" colspan="1">2661 (56.1)</td><td align="left" valign="top" rowspan="1" colspan="1">2340 (56.3)</td><td align="left" valign="top" rowspan="1" colspan="1">321 (54.9)</td><td align="left" valign="top" rowspan="1" colspan="1">0.53</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ARB</td><td align="left" valign="top" rowspan="1" colspan="1">1307 (27.6)</td><td align="left" valign="top" rowspan="1" colspan="1">1161 (27.9)</td><td align="left" valign="top" rowspan="1" colspan="1">146 (25.0)</td><td align="left" valign="top" rowspan="1" colspan="1">0.13</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ARNI</td><td align="left" valign="top" rowspan="1" colspan="1">508 (10.7)</td><td align="left" valign="top" rowspan="1" colspan="1">437 (10.5)</td><td align="left" valign="top" rowspan="1" colspan="1">71 (12.1)</td><td align="left" valign="top" rowspan="1" colspan="1">0.23</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Beta‐blocker</td><td align="left" valign="top" rowspan="1" colspan="1">4558 (96.1)</td><td align="left" valign="top" rowspan="1" colspan="1">4018 (96.6)</td><td align="left" valign="top" rowspan="1" colspan="1">540 (92.3)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">≥50% of target dose</td><td align="left" valign="top" rowspan="1" colspan="1">2349 (51.5)</td><td align="left" valign="top" rowspan="1" colspan="1">2066 (51.4)</td><td align="left" valign="top" rowspan="1" colspan="1">283 (52.4)</td><td align="left" valign="top" rowspan="1" colspan="1">0.67</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Beta‐1 selective<xref ref-type="fn" rid="ejhf2083-note-0004">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2779 (58.6)</td><td align="left" valign="top" rowspan="1" colspan="1">2427 (58.4)</td><td align="left" valign="top" rowspan="1" colspan="1">352 (60.2)</td><td align="left" valign="top" rowspan="1" colspan="1">0.42</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Non‐selective<xref ref-type="fn" rid="ejhf2083-note-0004">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1775 (37.4)</td><td align="left" valign="top" rowspan="1" colspan="1">1587 (38.2)</td><td align="left" valign="top" rowspan="1" colspan="1">188 (32.1)</td><td align="left" valign="top" rowspan="1" colspan="1">0.005</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MRAs</td><td align="left" valign="top" rowspan="1" colspan="1">3370 (71.0)</td><td align="left" valign="top" rowspan="1" colspan="1">2987 (71.8)</td><td align="left" valign="top" rowspan="1" colspan="1">383 (65.5)</td><td align="left" valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Digoxin</td><td align="left" valign="top" rowspan="1" colspan="1">887 (18.7)</td><td align="left" valign="top" rowspan="1" colspan="1">786 (18.9)</td><td align="left" valign="top" rowspan="1" colspan="1">101 (17.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0.34</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ivabradine</td><td align="left" valign="top" rowspan="1" colspan="1">228 (4.8)</td><td align="left" valign="top" rowspan="1" colspan="1">203 (4.9)</td><td align="left" valign="top" rowspan="1" colspan="1">25 (4.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0.52</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PCI</td><td align="left" valign="top" rowspan="1" colspan="1">1624 (34.2)</td><td align="left" valign="top" rowspan="1" colspan="1">1415 (34.0)</td><td align="left" valign="top" rowspan="1" colspan="1">209 (35.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.42</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CABG</td><td align="left" valign="top" rowspan="1" colspan="1">799 (16.8)</td><td align="left" valign="top" rowspan="1" colspan="1">687 (16.5)</td><td align="left" valign="top" rowspan="1" colspan="1">112 (19.1)</td><td align="left" valign="top" rowspan="1" colspan="1">0.11</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CRT</td><td align="left" valign="top" rowspan="1" colspan="1">354 (7.5)</td><td align="left" valign="top" rowspan="1" colspan="1">305 (7.3)</td><td align="left" valign="top" rowspan="1" colspan="1">49 (8.4)</td><td align="left" valign="top" rowspan="1" colspan="1">0.37</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ICD</td><td align="left" valign="top" rowspan="1" colspan="1">953 (20.1)</td><td align="left" valign="top" rowspan="1" colspan="1">830 (20.0)</td><td align="left" valign="top" rowspan="1" colspan="1">123 (21.0)</td><td align="left" valign="top" rowspan="1" colspan="1">0.55</td></tr></tbody></table><table-wrap-foot id="ejhf2083-ntgp-0002"><fn id="ejhf2083-note-0002"><p>Data are given as mean ± standard deviation or median (interquartile range) for continuous measures, and <italic toggle="yes">n</italic> (%) for categorical measures.</p></fn><fn id="ejhf2083-note-0003"><p>ACEI, angiotensin‐converting enzyme inhibitor; AF, atrial fibrillation; ARB, angiotensin receptor blocker; ARNI, angiotensin receptor–neprilysin inhibitor; BMI, body mass index; CABG, coronary artery bypass graft; COPD, chronic obstructive pulmonary disease; CRT, cardiac resynchronization therapy; DBP, diastolic blood pressure; eGFR, estimated glomerular filtration rate; HF, heart failure; HR, heart rate; ICD, implantable cardioverter‐defibrillator; KCCQ‐TSS, Kansas City Cardiomyopathy Questionnaire total symptom score; MRA, mineralocorticoid receptor antagonist; NT‐proBNP, N‐terminal pro B‐type natriuretic peptide; NYHA, New York Heart Association; PCI, percutaneous coronary intervention; SBP, systolic blood pressure.</p></fn><fn id="ejhf2083-note-0004"><label><sup>a</sup></label><p>Four excluded.</p></fn></table-wrap-foot></table-wrap><p>Among patients with COPD, 213 (36.4%) were treated with inhaled beta‐agonist, 138 (23.6%) with muscarinic antagonist, and 71 (12.1%) with a corticosteroid (online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf2083-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>).</p><p>Baseline characteristics were similar in patients with and without COPD randomized to placebo and dapagliflozin (online supplementary <italic toggle="yes">Table</italic> <xref rid="ejhf2083-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>).</p><p>Of the 585 patients with COPD, investigators also reported a diagnosis of asthma in 56 and an additional 133 patients had an investigator‐reported diagnosis of asthma only (online supplementary <italic toggle="yes">Tables</italic> <xref rid="ejhf2083-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S2</italic> and <italic toggle="yes">S3</italic>
+</xref>). Patients with asthma only compared to COPD were distinct in several respects, e.g. younger, more likely to be female and much less frequent smoking history. There were also some similarities between patients with COPD and asthma (as compared to patients without COPD/asthma), including worse KCCQ score, lower eGFR and higher prevalence of atrial fibrillation. Although beta‐blocker use was high (91.0%) in patients with asthma only, it was lower than in any other group. Conversely, the use of corticosteroids was highest in patients with asthma, compared with COPD only.</p></sec><sec id="ejhf2083-sec-0012"><title>Hospitalization and mortality outcomes in patients with and without chronic obstructive pulmonary disease</title><sec id="ejhf2083-sec-0013"><title>Primary outcome</title><p>The incidence rate (per 100 person‐years) of the primary composite outcome was higher in patients with COPD than in those without [18.9, 95% confidence interval (CI) 16.0–22.2 vs. 13.0, 95% CI 12.1–14.0] (<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>, <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>, <italic toggle="yes">Graphical Abstract</italic> and online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S1</italic>
+</xref>). Elevated risk persisted after adjustment for other prognostic variables and use of a beta‐blocker or MRA. The elevation of risk was somewhat higher when recurrent events were included (<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>). <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-fig-0002" ref-type="fig">
+<italic toggle="yes">2</italic>
+</xref> shows the excess risk associated with COPD was similar to the risk associated with chronic kidney disease and diabetes, and greater than the other comorbidities examined.</p><table-wrap id="ejhf2083-tbl-0002" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 2</label><caption><p>Clinical outcomes according to chronic obstructive pulmonary disease status</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" char="(" span="1" /><col align="left" char="(" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">Without COPD(<italic toggle="yes">n</italic> = 4159)</th><th align="left" valign="bottom" rowspan="1" colspan="1">With COPD(<italic toggle="yes">n</italic> = 585)</th></tr></thead><tbody valign="top"><tr><td colspan="3" align="left" valign="top" rowspan="1">Primary outcome</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">744 (17.9)</td><td align="left" valign="top" rowspan="1" colspan="1">144 (24.6)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐ years</td><td align="left" valign="top" rowspan="1" colspan="1">13.0 (12.1–14.0)</td><td align="left" valign="top" rowspan="1" colspan="1">18.9 (16.0–22.2)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.44 (1.21–1.72)</p>
+<p>&lt;0.001</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐1</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.26 (1.05–1.52)</p>
+<p>0.014</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.24 (1.03–1.50)</p>
+<p>0.023</p>
+</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">Worsening HF event</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">456 (11.0)</td><td align="left" valign="top" rowspan="1" colspan="1">107 (18.3)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">8.0 (7.3–8.8)</td><td align="left" valign="top" rowspan="1" colspan="1">14.0 (11.6–17.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.74 (1.41–2.15)</p>
+<p>&lt;0.001</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐1</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.53 (1.22–1.90)</p>
+<p>&lt;0.001</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.51 (1.21–1.89)</p>
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">First HF hospitalization</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">443 (10.7)</td><td align="left" valign="top" rowspan="1" colspan="1">106 (18.1)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">7.7 (7.1–8.5)</td><td align="left" valign="top" rowspan="1" colspan="1">13.9 (11.5–16.8)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.78 (1.44–2.20)</p>
+<p>&lt;0.001</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐1</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.58 (1.26–1.97)</p>
+<p>&lt;0.001</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.57 (1.25–1.96)</p>
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">Urgent visit for HF</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">30 (0.7)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (0.5)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">0.5 (0.4–0.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.4 (0.1–1.1)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td align="left" valign="top" rowspan="1" colspan="1">1.00(ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>0.75 (0.23–2.45)</p>
+<p>0.629</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐1</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>0.63 (0.19–2.12)</p>
+<p>0.453</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>0.54 (0.16–1.86)</p>
+<p>0.332</p>
+</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">CV death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">424 (10.2)</td><td align="left" valign="top" rowspan="1" colspan="1">76 (13.0)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">7.1 (6.4–7.8)</td><td align="left" valign="top" rowspan="1" colspan="1">9.1 (7.2–11.4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.28 (1.00–1.63)</p>
+<p>0.049</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐1</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.10 (0.85–1.42)</p>
+<p>0.453</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.08 (0.84–1.39)</p>
+<p>0.553</p>
+</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">Total HF hospitalization/CV death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events, <italic toggle="yes">n</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">1070</td><td align="left" valign="top" rowspan="1" colspan="1">239</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">17.9 (16.8–19.0)</td><td align="left" valign="top" rowspan="1" colspan="1">28.8 (25.3–32.7)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">RR</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.59 (1.31–1.93)</p>
+<p>&lt;0.001</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">RR‐1</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.40 (1.15–1.72)</p>
+<p>0.001</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">RR‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.39 (1.14–1.70)</p>
+<p>0.001</p>
+</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">Non‐CV death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">74 (1.8)</td><td align="left" valign="top" rowspan="1" colspan="1">31 (5.3)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">1.2 (1.0–1.5)</td><td align="left" valign="top" rowspan="1" colspan="1">3.7 (2.6–5.2)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>2.99 (1.97–4.56)</p>
+<p>&lt;0.001</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐1</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>2.18 (1.38–3.42)</p>
+<p>0.001</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>2.23 (1.42–3.51)</p>
+<p>0.001</p>
+</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">All‐cause death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">498 (12.0)</td><td align="left" valign="top" rowspan="1" colspan="1">107 (18.3)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">8.3 (7.6–9.1)</td><td align="left" valign="top" rowspan="1" colspan="1">12.7 (10.5–15.4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.53 (1.25–1.89)</p>
+<p>&lt;0.001</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐1</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.27 (1.02–1.58)</p>
+<p>0.031</p>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR‐2</td><td align="left" valign="top" rowspan="1" colspan="1">1.00 (ref.)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1.26 (1.01–1.57)</p>
+<p>0.041</p>
+</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">KCCQ total symptom score (change assessed at 8 months)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mean change ± SD</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">4.8 ± 18.9</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">4.1 ± 19.8</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Difference<xref ref-type="fn" rid="ejhf2083-note-0010">
+<sup>a</sup>
+</xref>
+</td><td colspan="2" align="char" char="." valign="top" rowspan="1">−0.67 (−2.52–1.18)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Proportion with ≥5 increase</td><td align="char" char="." valign="top" rowspan="1" colspan="1">55.4</td><td align="char" char="." valign="top" rowspan="1" colspan="1">49.0</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Proportion with ≥5 decrease</td><td align="char" char="." valign="top" rowspan="1" colspan="1">28.3</td><td align="char" char="." valign="top" rowspan="1" colspan="1">35.0</td></tr></tbody></table><table-wrap-foot id="ejhf2083-ntgp-0003"><fn id="ejhf2083-note-0005"><p>COPD, chronic obstructive pulmonary disease; CV, cardiovascular; HF, heart failure; HR, hazard ratio; KCCQ, Kansas City Cardiomyopathy Questionnaire; RR, rate ratio; SD, standard deviation.</p></fn><fn id="ejhf2083-note-0006"><p>Risk and rate ratios adjusted for randomized treatment and previous HF hospitalization at baseline (except non‐CV and all‐cause death) and stratified by diabetes status.</p></fn><fn id="ejhf2083-note-0007"><p>Worsening HF event‐HF hospitalization/urgent visit requiring intravenous therapy for HF.</p></fn><fn id="ejhf2083-note-0008"><p>Model 1 adjusted for age, sex, region, systolic blood pressure, history of atrial fibrillation, New York Heart Association class III/IV, left ventricular ejection fraction, N‐terminal pro B‐type natriuretic peptide (log), estimated glomerular filtration rate and smoking status.</p></fn><fn id="ejhf2083-note-0009"><p>Model 2 adjusted the same as Model 1 and for baseline beta‐blocker and mineralocorticoid receptor antagonist prescription.</p></fn><fn id="ejhf2083-note-0010"><label><sup>a</sup></label><p>Indicates difference in means between patients with COPD and without COPD.</p></fn></table-wrap-foot></table-wrap><fig fig-type="Figure" xml:lang="en" id="ejhf2083-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Efficacy of dapagliflozin in DAPA‐HF according to chronic obstructive pulmonary disease (COPD) status at baseline. HF, heart failure.</p></caption><graphic id="jats-graphic-3" position="float" orientation="portrait" ns1:href="EJHF-23-632-g003.jpg"><alt-text>EJHF-2083-FIG-0001-c</alt-text></graphic></fig><fig fig-type="Figure" xml:lang="en" id="ejhf2083-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Risk of primary outcome and all‐cause mortality associated with major comorbidities.</p></caption><graphic id="jats-graphic-5" position="float" orientation="portrait" ns1:href="EJHF-23-632-g001.jpg"><alt-text>EJHF-2083-FIG-0002-c</alt-text></graphic></fig></sec><sec id="ejhf2083-sec-0014"><title>Worsening heart failure events</title><p>Adjusted risk of a worsening HF event was also significantly higher in patients with COPD, compared to those without.</p></sec><sec id="ejhf2083-sec-0015"><title>Mortality</title><p>By contrast, the crude incidence of CV death was only slightly higher in patients with COPD and the adjusted risk was not significantly elevated. However, unadjusted and adjusted risk of death from any cause was higher in patients with COPD, because of a substantially elevated (twofold) risk of non‐CV death (<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>). The excess of non‐CV causes of death in patients with COPD were those attributed to infection and ‘other’ (online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S2</italic>
+</xref>).</p><p>Mortality and hospitalization rates for patients with asthma only (compared with COPD only) are shown in online supplementary <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">S3</italic>
+</xref>. Due to the small number of individuals in the latter group (<italic toggle="yes">n</italic> = 133), formal statistical testing was not done although the rate of HF hospitalization seemed to be almost as high in patients with COPD (but mortality was similar to patients without COPD or asthma).</p></sec></sec><sec id="ejhf2083-sec-0016"><title>Symptoms and quality of life assessed using the Kansas City Cardiomyopathy Questionnaire in patients with and without chronic obstructive pulmonary disease</title><p>
+<italic toggle="yes">Figure</italic> <xref rid="ejhf2083-fig-0003" ref-type="fig">
+<italic toggle="yes">3</italic>
+<italic toggle="yes">A</italic>
+</xref> shows the impact of COPD on self‐reported health status. All but one of the KCCQ domains were significantly worse in patients with COPD, compared to those without. <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-fig-0003" ref-type="fig">
+<italic toggle="yes">3</italic>
+<italic toggle="yes">B</italic>
+</xref> shows health status in patients with COPD, compared with other common comorbidities. Each of the KCCQ scores was lower (worse) in patients with COPD than in participants with other comorbidities.</p><fig fig-type="Figure" xml:lang="en" id="ejhf2083-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(<italic toggle="yes">A</italic>) Individual Kansas City Cardiomyopathy Questionnaire (KCCQ) domain scores at baseline by chronic obstructive pulmonary disease (COPD) status. (<italic toggle="yes">B</italic>) Baseline KCCQ scores associated with major comorbidities.</p></caption><graphic id="jats-graphic-7" position="float" orientation="portrait" ns1:href="EJHF-23-632-g004.jpg"><alt-text>EJHF-2083-FIG-0003-c</alt-text></graphic></fig></sec><sec id="ejhf2083-sec-0017"><title>Effects of dapagliflozin on hospitalization and mortality outcomes</title><p>
+<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref> and <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref> show the effect of dapagliflozin vs. placebo on pre‐specified outcomes, according to COPD status.</p><table-wrap id="ejhf2083-tbl-0003" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 3</label><caption><p>Clinical outcomes according to randomized treatment in patients with and without chronic obstructive pulmonary disease</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" char="(" span="1" /><col align="left" char="(" span="1" /><col align="left" char="(" span="1" /><col align="left" char="(" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="top" colspan="1" /><th colspan="2" align="left" valign="bottom" rowspan="1">Without COPD</th><th colspan="2" align="left" valign="bottom" rowspan="1">With COPD</th><th rowspan="2" align="left" valign="top" colspan="1">Interaction <italic toggle="yes">P</italic>‐value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 2085)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dapagliflozin (<italic toggle="yes">n</italic> = 2074)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 286)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dapagliflozin (<italic toggle="yes">n</italic> = 299)</th></tr></thead><tbody valign="top"><tr><td colspan="6" align="left" valign="top" rowspan="1">Primary outcome</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events (%)</td><td align="left" valign="top" rowspan="1" colspan="1">419 (20.1)</td><td align="left" valign="top" rowspan="1" colspan="1">325 (15.7)</td><td align="left" valign="top" rowspan="1" colspan="1">83 (29.0)</td><td align="left" valign="top" rowspan="1" colspan="1">61 (20.4)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">14.9 (13.5–16.4)</td><td align="left" valign="top" rowspan="1" colspan="1">11.2 (10.1–12.5)</td><td align="left" valign="top" rowspan="1" colspan="1">22.8 (18.4–28.3)</td><td align="left" valign="top" rowspan="1" colspan="1">15.3 (11.9–19.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td colspan="2" align="left" valign="top" rowspan="1">0.76 (0.65–0.87)</td><td colspan="2" align="left" valign="top" rowspan="1">0.67 (0.48–0.93)</td><td align="left" valign="top" rowspan="1" colspan="1">0.47</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">Worsening HF event</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events (%)</td><td align="left" valign="top" rowspan="1" colspan="1">262 (12.6)</td><td align="left" valign="top" rowspan="1" colspan="1">194 (9.4)</td><td align="left" valign="top" rowspan="1" colspan="1">64 (22.4)</td><td align="left" valign="top" rowspan="1" colspan="1">43 (14.4)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">9.3 (8.2–10.5)</td><td align="left" valign="top" rowspan="1" colspan="1">6.7 (5.8–7.7)</td><td align="left" valign="top" rowspan="1" colspan="1">17.6 (13.8–22.5)</td><td align="left" valign="top" rowspan="1" colspan="1">10.8 (8.0–14.6)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td colspan="2" align="left" valign="top" rowspan="1">0.72 (0.60–0.87)</td><td colspan="2" align="left" valign="top" rowspan="1">0.61 (0.41–0.90)</td><td align="left" valign="top" rowspan="1" colspan="1">0.42</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">First HF hospitalization</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events (%)</td><td align="left" valign="top" rowspan="1" colspan="1">254 (12.2)</td><td align="left" valign="top" rowspan="1" colspan="1">189 (9.1)</td><td align="left" valign="top" rowspan="1" colspan="1">64 (22.4)</td><td align="left" valign="top" rowspan="1" colspan="1">42 (14.1)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">9.0 (8.0–10.2)</td><td align="left" valign="top" rowspan="1" colspan="1">6.5 (5.7–7.5)</td><td align="left" valign="top" rowspan="1" colspan="1">17.5 (13.7–22.4)</td><td align="left" valign="top" rowspan="1" colspan="1">10.5 (7.8–14.3)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td colspan="2" align="left" valign="top" rowspan="1">0.73 (0.60–0.88)</td><td colspan="2" align="left" valign="top" rowspan="1">0.59 (0.40–0.88)</td><td align="left" valign="top" rowspan="1" colspan="1">0.35</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">CV death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events (%)</td><td align="left" valign="top" rowspan="1" colspan="1">235 (11.3)</td><td align="left" valign="top" rowspan="1" colspan="1">189 (9.1)</td><td align="left" valign="top" rowspan="1" colspan="1">38 (13.3)</td><td align="left" valign="top" rowspan="1" colspan="1">38 (12.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">7.9 (6.9–8.9)</td><td align="left" valign="top" rowspan="1" colspan="1">6.3 (5.4–7.2)</td><td align="left" valign="top" rowspan="1" colspan="1">9.3 (6.7–12.7)</td><td align="left" valign="top" rowspan="1" colspan="1">8.9 (6.5–12.2)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td colspan="2" align="left" valign="top" rowspan="1">0.80 (0.66–0.97)</td><td colspan="2" align="left" valign="top" rowspan="1">0.96 (0.61–1.51)</td><td align="left" valign="top" rowspan="1" colspan="1">0.47</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">Total HF hospitalization/CV death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events</td><td align="left" valign="top" rowspan="1" colspan="1">605</td><td align="left" valign="top" rowspan="1" colspan="1">465</td><td align="left" valign="top" rowspan="1" colspan="1">137</td><td align="left" valign="top" rowspan="1" colspan="1">102</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">20.3 (18.2–22.7)</td><td align="left" valign="top" rowspan="1" colspan="1">15.5 (13.7–17.5)</td><td align="left" valign="top" rowspan="1" colspan="1">33.8 (27.0–42.9)</td><td align="left" valign="top" rowspan="1" colspan="1">24.0 (18.2–32.1)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">RR</td><td colspan="2" align="left" valign="top" rowspan="1">0.76 (0.65–0.90)</td><td colspan="2" align="left" valign="top" rowspan="1">0.71 (0.50–1.03)</td><td align="left" valign="top" rowspan="1" colspan="1">0.71</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">KCCQ total symptom score (change assessed at 8 months)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mean change ± SD</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">3.4 ± 19.2</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">6.2 ± 18.4</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">2.4 ± 19.2</td><td align="char" char="±" valign="top" rowspan="1" colspan="1">5.8 ± 20.2</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Between treatment difference</td><td colspan="2" align="left" valign="top" rowspan="1">2.73 (1.47–3.99)</td><td colspan="2" align="left" valign="top" rowspan="1">3.42 (−0.19–7.04)</td><td align="left" valign="top" rowspan="1" colspan="1">0.71</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Proportion with ≥5 score increase</td><td align="char" char="." valign="top" rowspan="1" colspan="1">51.7</td><td align="char" char="." valign="top" rowspan="1" colspan="1">59.2</td><td align="char" char="." valign="top" rowspan="1" colspan="1">45.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">52.2</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1" /><td colspan="2" align="left" valign="top" rowspan="1">1.16 (1.08–1.24)</td><td colspan="2" align="left" valign="top" rowspan="1">1.14 (0.96–1.36)</td><td align="left" valign="top" rowspan="1" colspan="1">0.87</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Proportion with ≥5 score decrease</td><td align="char" char="." valign="top" rowspan="1" colspan="1">31.9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">24.6</td><td align="char" char="." valign="top" rowspan="1" colspan="1">39.9</td><td align="char" char="." valign="top" rowspan="1" colspan="1">30.3</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1" /><td colspan="2" align="left" valign="top" rowspan="1">0.84 (0.78–0.90)</td><td colspan="2" align="left" valign="top" rowspan="1">0.81 (0.68–0.96)</td><td align="left" valign="top" rowspan="1" colspan="1">0.69</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">All‐cause death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events (%)</td><td align="left" valign="top" rowspan="1" colspan="1">272 (13.1)</td><td align="left" valign="top" rowspan="1" colspan="1">226 (10.9)</td><td align="left" valign="top" rowspan="1" colspan="1">57 (19.9)</td><td align="left" valign="top" rowspan="1" colspan="1">50 (16.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate/100 person‐years</td><td align="left" valign="top" rowspan="1" colspan="1">9.1 (8.1–10.2)</td><td align="left" valign="top" rowspan="1" colspan="1">7.5 (6.6–8.5)</td><td align="left" valign="top" rowspan="1" colspan="1">13.8 (10.7–17.9)</td><td align="left" valign="top" rowspan="1" colspan="1">11.7 (8.8–15.4)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR</td><td colspan="2" align="left" valign="top" rowspan="1">0.83 (0.69–0.99)</td><td colspan="2" align="left" valign="top" rowspan="1">0.83 (0.57–1.22)</td><td align="left" valign="top" rowspan="1" colspan="1">0.96</td></tr></tbody></table><table-wrap-foot id="ejhf2083-ntgp-0004"><fn id="ejhf2083-note-0011"><p>COPD, chronic obstructive pulmonary disease; CV, cardiovascular; HF, heart failure; HR, hazard ratio; KCCQ, Kansas City Cardiomyopathy Questionnaire; RR, rate ratio; SD, standard deviation.</p></fn><fn id="ejhf2083-note-0012"><p>Risk and rate ratios adjusted for previous HF hospitalization at baseline (except all‐cause death) and stratified by diabetes status.</p></fn><fn id="ejhf2083-note-0013"><p>Worsening HF event‐HF hospitalization/urgent visit requiring intravenous therapy for HF.</p></fn></table-wrap-foot></table-wrap><sec id="ejhf2083-sec-0018"><title>Primary outcome</title><p>The effect of dapagliflozin, compared with placebo, on the primary outcome was consistent in patients with COPD [hazard ratio (HR) 0.67, 95% CI 0.48–0.93] and without COPD (HR 0.76, 95% CI 0.65–0.87; interaction <italic toggle="yes">P</italic>‐value 0.47) (<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref> and <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>).</p></sec><sec id="ejhf2083-sec-0019"><title>Worsening heart failure events</title><p>The benefit of dapagliflozin, compared with placebo, on worsening HF events was also consistent in patients with and without COPD (<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref> and <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>).</p></sec><sec id="ejhf2083-sec-0020"><title>Mortality</title><p>The effects of dapagliflozin on CV (interaction <italic toggle="yes">P</italic>‐value 0.47) and all‐cause mortality (interaction <italic toggle="yes">P</italic>‐value 0.96) were also consistent in patients with and without COPD (<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref> and <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>).</p></sec></sec><sec id="ejhf2083-sec-0021"><title>Effect of dapagliflozin on symptoms and quality of life assessed using the Kansas City Cardiomyopathy Questionnaire</title><p>In the pre‐specified KCCQ analysis, the improvement in KCCQ‐TSS with dapagliflozin, compared to placebo, was similar in patients with and without COPD (interaction <italic toggle="yes">P</italic>‐value 0.87) and the same was true for the exploratory analyses of KCCQ‐CSS and KCCQ‐OSS (<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref> and <italic toggle="yes">Figure</italic> <xref rid="ejhf2083-fig-0004" ref-type="fig">
+<italic toggle="yes">4</italic>
+</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ejhf2083-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Effect of randomized treatment on change in Kansas City Cardiomyopathy Questionnaire (KCCQ) scores from baseline to 8 months according to chronic obstructive pulmonary disease (COPD) status.</p></caption><graphic id="jats-graphic-9" position="float" orientation="portrait" ns1:href="EJHF-23-632-g002.jpg"><alt-text>EJHF-2083-FIG-0004-c</alt-text></graphic></fig></sec><sec id="ejhf2083-sec-0022"><title>Absolute benefits of dapagliflozin in patients with and without chronic obstructive pulmonary disease</title><p>Applying the overall relative risk reduction (26%) to the placebo group event rate in those with COPD gave an absolute risk reduction of 5.9 fewer patients experiencing a primary outcome per 100 person‐years. The equivalent reduction in patients without COPD was 3.9 fewer patients per 100 person‐years.</p><p>Applying the overall relative risk reduction (30%) to the placebo group event rate in participants with COPD gave an absolute risk reduction of 5.3 fewer patients experiencing a worsening HF event, per 100 person‐years of follow‐up. The equivalent reduction in patients without COPD was 2.8 per 100 person‐years.</p><p>The equivalent figures for death from any cause were 2.3 fewer per 100 person‐years patients with COPD and 1.5 fewer per 100 person‐years in patients without COPD.</p></sec><sec id="ejhf2083-sec-0023"><title>Pre‐specified safety assessments</title><p>The proportion of patients stopping study drug for any reason in the placebo group was higher in patients with COPD, compared to those without COPD (<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0004" ref-type="table">
+<italic toggle="yes">4</italic>
+</xref>). However, the rate of discontinuation was similar between dapagliflozin and placebo in patients with and without COPD (interaction <italic toggle="yes">P</italic>‐value 0.57).</p><table-wrap id="ejhf2083-tbl-0004" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 4</label><caption><p>Pre‐specified safety outcomes and discontinuation according to randomized treatment and chronic obstructive pulmonary disease status<xref ref-type="fn" rid="ejhf2083-note-0016">
+<sup>a</sup>
+</xref>
+</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" char="(" span="1" /><col align="left" char="(" span="1" /><col align="left" char="(" span="1" /><col align="left" char="(" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="top" colspan="1" /><th colspan="2" align="left" valign="bottom" rowspan="1">Without COPD</th><th colspan="2" align="left" valign="bottom" rowspan="1">With COPD</th><th rowspan="2" align="left" valign="top" colspan="1">Interaction <italic toggle="yes">P</italic>‐value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 2083)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dapagliflozin (<italic toggle="yes">n</italic> = 2071)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 285)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dapagliflozin (<italic toggle="yes">n</italic> = 297)</th></tr></thead><tbody valign="top"><tr><td colspan="6" align="left" valign="top" rowspan="1">Any study drug discontinuation</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events (%)</td><td align="left" valign="top" rowspan="1" colspan="1">219/2085 (10.5)</td><td align="left" valign="top" rowspan="1" colspan="1">214/2074 (10.3)</td><td align="left" valign="top" rowspan="1" colspan="1">39/286 (13.6)</td><td align="left" valign="top" rowspan="1" colspan="1">35/299 (11.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">OR</td><td colspan="2" align="left" valign="top" rowspan="1">0.98 (0.80–1.20)</td><td colspan="2" align="left" valign="top" rowspan="1">0.84 (0.51–1.38)</td><td align="left" valign="top" rowspan="1" colspan="1">0.57</td></tr><tr><td colspan="6" align="char" char="." valign="top" rowspan="1">AE related study drug discontinuation</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events (%)</td><td align="left" valign="top" rowspan="1" colspan="1">95 (4.6)</td><td align="left" valign="top" rowspan="1" colspan="1">93 (4.5)</td><td align="left" valign="top" rowspan="1" colspan="1">21 (7.4)</td><td align="left" valign="top" rowspan="1" colspan="1">18 (6.1)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">OR</td><td colspan="2" align="left" valign="top" rowspan="1">0.98 (0.73–1.32)</td><td colspan="2" align="left" valign="top" rowspan="1">0.80 (0.42–1.54)</td><td align="left" valign="top" rowspan="1" colspan="1">0.59</td></tr><tr><td colspan="6" align="char" char="." valign="top" rowspan="1">Volume depletion</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events (%)</td><td align="left" valign="top" rowspan="1" colspan="1">140 (6.7)</td><td align="left" valign="top" rowspan="1" colspan="1">153 (7.4)</td><td align="left" valign="top" rowspan="1" colspan="1">22 (7.7)</td><td align="left" valign="top" rowspan="1" colspan="1">25 (8.4)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">OR</td><td colspan="2" align="left" valign="top" rowspan="1">1.11 (0.87–1.41)</td><td colspan="2" align="left" valign="top" rowspan="1">1.08 (0.59–1.97)</td><td align="left" valign="top" rowspan="1" colspan="1">0.96</td></tr><tr><td colspan="6" align="char" char="." valign="top" rowspan="1">Renal AE</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Events (%)</td><td align="left" valign="top" rowspan="1" colspan="1">137 (6.6)</td><td align="left" valign="top" rowspan="1" colspan="1">123 (5.9)</td><td align="left" valign="top" rowspan="1" colspan="1">33 (11.6)</td><td align="left" valign="top" rowspan="1" colspan="1">30 (10.1)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">OR</td><td colspan="2" align="left" valign="top" rowspan="1">0.90 (0.70–1.16)</td><td colspan="2" align="left" valign="top" rowspan="1">0.84 (0.50–1.42)</td><td align="left" valign="top" rowspan="1" colspan="1">0.81</td></tr></tbody></table><table-wrap-foot id="ejhf2083-ntgp-0005"><fn id="ejhf2083-note-0014"><p>AE, adverse event; COPD, chronic obstructive pulmonary disease; OR, odds ratio.</p></fn><fn id="ejhf2083-note-0015"><p>OR (95% confidence interval) adjusted for baseline diabetes status.</p></fn><fn id="ejhf2083-note-0016"><label><sup>a</sup></label><p>Only in safety set except for discontinuation due to any cause.</p></fn></table-wrap-foot></table-wrap><p>Adverse events related to volume depletion were reported in 7.7% of the placebo group and in 8.4% in the dapagliflozin group in patients with COPD, compared to 6.7% and 7.4%, respectively, in patients without COPD (<italic toggle="yes">Table</italic> <xref rid="ejhf2083-tbl-0004" ref-type="table">
+<italic toggle="yes">4</italic>
+</xref> and <italic toggle="yes">Graphical Abstract</italic>). The rate of renal AEs was numerically (but not significantly) lower in patients treated with dapagliflozin, compared with placebo, both in patients with and without COPD (interaction <italic toggle="yes">P</italic>‐value 0.81).</p></sec></sec><sec id="ejhf2083-sec-0024"><title>Discussion</title><p>In DAPA‐HF, patients with COPD were older and more commonly men with a history of smoking and atrial fibrillation and had worse renal function and a higher NT‐proBNP level, than participants without COPD. Patients with COPD were slightly less likely to be treated with a beta‐blocker or MRA and had more severe functional limitation and impairment of quality of life than participants without COPD. During follow‐up, patients with COPD experienced higher rates of the primary composite endpoint and key secondary endpoints; fewer had a clinically meaningful improvement (and more deterioration) in symptoms and quality of life, compared to those without COPD. Efficacy and tolerability of dapagliflozin were consistent in participants with and without COPD, with greater absolute risk reductions in hospitalization and death in COPD patients due to their higher overall event rates. Mean improvements in symptoms and quality of life were numerically larger in patients with COPD, compared to those without.</p><p>In DAPA‐HF, 12.3% of patients had concomitant COPD, very similar to the frequency reported in most other trials, including PARADIGM‐HF, where prevalence was 12.9%.<xref rid="ejhf2083-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="ejhf2083-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="ejhf2083-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="ejhf2083-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="ejhf2083-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="ejhf2083-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> However, this is likely to be lower than the true prevalence of COPD in unselected patients with HFrEF for two reasons. First, the inclusion and exclusion criteria used in trials, including the requirement for patients to be treated with beta‐blocker, unless contraindicated or not tolerated, likely led to under‐enrolment of patients with severe COPD. Second, use of spirometry would likely have detected undiagnosed COPD. However, the prevalence of COPD in recent registry studies has not been much higher. In the European Society of Cardiology HF Long‐Term Registry, the prevalence of COPD was 14.1%.<xref rid="ejhf2083-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> Moreover, 23% of patients in that registry had HF with preserved ejection fraction (HFpEF) and COPD is more common in HFpEF than HFrEF.<xref rid="ejhf2083-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="ejhf2083-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="ejhf2083-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> The proportion of HFrEF patients with COPD in a US registry was 16.5%.<xref rid="ejhf2083-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> In a large Asian registry, prevalence of COPD was 8.3% (but varied across Asia from 4.7% to 11%).<xref rid="ejhf2083-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>
+</p><p>As expected, patients with COPD in DAPA‐HF had more adverse characteristics including older age and more frequent history of hypertension and, notably, atrial fibrillation. The possibility that beta‐agonists increase the risk of atrial fibrillation has been raised previously.<xref rid="ejhf2083-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>
+</p><p>Although prior and current smoking were, as expected, more common in patients with COPD, coronary heart disease was not more common. We also found patients with COPD had a higher mean NT‐proBNP level, although only modestly so (and this was only the case in patients without atrial fibrillation). There was no clinically relevant difference in LVEF between patients with and without COPD. The latter findings contrasted strikingly with the substantially higher proportion of patients with COPD reported to be in NYHA class III/IV and the significantly lower (worse) KCCQ‐TSS (and other KCCQ scores) in people with COPD compared to those without. Indeed, all but one of the domains of KCCQ was worse in patients with COPD compared to most other comorbidities. Although a similar overall mean decrement (−8 points) in KCCQ‐OSS was reported in the Heart Failure: A Controlled Trial Investigating Outcomes of Exercise Training trial (HF‐ACTION), we do not know of any other description of the impact of COPD across domains of quality of life/health status or any comparison of the impact of COPD compared to other comorbidities.<xref rid="ejhf2083-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>
+</p><p>Interestingly, and in contrast to most prior studies, we found beta‐blocker use was high in patients with COPD (92.3%) although not as high as in patients without COPD (96.6%, <italic toggle="yes">P</italic> &lt; 0.001). This finding may indicate that the recommendation in HF guidelines that COPD is not a contraindication to use of a beta‐blocker may have been heeded in this selected clinical trial population.<xref rid="ejhf2083-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="ejhf2083-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="ejhf2083-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="ejhf2083-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>, <xref rid="ejhf2083-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> More surprisingly, however, was the finding that MRA use was also significantly less common in patients with COPD, despite their worse functional class. A likely explanation is the higher prevalence of renal dysfunction among patients with COPD, compared to those without COPD.<xref rid="ejhf2083-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>
+</p><p>Even after adjusting for differences in demographics, comorbidity, key disease‐modifying therapy and NT‐proBNP, COPD remained an independent predictor of the primary outcome, although the impact was greater on worsening HF events that on CV death. However, there was a clear association between COPD and death from any cause because of a higher risk of non‐CV death in patients with COPD. The excess risk associated with COPD was striking when compared with other common comorbidities, with only chronic kidney disease and diabetes showing a similar hazard; we are not aware of any comparative analysis of this type.</p><p>These data and our earlier observations on symptoms/quality of life raise two questions about the interaction between COPD and HFrEF. The first is why is COPD associated with worse symptoms and functional status and a higher risk of HF hospitalization? The explanation for the former could simply be that patients experience the extra impact of two cardiac and respiratory conditions causing dyspnoea and effort intolerance (and, potentially, the additional burden of atrial fibrillation). This does not readily explain higher natriuretic peptide levels in patients in sinus rhythm, which may be due to the impact of COPD on pulmonary artery pressure and right ventricular function.<xref rid="ejhf2083-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="ejhf2083-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="ejhf2083-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>
+</p><p>The benefits of dapagliflozin were consistent in patients with and without COPD, both for worsening HF events and death. This finding is especially important because risk was greater in patients with COPD and, therefore, the absolute risk reduction was larger in these individuals, than in participants without COPD and also because this risk reduction persisted despite the competing (nearly twofold) risk of non‐CV death in the COPD group.</p><p>Similarly, dapagliflozin was as well tolerated, compared with placebo, in patients with and without COPD. Collectively, this preserved efficacy and tolerability is very important, given the risk faced by patients with COPD and the more limited alternative options for at least some of these patients.<xref rid="ejhf2083-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="ejhf2083-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>
+</p><sec id="ejhf2083-sec-0025"><title>Limitations</title><p>This study has several limitations. The analysis was not pre‐specified and the proportion of patients with COPD was relatively small, compared to those without. COPD was investigator‐reported, and it is likely that the true prevalence of COPD would probably be higher if all patients had performed spirometry. Participants in this study were selected for a randomized controlled trial and were probably healthier, overall, than ‘real‐world’ patients. Investigators were asked not to include patients with another condition likely to lead to a life‐expectancy of &lt;2 years, which may have led to exclusion of patients with severe COPD. The high rate of use of beta‐blockers is also consistent with the trial participants representing healthier, better‐treated, patients enrolled at sites practicing evidence‐based medicine.</p></sec></sec><sec id="ejhf2083-sec-0026"><title>Conclusion</title><p>In summary, in DAPA‐HF, approximately one in eight patients with HFrEF had concomitant COPD. Participants with COPD had worse symptoms and functional limitation, compared to those without, and a higher risk of HF hospitalization and death from any cause. The relative risk reduction with dapagliflozin on all pre‐specified mortality/morbidity outcomes was the same in patients with and without COPD (and absolute risk reduction greater in those with COPD because of their higher baseline risk), as was the improvement in symptoms. Dapagliflozin was equally well tolerated, compared with placebo, in patients with and without COPD.</p><sec id="ejhf2083-sec-0027"><title>Funding</title><p>The DAPA‐HF trial was funded by AstraZeneca. Prof McMurray is supported by British Heart Foundation Centre of Research Excellence Grant RE/18/6/34217.</p><p>
+<bold>Conflict of interest</bold>: K.F.D. received grant support from Novartis. O.B., A.M.L., D.L. and M.S. are full‐time employees of AstraZeneca. R.A.B. received grant support (paid to University Medical Center Groningen [UMCG]), consulting fees, and lecture fees from AstraZeneca, grant support (paid to UMCG) from Bristol‐Myers Squibb, grant support (paid to UMCG) and consulting fees from Abbott, grant support (paid to UMCG) and lecture fees from Roche, and consulting fees from MandalMed and is a minority shareholder in scPharmaceuticals. A.S.D. received consulting fees from Abbott, Biofourmis, Boston Scientific, Boehringer Ingelheim, DalCor Pharmaceuticals, and Regeneron, grant support (paid to Brigham and Women's Hospital) and consulting fees from Alnylam Pharmaceuticals and Novartis, and advisory board fees from Corvidia and Relypsa. J.D. received personal fees from Berlin Chemie Menarini. S.E.I. reports personal fees and non‐financial support from AstraZeneca, Boehringer Ingelheim, Sanofi/Lexicon, Merck, VTV Therapeutics, and Abbott/Alere, as well as personal fees from AstraZeneca and Zafgen. M.K. reports grant support and lecture fees from Astellas Pharma, Sanofi, Pfizer, Ono Pharmaceutical, Novartis, and Mitsubishi Tanabe Pharma, lecture fees from Daiichi‐Sankyo, Bayer, Boehringer Ingelheim, Kowa Pharmaceutical, Sawai Pharmaceutical, MSD, Shionogi, Kureha, Taisho Toyama Pharmaceutical, Takeda Pharmaceutical, and Toa Eiyo, and manuscript fees from Japan Medical Data Center. L.K. reports other support from AstraZeneca and personal fees from Novartis and Bristol‐Myers Squibb as a speaker. M.N.K. reports personal fees from AstraZeneca; grants, personal fees, and other from AstraZeneca; grants and personal fees from Boehringer Ingelheim; is consultant for Vifor Pharma and personal fees from Sanofi, Amgen, NovoNordisk, Merck (Diabetes), Janssen, Bayer, GlaxoSmithKline, Glytec, Novartis, Applied Therapeutics, Amarin, and Eli Lilly. F.A.M. reports personal fees from AstraZeneca. B.M. reports lecture fees from AstraZeneca, Sanofi Aventis, Servier, and Biotronik and grant support and lecture fees from Abbott and Medtronic. M.C.P. received lecture fees from AstraZeneca, Novartis, and Eli Lilly, grant support, advisory board fees, and fees for serving on an end‐point committee from Boehringer Ingelheim, advisory board fees, lecture fees, and fees for serving on an end‐point committee from Novo Nordisk, advisory board fees from Napp Pharmaceuticals, and fees for serving on an end‐point committee from Takeda Pharmaceutical and Bayer. P.P. reports personal fees and other from AstraZeneca, Boehringer Ingelheim, Bayer, BMS, Cibiem, Novartis, and RenalGuard; personal fees from Pfizer, Servier, Respicardia, and Berlin‐Chemie; other from Amgen; and grants, personal fees, and other from Vifor Pharma. M.S.S. reports grants from Bayer, Daiichi‐Sankyo, Eisai, GlaxoSmithKline, Pfizer, Poxel, Quark Pharmaceuticals, and Takeda; grants and personal fees from Amgen, AstraZeneca, Intarcia, Janssen Research and Development, The Medicines Company, MedImmune, Merck, and Novartis; and personal fees from Anthos Therapeutics, Bristol‐Myers Squibb, CVS Caremark, DalCor, Dyrnamix, Esperion, IFM Therapeutics, and Ionis. Dr Sabatine is a member of the TIMI Study Group, which has also received institutional research grant support through Brigham and Women's Hospital from Abbott, Aralez, Roche, and Zora Biosciences. M.S. reported receiving personal fees and non‐financial support from AstraZeneca and personal fees from Novo Nordisk and Boehringer Ingelheim outside the submitted work. S.D.S. reports grants from AstraZeneca, Bellerophon, Celladon, Ionis, Lone Star Heart, Mesoblast, National Institutes of Health/National Heart, Lung, and Blood Institute, Sanofi Pasteur, and Eidos; grants and personal fees from Alnylam, Amgen, AstraZeneca, BMS, Gilead, GSK, MyoKardia, Novartis, Theracos, Bayer, and Cytokinetics; and personal fees from Akros, Corvia, Ironwood, Merck, Roche, Takeda, Quantum Genomics, AoBiome, Janssen, Cardiac Dimensions, Tenaya, and Daichi‐Sankyo. S.V. received grant support, lecture fees, and advisory board fees from AstraZeneca, Boehringer Ingelheim, Bayer, Janssen, and Merck, lecture fees from Sun Pharmaceutical Industries and EOCI Pharmacomm, grant support and advisory board fees from Amgen, and lecture fees and advisory board fees from Sanofi and Eli Lilly. P.S.J. reports other from AstraZeneca, personal fees from Novartis and Cytokinetics, and grants from Boehringer Ingelheim. J.J.V.M. reports non‐financial support and other from AstraZeneca, Cardiorentis, Amgen, Oxford University/Bayer, Theracos, Abbvie, Novartis, Glaxo Smith Kline, Vifor‐Fresenius, Kidney Research UK, and Novartis, as well as other support from Bayer, DalCor, Pfizer, Merck, Bristol Myers, and Squibb.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ejhf2083-supitem-0001" position="float" orientation="portrait"><caption><p>
+<bold>Figure S1</bold>
+<bold>.</bold> Clinical outcomes in HFrEF according to chronic obstructive pulmonary disease status at baseline.</p><p>
+<bold>Figure S2.</bold> Causes of death according to chronic obstructive pulmonary disease status.</p><p>
+<bold>Figure S3.</bold> Clinical outcomes according to chronic obstructive pulmonary disease and asthma status.</p><p>
+<bold>Table S1.</bold> Baseline characteristics by treatment and chronic obstructive pulmonary disease status.</p><p>
+<bold>Table S2.</bold> Baseline characteristics by asthma status.</p><p>
+<bold>Table S3.</bold> Baseline characteristics in patients with chronic obstructive pulmonary disease ± asthma.</p></caption><media ns1:href="EJHF-23-632-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list id="ejhf2083-bibl-0001" content-type="cited-references"><title>References</title><ref id="ejhf2083-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0001">
+<string-name name-style="western">
+<surname>Hawkins</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chalmers</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dunn</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Heart failure and chronic obstructive pulmonary disease: diagnostic pitfalls and epidemiology</article-title>. <source xml:lang="en">Eur J Heart Fail</source>
+<year>2009</year>;<volume>11</volume>:<fpage>130</fpage>–<lpage>139</lpage>.<pub-id pub-id-type="pmid">19168510</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurjhf/hfn013</pub-id><pub-id pub-id-type="pmcid">PMC2639415</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0002">
+<string-name name-style="western">
+<surname>Pellicori</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>Chronic obstructive pulmonary disease and heart failure: a breathless conspiracy</article-title>. <source xml:lang="en">Heart Fail Clin</source>
+<year>2020</year>;<volume>16</volume>:<fpage>33</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="pmid">31735313</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hfc.2019.08.003</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0003">
+<string-name name-style="western">
+<surname>Jaiswal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chichra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nguyen</surname>
+<given-names>VQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gadiraju</surname>
+<given-names>TV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Jemtel</surname>
+<given-names>TH</given-names>
+</string-name>. <article-title>Challenges in the management of patients with chronic obstructive pulmonary disease and heart failure with reduced ejection fraction</article-title>. <source xml:lang="en">Curr Heart Fail Rep</source>
+<year>2016</year>;<volume>13</volume>:<fpage>30</fpage>–<lpage>36</lpage>.<pub-id pub-id-type="pmid">26780914</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11897-016-0278-8</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0004">
+<string-name name-style="western">
+<surname>Staszewsky</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wong</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barlera</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carretta</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anand</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohn</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tognoni</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Latini</surname>
+<given-names>R</given-names>
+</string-name>; <collab collab-type="authors">Valsartan Heart Failure Trial Investigators</collab>
+. <article-title>Clinical, neurohormonal, and inflammatory markers and overall prognostic role of chronic obstructive pulmonary disease in patients with heart failure: data from the Val‐HeFT heart failure trial</article-title>. <source xml:lang="en">J Card Fail</source>
+<year>2007</year>;<volume>13</volume>:<fpage>797</fpage>–<lpage>804</lpage>.<pub-id pub-id-type="pmid">18068611</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cardfail.2007.07.012</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0005">
+<string-name name-style="western">
+<surname>Mentz</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulte</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fleg</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fiuzat</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kraus</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piña</surname>
+<given-names>IL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keteyian</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kitzman</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whellan</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ellis</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Connor</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>Clinical characteristics, response to exercise training, and outcomes in patients with heart failure and chronic obstructive pulmonary disease: findings from Heart Failure and A Controlled Trial Investigating Outcomes of Exercise TraiNing (HF‐ACTION)</article-title>. <source xml:lang="en">Am Heart J</source>
+<year>2013</year>;<volume>165</volume>:<fpage>193</fpage>–<lpage>199</lpage>.<pub-id pub-id-type="pmid">23351822</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ahj.2012.10.029</pub-id><pub-id pub-id-type="pmcid">PMC3762597</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0006">
+<string-name name-style="western">
+<surname>Tavazzi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Komajda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borer</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lainscak</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ford</surname>
+<given-names>I</given-names>
+</string-name>; <collab collab-type="authors">SHIFT Investigators</collab>
+. <article-title>Clinical profiles and outcomes in patients with chronic heart failure and chronic obstructive pulmonary disease: an efficacy and safety analysis of SHIFT study</article-title>. <source xml:lang="en">Int J Cardiol</source>
+<year>2013</year>;<volume>170</volume>:<fpage>182</fpage>–<lpage>188</lpage>.<pub-id pub-id-type="pmid">24225201</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijcard.2013.10.068</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0007">
+<string-name name-style="western">
+<surname>Neder</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rocha</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berton</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Donnell</surname>
+<given-names>DE</given-names>
+</string-name>. <article-title>Clinical and physiologic implications of negative cardiopulmonary interactions in coexisting chronic obstructive pulmonary disease‐heart failure</article-title>. <source xml:lang="en">Clin Chest Med</source>
+<year>2019</year>;<volume>40</volume>:<fpage>421</fpage>–<lpage>438</lpage>.<pub-id pub-id-type="pmid">31078219</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ccm.2019.02.006</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0008">
+<string-name name-style="western">
+<surname>Coiro</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Girerd</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossignol</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pitt</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tritto</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ambrosio</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickstein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Association of beta‐blocker treatment with mortality following myocardial infarction in patients with chronic obstructive pulmonary disease and heart failure or left ventricular dysfunction: a propensity matched‐cohort analysis from the High‐Risk Myocardial Infarction Database Initiative</article-title>. <source xml:lang="en">Eur J Heart Fail</source>
+<year>2017</year>;<volume>19</volume>:<fpage>271</fpage>–<lpage>279</lpage>.<pub-id pub-id-type="pmid">27774703</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.647</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0009">
+<string-name name-style="western">
+<surname>Dransfield</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Voelker</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatt</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brenner</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casaburi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Come</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Criner</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Curtis</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hatipoğlu</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Helgeson</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>VV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalhan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaminsky</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kunisaki</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lambert</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lammi</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindberg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Make</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McEvoy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panos</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reed</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scanlon</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sciurba</surname>
+<given-names>FC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sriram</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stringer</surname>
+<given-names>WW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weingarten</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wells</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Westfall</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lazarus</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Connett</surname>
+<given-names>JE</given-names>
+</string-name>; <collab collab-type="authors">BLOCK COPD Trial Group</collab>
+. <article-title>Metoprolol for the prevention of acute exacerbations of COPD</article-title>. <source xml:lang="en">N Engl J Med</source>
+<year>2019</year>;<volume>381</volume>:<fpage>2304</fpage>–<lpage>2314</lpage>.<pub-id pub-id-type="pmid">31633896</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1908142</pub-id><pub-id pub-id-type="pmcid">PMC7416529</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0010">
+<string-name name-style="western">
+<surname>Singh</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palda</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stanbrooh</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chapman</surname>
+<given-names>KR</given-names>
+</string-name>. <article-title>Corticosteroid therapy for patients with acute exacerbations of chronic obstructive pulmonary disease: a systematic review</article-title>. <source xml:lang="en">Arch Intern Med</source>
+<year>2002</year>;<volume>162</volume>:<fpage>2527</fpage>–<lpage>2536</lpage>.<pub-id pub-id-type="pmid">12456224</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archinte.162.22.2527</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0011">
+<string-name name-style="western">
+<surname>García Morales</surname>
+<given-names>OM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rojas‐Reyes</surname>
+<given-names>MX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dennis</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Oral xanthine derivatives (theophylline and doxofylline) for patients with stable chronic obstructive pulmonary disease (COPD)</article-title>. <source xml:lang="en">Cochrane Database Syst Rev</source>
+<year>2017</year>;<volume>2017</volume>:<elocation-id>CD012748</elocation-id>.</mixed-citation></ref><ref id="ejhf2083-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0012">
+<string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inzucchi</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Køber</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosiborod</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anand</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bělohlávek</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiang</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chopra</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Boer</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desai</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drozdz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dukát</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ge</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howlett</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katova</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kitakaze</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ljungman</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merkely</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicolau</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Meara</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vinh</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tereshchenko</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Held</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeMets</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Docherty</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bengtsson</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sjöstrand</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langkilde</surname>
+<given-names>AM</given-names>
+</string-name>; <collab collab-type="authors">DAPA‐HF Trial Committees and Investigators</collab>
+. <article-title>Dapagliflozin in patients with heart failure and reduced ejection fraction</article-title>. <source xml:lang="en">N Engl J Med</source>
+<year>2019</year>;<volume>21</volume>:<fpage>1995</fpage>–<lpage>2008</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1911303</pub-id><pub-id pub-id-type="pmid">31535829</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0013">
+<string-name name-style="western">
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filippatos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pocock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Januzzi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsutsui</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brueckmann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jamal</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kimura</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schnee</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeller</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cotton</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bocchi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chopra</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chuquiure</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giannetti</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janssens</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzalez Juanatey</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaul</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brunner‐La Rocca</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merkely</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicholls</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perrone</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pina</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sattar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Senni</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seronde</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spinar</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Squire</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taddei</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wanner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>; <collab collab-type="authors">EMPEROR‐Reduced Trial Investigators</collab>
+. <article-title>Cardiovascular and renal outcomes with empagliflozin in heart failure</article-title>. <source xml:lang="en">N Engl J Med</source>
+<year>2020</year>;<volume>383</volume>:<fpage>1413</fpage>–<lpage>1424</lpage>.<pub-id pub-id-type="pmid">32865377</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2022190</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0014">
+<string-name name-style="western">
+<surname>Seferović</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fragasso</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mullens</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrari</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thum</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bauersachs</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ray</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Çavuşoğlu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Polovina</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Metra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ambrosio</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prasad</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seferović</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dattilo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Čelutkiene</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piepoli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moura</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chioncel</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gal</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heymans</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jaarsma</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hill</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopatin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lyon</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lainščak</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jankowska</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mueller</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cosentino</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lund</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filippatos</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruschitzka</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coats</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosano</surname>
+<given-names>GM</given-names>
+</string-name>. <article-title>Heart Failure Association of the European Society of Cardiology update on sodium–glucose co‐transporter 2 inhibitors in heart failure</article-title>. <source xml:lang="en">Eur J Heart Fail</source>
+<year>2020</year>;<volume>22</volume>:<fpage>1984</fpage>–<lpage>1986</lpage>.<pub-id pub-id-type="pmid">33068051</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.2026</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0015">
+<string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeMets</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inzucchi</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Køber</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosiborod</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langkilde</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bengtsson</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sjöstrand</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>SD</given-names>
+</string-name>; <collab collab-type="authors">DAPA‐HF Committees and Investigators</collab>
+. <article-title>A trial to evaluate the effect of the sodium–glucose co‐transporter 2 inhibitor dapagliflozin on morbidity and mortality in patients with heart failure and reduced left ventricular ejection fraction (DAPA‐HF)</article-title>. <source xml:lang="en">Eur J Heart Fail</source>
+<year>2019</year>;<volume>21</volume>:<fpage>665</fpage>–<lpage>675</lpage>.<pub-id pub-id-type="pmid">30895697</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.1432</pub-id><pub-id pub-id-type="pmcid">PMC6607736</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0016">
+<string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeMets</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inzucchi</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Køber</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosiborod</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langkilde</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bengtsson</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sjöstrand</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>SD</given-names>
+</string-name>; <collab collab-type="authors">DAPA‐HF Committees and Investigators</collab>
+. <article-title>The Dapagliflozin and Prevention of Adverse‐outcomes in Heart Failure (DAPA‐HF) trial: baseline characteristics</article-title>. <source xml:lang="en">Eur J Heart Fail</source>
+<year>2019</year>;<volume>21</volume>:<fpage>1402</fpage>–<lpage>1411</lpage>.<pub-id pub-id-type="pmid">31309699</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.1548</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0017">
+<collab collab-type="authors">World Medical Association</collab>
+. <article-title>Human experimentation code of ethics of the World Medical Association</article-title>. <source xml:lang="en">Br Med J</source>
+<year>1964</year>;<volume>2</volume>:<fpage>177</fpage>.<pub-id pub-id-type="pmid">14150898</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.2.5402.177</pub-id><pub-id pub-id-type="pmcid">PMC1816102</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0018">
+<string-name name-style="western">
+<surname>Green</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porter</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bresnahan</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spertus</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Development and evaluation of the Kansas City Cardiomyopathy Questionnaire: a new health status measure for heart failure</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>
+<year>2000</year>;<volume>35</volume>:<fpage>1245</fpage>–<lpage>1255</lpage>.<pub-id pub-id-type="pmid">10758967</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0735-1097(00)00531-3</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0019">
+<string-name name-style="western">
+<surname>Hawkins</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pfeffer</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yusuf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Östergren</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michelson</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pocock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>; <collab collab-type="authors">CHARM Investigators and Committees</collab>
+. <article-title>Baseline characteristics and outcomes of patients with heart failure receiving bronchodilators in the CHARM programme</article-title>. <source xml:lang="en">Eur J Heart Fail</source>
+<year>2010</year>;<volume>12</volume>:<fpage>557</fpage>–<lpage>565</lpage>.<pub-id pub-id-type="pmid">20356870</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurjhf/hfq040</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0020">
+<string-name name-style="western">
+<surname>Canepa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Temporelli</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzini</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicolosi</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Staszewsky</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marchioli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tavazzi</surname>
+<given-names>L</given-names>
+</string-name>; <collab collab-type="authors">GISSI‐HF Investigators</collab>
+. <article-title>Prevalence and prognostic impact of chronic obstructive pulmonary disease in patients with chronic heart failure: data from the GISSI‐HF trial</article-title>. <source xml:lang="en">Cardiology</source>
+<year>2017</year>;<volume>136</volume>:<fpage>128</fpage>–<lpage>137</lpage>.<pub-id pub-id-type="pmid">27618363</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000448166</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0021">
+<string-name name-style="western">
+<surname>Mentz</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmidt</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kwasny</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ambrosy</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Connor</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Konstam</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gheorghiade</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The impact of chronic obstructive pulmonary disease in patients hospitalized for worsening heart failure with reduced ejection fraction: an analysis of the EVEREST trial</article-title>. <source xml:lang="en">J Card Fail</source>
+<year>2012</year>;<volume>18</volume>:<fpage>515</fpage>–<lpage>523</lpage>.<pub-id pub-id-type="pmid">22748484</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cardfail.2012.04.010</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0022">
+<string-name name-style="western">
+<surname>Canepa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Straburzynska‐Migaj</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drozdz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandez‐Vivancos</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pinilla</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nyolczas</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Temporelli</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mebazaa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lainscak</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laroche</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piepoli</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coats</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrari</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tavazzi</surname>
+<given-names>L</given-names>
+</string-name>; <collab collab-type="authors">ESC‐HFA Heart Failure Long‐Term Registry Investigators</collab>
+. <article-title>Characteristics, treatments and 1‐year prognosis of hospitalized and ambulatory heart failure patients with chronic obstructive pulmonary disease in the European Society of Cardiology Heart Failure Long‐Term Registry</article-title>. <source xml:lang="en">Eur J Heart Fail</source>
+<year>2018</year>;<volume>20</volume>:<fpage>100</fpage>–<lpage>110</lpage>.<pub-id pub-id-type="pmid">28949063</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.964</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0023">
+<string-name name-style="western">
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yancy</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albert</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Curtis</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stough</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gheorghiade</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heywood</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McBride</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehra</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Connor</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reynolds</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walsh</surname>
+<given-names>MN</given-names>
+</string-name>. <article-title>Heart failure care in the outpatient cardiology practice setting: findings from IMPROVE HF</article-title>. <source xml:lang="en">Circ Heart Fail</source>
+<year>2008</year>;<volume>1</volume>:<fpage>98</fpage>–<lpage>106</lpage>.<pub-id pub-id-type="pmid">19808279</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCHEARTFAILURE.108.772228</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0024">
+<string-name name-style="western">
+<surname>Kubota</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tay</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Asai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakajima</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagiwara</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ikeda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kurita</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teng</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anand</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lam</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shimizu</surname>
+<given-names>W</given-names>
+</string-name>; <collab collab-type="authors">ASIA‐HF Study Investigators</collab>
+. <article-title>Chronic obstructive pulmonary disease and β‐blocker treatment in Asian patients with heart failure</article-title>. <source xml:lang="en">ESC Heart Fail</source>
+<year>2018</year>;<volume>5</volume>:<fpage>297</fpage>–<lpage>305</lpage>.<pub-id pub-id-type="pmid">29055972</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ehf2.12228</pub-id><pub-id pub-id-type="pmcid">PMC5880660</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0025">
+<string-name name-style="western">
+<surname>Mtisi</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frishman</surname>
+<given-names>WH</given-names>
+</string-name>. <article-title>Beta adrenergic blocker use in patients with chronic obstructive pulmonary disease and concurrent chronic heart failure with a low ejection fraction</article-title>. <source xml:lang="en">Cardiol Rev</source>
+<year>2020</year>;<volume>28</volume>:<fpage>20</fpage>–<lpage>25</lpage>.<pub-id pub-id-type="pmid">31804289</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/CRD.0000000000000284</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0026">
+<string-name name-style="western">
+<surname>Canepa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franssen</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olschewski</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lainscak</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tavazzi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosenkranz</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Diagnostic and therapeutic gaps in patients with heart failure and chronic obstructive pulmonary disease</article-title>. <source xml:lang="en">JACC Heart Fail</source>
+<year>2019</year>;<volume>7</volume>:<fpage>823</fpage>–<lpage>833</lpage>.<pub-id pub-id-type="pmid">31521680</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jchf.2019.05.009</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0027">
+<string-name name-style="western">
+<surname>AbdelHalim</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>AboElNaga</surname>
+<given-names>HH</given-names>
+</string-name>. <article-title>Is renal impairment an anticipated COPD comorbidity?</article-title>
+<source xml:lang="en">Respir Care</source>
+<year>2016</year>;<volume>61</volume>:<fpage>1201</fpage>–<lpage>1206</lpage>.<pub-id pub-id-type="pmid">27118874</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4187/respcare.04516</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0028">
+<string-name name-style="western">
+<surname>Neder</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rocha</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alencar</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arbex</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berton</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oliveira</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sperandio</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nery</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Donnell</surname>
+<given-names>DE</given-names>
+</string-name>. <article-title>Current challenges in managing comorbid heart failure and COPD</article-title>. <source xml:lang="en">Expert Rev Cardiovasc</source>
+<year>2018</year>;<volume>16</volume>:<fpage>653</fpage>–<lpage>673</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14779072.2018.1510319</pub-id><pub-id pub-id-type="pmid">30099925</pub-id></mixed-citation></ref><ref id="ejhf2083-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ejhf2083-cit-0029">
+<string-name name-style="western">
+<surname>Hawkins</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>MacDonald</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fabbri</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wikstrand</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Heart failure and chronic obstructive pulmonary disease: the quandary of beta‐blockers and beta‐agonists</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>
+<year>2011</year>;<volume>57</volume>:<fpage>2127</fpage>–<lpage>2138</lpage>.<pub-id pub-id-type="pmid">21596228</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2011.02.020</pub-id></mixed-citation></ref></ref-list></back></article>

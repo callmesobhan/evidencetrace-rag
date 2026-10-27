@@ -1,6 +1,7 @@
 import hashlib
 import http.client
 import xml.etree.ElementTree as ET
+from pathlib import Path
 
 import pytest
 
@@ -148,4 +149,70 @@ def test_a_truncated_or_dropped_response_is_retried(monkeypatch, failure):
     calls = iter([Resp(True), Resp(True), Resp(False)])
     monkeypatch.setattr(pmc.urllib.request, "urlopen", lambda req, timeout=60: next(calls))
     assert pmc._get_xml("https://example.invalid", {}, roots={"PubmedArticleSet"}) == "<PubmedArticleSet/>"
+
+
+def _pin_for(art: ET.Element) -> dict:
+    return {"pmcid": art.find(".//article-id[@pub-id-type='pmcid']").text,
+            "sha256": hashlib.sha256(ET.tostring(art, encoding="unicode").encode("utf-8")).hexdigest()}
+
+
+def test_fetch_pinned_checks_papers_on_disk_without_network(tmp_path, monkeypatch):
+    from evidencetrace.ingest import pmc
+
+    art = _article()
+    (tmp_path / "PMC9999999.xml").write_text(ET.tostring(art, encoding="unicode"), encoding="utf-8")
+
+    def no_network(ids):
+        raise AssertionError("a paper already on disk must not be requested from NCBI")
+
+    monkeypatch.setattr(pmc, "efetch", no_network)
+    res = pmc.fetch_pinned([_pin_for(art)], tmp_path, sleep=0, log=lambda _m: None)
+    assert res["ok"] == ["PMC9999999"] and res["fetched"] == [] and res["missing"] == []
+
+
+def test_fetch_pinned_downloads_only_what_is_not_on_disk(tmp_path, monkeypatch):
+    from evidencetrace.ingest import pmc
+
+    on_disk, missing = _article(), _article()
+    missing.find(".//article-id[@pub-id-type='pmcid']").text = "PMC9999998"
+    (tmp_path / "PMC9999999.xml").write_text(ET.tostring(on_disk, encoding="unicode"), encoding="utf-8")
+    asked = []
+
+    def fake_efetch(ids):
+        asked.append(list(ids))
+        return "<pmc-articleset>" + ET.tostring(missing, encoding="unicode") + "</pmc-articleset>"
+
+    monkeypatch.setattr(pmc, "efetch", fake_efetch)
+    res = pmc.fetch_pinned([_pin_for(on_disk), _pin_for(missing)], tmp_path, sleep=0, log=lambda _m: None)
+    assert asked == [["9999998"]]
+    assert res["ok"] == ["PMC9999999", "PMC9999998"] and res["fetched"] == ["PMC9999998"]
+    assert (tmp_path / "PMC9999998.xml").exists()
+
+
+def test_committed_papers_match_their_pins_offline():
+    """Every paper the manifests list and that is not in data/raw/excluded.json must be committed and must verify against its pin."""
+    import json
+
+    from evidencetrace.ingest.pmc import check_on_disk
+
+    root = Path(__file__).resolve().parent.parent
+    doc = json.loads((root / "data" / "raw" / "excluded.json").read_text(encoding="utf-8"))
+    not_committed = {e["pmcid"]: e for e in doc["excluded"]}
+    canonical = {r["pmcid"]: r["canonical_sha256"] for r in map(json.loads, (root / "data/m1/canonical_pins.jsonl").read_text().splitlines())}
+    for e in doc["excluded"]:
+        assert e["licence_statement"] and e["copyright_line"] and e["reason"], e["pmcid"]
+    checked = 0
+    for manifest, raw in (("corpus_manifest.jsonl", "pmc"), ("fresh_manifest.jsonl", "fresh")):
+        for ln in (root / "data" / "m1" / manifest).read_text(encoding="utf-8").splitlines():
+            if not ln.strip():
+                continue
+            pin = json.loads(ln)
+            if pin["pmcid"] in not_committed:
+                assert not_committed[pin["pmcid"]]["dir"] == f"data/raw/{raw}", pin["pmcid"]
+                continue
+            path = root / "data" / "raw" / raw / f"{pin['pmcid']}.xml"
+            assert path.exists(), f"{path} is not committed and not excluded"
+            assert check_on_disk(path, pin, canonical.get(pin["pmcid"])) in ("ok", "metadata"), pin["pmcid"]
+            checked += 1
+    assert checked == 164
 

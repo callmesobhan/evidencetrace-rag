@@ -11,9 +11,20 @@ build/
 reports/*
 !reports/.gitkeep
 
-# model artifacts / raw corpora (never commit)
+# model artifacts; raw corpora are ignored, except the CC BY papers committed under data/raw/pmc and data/raw/fresh
+# (licence and exclusions: data/raw/NOTICE.md). Manifests written by fetch are ignored.
 models/
-data/raw/
+data/raw/*
+!data/raw/NOTICE.md
+!data/raw/excluded.json
+!data/raw/pmc/
+!data/raw/fresh/
+data/raw/pmc/*
+!data/raw/pmc/*.xml
+data/raw/fresh/*
+!data/raw/fresh/*.xml
+data/raw/pmc/PMC7814507.xml
+data/raw/fresh/PMC12829467.xml
 *.pdf
 
 # editors / OS / tooling

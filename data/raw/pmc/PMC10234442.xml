@@ -1,0 +1,1154 @@
+<article xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink" id="ejhf2381" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Heart Fail</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Heart Fail</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">100887595</journal-id><journal-id journal-id-type="publisher-id">EJHF</journal-id><journal-title-group><journal-title>European Journal of Heart Failure</journal-title></journal-title-group><issn pub-type="ppub">1388-9842</issn><issn pub-type="epub">1879-0844</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10234442</article-id><article-id pub-id-type="pmcid-ver">PMC10234442.1</article-id><article-id pub-id-type="pmcaid">10234442</article-id><article-id pub-id-type="pmcaiid">10234442</article-id><article-id pub-id-type="pmid">34766424</article-id><article-id pub-id-type="doi">10.1002/ejhf.2381</article-id><article-id pub-id-type="publisher-id">EJHF2381</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Comorbidities</subject><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Dapagliflozin and atrial fibrillation in heart failure with reduced ejection fraction: insights from <styled-content style="fixed-case" toggle="no">DAPA‐HF</styled-content>
+</article-title><alt-title alt-title-type="right-running-head">Dapagliflozin and atrial fibrillation in <styled-content style="fixed-case" toggle="no">HFrEF</styled-content>
+</alt-title><alt-title alt-title-type="left-running-head">J.H. Butt <italic toggle="no">et al.</italic>
+</alt-title></title-group><contrib-group><contrib id="ejhf2381-cr-0001" contrib-type="author"><name name-style="western"><surname>Butt</surname><given-names initials="JH">Jawad H.</given-names></name><xref rid="ejhf2381-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejhf2381-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0002" contrib-type="author"><name name-style="western"><surname>Docherty</surname><given-names initials="KF">Kieran F.</given-names></name><xref rid="ejhf2381-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0003" contrib-type="author"><name name-style="western"><surname>Jhund</surname><given-names initials="PS">Pardeep S.</given-names></name><xref rid="ejhf2381-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0004" contrib-type="author"><name name-style="western"><surname>de Boer</surname><given-names initials="RA">Rudolf A.</given-names></name><xref rid="ejhf2381-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0005" contrib-type="author"><name name-style="western"><surname>Böhm</surname><given-names initials="M">Michael</given-names></name><xref rid="ejhf2381-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0006" contrib-type="author"><name name-style="western"><surname>Desai</surname><given-names initials="AS">Akshay S.</given-names></name><xref rid="ejhf2381-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0007" contrib-type="author"><name name-style="western"><surname>Howlett</surname><given-names initials="JG">Jonathan G.</given-names></name><xref rid="ejhf2381-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0008" contrib-type="author"><name name-style="western"><surname>Inzucchi</surname><given-names initials="SE">Silvio E.</given-names></name><xref rid="ejhf2381-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0009" contrib-type="author"><name name-style="western"><surname>Kosiborod</surname><given-names initials="MN">Mikhail N.</given-names></name><xref rid="ejhf2381-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0010" contrib-type="author"><name name-style="western"><surname>Martinez</surname><given-names initials="FA">Felipe A.</given-names></name><xref rid="ejhf2381-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0011" contrib-type="author"><name name-style="western"><surname>Nicolau</surname><given-names initials="JC">Jose C.</given-names></name><xref rid="ejhf2381-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0012" contrib-type="author"><name name-style="western"><surname>Petrie</surname><given-names initials="MC">Mark C.</given-names></name><xref rid="ejhf2381-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0013" contrib-type="author"><name name-style="western"><surname>Ponikowski</surname><given-names initials="P">Piotr</given-names></name><xref rid="ejhf2381-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0014" contrib-type="author"><name name-style="western"><surname>Bengtsson</surname><given-names initials="O">Olof</given-names></name><xref rid="ejhf2381-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0015" contrib-type="author"><name name-style="western"><surname>Langkilde</surname><given-names initials="AM">Anna Maria</given-names></name><xref rid="ejhf2381-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0016" contrib-type="author"><name name-style="western"><surname>Schou</surname><given-names initials="M">Morten</given-names></name><xref rid="ejhf2381-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0017" contrib-type="author"><name name-style="western"><surname>Sjöstrand</surname><given-names initials="M">Mikaela</given-names></name><xref rid="ejhf2381-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0018" contrib-type="author"><name name-style="western"><surname>Solomon</surname><given-names initials="SD">Scott D.</given-names></name><xref rid="ejhf2381-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0019" contrib-type="author"><name name-style="western"><surname>Sabatine</surname><given-names initials="MS">Marc S.</given-names></name><xref rid="ejhf2381-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="ejhf2381-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="ejhf2381-cr-0020" contrib-type="author" corresp="yes"><name name-style="western"><surname>McMurray</surname><given-names initials="JJV">John J.V.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6317-3975</contrib-id><xref rid="ejhf2381-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>john.mcmurray@glasgow.ac.uk</email></address></contrib><contrib id="ejhf2381-cr-0021" contrib-type="author"><name name-style="western"><surname>Køber</surname><given-names initials="L">Lars</given-names></name><xref rid="ejhf2381-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="ejhf2381-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">British Heart Foundation Cardiovascular Research Centre</named-content>
+<institution>University of Glasgow</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><aff id="ejhf2381-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Rigshospitalet Copenhagen University Hospital</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff id="ejhf2381-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>University Medical Center and University of Groningen</institution>
+<city>Groningen</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="ejhf2381-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine III, Saarland University Hospital</named-content>
+<institution>Saarland University</institution>
+<city>Homburg</city>
+<country country="DE">Germany</country>
+</aff><aff id="ejhf2381-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Division of Cardiovascular Medicine</named-content>
+<institution>Brigham and Women's Hospital</institution>
+<city>Boston</city>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf2381-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Cumming School of Medicine and Libin Cardiovascular Institute</named-content>
+<institution>University of Calgary</institution>
+<city>Calgary</city>
+<country country="CA">Canada</country>
+</aff><aff id="ejhf2381-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Section of Endocrinology</named-content>
+<institution>Yale School of Medicine</institution>
+<city>New Haven</city>
+<named-content content-type="country-part">CT</named-content>
+<country country="US">USA</country>
+</aff><aff id="ejhf2381-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Saint Luke's Mid America Heart Institute, University of Missouri, Kansas City; The George Institute for Global Health</named-content>
+<institution>University of New South Wales</institution>
+<city>Sydney</city>
+<country country="AU">Australia</country>
+</aff><aff id="ejhf2381-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Universidad Nacional de Córdoba</institution>
+<city>Córdoba</city>
+<country country="AR">Argentina</country>
+</aff><aff id="ejhf2381-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Instituto do Coracao (InCor), Hospital das Clínicas Faculdade de Medicina</named-content>
+<institution>Universidade de São Paulo</institution>
+<city>São Paulo</city>
+<country country="BR">Brazil</country>
+</aff><aff id="ejhf2381-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Center for Heart Diseases</named-content>
+<institution>University Hospital, Wroclaw Medical University</institution>
+<city>Wrocław</city>
+<country country="PL">Poland</country>
+</aff><aff id="ejhf2381-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Late Stage Development, Cardiovascular, Renal and Metabolism</named-content>
+<institution>BioPharmaceuticals R&amp;D, AstraZeneca</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="ejhf2381-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Herlev‐Gentofte University Hospital</institution>
+<city>Herlev</city>
+<country country="DK">Denmark</country>
+</aff><aff id="ejhf2381-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">TIMI Study Group, Division of Cardiovascular Medicine</named-content>
+<institution>Brigham and Women's Hospital</institution>
+<city>Boston</city>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Corresponding author. British Heart Foundation Cardiovascular Research Centre, University of Glasgow, 126 University Place, Glasgow G12 8TA, UK. Tel: +44 141 3303479, Fax: +44 141 3306955,
+Email: <email>john.mcmurray@glasgow.ac.uk</email>
+<break />
+</corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>11</month><year>2021</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2022</year></pub-date><volume>24</volume><issue seq="150">3</issue><issue-id pub-id-type="pmc-issue-id">437117</issue-id><issue-id pub-id-type="doi">10.1002/ejhf.v24.3</issue-id><fpage>513</fpage><lpage>525</lpage><history><date date-type="rev-recd"><day>26</day><month>10</month><year>2021</year></date><date date-type="received"><day>09</day><month>9</month><year>2021</year></date><date date-type="accepted"><day>06</day><month>11</month><year>2021</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>06</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>02</day><month>06</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-06-02 10:25:21.060"><day>02</day><month>06</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2021 The Authors. <italic toggle="yes">European Journal of Heart Failure</italic> published by John Wiley &amp; Sons Ltd on behalf of European Society of Cardiology.</copyright-statement><license><ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pmc-pdf" ns1:href="EJHF-24-513.pdf" /><self-uri content-type="pdf" ns1:href="file:EJHF-24-513.pdf" /><abstract><title>Abstract</title><sec id="ejhf2381-sec-0001"><title>Aims</title><p>Among patients with heart failure (HF) and reduced ejection fraction (HFrEF), those with atrial fibrillation (AF) may respond differently to certain treatments than patients without AF. We investigated the efficacy and safety of dapagliflozin in patients with HFrEF with and without AF in the Dapagliflozin And Prevention of Adverse‐outcomes in Heart Failure trial (DAPA‐HF). We also examined the effect of dapagliflozin on new‐onset AF.</p></sec><sec id="ejhf2381-sec-0002"><title>Methods and results</title><p>The primary outcome was the composite of an episode of worsening HF (HF hospitalization or urgent HF visit requiring intravenous therapy) or cardiovascular death. Of the 4744 patients randomized, 1910 (40.3%) had ‘any AF’ (history of AF or AF on enrolment electrocardiogram). Compared with placebo, dapagliflozin reduced the risk of worsening HF or cardiovascular death to a similar extent in patients with and without any AF [hazard ratio (HR) 0.75, 95% confidence interval (CI) 0.62–0.92 and 0.74, 95% CI 0.62–0.88, respectively; <italic toggle="no">p</italic> for interaction = 0.88]. Consistent benefits were observed for the components of the primary outcome, all‐cause mortality, and improvement of Kansas City Cardiomyopathy Questionnaire total symptom score. Among patients without AF at baseline, dapagliflozin did not significantly reduce the risk of new‐onset AF compared with placebo (HR 0.86, 95% CI 0.60–1.22). However, patients with new‐onset AF had a 5 to 6‐fold higher risk of adverse outcomes when compared to those without incident AF.</p></sec><sec id="ejhf2381-sec-0003"><title>Conclusions</title><p>Dapagliflozin, compared with placebo, reduced the risk of worsening HF events, cardiovascular death, and all‐cause death, and improved symptoms, in patients with and without AF. Dapagliflozin did not reduce the risk of new‐onset AF.</p></sec></abstract><abstract abstract-type="graphical"><p>Dapagliflozin reduced the risk of worsening heart failure events and death, and improved symptoms, irrespective of atrial fibrillation (AF) status. However, dapagliflozin did not reduce the risk of new‐onset AF. (<italic toggle="yes">A</italic>) Effects of dapagliflozin compared with placebo on clinical outcomes according AF status at baseline. (<italic toggle="yes">B</italic>) Cumulative incidence of new‐onset AF in DAPA‐HF according to randomized treatment assignment in patients without AF at baseline (neither a history or AF on the baseline electrocardiogram).
+<boxed-text position="anchor" content-type="graphic" id="ejhf2381-blkfxd-0001" orientation="portrait"><graphic position="anchor" id="jats-graphic-1" orientation="portrait" ns1:href="EJHF-24-513-g001.jpg" /></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ejhf2381-kwd-0001">Heart failure</kwd><kwd id="ejhf2381-kwd-0002">Dapagliflozin</kwd><kwd id="ejhf2381-kwd-0003">Atrial fibrillation</kwd><kwd id="ejhf2381-kwd-0004">Randomized trial</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>British Heart Foundation Centre of Research Excellence</funding-source><award-id>RE/18/6/34217</award-id></award-group></funding-group><counts><fig-count count="3" /><table-count count="4" /><page-count count="13" /><word-count count="8300" /></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.8 mode:remove_FC converted:01.06.2023</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="ejhf2381-body-0001"><sec id="ejhf2381-sec-0004"><title>Introduction</title><p>Atrial fibrillation (AF) and heart failure (HF) with reduced ejection fraction (HFrEF) often coexist, and each increases the likelihood and complicates the course and treatment of the other.<xref rid="ejhf2381-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ejhf2381-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Patients with HFrEF and AF are generally older, have a greater symptom burden, lower quality of life, and more comorbidity than those without AF.<xref rid="ejhf2381-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="ejhf2381-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ejhf2381-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Patients with AF are also at higher risk of adverse outcomes, including HF hospitalization and death, although AF may be a marker of more advanced HF, rather than an independent prognostic risk factor.<xref rid="ejhf2381-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ejhf2381-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="ejhf2381-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ejhf2381-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ejhf2381-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="ejhf2381-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="ejhf2381-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="ejhf2381-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="ejhf2381-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ejhf2381-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Patients with paroxysmal AF may be at higher risk than those with persistent or permanent AF.<xref rid="ejhf2381-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+</p><p>Sodium–glucose co‐transporter 2 (SGLT2) inhibitors, originally developed as glucose‐lowering agents for type 2 diabetes, are now a valuable new treatment for HFrEF, including in patients without diabetes.<xref rid="ejhf2381-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="ejhf2381-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Their effects in HFrEF patients with AF is of interest, from two perspectives. First, some treatments cannot be used in AF (e.g. ivabradine) and the effectiveness of others may be modified by the presence of AF (e.g. beta‐blockers, cardiac resynchronization therapy and, most recently, omecamtiv mecarbil).<xref rid="ejhf2381-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="ejhf2381-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="ejhf2381-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="ejhf2381-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Second, new‐onset AF is associated with a high risk of adverse outcomes, including HF hospitalization, stroke, and all‐cause death in patients with HFrEF,<xref rid="ejhf2381-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="ejhf2381-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ejhf2381-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ejhf2381-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="ejhf2381-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> and some guideline‐recommended therapies for HFrEF reduce the incidence of new‐onset AF.<xref rid="ejhf2381-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ejhf2381-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="ejhf2381-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="ejhf2381-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="ejhf2381-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Recently, a <italic toggle="yes">post hoc</italic> analysis of the Dapagliflozin Effect on Cardiovascular Events–Thrombolysis in Myocardial Infarction 58 trial (DECLARE‐TIMI 58) also suggested that dapagliflozin decreased the risk of AF events in patients with type 2 diabetes, irrespective of a history of HF.<xref rid="ejhf2381-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> It is therefore important to not only evaluate the efficacy and safety of dapagliflozin in HFrEF patients with and without AF, but also to investigate whether this drug reduces the incidence of new‐onset AF in a well‐defined HFrEF population.</p><p>We examined both these questions in the Dapagliflozin And Prevention of Adverse‐outcomes in Heart Failure trial (DAPA‐HF), which demonstrated that dapagliflozin, compared with placebo, reduced the risk of worsening HF events and death, and improved symptoms, when added to standard therapy in 4744 patients with HFrEF.<xref rid="ejhf2381-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</p></sec><sec id="ejhf2381-sec-0005"><title>Methods</title><p>DAPA‐HF was a randomized, double‐blind, placebo‐controlled trial in patients with HFrEF, evaluating the efficacy and safety of dapagliflozin 10 mg once daily compared with matching placebo, added to standard care. The design, baseline characteristics, and primary results of the trial are published.<xref rid="ejhf2381-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="ejhf2381-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="ejhf2381-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> The Ethics Committee of each of the 410 participating institutions in 20 countries approved the protocol, and all patients gave written informed consent. The corresponding author had full access to the trial data and takes responsibility for its integrity and the data analysis.</p><sec id="ejhf2381-sec-0006"><title>Study patients</title><p>Patients aged 18 years or older with a diagnosis of HF for at least 2 months were eligible if they were in New York Heart Association (NYHA) functional class II–IV, had a left ventricular ejection fraction (LVEF) of ≤40%, were optimally treated with pharmacological and device therapy, and had an N‐terminal pro‐B‐type natriuretic peptide (NT‐proBNP) concentration ≥600 pg/ml [≥400 pg/ml if hospitalized for HF within the previous 12 months; ≥900 pg/ml if AF on the electrocardiogram (ECG) at enrolment, irrespective of history of HF hospitalization]. Key exclusion criteria included symptoms of hypotension or systolic blood pressure &lt; 95 mmHg, estimated glomerular filtration rate (eGFR) &lt;30 ml/min/1.73 m<sup>2</sup> or rapidly declining renal function, type 1 diabetes, and other conditions likely to prevent patient participation in the trial or greatly limit life expectancy. A complete list of exclusion criteria is provided in the design paper.<xref rid="ejhf2381-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> After randomization, follow‐up visits were scheduled at 14, 60, and 120 days and then every 4 months thereafter until end of follow‐up (withdrawal of consent, death, or 5 June 2019).</p></sec><sec id="ejhf2381-sec-0007"><title>Atrial fibrillation</title><p>Data about history of AF were collected on the trial case report forms (CRF). Investigators were first asked whether patients had a history of AF any time before enrolment. If investigators answered yes, they were then asked to specify the type of AF according to the following options: paroxysmal [intermittent (lasting at least 30 s), self‐terminating AF (lasting for a maximum of 1 week)], persistent (non‐self‐terminating AF with a duration of &gt;1 week and/or required cardioversion), and permanent (non‐self‐terminating, long‐standing AF in which cardioversion has failed or not attempted). Data on heart rhythm on the ECG at enrolment were also collected on the CRF, and investigators were asked to specify the heart rhythm from the following options: sinus rhythm, AF, atrial flutter, paced rhythm, and other (specify).</p><p>New‐onset (incident) AF was a clinical endpoint in patients without any AF at baseline (i.e. no history of AF and no AF on ECG at enrolment), and data were collected from a specific CRF. Investigators were asked to specify the date of diagnosis, symptoms (symptomatic or asymptomatic), type of AF (paroxysmal, persistent, or permanent), and treatment [rate control therapy, antiarrhythmic drugs, invasive antiarrhythmic therapy (percutaneous/surgical ablation or pacemaker insertion to facilitate rhythm control), electric cardioversion, antiplatelet therapy, or anticoagulant therapy].</p></sec><sec id="ejhf2381-sec-0008"><title>Comparison groups of interest</title><p>In the present study, we made the following comparisons based on AF status:<list list-type="order" id="ejhf2381-list-0001"><list-item id="ejhf2381-li-0001"><p>Patients without any AF (no history of AF and no AF on ECG) vs. any AF (a history of AF or AF on ECG at enrolment). ‘Atrial fibrillation’ in these analyses included AF or atrial flutter as in previous studies.<xref rid="ejhf2381-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="ejhf2381-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ejhf2381-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ejhf2381-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="ejhf2381-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="ejhf2381-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="ejhf2381-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="ejhf2381-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ejhf2381-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p></list-item><list-item id="ejhf2381-li-0002"><p>Patients without any AF (no history of AF and no AF on ECG) vs. AF on ECG at enrolment (irrespective of history of AF).</p></list-item><list-item id="ejhf2381-li-0003"><p>Patients without any AF (no history of AF and no AF on ECG) vs. paroxysmal AF (history of paroxysmal AF or AF on ECG without a history of AF) vs. persistent/permanent AF (history of persistent/permanent AF).</p></list-item></list>
+</p></sec><sec id="ejhf2381-sec-0009"><title>Trial outcomes</title><p>The primary outcome in DAPA‐HF was the composite of worsening HF (HF hospitalization or an urgent visit for worsening HF and administration of intravenous treatment for HF) or cardiovascular death. The secondary outcomes in the trial were the occurrence of HF hospitalization or cardiovascular death (we also examined the components of this composite); total HF hospitalizations (first and repeat) or cardiovascular death; change from baseline to 8 months in the Kansas City Cardiomyopathy Questionnaire total symptom score (KCCQ‐TSS); and death from any cause. Pre‐specified safety analyses included serious adverse events, adverse events leading to discontinuation of trial treatment, and adverse events of interest, including volume depletion, renal adverse events, bone fracture, amputation, major hypoglycaemia, and diabetic ketoacidosis. Safety analyses were performed in patients who had undergone enrolment and received at least one dose of either dapagliflozin or placebo (a total of eight randomized patients were excluded from the safety analysis).</p><p>In the present study, we investigated the association between AF status and the risk of the composite of worsening HF or cardiovascular death; HF hospitalization or cardiovascular death (as well as the components of this composite); all‐cause death; and stroke. We also evaluated the efficacy and safety of dapagliflozin, compared with placebo, according to AF status. Finally, we examined the risk of incident AF with dapagliflozin, compared with placebo, in patients without any AF (no history of AF and no AF on ECG at enrolment).</p><p>Atrial fibrillation on enrolment ECG was a pre‐specified subgroup analysis, but the assessment of secondary clinical outcomes by AF (irrespective of definition) was done <italic toggle="yes">post hoc</italic>. The incidence of a new diagnosis of AF in patients without AF at baseline was a pre‐specified exploratory endpoint.</p></sec><sec id="ejhf2381-sec-0010"><title>Statistical analyses</title><p>Baseline characteristics were summarized as frequencies with percentages, means with standard deviation (SD), or medians with interquartile ranges. Differences in baseline characteristics were tested using the chi‐square test for categorical variables and the Wilcoxon test and two‐sample <italic toggle="yes">t</italic>‐test for non‐normal and normally distributed continuous variables, respectively.</p><p>Time‐to‐event data, regardless of treatment allocation, were evaluated using Cox proportional‐hazards models, stratified according to diabetes mellitus status, with a history of HF hospitalization and treatment‐group assignment as fixed‐effect factors to calculate hazard ratios (HR) with 95% confidence intervals (CIs). In addition, adjusted HRs from models including age, sex, geographical region, heart rate, systolic blood pressure, body mass index, HF aetiology, LVEF, NYHA functional class, NT‐proBNP, eGFR, hypertension, chronic obstructive pulmonary disease, and prior stroke/transient ischaemic attack were reported. Adjusted HRs, but without adjustment for NT‐proBNP, were also reported. To assess the prognostic significance of new‐onset AF during follow‐up among patients without any AF at enrolment, AF was included as a time‐dependent variable in a Cox proportional‐hazards model, adjusted for the variables previously mentioned. Patients who developed new‐onset AF were removed from the no‐AF subgroup and classified as new‐onset AF from the date of new‐onset AF and onward.</p><p>To compare the effects of dapagliflozin vs. placebo on the clinical outcomes, time‐to‐event data were evaluated with cause‐specific Cox proportional‐hazards models, stratified according to diabetes mellitus status, with a history of HF hospitalization and treatment‐group assignment as fixed‐effect factors. Total, including recurrent events were evaluated with semiparametric proportional‐rates models.<xref rid="ejhf2381-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> The difference between treatment groups in the change in KCCQ‐TSS from baseline to 8 months in surviving patients was analysed using two‐sample <italic toggle="yes">t</italic>‐test. Responder analyses examining proportions of patients with a deterioration (decrease of ≥5 points) and improvement (increase of ≥5 points) in KCCQ scores at 8 months were conducted with the treatment effect expressed as an odds ratio with 95% CI using methods previously described.<xref rid="ejhf2381-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</p><p>To compare the effect of dapagliflozin vs. placebo on new‐onset AF, time‐to‐event data were evaluated with the Aalen–Johansen estimator (taken the competing risk of death into account) and a cause‐specific Cox proportional‐hazards model, stratified according to diabetes mellitus status, with a history of HF hospitalization and treatment‐group assignment as fixed‐effect factors. A Fine–Gray competing risk analysis was also performed, with death from any cause considered a competing risk.</p><p>All analyses were conducted using SAS version 9.4 (SAS Institute, Cary, NC, USA) and STATA version 16.1 (Stata Corp., College Station, TX, USA). A <italic toggle="yes">p</italic>‐value of 0.05 was considered statistically significant.</p></sec></sec><sec id="ejhf2381-sec-0011"><title>Results</title><sec id="ejhf2381-sec-0012"><title>Patients characteristics</title><sec id="ejhf2381-sec-0013"><title>Any atrial fibrillation (history of <styled-content style="fixed-case" toggle="no">AF</styled-content> or <styled-content style="fixed-case" toggle="no">AF</styled-content> on baseline electrocardiogram)</title><p>Of the 4744 patients randomized, 1910 (40.3%) had ‘any AF’, i.e. history of AF or AF on ECG at enrolment. Baseline characteristics according to AF status are presented in <italic toggle="yes">Table</italic> <xref rid="ejhf2381-tbl-0001" ref-type="table">
+<italic toggle="yes">1</italic>
+</xref>. Compared to patients without AF, those with AF were older, more often male and white (and less often Asian), more likely to have hypertension and chronic obstructive pulmonary disease, and had a higher CHA<sub>2</sub>DS<sub>2</sub>‐VASc score, body mass index, heart rate, and baseline NT‐proBNP, and lower eGFR. They also had a longer duration of HF and were less likely to have an ischaemic aetiology or prior myocardial infarction. Patients with AF had a higher LVEF, but worse NYHA functional class and KCCQ‐TSS than patients without AF. Regarding background HF therapy, patients with AF were less frequently treated with guideline‐recommended medical therapy, but they were more likely to have a defibrillating device. Overall, 84% of patients with AF were treated with an oral anticoagulant.</p><table-wrap position="float" id="ejhf2381-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Baseline characteristics of the study population according to atrial fibrillation (history or baseline electrocardiogram)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">No AF (<italic toggle="yes">n</italic> = 2834)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Any AF (<italic toggle="yes">n</italic> = 1910)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years), mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">64.3 (11.2)</td><td align="left" valign="top" rowspan="1" colspan="1">69.3 (9.6)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="left" valign="top" rowspan="1" colspan="1">713 (25.2)</td><td align="left" valign="top" rowspan="1" colspan="1">396 (20.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="left" valign="top" rowspan="1" colspan="1">2121 (74.8)</td><td align="left" valign="top" rowspan="1" colspan="1">1514 (79.3)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Race, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Asian</td><td align="left" valign="top" rowspan="1" colspan="1">806 (28.4)</td><td align="left" valign="top" rowspan="1" colspan="1">310 (16.2)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Black</td><td align="left" valign="top" rowspan="1" colspan="1">156 (5.5)</td><td align="left" valign="top" rowspan="1" colspan="1">70 (3.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">1825 (64.4)</td><td align="left" valign="top" rowspan="1" colspan="1">1508 (79.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td><td align="left" valign="top" rowspan="1" colspan="1">47 (1.7)</td><td align="left" valign="top" rowspan="1" colspan="1">22 (1.2)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Geographic region, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Asia/Pacific</td><td align="left" valign="top" rowspan="1" colspan="1">791 (27.9)</td><td align="left" valign="top" rowspan="1" colspan="1">305 (16.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Europe</td><td align="left" valign="top" rowspan="1" colspan="1">1085 (38.3)</td><td align="left" valign="top" rowspan="1" colspan="1">1069 (56.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">North America</td><td align="left" valign="top" rowspan="1" colspan="1">391 (13.8)</td><td align="left" valign="top" rowspan="1" colspan="1">286 (15.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">South America</td><td align="left" valign="top" rowspan="1" colspan="1">567 (20.0)</td><td align="left" valign="top" rowspan="1" colspan="1">250 (13.1)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Physiologic measures</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Systolic blood pressure (mmHg), mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">121.9 (16.8)</td><td align="left" valign="top" rowspan="1" colspan="1">121.7 (15.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.58</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Heart rate (bpm), mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">70.7 (10.7)</td><td align="left" valign="top" rowspan="1" colspan="1">72.7 (12.9)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>), mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">27.7 (5.9)</td><td align="left" valign="top" rowspan="1" colspan="1">28.8 (6.0)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Creatinine (µmol/L), mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">101.7 (30.6)</td><td align="left" valign="top" rowspan="1" colspan="1">108.6 (29.7)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Glycated haemoglobin, median (IQR)</td><td align="left" valign="top" rowspan="1" colspan="1">6.1 (5.7–7.0)</td><td align="left" valign="top" rowspan="1" colspan="1">6.1 (5.7–6.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.05</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">eGFR (ml/min/1.73 m<sup>2</sup>), mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">68.5 (20.1)</td><td align="left" valign="top" rowspan="1" colspan="1">61.7 (17.6)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">eGFR (ml/min/1.73 m<sup>2</sup>), <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">&lt;60</td><td align="left" valign="top" rowspan="1" colspan="1">1001 (35.3)</td><td align="left" valign="top" rowspan="1" colspan="1">925 (48.4)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">≥60</td><td align="left" valign="top" rowspan="1" colspan="1">1831 (64.7)</td><td align="left" valign="top" rowspan="1" colspan="1">985 (51.6)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">NT‐proBNP, median (IQR)</td><td align="left" valign="top" rowspan="1" colspan="1">1242 (742–2325)</td><td align="left" valign="top" rowspan="1" colspan="1">1.795 (1106–3041)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Main cause of HF, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Ischaemic</td><td align="left" valign="top" rowspan="1" colspan="1">1723 (60.8)</td><td align="left" valign="top" rowspan="1" colspan="1">951 (49.8)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Non‐ischaemic</td><td align="left" valign="top" rowspan="1" colspan="1">890 (31.4)</td><td align="left" valign="top" rowspan="1" colspan="1">797 (41.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unknown</td><td align="left" valign="top" rowspan="1" colspan="1">221 (7.8)</td><td align="left" valign="top" rowspan="1" colspan="1">162 (8.5)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Duration of HF, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">0–3 months</td><td align="left" valign="top" rowspan="1" colspan="1">94 (3.3)</td><td align="left" valign="top" rowspan="1" colspan="1">56 (2.9)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">3–6 months</td><td align="left" valign="top" rowspan="1" colspan="1">260 (9.2)</td><td align="left" valign="top" rowspan="1" colspan="1">133 (7.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6–12 months</td><td align="left" valign="top" rowspan="1" colspan="1">376 (13.3)</td><td align="left" valign="top" rowspan="1" colspan="1">179 (9.4)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1–2 years</td><td align="left" valign="top" rowspan="1" colspan="1">450 (15.9)</td><td align="left" valign="top" rowspan="1" colspan="1">236 (12.4)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2–5 years</td><td align="left" valign="top" rowspan="1" colspan="1">652 (23.0)</td><td align="left" valign="top" rowspan="1" colspan="1">453 (23.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">&gt;5 years</td><td align="left" valign="top" rowspan="1" colspan="1">1002 (35.4)</td><td align="left" valign="top" rowspan="1" colspan="1">853 (44.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LVEF, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">30.5 (6.8)</td><td align="left" valign="top" rowspan="1" colspan="1">31.8 (6.7)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NYHA class, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">II</td><td align="left" valign="top" rowspan="1" colspan="1">1995 (70.4)</td><td align="left" valign="top" rowspan="1" colspan="1">1208 (63.2)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">III</td><td align="left" valign="top" rowspan="1" colspan="1">816 (28.8)</td><td align="left" valign="top" rowspan="1" colspan="1">682 (35.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">IV</td><td align="left" valign="top" rowspan="1" colspan="1">23 (0.8)</td><td align="left" valign="top" rowspan="1" colspan="1">20 (1.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">KCCQ‐TSS, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">74.8 (21.5)</td><td align="left" valign="top" rowspan="1" colspan="1">71.9 (22.0)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Medical history, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">History of AF</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">1818 (95.2)</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">History of atrial flutter</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">226 (11.8)</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">History of either AF or atrial flutter</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">1885 (98.7)<xref rid="ejhf2381-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Type of AF/atrial flutter<xref rid="ejhf2381-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1">N/A</td></tr><tr><td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Paroxysmal</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">678 (36.0)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Persistent</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">308 (16.3)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:15%" align="left" valign="top" rowspan="1" colspan="1">Permanent</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">899 (47.7)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">AF/atrial flutter on ECG at enrolment</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">1128 (59.1)</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Hospitalization for HF</td><td align="left" valign="top" rowspan="1" colspan="1">1312 (46.3)</td><td align="left" valign="top" rowspan="1" colspan="1">939 (49.2)</td><td align="left" valign="top" rowspan="1" colspan="1">0.05</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Hypertension</td><td align="left" valign="top" rowspan="1" colspan="1">2001 (70.6)</td><td align="left" valign="top" rowspan="1" colspan="1">1522 (79.7)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Type 2 diabetes</td><td align="left" valign="top" rowspan="1" colspan="1">1308 (46.2)</td><td align="left" valign="top" rowspan="1" colspan="1">831 (43.5)</td><td align="left" valign="top" rowspan="1" colspan="1">0.07</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Chronic obstructive pulmonary disease</td><td align="left" valign="top" rowspan="1" colspan="1">307 (10.8)</td><td align="left" valign="top" rowspan="1" colspan="1">278 (14.6)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Previous MI</td><td align="left" valign="top" rowspan="1" colspan="1">1391 (49.1)</td><td align="left" valign="top" rowspan="1" colspan="1">701 (36.7)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Previous stroke or TIA</td><td align="left" valign="top" rowspan="1" colspan="1">285 (10.1)</td><td align="left" valign="top" rowspan="1" colspan="1">297 (15.5)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Peripheral artery disease</td><td align="left" valign="top" rowspan="1" colspan="1">402 (14.2)</td><td align="left" valign="top" rowspan="1" colspan="1">247 (12.9)</td><td align="left" valign="top" rowspan="1" colspan="1">0.22</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Treatment, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">ACEI/ARB</td><td align="left" valign="top" rowspan="1" colspan="1">2400 (84.7)</td><td align="left" valign="top" rowspan="1" colspan="1">1552 (81.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">ARNI</td><td align="left" valign="top" rowspan="1" colspan="1">287 (10.1)</td><td align="left" valign="top" rowspan="1" colspan="1">221 (11.6)</td><td align="left" valign="top" rowspan="1" colspan="1">0.11</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">ACEI/ARB/ARNI</td><td align="left" valign="top" rowspan="1" colspan="1">2675 (94.4)</td><td align="left" valign="top" rowspan="1" colspan="1">1767 (92.5)</td><td align="left" valign="top" rowspan="1" colspan="1">0.01</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Beta‐blocker</td><td align="left" valign="top" rowspan="1" colspan="1">2739 (96.6)</td><td align="left" valign="top" rowspan="1" colspan="1">1819 (95.2)</td><td align="left" valign="top" rowspan="1" colspan="1">0.01</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">MRA</td><td align="left" valign="top" rowspan="1" colspan="1">2066 (72.9)</td><td align="left" valign="top" rowspan="1" colspan="1">1304 (68.3)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Ivabradine</td><td align="left" valign="top" rowspan="1" colspan="1">202 (7.1)</td><td align="left" valign="top" rowspan="1" colspan="1">26 (1.4)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Digoxin</td><td align="left" valign="top" rowspan="1" colspan="1">326 (11.5)</td><td align="left" valign="top" rowspan="1" colspan="1">561 (29.4)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Amiodarone</td><td align="left" valign="top" rowspan="1" colspan="1">248 (8.8)</td><td align="left" valign="top" rowspan="1" colspan="1">321 (16.8)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Class I antiarrhythmic drugs</td><td align="left" valign="top" rowspan="1" colspan="1">6 (0.2)</td><td align="left" valign="top" rowspan="1" colspan="1">9 (0.5)</td><td align="left" valign="top" rowspan="1" colspan="1">0.12</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Sotalol</td><td align="left" valign="top" rowspan="1" colspan="1">17 (0.6)</td><td align="left" valign="top" rowspan="1" colspan="1">28 (1.5)</td><td align="left" valign="top" rowspan="1" colspan="1">0.003</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Oral anticoagulant<xref rid="ejhf2381-note-0004" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">372 (13.1)</td><td align="left" valign="top" rowspan="1" colspan="1">1597 (83.6)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Antiplatelet<xref rid="ejhf2381-note-0005" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2018 (71.2)</td><td align="left" valign="top" rowspan="1" colspan="1">574 (30.1)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">CRT‐P/CRT‐D</td><td align="left" valign="top" rowspan="1" colspan="1">178 (6.3)</td><td align="left" valign="top" rowspan="1" colspan="1">176 (9.2)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">ICD/CRT‐D</td><td align="left" valign="top" rowspan="1" colspan="1">670 (23.6)</td><td align="left" valign="top" rowspan="1" colspan="1">572 (29.9)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CHA<sub>2</sub>DS<sub>2</sub>‐VASc score, mean (SD)</td><td align="left" valign="top" rowspan="1" colspan="1">4.0 (1.6)</td><td align="left" valign="top" rowspan="1" colspan="1">4.3 (1.6)</td><td align="left" valign="top" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CHA<sub>2</sub>DS<sub>2</sub>‐VASc score ≥ 2, <italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">2690 (94.9)</td><td align="left" valign="top" rowspan="1" colspan="1">1850 (96.9)</td><td align="left" valign="top" rowspan="1" colspan="1">0.001</td></tr></tbody></table><table-wrap-foot id="ejhf2381-ntgp-0001"><fn id="ejhf2381-note-0001"><p>ACE, angiotensin‐converting enzyme; AF, atrial fibrillation; ARB, angiotensin receptor blocker; ARNI, angiotensin receptor–neprilysin inhibitor; BMI, body mass index; CRT‐D, cardiac resynchronization therapy‐defibrillator; CHA<sub>2</sub>DS<sub>2</sub>‐VASc, congestive heart failure, hypertension, age ≥ 75 years; diabetes mellitus, prior stroke or transient ischaemic attack or thromboembolism, vascular disease, age 65–74 years, sex category (female); CRT‐P, cardiac resynchronization therapy‐pacemaker; ECG, electrocardiogram; eGFR, estimated glomerular filtration rate; HF, heart failure; ICD, implantable cardioverter‐defibrillator; IQR, interquartile range; KCCQ‐TTS, Kansas City Cardiomyopathy Questionnaire total symptom score; LVEF, left ventricular ejection fraction; MI, myocardial infarction; MRA, mineralocorticoid receptor antagonist; N/A, not appropriate; NT‐proBNP, N‐terminal pro‐B‐type natriuretic peptide; NYHA, New York Heart Association; SD, standard deviation; TIA, transient ischaemic attack.</p></fn><fn id="ejhf2381-note-0002"><label>
+<sup>a</sup>
+</label><p>The remaining 1.3% had AF on ECG without a history of AF.</p></fn><fn id="ejhf2381-note-0003"><label>
+<sup>b</sup>
+</label><p>Only recorded for patients with a history of either AF or atrial flutter.</p></fn><fn id="ejhf2381-note-0004"><label>
+<sup>c</sup>
+</label><p>Vitamin K antagonists (warfarin/coumadin) and direct oral anticoagulants (dabigatran, rivaroxaban, apixaban, and edoxaban).</p></fn><fn id="ejhf2381-note-0005"><label>
+<sup>d</sup>
+</label><p>Aspirin, adenosine diphosphate receptor inhibitors (clopidogrel, ticagrelor, prasugrel), and adenosine reuptake inhibitors (dipyridamole).</p></fn></table-wrap-foot></table-wrap></sec><sec id="ejhf2381-sec-0014"><title>Atrial fibrillation on baseline electrocardiogram</title><p>A total of 1128 (23.8%) patients had AF on their ECG at enrolment (irrespective of history of AF). The baseline characteristics of these patients compared to patients without any AF are presented in online supplementary <xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">
+<italic toggle="yes">Table</italic>
+<bold>S1</bold>
+</xref>. The differences were similar to those described above and in <italic toggle="yes">Table</italic> <xref rid="ejhf2381-tbl-0001" ref-type="table">
+<italic toggle="yes">1</italic>
+</xref>.</p></sec><sec id="ejhf2381-sec-0015"><title>Type of atrial fibrillation</title><p>Baseline characteristics according to the type of AF are presented in <xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">online supplementary <italic toggle="yes">Table S2</italic>
+</xref>. Compared to patients with paroxysmal AF, those with persistent/permanent AF had a higher heart rate, glycated haemoglobin concentration, and NT‐proBNP level. Patients with persistent/permanent AF were less likely to have an ischaemic aetiology and had worse NYHA functional class and KCCQ‐TSS than patients with paroxysmal AF. Regarding pharmacological therapy, patients with persistent/permanent AF were more frequently treated with digoxin and an oral anticoagulant, but less often with amiodarone. However, they were substantially less likely to have a defibrillating device, compared to patients with paroxysmal AF.</p></sec></sec><sec id="ejhf2381-sec-0016"><title>Outcomes according to atrial fibrillation status</title><sec id="ejhf2381-sec-0017"><title>Any atrial fibrillation (history of <styled-content style="fixed-case" toggle="no">AF</styled-content> or <styled-content style="fixed-case" toggle="no">AF</styled-content> on baseline electrocardiogram)</title><p>Patients with any AF had a higher risk of the composite of worsening HF or cardiovascular death. The risk of HF hospitalization was also higher, but the risks of cardiovascular and all‐cause death were not higher, compared with patients without AF (<italic toggle="yes">Table</italic> <xref rid="ejhf2381-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>). However, after adjustment for prognostic variables (both with and without NT‐proBNP) patients with AF had a similar risk for all of these outcomes, compared with those without AF (<italic toggle="yes">Table</italic> <xref rid="ejhf2381-tbl-0002" ref-type="table">
+<italic toggle="yes">2</italic>
+</xref>).</p><table-wrap position="float" id="ejhf2381-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Time to first event according to atrial fibrillation (history or baseline electrocardiogram)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1" /><th align="left" valign="bottom" rowspan="1" colspan="1">No AF (<italic toggle="yes">n</italic> = 2834)</th><th align="left" valign="bottom" rowspan="1" colspan="1">AF (<italic toggle="yes">n</italic> = 1910)</th></tr></thead><tbody valign="top"><tr><td colspan="3" align="left" valign="top" rowspan="1">Worsening HF event or cardiovascular death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">494 (17.4)</td><td align="left" valign="top" rowspan="1" colspan="1">394 (20.6)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">12.7 (11.6–13.8)</td><td align="left" valign="top" rowspan="1" colspan="1">14.8 (13.4–16.3)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0007" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">1.18 (1.03–1.34)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0008" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">1.03 (0.89–1.19)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0009" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">0.91 (0.79–1.05)</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">HF hospitalization or cardiovascular death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">488 (17.2)</td><td align="left" valign="top" rowspan="1" colspan="1">389 (20.4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">12.5 (11.4–13.7)</td><td align="left" valign="top" rowspan="1" colspan="1">14.6 (13.2–16.1)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0007" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">1.17 (1.03–1.34)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0008" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">1.03 (0.89–1.19)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0009" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">0.91 (0.79–1.05)</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">HF hospitalization</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">287 (10.1)</td><td align="left" valign="top" rowspan="1" colspan="1">262 (13.7)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">7.4 (6.5–8.3)</td><td align="left" valign="top" rowspan="1" colspan="1">9.8 (8.7–11.1)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0007" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">1.34 (1.13–1.59)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0008" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">1.10 (0.92–1.32)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0009" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">0.97 (0.81–1.17)</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">Cardiovascular death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">291 (10.3)</td><td align="left" valign="top" rowspan="1" colspan="1">209 (10.9)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">7.1 (6.3–8.0)</td><td align="left" valign="top" rowspan="1" colspan="1">7.3 (6.4–8.4)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0007" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">1.04 (0.87–1.24)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0008" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">0.95 (0.78–1.15)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0009" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">0.82 (0.68–1.00)</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">All‐cause death</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">347 (12.2)</td><td align="left" valign="top" rowspan="1" colspan="1">258 (13.5)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">8.5 (7.6–9.4)</td><td align="left" valign="top" rowspan="1" colspan="1">9.0 (8.0–10.2)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0007" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">1.07 (0.91–1.26)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0008" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">0.95 (0.80–1.13)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0009" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">0.83 (0.69–0.98)</td></tr><tr><td colspan="3" align="left" valign="top" rowspan="1">Stroke</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">54 (1.9)</td><td align="left" valign="top" rowspan="1" colspan="1">34 (1.8)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">1.3 (1.0–1.7)</td><td align="left" valign="top" rowspan="1" colspan="1">1.2 (0.9–1.7)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0007" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">0.91 (0.59–1.40)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0008" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">0.84 (0.52–1.34)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)<xref rid="ejhf2381-note-0009" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reference</td><td align="left" valign="top" rowspan="1" colspan="1">0.80 (0.50–1.28)</td></tr></tbody></table><table-wrap-foot id="ejhf2381-ntgp-0002"><fn id="ejhf2381-note-0006"><p>AF, atrial fibrillation; CI, confidence interval; HF, heart failure; HR, hazard ratio.</p></fn><fn id="ejhf2381-note-0007"><label>
+<sup>a</sup>
+</label><p>Cause‐specific Cox regression models stratified according to diabetes mellitus status and adjusted for a history of HF hospitalization and randomized treatment allocation. No adjustment for HF hospitalization in model for all‐cause death.</p></fn><fn id="ejhf2381-note-0008"><label>
+<sup>b</sup>
+</label><p>Cause‐specific Cox regression models stratified according to diabetes mellitus status and adjusted for a history of HF hospitalization, randomized treatment allocation, age, sex, geographical region, heart rate, systolic blood pressure, body mass index, HF aetiology, left ventricular ejection fraction, New York Heart Association functional class, estimated glomerular filtration rate, hypertension, chronic obstructive pulmonary disease, and prior stroke/transient ischaemic attack. No adjustment for HF hospitalization in model for all‐cause death.</p></fn><fn id="ejhf2381-note-0009"><label>
+<sup>c</sup>
+</label><p>Fully adjusted cause‐specific Cox regression models, including adjustment for N‐terminal pro‐B‐type natriuretic peptide.</p></fn></table-wrap-foot></table-wrap></sec><sec id="ejhf2381-sec-0018"><title>Atrial fibrillation on baseline electrocardiogram</title><p>After adjustment for prognostic variables (both with and without NT‐proBNP), patients with AF on their baseline ECG had a similar risk of each clinical outcome, compared to individuals without AF (<xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">online supplementary <italic toggle="yes">Table S3</italic>
+</xref>).</p></sec><sec id="ejhf2381-sec-0019"><title>Type of atrial fibrillation</title><p>Both patients with paroxysmal AF and patients with persistent/permanent AF had a higher risk of the composite of worsening HF or cardiovascular death than patients without AF. This difference was driven by a higher risk of HF hospitalization, but the risks of cardiovascular and all‐cause death were not higher, compared to patients without AF (<xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">online supplementary <italic toggle="yes">Table S4</italic>
+</xref>). However, after adjustment for prognostic variables (both with and without NT‐proBNP), patients with paroxysmal AF and persistent/permanent AF had a similar risk of each clinical outcome, compared to individuals without AF (<xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">online supplementary <italic toggle="yes">Table S4</italic>
+</xref>). The unadjusted and adjusted risks in patients with paroxysmal AF were similar to those in patients with persistent/permanent AF.</p></sec></sec><sec id="ejhf2381-sec-0020"><title>Effects of dapagliflozin according to atrial fibrillation status</title><sec id="ejhf2381-sec-0021"><title>Any atrial fibrillation (history of <styled-content style="fixed-case" toggle="no">AF</styled-content> or <styled-content style="fixed-case" toggle="no">AF</styled-content> on baseline electrocardiogram)</title><p>Hazard ratios, rate ratios, and odds ratios for the effect of dapagliflozin compared with placebo on the primary and secondary endpoints according to AF status are displayed in <italic toggle="yes">Table</italic> <xref rid="ejhf2381-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref>. Dapagliflozin reduced the risk of worsening HF or cardiovascular death to the same extent in patients with (HR 0.75, 95% CI 0.62–0.92) and without AF (HR 0.74, 95% CI 0.62–0.88), with no interaction between AF status and effect of treatment (<italic toggle="yes">p</italic>
+<sub>interaction</sub> = 0.88) (<italic toggle="yes">Figure</italic> <xref rid="ejhf2381-fig-0001" ref-type="fig">
+<italic toggle="yes">1</italic>
+</xref>). The effect of dapagliflozin was consistent in patients with and without AF for all secondary endpoints (<italic toggle="yes">Table</italic> <xref rid="ejhf2381-tbl-0003" ref-type="table">
+<italic toggle="yes">3</italic>
+</xref>).</p><table-wrap position="float" id="ejhf2381-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Effects of dapagliflozin compared with placebo on clinical events according to atrial fibrillation (history or baseline electrocardiogram)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="top" colspan="1">Outcome</th><th colspan="2" align="left" valign="bottom" rowspan="1">No AF (<italic toggle="yes">n</italic> = 2834)</th><th colspan="2" align="left" valign="bottom" rowspan="1">AF (<italic toggle="yes">n</italic> = 1910)</th><th rowspan="2" valign="top" align="left" colspan="1">
+<italic toggle="yes">p</italic>‐value for interaction</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 1415)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dapagliflozin (<italic toggle="yes">n</italic> = 1419)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 956)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dapagliflozin (<italic toggle="yes">n</italic> = 954)</th></tr></thead><tbody valign="top"><tr><td colspan="5" align="left" valign="top" rowspan="1">Worsening HF event or cardiovascular death</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.88</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">281 (19.9)</td><td align="left" valign="top" rowspan="1" colspan="1">213 (15.0)</td><td align="left" valign="top" rowspan="1" colspan="1">221 (23.1)</td><td align="left" valign="top" rowspan="1" colspan="1">173 (18.1)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">14.7 (13.0–16.5)</td><td align="left" valign="top" rowspan="1" colspan="1">10.8 (9.4–12.3)</td><td align="left" valign="top" rowspan="1" colspan="1">16.9 (14.8–19.3)</td><td align="left" valign="top" rowspan="1" colspan="1">12.7 (11.0–14.8)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)</td><td colspan="2" align="center" valign="top" rowspan="1">0.74 (0.62–0.88)</td><td colspan="2" align="center" valign="top" rowspan="1">0.75 (0.62–0.92)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">HF hospitalization or cardiovascular death</td><td align="left" valign="top" rowspan="1" colspan="1">0.97</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">276 (19.5)</td><td align="left" valign="top" rowspan="1" colspan="1">212 (14.9)</td><td align="left" valign="top" rowspan="1" colspan="1">219 (22.9)</td><td align="left" valign="top" rowspan="1" colspan="1">170 (17.8)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">14.3 (12.7–16.1)</td><td align="left" valign="top" rowspan="1" colspan="1">10.7 (9.4–12.3)</td><td align="left" valign="top" rowspan="1" colspan="1">16.7 (14.6–19.1)</td><td align="left" valign="top" rowspan="1" colspan="1">12.5 (10.7–14.5)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)</td><td colspan="2" align="center" valign="top" rowspan="1">0.75 (0.63–0.89)</td><td colspan="2" align="center" valign="top" rowspan="1">0.75 (0.61–0.91)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">HF hospitalization</td><td align="left" valign="top" rowspan="1" colspan="1">0.58</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">170 (12.0)</td><td align="left" valign="top" rowspan="1" colspan="1">117 (8.2)</td><td align="left" valign="top" rowspan="1" colspan="1">148 (15.5)</td><td align="left" valign="top" rowspan="1" colspan="1">114 (11.9)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">8.8 (7.6–10.3)</td><td align="left" valign="top" rowspan="1" colspan="1">5.9 (4.9–7.1)</td><td align="left" valign="top" rowspan="1" colspan="1">11.3 (9.6–13.3)</td><td align="left" valign="top" rowspan="1" colspan="1">8.4 (7.0–10.1)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)</td><td colspan="2" align="center" valign="top" rowspan="1">0.67 (0.53–0.85)</td><td colspan="2" align="center" valign="top" rowspan="1">0.74 (0.58–0.94)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Cardiovascular death</td><td align="left" valign="top" rowspan="1" colspan="1">0.70</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">161 (11.4)</td><td align="left" valign="top" rowspan="1" colspan="1">130 (9.2)</td><td align="left" valign="top" rowspan="1" colspan="1">112 (11.7)</td><td align="left" valign="top" rowspan="1" colspan="1">97 (10.2)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">7.9 (6.8–9.2)</td><td align="left" valign="top" rowspan="1" colspan="1">6.3 (5.3–7.5)</td><td align="left" valign="top" rowspan="1" colspan="1">7.9 (6.6–9.5)</td><td align="left" valign="top" rowspan="1" colspan="1">6.8 (5.6–8.3)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)</td><td colspan="2" align="center" valign="top" rowspan="1">0.80 (0.64–1.01)</td><td colspan="2" align="center" valign="top" rowspan="1">0.86 (0.65–1.13)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">All‐cause death</td><td align="left" valign="top" rowspan="1" colspan="1">0.22</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</td><td align="left" valign="top" rowspan="1" colspan="1">196 (13.9)</td><td align="left" valign="top" rowspan="1" colspan="1">151 (10.6)</td><td align="left" valign="top" rowspan="1" colspan="1">133 (13.9)</td><td align="left" valign="top" rowspan="1" colspan="1">125 (13.1)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Event rate per 100 person‐years (95% CI)</td><td align="left" valign="top" rowspan="1" colspan="1">9.6 (8.4–11.1)</td><td align="left" valign="top" rowspan="1" colspan="1">7.3 (6.3–8.6)</td><td align="left" valign="top" rowspan="1" colspan="1">9.4 (7.9–11.1)</td><td align="left" valign="top" rowspan="1" colspan="1">8.7 (7.3–10.4)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">HR (95% CI)</td><td colspan="2" align="center" valign="top" rowspan="1">0.76 (0.62–0.94)</td><td colspan="2" align="center" valign="top" rowspan="1">0.93 (0.73–1.19)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Recurrent HF hospitalization or cardiovascular death</td><td align="left" valign="top" rowspan="1" colspan="1">0.43</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No. of events</td><td align="left" valign="top" rowspan="1" colspan="1">408</td><td align="left" valign="top" rowspan="1" colspan="1">294</td><td align="left" valign="top" rowspan="1" colspan="1">334</td><td align="left" valign="top" rowspan="1" colspan="1">273</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">RR (95% CI)</td><td colspan="2" align="center" valign="top" rowspan="1">0.71 (0.58–0.87)</td><td colspan="2" align="center" valign="top" rowspan="1">0.80 (0.64–1.00)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">KCCQ‐TSS</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Change in KCCQ‐TSS score at 8 months</td><td align="left" valign="top" rowspan="1" colspan="1">3.3 (2.2–4.4)</td><td align="left" valign="top" rowspan="1" colspan="1">5.8 (4.8–6.9)</td><td align="left" valign="top" rowspan="1" colspan="1">3.3 (1.9–4.7)</td><td align="left" valign="top" rowspan="1" colspan="1">6.5 (5.2–7.8)</td><td align="left" valign="top" rowspan="1" colspan="1">0.45</td></tr><tr><td colspan="5" style="padding-left:15%" align="left" valign="top" rowspan="1">≥5‐point improvement in KCCQ‐TSS at 8 months</td><td align="left" valign="top" rowspan="1" colspan="1">0.73</td></tr><tr><td style="padding-left:20%" align="left" valign="top" rowspan="1" colspan="1">Proportion of patients</td><td align="left" valign="top" rowspan="1" colspan="1">52.2</td><td align="left" valign="top" rowspan="1" colspan="1">59.1</td><td align="left" valign="top" rowspan="1" colspan="1">49.1</td><td align="left" valign="top" rowspan="1" colspan="1">57.1</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:20%" align="left" valign="top" rowspan="1" colspan="1">OR (95% CI)</td><td colspan="2" align="center" valign="top" rowspan="1">1.14 (1.06–1.24)</td><td colspan="2" align="center" valign="top" rowspan="1">1.17 (1.06–1.29)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td colspan="5" style="padding-left:10%" align="left" valign="top" rowspan="1">≥5‐point decrease in KCCQ‐TSS at 8 months</td><td align="left" valign="top" rowspan="1" colspan="1">0.26</td></tr><tr><td style="padding-left:20%" align="left" valign="top" rowspan="1" colspan="1">Proportion of patients</td><td align="left" valign="top" rowspan="1" colspan="1">31.8</td><td align="left" valign="top" rowspan="1" colspan="1">25.5</td><td align="left" valign="top" rowspan="1" colspan="1">34.5</td><td align="left" valign="top" rowspan="1" colspan="1">25.0</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr><tr><td style="padding-left:20%" align="left" valign="top" rowspan="1" colspan="1">OR (95% CI)</td><td colspan="2" align="center" valign="top" rowspan="1">0.86 (0.79–0.94)</td><td colspan="2" align="center" valign="top" rowspan="1">0.80 (0.72–0.88)</td><td align="left" valign="top" rowspan="1" colspan="1" /></tr></tbody></table><table-wrap-foot id="ejhf2381-ntgp-0003"><fn id="ejhf2381-note-0010"><p>AF, atrial fibrillation; CI, confidence interval; HF, heart failure; HR, hazard ratio; KCCQ‐TSS, Kansas City Cardiomyopathy Questionnaire total symptom score; OR, odds ratio; RR, rate ratio.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="Figure" id="ejhf2381-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Effects of dapagliflozin compared with placebo on clinical events according to atrial fibrillation (AF) status at baseline. All hazard ratios are adjusted for history of heart failure hospitalization (apart from all‐cause death) and stratified by diabetes status. CI, confidence interval; ECG, electrocardiogram.</p></caption><graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="EJHF-24-513-g003.jpg"><alt-text>EJHF-2381-FIG-0001-c</alt-text></graphic></fig><p>The proportions of patients who discontinued trial treatment or experienced adverse events according to treatment assignment were similar, irrespective of AF status (<italic toggle="yes">Table</italic> <xref rid="ejhf2381-tbl-0004" ref-type="table">
+<italic toggle="yes">4</italic>
+</xref>).</p><table-wrap position="float" id="ejhf2381-tbl-0004" content-type="Table" orientation="portrait"><label>Table 4</label><caption><p>Adverse events of dapagliflozin compared with placebo according to atrial fibrillation (history or baseline electrocardiogram)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><col align="left" span="1" /><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="left" valign="top" colspan="1">Adverse event</th><th colspan="2" align="left" valign="bottom" rowspan="1">No AF (<italic toggle="yes">n</italic> = 2829)</th><th colspan="2" align="left" valign="bottom" rowspan="1">AF (<italic toggle="yes">n</italic> = 1907)</th><th rowspan="2" valign="top" align="left" colspan="1">
+<italic toggle="yes">p</italic>‐value for interaction</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 1413)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dapagliflozin (<italic toggle="yes">n</italic> = 1416)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Placebo (<italic toggle="yes">n</italic> = 955)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dapagliflozin (<italic toggle="yes">n</italic> = 952)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Discontinuation of study drug for any reason</td><td align="left" valign="top" rowspan="1" colspan="1">144 (10.2)</td><td align="left" valign="top" rowspan="1" colspan="1">144 (10.2)</td><td align="left" valign="top" rowspan="1" colspan="1">114 (11.9)</td><td align="left" valign="top" rowspan="1" colspan="1">105 (11.0)</td><td align="left" valign="top" rowspan="1" colspan="1">0.65</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Discontinuation of study drug due to adverse event</td><td align="left" valign="top" rowspan="1" colspan="1">64 (4.5)</td><td align="left" valign="top" rowspan="1" colspan="1">60 (4.2)</td><td align="left" valign="top" rowspan="1" colspan="1">52 (5.4)</td><td align="left" valign="top" rowspan="1" colspan="1">51 (5.4)</td><td align="left" valign="top" rowspan="1" colspan="1">0.85</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Volume depletion</td><td align="left" valign="top" rowspan="1" colspan="1">83 (5.9)</td><td align="left" valign="top" rowspan="1" colspan="1">101 (7.1)</td><td align="left" valign="top" rowspan="1" colspan="1">79 (8.3)</td><td align="left" valign="top" rowspan="1" colspan="1">77 (8.1)</td><td align="left" valign="top" rowspan="1" colspan="1">0.31</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Renal adverse event</td><td align="left" valign="top" rowspan="1" colspan="1">100 (7.1)</td><td align="left" valign="top" rowspan="1" colspan="1">77 (5.4)</td><td align="left" valign="top" rowspan="1" colspan="1">70 (7.3)</td><td align="left" valign="top" rowspan="1" colspan="1">76 (8.0)</td><td align="left" valign="top" rowspan="1" colspan="1">0.11</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fracture</td><td align="left" valign="top" rowspan="1" colspan="1">27 (1.9)</td><td align="left" valign="top" rowspan="1" colspan="1">26 (1.8)</td><td align="left" valign="top" rowspan="1" colspan="1">23 (2.4)</td><td align="left" valign="top" rowspan="1" colspan="1">23 (2.4)</td><td align="left" valign="top" rowspan="1" colspan="1">0.91</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Amputation</td><td align="left" valign="top" rowspan="1" colspan="1">6 (0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">10 (0.7)</td><td align="left" valign="top" rowspan="1" colspan="1">6 (0.6)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">0.17</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Major hypoglycaemia</td><td align="left" valign="top" rowspan="1" colspan="1">1 (0.1)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (0.1)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (0.2)</td><td align="left" valign="top" rowspan="1" colspan="1">0.47</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diabetic ketoacidosis</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (0.1)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">2 (0.2)</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td></tr></tbody></table><table-wrap-foot id="ejhf2381-ntgp-0004"><fn id="ejhf2381-note-0011"><p>Values are given as <italic toggle="yes">n</italic> (%). A total of eight randomized patients were excluded from the safety analysis, as these were performed in patients who had undergone randomization and received at least one dose of dapagliflozin or placebo.</p></fn><fn id="ejhf2381-note-0012"><p>AF, atrial fibrillation; N/A, not appropriate.</p></fn></table-wrap-foot></table-wrap></sec><sec id="ejhf2381-sec-0022"><title>Atrial fibrillation on baseline electrocardiogram</title><p>The effect of dapagliflozin in patients with AF on their baseline ECG compared to patients without AF was also consistent for the primary and secondary endpoints (<xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">online supplementary <italic toggle="yes">Table S5</italic>
+</xref>). Rates of treatment discontinuation and adverse events in the dapagliflozin and placebo groups were similar in patients with and without AF on their baseline ECG (<xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">online supplementary <italic toggle="yes">Table S6</italic>
+</xref>).</p></sec><sec id="ejhf2381-sec-0023"><title>Type of atrial fibrillation</title><p>The effect of dapagliflozin was also consistent for the primary and secondary endpoints according to the type of AF (<xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">online supplementary <italic toggle="yes">Table S7</italic>
+</xref>). Similarly, the proportions of patients who discontinued trial treatment or experienced adverse events according to treatment assignment were similar, irrespective of the type of AF (<xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">online supplementary <italic toggle="yes">Table S8</italic>
+</xref>).</p></sec></sec><sec id="ejhf2381-sec-0024"><title>New‐onset atrial fibrillation</title><p>Among the 2834 patients without AF at baseline, 123 (4.3%) patients developed new‐onset AF during the median follow‐up of 18.2 months. Among patients with incident AF, the arrhythmia was documented on an ECG in 87.7% of participants. Regarding treatment, 30.3% were treated with rate control therapy, 31.1% with an antiarrhythmic drug, 15.6% with electric cardioversion and 4.9% with invasive antiarrhythmic approach; 60.7% received an anticoagulant (<xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">online supplementary <italic toggle="yes">Table S9</italic>
+</xref>).</p><p>Baseline characteristics according to the development of new‐onset AF are presented in <xref rid="ejhf2381-supitem-0001" ref-type="supplementary-material">online supplementary <italic toggle="yes">Table S10</italic>
+</xref>. Compared to patients who did not develop new‐onset AF, those who did were older, more often white, more likely to have hypertension, peripheral artery disease, and prior myocardial infarction, and had a higher CHA<sub>2</sub>DS<sub>2</sub>‐VASc score and baseline NT‐proBNP, and lower eGFR. Patients who developed new‐onset AF had a longer duration of HF, but similar LVEF and NYHA functional class compared with those who did not develop new‐onset AF. Regarding background HF therapy, patients who developed new‐onset AF were more likely to have received a defibrillating device.</p><p>Among patients who developed new‐onset AF, 37 patients subsequently had a worsening HF event or died from cardiovascular causes, of whom 15 patients experienced this outcome on the exact same day as they are diagnosed with new‐onset AF. New‐onset AF was associated with a higher risk of worsening HF or cardiovascular death (HR 5.44, 95% CI 3.84–7.70), HF hospitalization or cardiovascular death (HR 5.59, 95% CI 3.97–7.88), HF hospitalization (HR 6.24, 95% CI 4.07–9.56), cardiovascular death (HR 4.55, 95% CI 2.92–7.09), and all‐cause death (HR 5.64, 95% CI 3.89–8.17), but not stroke (HR 0.93, 95% CI 0.13–6.85).</p><p>Overall, 66 (4.7%) and 57 (4.0%) patients in the placebo and dapagliflozin group, respectively, developed new‐onset AF, corresponding to a rate of 3.3 and 2.8 events per 100 person‐years, respectively (<italic toggle="yes">Figure</italic> <xref rid="ejhf2381-fig-0002" ref-type="fig">
+<italic toggle="yes">2</italic>
+</xref>). Compared with placebo, dapagliflozin did not significantly reduce the risk of new‐onset AF (HR 0.86, 95% CI 0.60–1.22). Fine–Gray competing risk analysis, accounting for the competing risk of death, yielded a similar finding (subdistribution HR 0.87, 95% CI 0.61–1.24).</p><fig position="float" fig-type="Figure" id="ejhf2381-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Cumulative incidence of new‐onset atrial fibrillation in dapagliflozin according to randomized treatment assignment in patients without atrial fibrillation (history or baseline electrocardiogram). Cumulative incidence of new‐onset atrial fibrillation was estimated using the Aalen–Johansen estimator, taking the competing risk of death into account.</p></caption><graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="EJHF-24-513-g002.jpg"><alt-text>EJHF-2381-FIG-0002-c</alt-text></graphic></fig></sec></sec><sec id="ejhf2381-sec-0025"><title>Discussion</title><p>In DAPA‐HF, AF at enrolment (irrespective of definition or type) was not associated with a higher risk of adverse outcomes. In addition, dapagliflozin, compared with placebo, reduced the risk of worsening HF events, cardiovascular death, and all‐cause death, and improved symptoms, in patients with and without AF (irrespective of definition or type). However, dapagliflozin did not significantly reduce the risk of new‐onset AF (<italic toggle="yes">Graphical Abstract</italic>).</p><sec id="ejhf2381-sec-0026"><title>Baseline characteristics and outcomes according to atrial fibrillation</title><p>In DAPA‐HF, there were substantial differences in the clinical profile between HFrEF patients with and without any AF (and between type of AF), most of which confirmed differences reported in prior HFrEF trials.<xref rid="ejhf2381-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> One of these remains a concern. There was persisting underuse of oral anticoagulants (74%) in patients with paroxysmal AF despite &gt;95% having a CHA<sub>2</sub>DS<sub>2</sub>‐VASc score ≥ 2 (by contrast 90% of patients with persistent/permanent AF received an anticoagulant).<xref rid="ejhf2381-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</p><p>The differences in the clinical profile between HFrEF patients with and without AF have fuelled a vigorous debate about whether AF is an independent predictor of adverse outcomes or simply a marker of more advanced disease in sicker patients. The conflicting findings in previous studies may reflect residual confounding, particularly from lack of adjustment for NT‐proBNP, the single strongest predictor of outcomes in HFrEF.<xref rid="ejhf2381-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="ejhf2381-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="ejhf2381-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ejhf2381-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ejhf2381-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="ejhf2381-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="ejhf2381-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="ejhf2381-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="ejhf2381-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ejhf2381-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> We found that AF (irrespective of definition) at baseline was no longer associated with a higher risk of any of the outcomes of interest after adjustment for known prognostic variables. This was the case whether NT‐proBNP was or was not included in the adjustment. Our findings are in line with recent data from the Vericiguat Global Study in Subjects With Heart Failure With Reduced Ejection Fraction trial (VICTORIA).<xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> These results from two of the most contemporary trials in HFrEF do not support the view that AF is an independent prognostic factor. However, based on our analysis, the view that AF is a marker of more advanced disease seems only partially true. The excess risk observed in patients with AF was related to hospital admission and not mortality. Despite having higher NT‐proBNP levels, patients with AF did not have higher all‐cause mortality, even in the unadjusted analyses. Of course, these new findings have been made in patients receiving excellent background pharmacological therapy and this may be an important distinction from older studies.</p></sec><sec id="ejhf2381-sec-0027"><title>Efficacy and safety of dapagliflozin according to baseline atrial fibrillation</title><p>While AF does not appear to modify the effects of angiotensin receptor blockers, sacubitril/valsartan, mineralocorticoid receptor antagonists, or vericiguat in patients with HFrEF,<xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="ejhf2381-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ejhf2381-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> patients with AF obtain less benefit from beta‐blockers compared to those without AF.<xref rid="ejhf2381-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Recently, a diminished effect of omecamtiv mecarbil has also been reported in patients with AF, compared to sinus rhythm.<xref rid="ejhf2381-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> In light of these differences, it is important to examine the efficacy of new treatments in HFrEF patients with and without AF. We found the efficacy of dapagliflozin was not modified by AF, irrespective of the definition or type of AF. Specifically, dapagliflozin, compared with placebo, reduced the risk of worsening HF or cardiovascular death to a similar extent in patients with and without AF. The benefits of dapagliflozin on HF hospitalization (both first and recurrent), cardiovascular death, and all‐cause death were also consistent, irrespective of AF status.</p><p>A further fundamental goal of the management of HFrEF is to reduce symptoms and improve quality of life and this is even more important in patients with AF who have a greater symptom burden than those without, as confirmed by the KCCQ‐TSS findings in the present study. More patients treated with dapagliflozin had a clinically meaningful improvement, and fewer a deterioration, in symptoms (≥5 point change in KCCQ‐TSS), and this benefit over placebo was similar in patients with and without AF at baseline (again irrespective of definition and type). In addition, dapagliflozin was as well‐tolerated and safe in patients with AF as in those without. Dapagliflozin is, therefore, a useful additional therapy for HFrEF patients with AF.</p></sec><sec id="ejhf2381-sec-0028"><title>New‐onset atrial fibrillation</title><p>The importance of new‐onset AF is much less well studied in patients with HFrEF. Two recent analyses suggested that new‐onset AF confers a high risk of adverse outcomes, including HF hospitalization and death, and we confirmed this in the present study, with a striking 5 to 6‐fold higher risk of non‐fatal and fatal outcomes when compared to patients without incident AF.<xref rid="ejhf2381-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="ejhf2381-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="ejhf2381-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="ejhf2381-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="ejhf2381-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Our findings in the present trial [and in the Aliskiren Trial to Minimize Outcomes in Patients with Heart Failure (ATMOSPHERE)<xref rid="ejhf2381-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> and the Prospective Comparison of Angiotensin Receptor–Neprilysin Inhibitor with Angiotensin‐Converting Enzyme Inhibitor to Determine Impact on Global Mortality and Morbidity in Heart Failure trial (PARADIGM‐HF)<xref rid="ejhf2381-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>] contrast with those recently described in the VICTORIA trial which enrolled sicker patients who had recently been hospitalized. In VICTORIA, the incidence of AF was much higher, but the risk associated with new‐onset AF was not as great.<xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> The finding that new‐onset AF is associated with worse outcomes in the present study, whereas a history of AF (or AF at baseline) is not, may seem counterintuitive. However, it is likely that some episodes of new‐onset AF with a rapid ventricular rate may lead to haemodynamic decompensation and subsequent hospital admission.<xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Based on the present and previous similar findings, it appears to be important to try and prevent the development of new‐onset AF. Renin–angiotensin system inhibitors, beta‐blockers, and mineralocorticoid receptor antagonists have each been shown to reduce incident AF, and the low rate of new‐onset AF in the present trial may reflect the high usage of these drugs in DAPA‐HF.<xref rid="ejhf2381-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="ejhf2381-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="ejhf2381-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="ejhf2381-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="ejhf2381-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> By contrast, neprilysin inhibition and vericiguat were recently shown not to reduce incident AF in patients with HFrEF.<xref rid="ejhf2381-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="ejhf2381-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> While this may also be true for SGLT2 inhibitors, based on the present findings, it is also possible that a difference from placebo was not detected because of the low statistical power due to the small number of episodes of incident AF and relatively short duration of follow‐up in DAPA‐HF. We raise this possibility because a <italic toggle="yes">post hoc</italic> analysis of the DECLARE‐TIMI 58 trial, which had nearly five times more AF events and follow‐up through 4 years, did show that dapagliflozin reduced the number of episodes of AF, with the curves particularly diverging after 2 years, albeit in a quite different patient population.<xref rid="ejhf2381-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Indeed, the point estimate we observed in DAPA‐HF (HR 0.86) is consistent with that from the DECLARE‐TIMI58 trial (HR 0.81, 95% CI 0.68–0.95). Moreover, three recent cardiac remodelling trials, collectively, showed that SGLT2 inhibition reduced left atrial size in patients with HFrEF, an effect supporting the possibility of a beneficial effect on incident AF.<xref rid="ejhf2381-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="ejhf2381-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="ejhf2381-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> However, given the exploratory nature of the present analysis (and the <italic toggle="yes">post hoc</italic> analysis from the DECLARE‐TIMI 58 trial) as well as the lack of adjudication and systematic screening for new‐onset AF in both trials, the potential anti‐fibrillatory effect of SGLT2 inhibitors merits further investigation in a prospective manner, perhaps using systematic ECG monitoring which is likely to detect a higher incidence of new‐onset AF. With several studies now highlighting the very high risk associated with incident AF, new strategies to detect and treat this problem early may also be worthwhile.<xref rid="ejhf2381-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+</p></sec><sec id="ejhf2381-sec-0029"><title>Limitations</title><p>This study has some limitations. Systematic ECG monitoring would likely have detected AF in some patients with no investigator‐reported history (and of new‐onset AF). Similarly, among those with known AF, some degree of misclassification of the type of AF is likely. Information on the duration of AF at enrolment was not available. New‐onset AF was said not to have been documented on an ECG in 15 of the 123 cases (13 of these 15 had paroxysmal AF). Presumably these cases were identified by clinical examination, on an ECG monitor rhythm strip or by an implanted device. The duration of follow‐up in DAPA‐HF was relatively short, and this may, in part, explain the low number of patients with new‐onset AF and stroke. Finally, although it would have been interesting to examine the long‐term effects of dapagliflozin on cardiac remodelling, specifically left atrial size, echocardiographic data were not available in the present study although have been reported in other trials.<xref rid="ejhf2381-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="ejhf2381-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="ejhf2381-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</p></sec></sec><sec id="ejhf2381-sec-0030"><title>Conclusions</title><p>In DAPA‐HF, dapagliflozin, compared with placebo, reduced the risk of worsening HF events, cardiovascular death, and all‐cause death, and improved symptoms, in patients with and without AF (irrespective of definition or type). Dapagliflozin did not significantly reduce the risk of new‐onset AF.</p></sec><sec id="ejhf2381-sec-0031"><title>Funding</title><p>The DAPA‐HF trial was funded by AstraZeneca. Prof. McMurray is supported by British Heart Foundation Centre of Research Excellence Grant RE/18/6/34217.</p><p>
+<bold>Conflict of interest</bold>: J.H.B. reports advisory board honoraria from Bayer, outside the submitted work. K.F.D. reports compensation from AstraZeneca for other services. P.S.J. reports compensation for consultant services from Novo Nordisk AS, Novartis, AstraZeneca and Boehringer Ingelheim. R.A.d.B. reports grants from Cardior Pharmaceuticals GmbH to other; compensation for other services from Novartis, AstraZeneca, Roche Diagnostics GmbH, Bayer, Abbott Fund; grants from AstraZeneca, Ionis Pharmaceuticals, Inc., Roche Diagnostics GmbH, Boehringer Ingelheim, Novo Nordisk and Abbott Fund to other. M.B. received personal fees from Abbott, Amgen, AstraZeneca, Bayer, Boehringer Ingelheim, Servier, Medtronic, Vifor, and Novartis. A.S.D. reports receiving personal fees from Abbott, Biofourmis, Boston Scientific, Boehringer Ingelheim, Merck, Regeneron, and Relypsa and grants and personal fees from AstraZeneca, Alnylam, and Novartis. J.G.H. reports receiving grants and personal fees from AstraZeneca Canada and Boerhinger Ingelheim/Eli Lilly during the conduct of the study and grants and personal fees from Servier Canada, Novartis, Pfizer, and Bayer; personal fees from Otsuka, Alnylam, and Akcea; grants from Medtronic; and serving on the medical advisory board for Caridiol outside the submitted work. S.E.I. reports compensation for consultant services from Merck, Lexicon Pharmaceuticals, Inc., AstraZeneca, Boehringer Ingelheim, Abbott Diabetes Care, VTV Therapeutics, Novo Nordisk, Esperion; travel support from Novo Nordisk, Boehringer Ingelheim, AstraZeneca; compensation for other services from AstraZeneca, Boehringer Ingelheim. M.N.K. reports compensation for consultant services from Novo Nordisk, Applied Therapeutics, Janssen Global Services, LLC, AstraZeneca, Eli Lilly and Company, Merck, Bayer, Amgen, Sanofi US Services Inc, Boehringer Ingelheim, Vifor Pharma; grants from Boehringer Ingelheim, AstraZeneca. F.A.M. reports personal fees from AstraZeneca. J.C.N. reports receiving grants from AstraZeneca during the conduct of the study and personal fees from Amgen, Daiichi‐Sankyo, and Servier, grants from AstraZeneca, Bristol‐Myers Squibb, CLS Behring, Dalcor, Jansen, Novo Nordisk, and Vifor, and grants and personal fees from Bayer, Novartis, and Sanofi. M.C.P. reports compensation for endpoint review committee services from Bayer, Boehringer Ingelheim, Takeda California, Inc, Novo Nordisk; compensation for consultant services from Boehringer Ingelheim, AstraZeneca, Novo Nordisk, Novartis, SQ Innovation; grants from Boehringer Ingelheim, Novartis, SQ Innovation and AstraZeneca to other. P.P. reports compensation for consultant services from AstraZeneca, Boehringer Ingelheim, Servier, Amgen, Vifor Pharma; compensation for other services from AstraZeneca, Pfizer, Novartis, Abbott Vascular. O.B. reports employment by AstraZeneca AB. A.M.L. reports stock holdings in AstraZeneca and employment by AstraZeneca. M. Sjöstrand reports employment by AstraZeneca. S.D.S. reports compensation for consultant services from GlaxoSmithKline, Arena, Novartis, Quantum Genomics, Bayer, Bristol‐Myers Squibb, Cardior, Cytokinetics, Sarepta Therapeutics, Action Medical Research, Tremeau, Theracos, Moderna, Akros, Amgen, Boehringer Ingelheim, Alnylam Pharmaceuticals, Roche Diagnostics Corporation, American Regent, AstraZeneca, Cardurion, Merck, Daiichi Sankyo, Myokardia, Sanofi Pasteur Inc, Abbott Vascular, Eli Lilly and Company, Johnson and Johnson, CellProThera, Tenaya, Cardiac Dimensions; grants from Theracos, Celladon Corporation, Bristol‐Myers Squibb, GlaxoSmithKline, Amgen, Respicardia, Inc, Novo Nordisk, Bayer, AstraZeneca, Mesoblast, Myokardia, Actelion Pharmaceuticals, Alnylam Pharmaceuticals, Bellepheron, Ionis, Sanofi Pasteur Inc, Neurotronik, Cytokinetics, Eli Lilly and Company, Novartis, Eidos; stock options in Dinaqor; travel support from Corvia. M.S.S. reports research grant support through Brigham and Women's Hospital from: Abbott, Amgen, Anthos Therapeutics, AstraZeneca, Bayer, Daiichi‐Sankyo, Eisai, Intarcia, IONIS, Medicines Company, MedImmune, Merck, Novartis, Pfizer, Quark Pharmaceuticals; and consulting for Althera, Amgen, Anthos Therapeutics, AstraZeneca, Bristol‐Myers Squibb, CVS Caremark, DalCor, Dr. Reddy's Laboratories, Fibrogen, IFM Therapeutics, Intarcia, MedImmune, Merck, Moderna, Novo Nordisk. J.J.V.McM. reports grants from AstraZeneca. L.K. reports compensation for other services from Novartis, Novo Nordisk, AstraZeneca.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ejhf2381-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S1.</bold> Baseline characteristics of the study population: no AF (history or baseline ECG) vs. AF on ECG (irrespective of history).</p><p>
+<bold>Table S2.</bold> Baseline characteristics of the study population according to type of AF.</p><p>
+<bold>Table S3.</bold> Time to first event: no AF (history or baseline ECG) vs. AF on ECG (irrespective of history).</p><p>
+<bold>Table S4.</bold> Time to first event according to type of AF.</p><p>
+<bold>Table S5.</bold> Effects of dapagliflozin compared with placebo on clinical events: no AF (history or baseline ECG) vs. AF on ECG (irrespective of history).</p><p>
+<bold>Table S6.</bold> Adverse events of dapagliflozin compared with placebo: no AF (history or baseline ECG) versus AF on ECG (irrespective of history)</p><p>
+<bold>Table S7.</bold> Effects of dapagliflozin compared with placebo on clinical events according to type of AF.</p><p>
+<bold>Table S8.</bold> Adverse events of dapagliflozin compared with placebo according to type of AF.</p><p>
+<bold>Table S9.</bold> Characteristics of new‐onset AF status in patients without AF (history or baseline ECG).</p><p>
+<bold>Table S10.</bold> Baseline characteristics by new‐onset AF status in patients without AF (history or baseline ECG).</p></caption><media ns1:href="EJHF-24-513-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list id="ejhf2381-bibl-0001" content-type="cited-references"><title>References</title><ref id="ejhf2381-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0001">
+<string-name name-style="western">
+<surname>Santhanakrishnan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larson</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Magnani</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McManus</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lubitz</surname>
+<given-names>SA</given-names>
+</string-name>, et al. <article-title>Atrial fibrillation begets heart failure and vice versa: temporal associations and differences in preserved versus reduced ejection fraction</article-title>. <source>Circulation</source>. <year>2016</year>;<volume>133</volume>(<issue>5</issue>):<fpage>484</fpage>–<lpage>92</lpage>.<pub-id pub-id-type="pmid">26746177</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.115.018614</pub-id><pub-id pub-id-type="pmcid">PMC4738087</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0002">
+<string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piccini</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Atrial fibrillation in heart failure: what should we do?</article-title>
+<source>Eur Heart J</source>. <year>2015</year>;<volume>36</volume>(<issue>46</issue>):<fpage>3250</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">26419625</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehv513</pub-id><pub-id pub-id-type="pmcid">PMC4670966</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0003">
+<string-name name-style="western">
+<surname>Mogensen</surname>
+<given-names>UM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abraham</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desai</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickstein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Type of atrial fibrillation and outcomes in patients with heart failure and reduced ejection fraction</article-title>. <source>J Am Coll Cardiol</source>. <year>2017</year>;<volume>70</volume>(<issue>20</issue>):<fpage>2490</fpage>–<lpage>500</lpage>.<pub-id pub-id-type="pmid">29145948</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2017.09.027</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0004">
+<string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alemayehu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bahit</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noori</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>MJ</given-names>
+</string-name>, et al.; VICTORIA Study Group. <article-title>Vericiguat in patients with atrial fibrillation and heart failure with reduced ejection fraction: insights from the VICTORIA trial</article-title>. <source>Eur J Heart Fail</source>. <year>2021</year>;<volume>23</volume>(<issue>8</issue>):<fpage>1300</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="pmid">34191395</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.2285</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0005">
+<string-name name-style="western">
+<surname>Olsson</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ducharme</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michelson</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, et al.; CHARM Investigators. <article-title>Atrial fibrillation and risk of clinical events in chronic heart failure with and without left ventricular systolic dysfunction. Results from the Candesartan in Heart failure‐Assessment of Reduction in Mortality and morbidity (CHARM) program</article-title>. <source>J Am Coll Cardiol</source>. <year>2006</year>;<volume>47</volume>(<issue>10</issue>):<fpage>1997</fpage>–<lpage>2004</lpage>.<pub-id pub-id-type="pmid">16697316</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2006.01.060</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0006">
+<string-name name-style="western">
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krum</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Veldhuisen</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>H</given-names>
+</string-name>, et al.; EMPHASIS‐HF Study Investigators. <article-title>Eplerenone and atrial fibrillation in mild systolic heart failure: results from the EMPHASIS‐HF (Eplerenone in Mild Patients Hospitalization and SurvIval Study in Heart Failure) study</article-title>. <source>J Am Coll Cardiol</source>. <year>2012</year>;<volume>59</volume>(<issue>18</issue>):<fpage>1598</fpage>–<lpage>603</lpage>.<pub-id pub-id-type="pmid">22538330</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2011.11.063</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0007">
+<string-name name-style="western">
+<surname>Mamas</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caldwell</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chacko</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garratt</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fath‐Ordoubadi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neyses</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>A meta‐analysis of the prognostic significance of atrial fibrillation in chronic heart failure</article-title>. <source>Eur J Heart Fail</source>. <year>2009</year>;<volume>11</volume>(<issue>7</issue>):<fpage>676</fpage>–<lpage>83</lpage>.<pub-id pub-id-type="pmid">19553398</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurjhf/hfp085</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0008">
+<string-name name-style="western">
+<surname>Ahmed</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ekundayo</surname>
+<given-names>OJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Love</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aban</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>A history of atrial fibrillation and outcomes in chronic advanced systolic heart failure: a propensity‐matched study</article-title>. <source>Eur Heart J</source>. <year>2009</year>;<volume>30</volume>(<issue>16</issue>):<fpage>2029</fpage>–<lpage>37</lpage>.<pub-id pub-id-type="pmid">19531579</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehp222</pub-id><pub-id pub-id-type="pmcid">PMC2726959</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0009">
+<string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gu</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>The prognostic significance of atrial fibrillation in heart failure with a preserved and reduced left ventricular function: insights from a meta‐analysis</article-title>. <source>Eur J Heart Fail</source>. <year>2014</year>;<volume>16</volume>(<issue>12</issue>):<fpage>1317</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="pmid">25371247</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.187</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0010">
+<string-name name-style="western">
+<surname>Sartipy</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahlström</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lund</surname>
+<given-names>LH</given-names>
+</string-name>. <article-title>Atrial fibrillation in heart failure with preserved, mid‐range, and reduced ejection fraction</article-title>. <source>JACC Heart Fail</source>. <year>2017</year>;<volume>5</volume>(<issue>8</issue>):<fpage>565</fpage>–<lpage>74</lpage>.<pub-id pub-id-type="pmid">28711451</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jchf.2017.05.001</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0011">
+<string-name name-style="western">
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olsson</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charlesworth</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanrath</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Komajda</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Prognostic relevance of atrial fibrillation in patients with chronic heart failure on long‐term treatment with beta‐blockers: results from COMET</article-title>. <source>Eur Heart J</source>. <year>2005</year>;<volume>26</volume>(<issue>13</issue>):<fpage>1303</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="pmid">15767288</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehi166</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0012">
+<string-name name-style="western">
+<surname>Crijns</surname>
+<given-names>HJGM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tjeerdsma</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Kam</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boomsma</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Gelder</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van den Berg</surname>
+<given-names>MP</given-names>
+</string-name>, et al. <article-title>Prognostic value of the presence and development of atrial fibrillation in patients with advanced chronic heart failure</article-title>. <source>Eur Heart J</source>. <year>2000</year>;<volume>21</volume>(<issue>15</issue>):<fpage>1238</fpage>–<lpage>45</lpage>.<pub-id pub-id-type="pmid">10924313</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/euhj.1999.2107</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0013">
+<string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inzucchi</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Køber</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosiborod</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez</surname>
+<given-names>FA</given-names>
+</string-name>, et al.; DAPA‐HF Trial Committees and Investigators. <article-title>Dapagliflozin in patients with heart failure and reduced ejection fraction</article-title>. <source>N Engl J Med</source>. <year>2019</year>;<volume>381</volume>(<issue>21</issue>):<fpage>1995</fpage>–<lpage>2008</lpage>.<pub-id pub-id-type="pmid">31535829</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1911303</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0014">
+<string-name name-style="western">
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filippatos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pocock</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carson</surname>
+<given-names>P</given-names>
+</string-name>, et al.; EMPEROR‐Reduced Trial Investigators. <article-title>Cardiovascular and renal outcomes with empagliflozin in heart failure</article-title>. <source>N Engl J Med</source>. <year>2020</year>;<volume>383</volume>(<issue>15</issue>):<fpage>1413</fpage>–<lpage>24</lpage>.<pub-id pub-id-type="pmid">32865377</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2022190</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0015">
+<string-name name-style="western">
+<surname>Kotecha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holmes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krum</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manzano</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JGF</given-names>
+</string-name>, et al.; Beta‐Blockers in Heart Failure Collaborative Group. <article-title>Efficacy of β blockers in patients with heart failure plus atrial fibrillation: an individual‐patient data meta‐analysis</article-title>. <source>Lancet</source>. <year>2014</year>;<volume>384</volume>(<issue>9961</issue>):<fpage>2235</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="pmid">25193873</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(14)61373-8</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0016">
+<string-name name-style="western">
+<surname>Teerlink</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diaz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Felker</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Metra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>SD</given-names>
+</string-name>, et al.; GALACTIC‐HF Investigators. <article-title>Cardiac myosin activation with omecamtiv mecarbil in systolic heart failure</article-title>. <source>N Engl J Med</source>. <year>2021</year>;<volume>384</volume>(<issue>2</issue>):<fpage>105</fpage>–<lpage>16</lpage>.<pub-id pub-id-type="pmid">33185990</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2025797</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0017">
+<string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Voors</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bueno</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cleland</surname>
+<given-names>JGF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coats</surname>
+<given-names>AJS</given-names>
+</string-name>, et al. <article-title>2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the Heart Failure Association (HFA) of the ESC</article-title>. <source>Eur J Heart Fail</source>. <year>2016</year>;<volume>18</volume>(<issue>8</issue>):<fpage>891</fpage>–<lpage>975</lpage>.<pub-id pub-id-type="pmid">27207191</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.592</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0018">
+<string-name name-style="western">
+<surname>Healey</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hohnloser</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Exner</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Birnie</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parkash</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Connolly</surname>
+<given-names>SJ</given-names>
+</string-name>, et al. <article-title>Cardiac resynchronization therapy in patients with permanent atrial fibrillation: results from the Resynchronization for Ambulatory Heart Failure Trial (RAFT)</article-title>. <source>Circ Heart Fail</source>. <year>2012</year>;<volume>5</volume>(<issue>5</issue>):<fpage>566</fpage>–<lpage>70</lpage>.<pub-id pub-id-type="pmid">22896584</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCHEARTFAILURE.112.968867</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0019">
+<string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Latini</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carson</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barlera</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glazer</surname>
+<given-names>R</given-names>
+</string-name>, et al.; Val‐HeFT Investigators. <article-title>Valsartan reduces the incidence of atrial fibrillation in patients with heart failure: results from the Valsartan Heart Failure Trial (Val‐HeFT)</article-title>. <source>Am Heart J</source>. <year>2005</year>;<volume>149</volume>(<issue>3</issue>):<fpage>548</fpage>–<lpage>57</lpage>.<pub-id pub-id-type="pmid">15864246</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ahj.2004.09.033</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0020">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larson</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vasan</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leip</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolf</surname>
+<given-names>PA</given-names>
+</string-name>, et al. <article-title>Temporal relations of atrial fibrillation and congestive heart failure and their joint influence on mortality: the Framingham Heart Study</article-title>. <source>Circulation</source>. <year>2003</year>;<volume>107</volume>(<issue>23</issue>):<fpage>2920</fpage>–<lpage>5</lpage>.<pub-id pub-id-type="pmid">12771006</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/01.CIR.0000072767.89944.6E</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0021">
+<string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hua</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wachtell</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kjeldsen</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmieder</surname>
+<given-names>RE</given-names>
+</string-name>. <article-title>Prevention of atrial fibrillation by renin‐angiotensin system inhibition. A meta‐analysis</article-title>. <source>J Am Coll Cardiol</source>. <year>2010</year>;<volume>55</volume>(<issue>21</issue>):<fpage>2299</fpage>–<lpage>307</lpage>.<pub-id pub-id-type="pmid">20488299</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2010.01.043</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0022">
+<string-name name-style="western">
+<surname>Ducharme</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swedberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pfeffer</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen‐Solal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, et al.; CHARM Investigators. <article-title>Prevention of atrial fibrillation in patients with symptomatic chronic heart failure by candesartan in the Candesartan in Heart Failure: Assessment of Reduction in Mortality and morbidity (CHARM) program</article-title>. <source>Am Heart J</source>. <year>2006</year>;<volume>152</volume>(<issue>1</issue>):<fpage>86</fpage>–<lpage>92</lpage>.<pub-id pub-id-type="pmid">16838426</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0023">
+<string-name name-style="western">
+<surname>Alexandre</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dolladille</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Douesnel</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Font</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dabrowski</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shavit</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Effects of mineralocorticoid receptor antagonists on atrial fibrillation occurrence: a systematic review, meta‐analysis, and meta‐regression to identify modifying factors</article-title>. <source>J Am Heart Assoc</source>. <year>2019</year>;<volume>8</volume>(<issue>22</issue>):<elocation-id>e013267</elocation-id>.<pub-id pub-id-type="pmid">31711383</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/JAHA.119.013267</pub-id><pub-id pub-id-type="pmcid">PMC6915291</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0024">
+<string-name name-style="western">
+<surname>Zelniker</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonaca</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Furtado</surname>
+<given-names>RHM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mosenzon</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuder</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murphy</surname>
+<given-names>SA</given-names>
+</string-name>, et al. <article-title>Effect of dapagliflozin on atrial fibrillation in patients with type 2 diabetes mellitus: insights from the DECLARE‐TIMI 58 trial</article-title>. <source>Circulation</source>. <year>2020</year>;<volume>141</volume>(<issue>15</issue>):<fpage>1227</fpage>–<lpage>34</lpage>.<pub-id pub-id-type="pmid">31983236</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.119.044183</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0025">
+<string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeMets</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inzucchi</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Køber</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosiborod</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langkilde</surname>
+<given-names>AM</given-names>
+</string-name>, et al.; DAPA‐HF Committees and Investigators. <article-title>A trial to evaluate the effect of the sodium–glucose co‐transporter 2 inhibitor dapagliflozin on morbidity and mortality in patients with heart failure and reduced left ventricular ejection fraction (DAPA‐HF)</article-title>. <source>Eur J Heart Fail</source>. <year>2019</year>;<volume>21</volume>(<issue>5</issue>):<fpage>665</fpage>–<lpage>75</lpage>.<pub-id pub-id-type="pmid">30895697</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.1432</pub-id><pub-id pub-id-type="pmcid">PMC6607736</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0026">
+<string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeMets</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inzucchi</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Køber</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosiborod</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langkilde</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>The Dapagliflozin And Prevention of Adverse‐outcomes in Heart Failure (DAPA‐HF) trial: baseline characteristics</article-title>. <source>Eur J Heart Fail</source>. <year>2019</year>;<volume>21</volume>(<issue>11</issue>):<fpage>1402</fpage>–<lpage>11</lpage>.<pub-id pub-id-type="pmid">31309699</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.1548</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0027">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ying</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Semiparametric regression for the mean and rate functions of recurrent events</article-title>. <source>J R Stat Soc Ser B Stat Methodol</source>. <year>2000</year>;<volume>62</volume>(<issue>4</issue>):<fpage>711</fpage>–<lpage>30</lpage>.</mixed-citation></ref><ref id="ejhf2381-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0028">
+<string-name name-style="western">
+<surname>Kosiborod</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Docherty</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verma</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Effects of dapagliflozin on symptoms, function, and quality of life in patients with heart failure and reduced ejection fraction: results from the DAPA‐HF trial</article-title>. <source>Circulation</source>. <year>2020</year>;<volume>141</volume>(<issue>2</issue>):<fpage>90</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">31736335</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.119.044138</pub-id><pub-id pub-id-type="pmcid">PMC6964869</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0029">
+<string-name name-style="western">
+<surname>Hindricks</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Potpara</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dagres</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bax</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boriani</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dan</surname>
+<given-names>GA</given-names>
+</string-name>, et al. <article-title>2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio‐Thoracic Surgery (EACTS)</article-title>. <source>Eur Heart J</source>. <year>2021</year>;<volume>42</volume>(<issue>5</issue>):<fpage>373</fpage>–<lpage>498</lpage>.<pub-id pub-id-type="pmid">32860505</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehaa612</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0030">
+<string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krum</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abraham</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickstein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Køber</surname>
+<given-names>LV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desai</surname>
+<given-names>AS</given-names>
+</string-name>, et al.; ATMOSPHERE Committees Investigators. <article-title>Aliskiren, enalapril, or aliskiren and enalapril in heart failure</article-title>. <source>N Engl J Med</source>. <year>2016</year>;<volume>374</volume>(<issue>16</issue>):<fpage>1521</fpage>–<lpage>32</lpage>.<pub-id pub-id-type="pmid">27043774</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1514859</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0031">
+<string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Packer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Desai</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gong</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lefkowitz</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rizkala</surname>
+<given-names>AR</given-names>
+</string-name>, et al.; PARADIGM‐HF Investigators and Committees. <article-title>Angiotensin‐neprilysin inhibition versus enalapril in heart failure</article-title>. <source>N Engl J Med</source>. <year>2014</year>;<volume>371</volume>(<issue>11</issue>):<fpage>993</fpage>–<lpage>1004</lpage>.<pub-id pub-id-type="pmid">25176015</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1409077</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0032">
+<string-name name-style="western">
+<surname>Omar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jensen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ali</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frederiksen</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kistorp</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Videbæk</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Associations of empagliflozin with left ventricular volumes, mass, and function in patients with heart failure and reduced ejection fraction: a substudy of the Empire HF randomized clinical trial</article-title>. <source>JAMA Cardiol</source>. <year>2021</year>;<volume>6</volume>(<issue>7</issue>):<fpage>836</fpage>–<lpage>40</lpage>.<pub-id pub-id-type="pmid">33404637</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamacardio.2020.6827</pub-id><pub-id pub-id-type="pmcid">PMC7788505</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0033">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>MMY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brooksbank</surname>
+<given-names>KJM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wetherall</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mangion</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roditi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campbell</surname>
+<given-names>RT</given-names>
+</string-name>, et al. <article-title>Effect of empagliflozin on left ventricular volumes in patients with type 2 diabetes, or prediabetes, and heart failure with reduced ejection fraction (SUGAR‐DM‐HF)</article-title>. <source>Circulation</source>. <year>2021</year>;<volume>143</volume>(<issue>6</issue>):<fpage>516</fpage>–<lpage>25</lpage>.<pub-id pub-id-type="pmid">33186500</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.120.052186</pub-id><pub-id pub-id-type="pmcid">PMC7864599</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0034">
+<string-name name-style="western">
+<surname>Santos‐Gallego</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vargas‐Delgado</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Requena‐Ibanez</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia‐Ropero</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mancini</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pinney</surname>
+<given-names>S</given-names>
+</string-name>, et al.; EMPA‐TROPISM (ATRU‐4) Investigators. <article-title>Randomized trial of empagliflozin in nondiabetic patients with heart failure and reduced ejection fraction</article-title>. <source>J Am Coll Cardiol</source>. <year>2021</year>;<volume>77</volume>(<issue>3</issue>):<fpage>243</fpage>–<lpage>55</lpage>.<pub-id pub-id-type="pmid">33197559</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2020.11.008</pub-id></mixed-citation></ref><ref id="ejhf2381-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="ejhf2381-cit-0035">
+<string-name name-style="western">
+<surname>Kirchhof</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Camm</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goette</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brandes</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eckardt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elvan</surname>
+<given-names>A</given-names>
+</string-name>, et al.; EAST‐AFNET 4 Trial Investigators. <article-title>Early rhythm‐control therapy in patients with atrial fibrillation</article-title>. <source>N Engl J Med</source>. <year>2020</year>;<volume>383</volume>(<issue>14</issue>):<fpage>1305</fpage>–<lpage>16</lpage>.<pub-id pub-id-type="pmid">32865375</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2019422</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -21,19 +21,25 @@ bytes first pinned.
 
 ## PubMed design lookup
 
-`make design` asks PubMed for every paper's publication types again and compares the result with the committed
-`design.jsonl` (`scripts/check_design.py`). The results read only the committed classification (design, basis, disagree), and
-PubMed keeps indexing records after publication, so the same two kinds of change are distinguished:
+PubMed keeps indexing records after publication (it adds and revises publication types), so what it says today is not what it said when
+`design.jsonl` was committed. The reproduction therefore does not depend on it:
 
-- **indexing** (accepted): publication types were added or removed, and every paper's classification is unchanged. Printed by the check.
-- **classification** (drift): a paper's design, basis or disagreement flag changed, or a paper appeared or disappeared. The reproduction stops.
+- **`make design`** (part of `make reproduce`) recomputes every classification from the committed record's own publication types and the
+  manifests' titles, and checks each PMID against the paper's own metadata. No network; the same answer every week. If it fails, the
+  committed record was edited inconsistently.
+- **`make design-live`** (the weekly `drift-watch` workflow, Tuesdays) asks PubMed again and compares. It is a signal for a person, not a
+  reproducibility test:
+  - *indexing* (accepted, printed): publication types changed and every paper's classification is unchanged.
+  - *classification* (the workflow turns red): a paper's design, basis or disagreement flag changed, or a paper appeared or disappeared.
+    The committed results are unchanged. Decide, then record the decision here: either keep `design.jsonl` as the record of the lookup the
+    results were computed from (log it and move on), or re-run `scripts/fetch_design.py`, `make by-design` and `make hardneg`, update the
+    affected figures in the report, and commit the new record as a deliberate change.
 
 | date (UTC) | PMCID | kind | what changed | classification | effect on results |
 |---|---|---|---|---|---|
 | 2026-10-26 | PMC11593758 (PMID 39591427, dev split) | indexing | PubMed added the type "Research Support, Non-U.S. Gov't" | unchanged: trial, from PubMed, no disagreement | none: the committed `design.jsonl` is what the results read |
 
-Found by the scheduled reproduction run of 2026-10-26, which failed at `design` (the check then compared the files byte for byte). Every
-earlier step of that run was identical. The check was changed on 2026-10-27, applying the owner's rule of 2026-10-19 (above) to the
-PubMed lookup: indexing changes are accepted and printed, classification changes stop the reproduction. The committed `design.jsonl` was
-not edited; it remains the record of the lookup the results were computed from.
-
+Found by the scheduled reproduction run of 2026-10-26, which failed at `design` (it then compared the live lookup with the committed file
+byte for byte, inside the reproduction). On 2026-10-27 the check was first made tolerant of indexing changes, and then the live lookup was
+moved out of the reproduction into `drift-watch`, so that PubMed re-indexing cannot turn the reproduction red. The committed
+`design.jsonl` was not edited.

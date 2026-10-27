@@ -96,3 +96,26 @@ def compare_design(current: list[dict], committed: list[dict]) -> dict[str, list
             old, new = set(a.get("pubmed_types", [])), set(b.get("pubmed_types", []))
             out["types_only"].append({"pmcid": pmcid, "added": sorted(new - old), "removed": sorted(old - new)})
     return out
+
+
+def verify_design_record(committed: list[dict], manifests: list[dict], jats_pmids: dict[str, str | None] | None = None) -> list[str]:
+    """Problems found in the committed design record, with no network access.
+
+    Every classification is recomputed from the record's own PubMed publication types and the paper's title (``classify_design`` is
+    deterministic), and each paper's split and PMID are checked against the manifests and, where given, the paper's own JATS.
+    Returns a list of problems; empty means the record is internally consistent and complete.
+    """
+    man = {m["pmcid"]: m for m in manifests}
+    rows = {r["pmcid"]: r for r in committed}
+    problems = [f"{p}: in a manifest but not in design.jsonl" for p in sorted(set(man) - set(rows))]
+    problems += [f"{p}: in design.jsonl but in no manifest" for p in sorted(set(rows) - set(man))]
+    for pmcid in sorted(set(rows) & set(man)):
+        r, m = rows[pmcid], man[pmcid]
+        if r["split"] != m["split"]:
+            problems.append(f"{pmcid}: split {r['split']!r} in design.jsonl, {m['split']!r} in the manifest")
+        got = classify_design(r["pubmed_types"], m["title"])
+        if got != (r["design"], r["basis"], r["disagree"]):
+            problems.append(f"{pmcid}: committed {(r['design'], r['basis'], r['disagree'])}, recomputed {got}")
+        if jats_pmids and pmcid in jats_pmids and jats_pmids[pmcid] != r["pmid"]:
+            problems.append(f"{pmcid}: PMID {r['pmid']} in design.jsonl, {jats_pmids[pmcid]} in the paper's own metadata")
+    return problems

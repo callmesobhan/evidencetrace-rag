@@ -1,5 +1,5 @@
 PYTHON ?= python
-.PHONY: rules-round adjudication holdout2 install install-all test lint eval demo clean fetch-pinned fetch-new verify-freeze m1-frozen m1 independent design by-design hardneg eval-hardneg reproduce
+.PHONY: rules-round adjudication holdout2 install install-all test lint eval demo clean fetch-pinned fetch-new verify-freeze m1-frozen m1 independent design design-live by-design hardneg eval-hardneg reproduce
 
 install:
 	pip install -e ".[dev]"
@@ -99,9 +99,14 @@ holdout2:
 	else echo "holdout-2: not annotated yet"; fi
 
 # study design of every paper (PubMed publication types + title phrases); one request to NCBI
+# study design: recompute every classification from the committed PubMed publication types (no network, same answer every week) and check
+# each PMID against the paper's own metadata. `make design-live` asks PubMed again and reports drift; a separate weekly workflow runs it.
 design:
-	$(PYTHON) scripts/fetch_design.py --out reports/design.jsonl
-	$(PYTHON) -I scripts/check_design.py reports/design.jsonl data/m1/design.jsonl
+	$(PYTHON) -I scripts/check_design.py offline
+
+design-live:
+	$(PYTHON) scripts/fetch_design.py --pmids-from data/m1/design.jsonl --out reports/design.jsonl
+	$(PYTHON) -I scripts/check_design.py live reports/design.jsonl data/m1/design.jsonl
 
 # extraction metrics for confirmed trials vs everything else
 by-design:

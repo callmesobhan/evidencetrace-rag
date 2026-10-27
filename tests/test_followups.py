@@ -258,3 +258,25 @@ def test_design_compare_reports_a_changed_classification_and_missing_or_added_pa
     assert d["missing"] == ["PMC1"] and d["added"] == ["PMC2"]
     assert compare_design([_design_row()], [_design_row()]) == {"missing": [], "added": [], "classification": [], "types_only": []}
 
+
+def test_offline_design_record_is_consistent_and_catches_tampering():
+    import json
+
+    from evidencetrace.ingest.design import verify_design_record
+
+    root = Path(__file__).resolve().parent.parent / "data" / "m1"
+    rows = lambda f: [json.loads(ln) for ln in (root / f).read_text(encoding="utf-8").splitlines() if ln.strip()]  # noqa: E731
+    committed, manifests = rows("design.jsonl"), rows("corpus_manifest.jsonl") + rows("fresh_manifest.jsonl")
+    assert verify_design_record(committed, manifests) == []  # the shipped record recomputes from its own publication types
+
+    edited = [dict(r) for r in committed]
+    edited[0]["design"] = "protocol" if edited[0]["design"] != "protocol" else "trial"
+    assert any("recomputed" in p for p in verify_design_record(edited, manifests))
+    edited = [dict(r) for r in committed]
+    edited[1]["pubmed_types"] = edited[1]["pubmed_types"] + ["Meta-Analysis"]  # types edited without re-deriving the classification
+    assert any("recomputed" in p for p in verify_design_record(edited, manifests))
+    assert any("not in design.jsonl" in p for p in verify_design_record(committed[1:], manifests))
+    assert any("no manifest" in p for p in verify_design_record(committed, manifests[1:]))
+    assert any("own metadata" in p for p in verify_design_record(committed, manifests, {committed[2]["pmcid"]: "0"}))
+    assert verify_design_record(committed, manifests, {committed[2]["pmcid"]: committed[2]["pmid"]}) == []
+

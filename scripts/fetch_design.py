@@ -24,9 +24,17 @@ M1 = ROOT / "data" / "m1"
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", type=Path, default=M1 / "design.jsonl")
+    ap.add_argument("--pmids-from", type=Path, help="take PMIDs from this committed design.jsonl instead of the downloaded papers (the drift watch)")
     args = ap.parse_args()
     rows = []
-    for manifest, raw in ((M1 / "corpus_manifest.jsonl", ROOT / "data/raw/pmc"), (M1 / "fresh_manifest.jsonl", ROOT / "data/raw/fresh")):
+    if args.pmids_from:
+        titles = {json.loads(ln)["pmcid"]: json.loads(ln) for f in ("corpus_manifest.jsonl", "fresh_manifest.jsonl")
+                  for ln in (M1 / f).read_text(encoding="utf-8").splitlines() if ln.strip()}
+        for ln in args.pmids_from.read_text(encoding="utf-8").splitlines():
+            if ln.strip():
+                c = json.loads(ln)
+                rows.append({"pmcid": c["pmcid"], "split": titles[c["pmcid"]]["split"], "title": titles[c["pmcid"]]["title"], "pmid": c["pmid"]})
+    for manifest, raw in (() if args.pmids_from else ((M1 / "corpus_manifest.jsonl", ROOT / "data/raw/pmc"), (M1 / "fresh_manifest.jsonl", ROOT / "data/raw/fresh"))):
         for ln in manifest.read_text(encoding="utf-8").splitlines():
             if ln.strip():
                 r = json.loads(ln)

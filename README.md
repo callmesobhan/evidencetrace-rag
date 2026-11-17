@@ -1,10 +1,17 @@
-# EvidenceTrace-RAG
+<div align="center">
 
-**Verifiable scientific evidence extraction.** A research assistant that pulls quantitative findings out of
-papers, traces every number back to the exact characters it came from, flags findings that disagree, and
-says "I can't answer that from this corpus" when the evidence isn't there.
+# EvidenceTrace-RAG 🔬📑
 
-`Python · LlamaIndex · BERT · RAG · NLP · Evaluation`
+**Verifiable Scientific Evidence Extraction, Provenance Verification & Conflict Detection**  
+*Extracts quantitative clinical findings, traces every number back to exact character spans, detects cross-study conflicts, and abstains when evidence is absent*
+
+[![CI](https://github.com/callmesobhan/evidencetrace-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/callmesobhan/evidencetrace-rag/actions/workflows/ci.yml)
+[![Reproduce](https://github.com/callmesobhan/evidencetrace-rag/actions/workflows/reproduce.yml/badge.svg)](https://github.com/callmesobhan/evidencetrace-rag/actions/workflows/reproduce.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-indigo.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](pyproject.toml)
+[![NLP](https://img.shields.io/badge/Stack-LlamaIndex%20%7C%20BERT%20%7C%20Provenance-10b981)](#four-guarantees-and-what-each-one-does-not-promise)
+
+</div>
 
 ```
 Q: What is the effect of Drug Zeta on systolic blood pressure compared with placebo?
